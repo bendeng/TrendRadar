@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T20:54:45.667878+08:00",
-  "total_titles_processed": 1695,
+  "generated_at": "2025-10-13T21:35:26.282784+08:00",
+  "total_titles_processed": 1756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 84,
       "titles": [
         {
           "title": "关于中国，特朗普和万斯嘴软了",
@@ -32,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时30分 ~ 20时54分]"
+          "appearance_count": 11,
+          "time_info": "[12时30分 ~ 21时35分]"
         },
         {
           "title": "特朗普一条帖子引发币圈史最大惨案",
@@ -86,6 +86,18 @@
           "time_info": "[00时28分 ~ 13时26分]"
         },
         {
+          "title": "被媒体问及是否会收回关于中国的话，特朗普急了：你们都是假新闻",
+          "url": "https://v.ifeng.com/c/8nPy3kqkstT",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 21时35分]"
+        },
+        {
           "title": "伦敦白银市场出现流动性危机 交易员担忧特朗普政府酝酿另一个大招",
           "url": "https://www.cls.cn/detail/2166669",
           "source": "财联社热门",
@@ -134,18 +146,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "被媒体问及是否会收回关于中国的话，特朗普急了：你们都是假新闻",
-          "url": "https://v.ifeng.com/c/8nPy3kqkstT",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 20时54分]"
         },
         {
           "title": "中东股市收盘播报｜中东股市周末归来补跌，半导体公司领跌以色列个股，没能逃过全球金融市场周五被特朗普血洗的行情",
@@ -221,6 +221,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 16时35分]"
+        },
+        {
+          "title": "特朗普称“加沙战争已结束”",
+          "url": "https://www.cls.cn/detail/2167646",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时30分 ~ 21时35分]"
         },
         {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
@@ -304,6 +318,19 @@
           "time_info": "19时20分"
         },
         {
+          "title": "内塔尼亚胡和特朗普均表示，“加沙战争已结束”",
+          "url": "https://news.ifeng.com/c/8nQ9kp93yNC",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 21时35分]"
+        },
+        {
           "title": "130万美军欠薪特朗普阅兵狂欢",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23130%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AC%A0%E8%96%AA%E7%89%B9%E6%9C%97%E6%99%AE%E9%98%85%E5%85%B5%E7%8B%82%E6%AC%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26realpos%3D15%26stream_entry_id%3D31%26pos%3D15%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D15%26q%3D%2523130%25E4%25B8%2587%25E7%25BE%258E%25E5%2586%259B%25E6%25AC%25A0%25E8%2596%25AA%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%2598%2585%25E5%2585%25B5%25E7%258B%2582%25E6%25AC%25A2%2523%26cate%3D5001%26display_time%3D1760320414%26pre_seqid%3D176032041463003776030157",
           "source": "微博",
@@ -354,19 +381,6 @@
           "time_info": "[00时28分 ~ 04时25分]"
         },
         {
-          "title": "特朗普称“加沙战争已结束”",
-          "url": "https://www.cls.cn/detail/2167646",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时30分 ~ 20时54分]"
-        },
-        {
           "title": "美国总统特朗普：对于那些希望迅速回归追求真理与成就的院校，我们邀请它们与联邦政府达成一项前瞻性协议，以帮助实现高等教育学术卓越的黄金时代。",
           "url": "https://flash.jin10.com/detail/20251013040501467800",
           "source": "金十数据",
@@ -377,19 +391,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时20分]"
-        },
-        {
-          "title": "内塔尼亚胡和特朗普均表示，“加沙战争已结束”",
-          "url": "https://news.ifeng.com/c/8nQ9kp93yNC",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 20时54分]"
         },
         {
           "title": "特朗普连说三遍战争结束了",
@@ -422,11 +423,23 @@
           "ranks": [
             8,
             24,
-            22
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 21时35分]"
+        },
+        {
+          "title": "梅德韦杰夫：向乌供应“战斧”将让所有人遭殃 ，尤其是特朗普",
+          "url": "https://news.ifeng.com/c/8nQEVWLCTq0",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时20分]"
+          "time_info": "[19时20分 ~ 21时35分]"
         },
         {
           "title": "特朗普犹太裔女婿现身加沙",
@@ -490,15 +503,28 @@
           "time_info": "[09时54分 ~ 11时16分]"
         },
         {
-          "title": "梅德韦杰夫：向乌供应“战斧”将让所有人遭殃 ，尤其是特朗普",
-          "url": "https://news.ifeng.com/c/8nQEVWLCTq0",
-          "source": "凤凰网",
+          "title": "美国总统特朗普结束在以色列议会的讲话。",
+          "url": "https://flash.jin10.com/detail/20251013201514881800",
+          "source": "金十数据",
           "ranks": [
-            7
+            9,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时54分]"
+          "time_info": "[20时54分 ~ 21时35分]"
+        },
+        {
+          "title": "美国总统特朗普：我们将建立新的友谊纽带，以色列、美国和中东各国将很快更加安全。",
+          "url": "https://flash.jin10.com/detail/20251013201402312800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时35分]"
         },
         {
           "title": "泽连斯基与特朗普两天内二度通话",
@@ -522,6 +548,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时29分 ~ 18时30分]"
+        },
+        {
+          "title": "美国总统特朗普：以色列永远是美国的重要盟友。",
+          "url": "https://flash.jin10.com/detail/20251013200435547800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时35分]"
         },
         {
           "title": "特朗普笑称自己没法上天堂：坐在空军一号，就是“在天堂了吧”",
@@ -579,15 +617,26 @@
           "time_info": "05时20分"
         },
         {
-          "title": "美国总统特朗普结束在以色列议会的讲话。",
-          "url": "https://flash.jin10.com/detail/20251013201514881800",
+          "title": "特朗普在以色列议会呼吁赦免内塔尼亚胡 引发司法干预争议",
+          "url": "https://flash.jin10.com/detail/20251013205841890800",
           "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "21时35分"
+        },
+        {
+          "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31770585",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "特朗普两次强调加沙战争已经结束，疑似反驳以色列总理",
@@ -632,17 +681,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
-        },
-        {
-          "title": "美国总统特朗普：我们将建立新的友谊纽带，以色列、美国和中东各国将很快更加安全。",
-          "url": "https://flash.jin10.com/detail/20251013201402312800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         },
         {
           "title": "特朗普：若俄乌冲突无法解决 可能会供乌“战斧”",
@@ -744,17 +782,6 @@
           "time_info": "18时30分"
         },
         {
-          "title": "美国总统特朗普：以色列永远是美国的重要盟友。",
-          "url": "https://flash.jin10.com/detail/20251013200435547800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "特朗普：当我们意见不一致时，我和内塔尼亚胡有过一些争论，但他是在正确时间出现的正确人物。",
           "url": "https://flash.jin10.com/detail/20251013052511393800",
           "source": "金十数据",
@@ -849,7 +876,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -978,7 +1005,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "A股",
@@ -1023,6 +1050,19 @@
           "time_info": "[09时54分 ~ 13时26分]"
         },
         {
+          "title": "A股低开高走，沪指较日低回升近100点，稀土爆发，恒指跌1.5%，金山软件大涨超13%，国债涨，商品跌",
+          "url": "https://wallstreetcn.com/articles/3757054",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时29分 ~ 21时35分]"
+        },
+        {
           "title": "A股太强了",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23A%E8%82%A1%E5%A4%AA%E5%BC%BA%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26realpos%3D7%26band_rank%3D7%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26pos%3D8%26cate%3D5001%26flag%3D1%26q%3D%2523A%25E8%2582%25A1%25E5%25A4%25AA%25E5%25BC%25BA%25E4%25BA%2586%2523%26dgr%3D0%26display_time%3D1760344475%26pre_seqid%3D176034447505303760120112",
           "source": "微博",
@@ -1048,17 +1088,19 @@
           "time_info": "09时54分"
         },
         {
-          "title": "A股低开高走，沪指较日低回升近100点，稀土爆发，恒指跌1.5%，金山软件大涨超13%，国债涨，商品跌",
-          "url": "https://wallstreetcn.com/articles/3757054",
-          "source": "华尔街见闻",
+          "title": "A股收盘：稀土永磁板块掀涨停潮",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%A8%80%E5%9C%9F%E6%B0%B8%E7%A3%81%E6%9D%BF%E5%9D%97%E6%8E%80%E6%B6%A8%E5%81%9C%E6%BD%AE",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            6,
-            4
+            12,
+            21,
+            18,
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 20时54分]"
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 21时35分]"
         },
         {
           "title": "创业板指跌幅收窄至1%以内，开盘一度跌超4%。",
@@ -1092,20 +1134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "A股收盘：稀土永磁板块掀涨停潮",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%A8%80%E5%9C%9F%E6%B0%B8%E7%A3%81%E6%9D%BF%E5%9D%97%E6%8E%80%E6%B6%A8%E5%81%9C%E6%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            21,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 20时54分]"
         },
         {
           "title": "A股港口、航运板块局部拉升，南京港直线涨停，连云港、国航远洋、宁波海运、凤凰航运、宁波远洋等快速冲高。",
@@ -1154,6 +1182,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 13时26分]"
+        },
+        {
+          "title": "为何说A股真正的考验还没来",
+          "url": "https://www.toutiao.com/trending/7560651307258744356/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时35分]"
         },
         {
           "title": "科创50指数一度涨1%，创业板指跌幅收窄至1.6%。半导体芯片股低开高走，华大九天、概伦电子涨超10%，富创精密、广立微、灿芯股份、华虹公司、中芯国际等纷纷上扬。",
@@ -1277,17 +1317,6 @@
           "time_info": "19时20分"
         },
         {
-          "title": "为何说A股真正的考验还没来",
-          "url": "https://www.toutiao.com/trending/7560651307258744356/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "A股半导体产业链二次上攻，士兰微直线封板，华虹公司涨超10%，中芯国际涨逾5%，新洁能、三安光电、华润微、富满微短线拉升。",
           "url": "https://wallstreetcn.com/livenews/2986463",
           "source": "华尔街见闻-快讯",
@@ -1297,6 +1326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "收评：A股低开高走收大阳线",
+          "url": "https://www.toutiao.com/trending/7560653922256309779/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "中信证券：A股行情向上趋势仍将持续",
@@ -1313,7 +1353,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -1367,6 +1407,17 @@
           "time_info": "[09时54分 ~ 13时26分]"
         },
         {
+          "title": "美股纳指期货涨2%，博通盘前涨超10%，科技股盘前集体走高，数字货币大幅反弹，黄金续创新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "TACO交易？美股纳指期货涨2%，数字货币大幅反弹，黄金续创新高，亚洲股市普跌",
           "url": "https://wallstreetcn.com/articles/3757049",
           "source": "华尔街见闻",
@@ -1376,6 +1427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "博通美股盘前直线拉涨，涨超12%。",
+          "url": "https://wallstreetcn.com/livenews/2986848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "美股期指集体反弹",
@@ -1388,6 +1450,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时54分 ~ 11时16分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2986847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "博通(AVGO.O)美股盘前直线拉涨，涨超10%。",
+          "url": "https://flash.jin10.com/detail/20251013210050779800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "美股期货高开逾1%，油价走高",
@@ -1412,6 +1496,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时54分 ~ 11时16分]"
+        },
+        {
+          "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2168011",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时35分]"
+        },
+        {
+          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
+          "url": "https://wallstreetcn.com/articles/3757057",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时35分]"
         },
         {
           "title": "特朗普关税威胁引美股暴跌！专家警告：市场预计美国更受伤",
@@ -1448,26 +1555,15 @@
           "time_info": "15时26分"
         },
         {
-          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
-          "url": "https://wallstreetcn.com/articles/3757057",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-13）",
+          "url": "https://flash.jin10.com/detail/20251013205238934800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2168011",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "21时35分"
         },
         {
           "title": "美股盘前，明星科技股集体走高，英伟达、AMD盘前涨超3%，甲骨文盘前涨超2%，苹果涨超1.8%，热门中概股普涨，阿里巴巴涨超5%。",
@@ -1527,6 +1623,56 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI携手博通打造自研AI芯片",
+          "url": "https://flash.jin10.com/detail/20251013210437196800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "OpenAI与博通合作涵盖10GW算力，双方计划在2026年建立定制化数字中心。",
+          "url": "https://flash.jin10.com/detail/20251013210220848800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "据报道，OpenAI和博通计划合作开发专用于数据中心的定制芯片，预计将在2026年推出。",
+          "url": "https://wallstreetcn.com/livenews/2986844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "OpenAI 宣布与博通达成多年芯片合作。",
+          "url": "https://flash.jin10.com/detail/20251013210034503800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1565,11 +1711,12 @@
           "url": "https://www.cls.cn/detail/2167785",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时35分]"
         }
       ]
     }
