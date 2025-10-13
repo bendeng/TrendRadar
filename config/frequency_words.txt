@@ -1,10 +1,6 @@
 DeepSeek
 梁文锋
 
-谷歌
-google
-gemini
-
 chatgpt
 openai
 
@@ -25,6 +21,9 @@ A股
 深证
 创业板
 !预测
+
+主力资金
+开源
 
 牛散
 游资
