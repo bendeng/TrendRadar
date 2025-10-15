@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-15T22:28:40.791847+08:00",
-  "total_titles_processed": 2099,
+  "generated_at": "2025-10-15T23:24:14.786008+08:00",
+  "total_titles_processed": 2177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 95,
       "titles": [
+        {
+          "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
+          "url": "https://news.ifeng.com/c/8nTRWt9dnoI",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时27分 ~ 23时24分]"
+        },
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
           "url": "https://news.ifeng.com/c/8nRppITbDH3",
@@ -30,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时33分 ~ 22时28分]"
+          "appearance_count": 12,
+          "time_info": "[16时33分 ~ 23时24分]"
         },
         {
           "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
@@ -48,15 +59,26 @@
           "time_info": "[00时31分 ~ 17时27分]"
         },
         {
-          "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
-          "url": "https://news.ifeng.com/c/8nTRWt9dnoI",
+          "title": "特朗普施压米莱：选举没赢，美援就撤",
+          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
           "source": "凤凰网",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时27分 ~ 22时28分]"
+          "appearance_count": 9,
+          "time_info": "[18时28分 ~ 23时24分]"
+        },
+        {
+          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
+          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时28分 ~ 23时24分]"
         },
         {
           "title": "特朗普称考虑终止与中国部分贸易往来",
@@ -86,28 +108,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[16时33分 ~ 21时38分]"
-        },
-        {
-          "title": "特朗普施压米莱：选举没赢，美援就撤",
-          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 22时28分]"
-        },
-        {
-          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
-          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 22时28分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -233,6 +233,18 @@
           "time_info": "[02时34分 ~ 07时22分]"
         },
         {
+          "title": "特朗普威胁更换2028年奥运举办地",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D30%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26band_rank%3D29%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D29%26cate%3D5001%26flag%3D1%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1760532627%26pre_seqid%3D1760532627808019588305",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时51分 ~ 23时24分]"
+        },
+        {
           "title": "美国总统特朗普：（被问及是否可能很快与阿根廷达成自由贸易协议）是的，有可能。",
           "url": "https://flash.jin10.com/detail/20251015021625057800",
           "source": "金十数据",
@@ -355,6 +367,17 @@
           "time_info": "20时52分"
         },
         {
+          "title": "据Politico：美国总统特朗普本周拨款65亿美元用于发放军人薪酬。",
+          "url": "https://flash.jin10.com/detail/20251015231339086800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "特朗普：下令打击了一艘在委内瑞拉沿海从事毒品贩运活动的船只",
           "url": "https://flash.jin10.com/detail/20251015021401523800",
           "source": "金十数据",
@@ -408,18 +431,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "特朗普威胁更换2028年奥运举办地",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D30%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26band_rank%3D29%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D29%26cate%3D5001%26flag%3D1%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1760532627%26pre_seqid%3D1760532627808019588305",
-          "source": "微博",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时51分 ~ 22时28分]"
         },
         {
           "title": "阿根廷MERVAL指数收跌2.23%，报188.2万点，北京时间02:15前后开启一波显著的“急转直下”行情。 美国总统特朗普和财长贝森特会见阿根廷总统米莱，称若米莱在大选中失败，美方将不再支持。",
@@ -1167,6 +1178,18 @@
           "time_info": "21时38分"
         },
         {
+          "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
+          "url": "https://wallstreetcn.com/articles/3757230",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时24分]"
+        },
+        {
           "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
           "url": "https://www.cls.cn/detail/2169304",
           "source": "财联社热门",
@@ -1203,6 +1226,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "美股三大指数集体高开 百度涨近3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%BF%913%25",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时24分]"
         },
         {
           "title": "标普500指数美股尾盘转跌，一度跌0.2%",
@@ -1290,26 +1325,28 @@
           "time_info": "[05时22分 ~ 06时23分]"
         },
         {
-          "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
-          "url": "https://wallstreetcn.com/articles/3757230",
-          "source": "华尔街见闻",
+          "title": "美股盘初，主要行业ETF多数上涨，公用事业ETF、半导体ETF、黄金ETF均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2988290",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            16,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时24分]"
         },
         {
-          "title": "美股三大指数集体高开 百度涨近3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%BF%913%25",
-          "source": "百度热搜",
+          "title": "美股三大股指集体上涨，道指涨0.23%，标普500指数涨0.69%，纳指涨0.96%。，英伟达涨2.6%，特斯拉涨1.35%。台积电涨逾3%，市场预期三季度净利润再创新高。摩根士丹利股价上涨5.1%，Q3业绩全线超预期，创5月12日以来最大盘中涨幅。纳斯达克中国金龙指数涨逾1.5%，阿里巴巴涨超2%，百度涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/2988279",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            23,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时24分]"
         },
         {
           "title": "美股盘前，阿斯麦涨3.5%，Q3订单额54亿欧元超预期，净销售额75.2亿欧元；科技股普涨，英伟达、博通、AMD等均涨超1%，热门中概股走高，阿里巴巴涨超2%。",
@@ -1356,17 +1393,6 @@
           "time_info": "21时38分"
         },
         {
-          "title": "美股盘初，主要行业ETF多数上涨，公用事业ETF、半导体ETF、黄金ETF均涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/2988290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
           "title": "美股黄金股盘前普涨，哈莫尼黄金(HMY.N)涨近5%，金田(GFI.N)涨4.5%，科尔黛伦矿业(CDE.N)涨近4%，泛美白银(PAAS.O)、金罗斯黄金(KGC.N)涨超2%。",
           "url": "https://flash.jin10.com/detail/20251015161157909800",
           "source": "金十数据",
@@ -1376,17 +1402,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
-        },
-        {
-          "title": "美股三大股指集体上涨，道指涨0.23%，标普500指数涨0.69%，纳指涨0.96%。，英伟达涨2.6%，特斯拉涨1.35%。台积电涨逾3%，市场预期三季度净利润再创新高。摩根士丹利股价上涨5.1%，Q3业绩全线超预期，创5月12日以来最大盘中涨幅。纳斯达克中国金龙指数涨逾1.5%，阿里巴巴涨超2%，百度涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/2988279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
         },
         {
           "title": "美股盘前，明星科技股普涨，阿斯麦(ASML.O)涨3.5%，公司Q3订单额54亿欧元超预期，预告明年业绩持续强劲；台积电(TSM.N)涨3.4%，阿里巴巴(BABA.N)、博通(AVGO.O)、英伟达(NVDA.O)涨约2%。",
@@ -1501,8 +1516,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时51分 ~ 22时28分]"
+          "appearance_count": 7,
+          "time_info": "[20时51分 ~ 23时24分]"
         },
         {
           "title": "上证报：问题机构“浴火重生”，中小银行改革化险蹄疾步稳",
@@ -1539,6 +1554,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[20时51分 ~ 21时38分]"
+        },
+        {
+          "title": "明天A股行情会如何演绎",
+          "url": "https://www.toutiao.com/trending/7561433044758826505/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时24分]"
         },
         {
           "title": "A股黄金概念股震荡拉升，招金黄金涨停，衢州发展、紫金矿业、鹏欣资源、宁波中百、金诚信跟涨。",
@@ -1641,17 +1668,6 @@
           "time_info": "12时28分"
         },
         {
-          "title": "明天A股行情会如何演绎",
-          "url": "https://www.toutiao.com/trending/7561433044758826505/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
           "title": "A股国产软件、软件开发板块走强，榕基软件涨停，麒麟信安涨超6％，浩辰软件、久其软件、华大九天涨幅居前。消息面上，新凯来子公司发布两款EDA设计软件。",
           "url": "https://wallstreetcn.com/livenews/2987835",
           "source": "华尔街见闻-快讯",
@@ -1688,7 +1704,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "金价这么高 到底谁在买",
@@ -1703,6 +1719,21 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
+          "title": "金价银价大涨原因",
+          "url": "https://www.douyin.com/hot/2270986",
+          "source": "抖音",
+          "ranks": [
+            29,
+            17,
+            23,
+            21,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时22分 ~ 23时24分]"
+        },
+        {
           "title": "金价",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D21%26c_type%3D31%26flag%3D0%26lcate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26stream_entry_id%3D31%26realpos%3D21%26cate%3D5001%26pos%3D21%26dgr%3D0%26display_time%3D1760459308%26pre_seqid%3D176045930860900557122",
           "source": "微博",
@@ -1715,20 +1746,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "金价银价大涨原因",
-          "url": "https://www.douyin.com/hot/2270986",
-          "source": "抖音",
-          "ranks": [
-            29,
-            17,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时22分 ~ 22时28分]"
         },
         {
           "title": "英国央行行长：全球不确定性与央行购金推高金价",
@@ -1765,6 +1782,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "金价暴涨 买黄金还是黄金股",
+          "url": "https://www.toutiao.com/trending/7561421312267439654/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时24分]"
         },
         {
           "title": "金价创新高还能涨吗",
@@ -1811,6 +1840,17 @@
           "time_info": "11时10分"
         },
         {
+          "title": "印度央行行长：黄金价格上涨助力印度央行储备增长。",
+          "url": "https://flash.jin10.com/detail/20251015222750293800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "花旗旗下研究机构Citi Research将其铂金和钯金三个月目标价分别上调至1550美元和1350美元，理由是金价反弹以及美国对关键矿产调查截止日期前有大量资金流入。",
           "url": "https://wallstreetcn.com/livenews/2987793",
           "source": "华尔街见闻-快讯",
@@ -1831,17 +1871,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
-        {
-          "title": "金价暴涨 买黄金还是黄金股",
-          "url": "https://www.toutiao.com/trending/7561421312267439654/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
         },
         {
           "title": "美国财长贝森特：（谈黄金价格飙升）买家多于卖家。",
@@ -2067,11 +2096,12 @@
           "url": "https://wallstreetcn.com/livenews/2988289",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时24分]"
         }
       ]
     },
@@ -2110,8 +2140,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 22时28分]"
+          "appearance_count": 9,
+          "time_info": "[18时28分 ~ 23时24分]"
         }
       ]
     }
