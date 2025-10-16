@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T16:35:32.085270+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2025-10-16T17:27:56.830482+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -95,6 +95,21 @@
           "time_info": "[01时23分 ~ 07时24分]"
         },
         {
+          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
+          "url": "https://www.cls.cn/detail/2171140",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 17时27分]"
+        },
+        {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
           "url": "https://www.cls.cn/detail/2170153",
           "source": "财联社热门",
@@ -105,20 +120,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 01时23分]"
-        },
-        {
-          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
-          "url": "https://www.cls.cn/detail/2171140",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时24分 ~ 16时35分]"
         },
         {
           "title": "特朗普威胁更换2028年奥运举办地",
@@ -136,6 +137,17 @@
           "time_info": "[02时36分 ~ 07时24分]"
         },
         {
+          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
+          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时27分]"
+        },
+        {
           "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
           "url": "https://www.cls.cn/detail/2170822",
           "source": "财联社热门",
@@ -148,6 +160,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时49分 ~ 13时25分]"
+        },
+        {
+          "title": "特朗普回应发军饷：有位绅士愿意付",
+          "url": "https://www.toutiao.com/trending/7560868714460823595/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
@@ -181,17 +204,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
-          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         },
         {
           "title": "美国众议院民主党领导人Jeffries：我们认为，政府关门造成的裁员是非法的。 希望国会山或者法院能扭转（特朗普政府的）裁员决定。",
@@ -430,6 +442,17 @@
           "time_info": "[06时23分 ~ 07时24分]"
         },
         {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时27分]"
+        },
+        {
           "title": "阿根廷债券价格上涨。 据Semafor报道，美国财长贝森特对记者们表示，特朗普横幅设法为阿根廷争取200亿美元额外的（救助）“工具”，10月份以来两次总体干预的规模将达到400亿美元。",
           "url": "https://wallstreetcn.com/livenews/2988335",
           "source": "华尔街见闻-快讯",
@@ -491,7 +514,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -639,17 +662,6 @@
           "time_info": "15时31分"
         },
         {
-          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
           "title": "美国总统特朗普宣布名为“夏季高温行动”的全面执法行动的结果。",
           "url": "https://flash.jin10.com/detail/20251016034449123800",
           "source": "金十数据",
@@ -692,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "特朗普称对西班牙很不爽",
+          "url": "https://www.toutiao.com/trending/7560714140441509924/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "美国总统特朗普：将前往最高法院，观看关税官司的审理情况。",
@@ -807,7 +830,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "9月以来次低纪录！A股成交额退守2万亿关口，哪些方向缩量最明显？",
@@ -990,6 +1013,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "A股全市场成交额不足2万亿",
+          "url": "https://www.toutiao.com/trending/7560875981452689418/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         }
       ]
     },
@@ -1019,8 +1053,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时49分 ~ 16时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时49分 ~ 17时27分]"
         },
         {
           "title": "金店老板说金价跌起来像泄洪",
@@ -1044,11 +1078,28 @@
           "ranks": [
             9,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时24分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 17时27分]"
+        },
+        {
+          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
+          "url": "https://www.cls.cn/detail/2171004",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时29分 ~ 17时27分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -1063,21 +1114,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时23分 ~ 07时24分]"
-        },
-        {
-          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
-          "url": "https://www.cls.cn/detail/2171004",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时29分 ~ 16时35分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -1314,7 +1350,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
@@ -1450,11 +1486,12 @@
           "url": "https://www.cls.cn/detail/2171350",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时30分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时30分 ~ 17时27分]"
         }
       ]
     },
@@ -1469,7 +1506,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
