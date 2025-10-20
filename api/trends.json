@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T20:51:35.610358+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2025-10-20T21:36:04.376514+08:00",
+  "total_titles_processed": 1716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 79,
       "titles": [
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -128,11 +128,12 @@
             15,
             12,
             17,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时57分 ~ 20时51分]"
+          "appearance_count": 14,
+          "time_info": "[09时57分 ~ 21时36分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -148,8 +149,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时28分 ~ 20时51分]"
+          "appearance_count": 25,
+          "time_info": "[00时28分 ~ 21时36分]"
+        },
+        {
+          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
+          "url": "https://wallstreetcn.com/articles/3757465",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时25分 ~ 21时36分]"
         },
         {
           "title": "美国众议长约翰逊谈及军队薪资发放问题，称：现在已经完成（特朗普政府关门期间的一笔军饷发放），未来是没有保障的。",
@@ -236,18 +249,6 @@
           "time_info": "[00时29分 ~ 05时21分]"
         },
         {
-          "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
-          "url": "https://wallstreetcn.com/articles/3757465",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时25分 ~ 20时51分]"
-        },
-        {
           "title": "特朗普证实美国不会向加沙地带派遣地面部队",
           "url": "https://wallstreetcn.com/livenews/2990206",
           "source": "华尔街见闻-快讯",
@@ -263,6 +264,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普对中国列出三大问题，中方表态",
+          "url": "https://news.ifeng.com/c/8nbema1wupK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "特朗普谈及国民警卫队部署：下一步将开赴旧金山。",
@@ -321,15 +333,27 @@
           "time_info": "[09时57分 ~ 11时22分]"
         },
         {
+          "title": "特朗普称顿巴斯78%地区已被俄控制",
+          "url": "https://www.toutiao.com/trending/7563092838465241151/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
+        },
+        {
           "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
           "url": "https://news.ifeng.com/c/8nbomTXs1Dt",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时36分]"
         },
         {
           "title": "特朗普：（谈及国民警卫队部署）下一步将开赴旧金山。",
@@ -677,6 +701,19 @@
           "time_info": "[14时38分 ~ 15时25分]"
         },
         {
+          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
+          "url": "https://www.zhihu.com/question/1963528380650614990",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时36分]"
+        },
+        {
           "title": "特朗普：哥伦比亚将不再获得美国补贴。",
           "url": "https://flash.jin10.com/detail/20251019204809018800",
           "source": "金十数据",
@@ -699,6 +736,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时28分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
+          "url": "https://www.cls.cn/detail/2174574",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 21时36分]"
         },
         {
           "title": "俄美共建白令海峡隧道？特朗普回应",
@@ -772,18 +821,6 @@
           "time_info": "[06时22分 ~ 07时23分]"
         },
         {
-          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
-          "url": "https://www.zhihu.com/question/1963528380650614990",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时51分]"
-        },
-        {
           "title": "特朗普称努力让美国变得伟大",
           "url": "https://www.toutiao.com/trending/7563119034879754286/",
           "source": "今日头条",
@@ -807,17 +844,6 @@
           "time_info": "19时21分"
         },
         {
-          "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
-          "url": "https://www.cls.cn/detail/2174574",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
           "title": "伊朗最高领袖哈梅内伊在社交媒体平台上回应美国总统特朗普称美国摧毁了伊朗核工业的说法，表示“继续做梦吧”。",
           "url": "https://flash.jin10.com/detail/20251020185848575800",
           "source": "金十数据",
@@ -838,6 +864,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "特朗普指责哥伦比亚纵容毒品生产 哥召回驻美大使",
+          "url": "https://wallstreetcn.com/livenews/2990704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国总统特朗普会晤后，我的立场是“我们在前线的立场依然坚定”。",
@@ -901,7 +938,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -928,6 +965,17 @@
           "time_info": "16时33分"
         },
         {
+          "title": "特朗普指责哥伦比亚纵容毒品生产 哥召回驻美大使",
+          "url": "https://flash.jin10.com/detail/20251020204856915800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "特朗普政策会走向何方",
           "url": "https://www.toutiao.com/trending/7563147692252073508/",
           "source": "今日头条",
@@ -945,7 +993,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         }
@@ -953,7 +1001,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "A股修复行情即将展开？投资主线有哪些？十大券商策略来了",
@@ -994,6 +1042,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时22分 ~ 14时38分]"
+        },
+        {
+          "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
+          "url": "https://wallstreetcn.com/articles/3757473",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时28分 ~ 21时36分]"
         },
         {
           "title": "A股商业航天概念股早盘走强，长城电工、天奥电子、星网宇达涨停，西测测试、中国卫星、航天智装、高华科技等纷纷大幅冲高。",
@@ -1057,6 +1117,19 @@
           "time_info": "[15时25分 ~ 17时28分]"
         },
         {
+          "title": "【焦点复盘】创业板指缩量反弹涨近2%，两市成交额创2个月以来地量，超硬材料概念午后卷土重来",
+          "url": "https://www.cls.cn/detail/2174650",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时36分]"
+        },
+        {
           "title": "A股旅游板块震荡拉升，长白山午后涨停，大连圣亚此前封板，天府文旅、西藏旅游、锦江酒店跟涨。",
           "url": "https://wallstreetcn.com/livenews/2990439",
           "source": "华尔街见闻-快讯",
@@ -1067,18 +1140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 14时38分]"
-        },
-        {
-          "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
-          "url": "https://wallstreetcn.com/articles/3757473",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时51分]"
         },
         {
           "title": "A股光模块走高 “易中天”大涨 花旗称看到行业需求潜在上行可能",
@@ -1093,16 +1154,15 @@
           "time_info": "[11时22分 ~ 12时31分]"
         },
         {
-          "title": "【焦点复盘】创业板指缩量反弹涨近2%，两市成交额创2个月以来地量，超硬材料概念午后卷土重来",
-          "url": "https://www.cls.cn/detail/2174650",
-          "source": "财联社热门",
+          "title": "A股平均股价13.43元 31股不足2元",
+          "url": "https://www.toutiao.com/trending/7562800470427975721/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            9
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时51分]"
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "短期波折，不改A股中长期走势，机构看好科技成长引领行情进一步突破",
@@ -1232,7 +1292,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         }
@@ -1240,7 +1300,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -1266,8 +1326,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时25分 ~ 20时51分]"
+          "appearance_count": 9,
+          "time_info": "[15时25分 ~ 21时36分]"
+        },
+        {
+          "title": "贸易局势、美信贷恐慌缓解，美股盘前三大期指集体上涨，苹果股价逼近历史新高，现货黄金突破4320美元/盎司，比特币涨超4%",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2990719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
@@ -1280,6 +1362,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时23分]"
+        },
+        {
+          "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2174932",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 21时36分]"
         },
         {
           "title": "亚马逊美股盘前转跌，现跌0.21%。",
@@ -1300,7 +1393,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1358,6 +1451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-20）",
+          "url": "https://flash.jin10.com/detail/20251020205315835800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
@@ -1385,8 +1489,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时36分]"
         },
         {
           "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
@@ -1457,7 +1561,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1496,7 +1600,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1571,11 +1675,12 @@
           "ranks": [
             13,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 20时51分]"
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 21时36分]"
         }
       ]
     }
