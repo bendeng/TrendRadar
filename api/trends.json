@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T09:51:44.024436+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2025-10-21T11:10:22.954288+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普对中国列出三大问题，中方表态",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 11时10分]"
         },
         {
           "title": "曝特朗普与泽连斯基再度激烈争吵",
@@ -140,11 +140,12 @@
           "ranks": [
             26,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 11时10分]"
         },
         {
           "title": "特朗普称顿巴斯78%地区已被俄控制",
@@ -167,20 +168,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "牛弹琴：特朗普被印度气坏了",
-          "url": "https://www.toutiao.com/trending/7563455829395902002/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时10分]"
         },
         {
           "title": "印度否认通话后，特朗普还嘴硬：莫迪向我保证过",
@@ -189,9 +179,31 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时10分]"
+        },
+        {
+          "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
+          "url": "https://news.ifeng.com/c/8ncoJZZhKAJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时10分]"
+        },
+        {
+          "title": "特朗普计划明年初访华",
+          "url": "https://www.toutiao.com/trending/7562415983688908836/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "11时10分"
         },
         {
           "title": "美国银行业在向阿根廷提供200亿美元资金支持方面寻求抵押品。 美国银行业等待特朗普的财政部就签字抵押物出具指导意见。（华尔街日报）",
@@ -203,17 +215,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
-          "url": "https://news.ifeng.com/c/8ncoJZZhKAJ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
         },
         {
           "title": "美国总统特朗普：波音公司表现不错。",
@@ -228,6 +229,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 03时21分]"
+        },
+        {
+          "title": "牛弹琴：特朗普被印度气坏了",
+          "url": "https://www.toutiao.com/trending/7563455829395902002/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时10分]"
         },
         {
           "title": "美国总统特朗普：我期待亲自前往澳大利亚。",
@@ -341,6 +354,18 @@
           "time_info": "[04时28分 ~ 05时24分]"
         },
         {
+          "title": "牛弹琴：特朗普被印度气坏了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B0%94%E5%9D%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时10分]"
+        },
+        {
           "title": "美国参议院多数党领袖图恩：俄罗斯制裁法案被推迟至特朗普与普京会谈之后再处理。",
           "url": "https://flash.jin10.com/detail/20251021033001244800",
           "source": "金十数据",
@@ -422,17 +447,6 @@
           "time_info": "00时33分"
         },
         {
-          "title": "牛弹琴：特朗普被印度气坏了",
-          "url": "https://www.baidu.com/s?wd=%E7%89%9B%E5%BC%B9%E7%90%B4%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E5%8D%B0%E5%BA%A6%E6%B0%94%E5%9D%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
           "title": "美国总统特朗普：目前，加沙停火掌握在别人手中。如果有必要，哈马斯将被消灭。",
           "url": "https://flash.jin10.com/detail/20251021000410130800",
           "source": "金十数据",
@@ -455,13 +469,24 @@
           "time_info": "07时23分"
         },
         {
+          "title": "特朗普大规模拆除白宫建筑",
+          "url": "https://www.toutiao.com/trending/7562786425306382375/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "特朗普为修宴会厅大规模拆除白宫建筑",
           "url": "https://flash.jin10.com/detail/20251021093026428800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -499,6 +524,28 @@
           "time_info": "00时33分"
         },
         {
+          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "泽连斯基和特朗普对骂隐藏哪些信息",
+          "url": "https://www.toutiao.com/trending/7563487873530351143/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "特朗普：（谈及俄乌冲突）我认为我们会成功。",
           "url": "https://flash.jin10.com/detail/20251021000007478800",
           "source": "金十数据",
@@ -508,6 +555,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "美国总统特朗普重返白宫以来，已有超过51.5万名非法外国人被驱逐出境，特朗普有望在执政第一年结束前驱逐60万名非法移民，打破历史记录。",
+          "url": "https://flash.jin10.com/detail/20251021100804742800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "美国国务卿鲁比奥正在领导美国总统特朗普对委内瑞拉的施压行动。",
+          "url": "https://flash.jin10.com/detail/20251021100055232800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "美国总统特朗普：澳大利亚将购买大量波音(BA.N)飞机。",
@@ -532,6 +601,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "特朗普计划明年初访华",
+          "url": "https://www.douyin.com/hot/2277203",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "美国总统特朗普：预计将加快向澳大利亚提供核动力潜艇。",
           "url": "https://flash.jin10.com/detail/20251020235412057800",
           "source": "金十数据",
@@ -554,6 +634,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "特朗普开始拆除白宫建筑改建宴会厅",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E5%A7%8B%E6%8B%86%E9%99%A4%E7%99%BD%E5%AE%AB%E5%BB%BA%E7%AD%91%E6%94%B9%E5%BB%BA%E5%AE%B4%E4%BC%9A%E5%8E%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D26%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25BC%2580%25E5%25A7%258B%25E6%258B%2586%25E9%2599%25A4%25E7%2599%25BD%25E5%25AE%25AB%25E5%25BB%25BA%25E7%25AD%2591%25E6%2594%25B9%25E5%25BB%25BA%25E5%25AE%25B4%25E4%25BC%259A%25E5%258E%2585%2523%26dgr%3D0%26band_rank%3D26%26stream_entry_id%3D31%26flag%3D1%26cate%3D5001%26pos%3D27%26display_time%3D1761016187%26pre_seqid%3D17610161871240315614316",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "美国总统特朗普：我们正在额外建造几艘潜艇，进展很快。",
           "url": "https://flash.jin10.com/detail/20251020235313095800",
           "source": "金十数据",
@@ -563,6 +654,223 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
+          "url": "https://wallstreetcn.com/articles/3757473",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 11时10分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指缩量反弹涨近2%，两市成交额创2个月以来地量，超硬材料概念午后卷土重来",
+          "url": "https://www.cls.cn/detail/2174650",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时33分 ~ 07时23分]"
+        },
+        {
+          "title": "深夜又一A股公司曝算力计划泡汤！群兴玩具五追“风口”并购皆告失败 |速读公告",
+          "url": "https://www.cls.cn/detail/2175151",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时10分]"
+        },
+        {
+          "title": "创业板指涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2990939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.46%，深成指涨0.91%，超硬材料、油气、工程机械、有色金属等方向领涨，沪深京三市上涨个股超2700只。",
+          "url": "https://wallstreetcn.com/livenews/2990930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股深地经济概念盘中持续走强，正元地信20cm涨停，此前中裕科技、德石股份、山河智能、中化岩土、山东墨龙等多股涨停，恒立钻具、四方达涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/2990979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "创业板指涨超3%，沪指涨近1%，深成指涨近2%，超硬材料、深海科技、CPO、存储芯片等方向领涨，沪深京三市上涨个股超4200只。",
+          "url": "https://wallstreetcn.com/livenews/2990975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2277255",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "A股黄金珠宝概念股盘初高开，萃华珠宝涨超5%，招金黄金、四川黄金、中金黄金跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2990922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "中金公司彭文生：今年A股上涨主要源于风险溢价的下降",
+          "url": "https://wallstreetcn.com/livenews/2990972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "市场连续缩量，机构对A股风格切换存分歧",
+          "url": "https://wallstreetcn.com/livenews/2990854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "上证指数开盘报3870.75点，涨0.18%。 深证成指开盘报12880.17点，涨0.52%。 创业板指开盘报3017.77点，涨0.81%。 沪深300开盘报4556.12点，涨0.39%。 科创50开盘报1374.98点，涨0.52%。 中证500开盘报7095.62点，涨0.37%。 中证1000开盘报7257.11点，涨0.25%。",
+          "url": "https://wallstreetcn.com/livenews/2990917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "短期波动孕育布局良机，外资看好A股业绩与创新双主线",
+          "url": "https://wallstreetcn.com/livenews/2990853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "A股苹果概念股持续走高，福立旺涨超12%，环旭电子涨停，安泰科技、立讯精密、珠海冠宇等涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/2990966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "A股零售股异动拉升，国光连锁直线涨停，武商集团、合百集团、中百集团、国芳集团、上海九百等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2990963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "A股房地产板块持续拉升，光明地产涨停，合肥城建此前涨停，香江控股、上实发展、深振业A，珠江股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2990954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "A股电网设备板块盘中震荡拉升，国电南自涨停，思源电气涨超8%，盘中创出历史新高，华明装备、伊戈尔、明阳电气、科林电气、特变电工跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2990952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "A股成交连日缩量 市场在等待什么",
+          "url": "https://www.toutiao.com/trending/7562444807984152617/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.62%，深成指涨1.48%，超硬材料、存储芯片、深海科技、工程机械等方向领涨，沪深京三市上涨个股近3600只。",
+          "url": "https://wallstreetcn.com/livenews/2990939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         }
       ]
     },
@@ -592,8 +900,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 11时10分]"
         },
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -604,8 +912,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 11时10分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -729,114 +1037,8 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "创业板涨近2%，两市成交1.75万亿，AI算力反弹，恒科指涨3%，国债普跌，“双焦”期货走强",
-          "url": "https://wallstreetcn.com/articles/3757473",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时51分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指缩量反弹涨近2%，两市成交额创2个月以来地量，超硬材料概念午后卷土重来",
-          "url": "https://www.cls.cn/detail/2174650",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时23分]"
-        },
-        {
-          "title": "创业板指涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/2990939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "深夜又一A股公司曝算力计划泡汤！群兴玩具五追“风口”并购皆告失败 |速读公告",
-          "url": "https://www.cls.cn/detail/2175151",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "创业板指涨超1%，沪指涨0.46%，深成指涨0.91%，超硬材料、油气、工程机械、有色金属等方向领涨，沪深京三市上涨个股超2700只。",
-          "url": "https://wallstreetcn.com/livenews/2990930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "A股黄金珠宝概念股盘初高开，萃华珠宝涨超5%，招金黄金、四川黄金、中金黄金跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2990922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "市场连续缩量，机构对A股风格切换存分歧",
-          "url": "https://wallstreetcn.com/livenews/2990854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "上证指数开盘报3870.75点，涨0.18%。 深证成指开盘报12880.17点，涨0.52%。 创业板指开盘报3017.77点，涨0.81%。 沪深300开盘报4556.12点，涨0.39%。 科创50开盘报1374.98点，涨0.52%。 中证500开盘报7095.62点，涨0.37%。 中证1000开盘报7257.11点，涨0.25%。",
-          "url": "https://wallstreetcn.com/livenews/2990917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "短期波动孕育布局良机，外资看好A股业绩与创新双主线",
-          "url": "https://wallstreetcn.com/livenews/2990853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -850,8 +1052,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 11时10分]"
+        },
+        {
+          "title": "DeepSeek开源新模型DeepSeek-OCR",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 11时10分]"
+        },
+        {
+          "title": "DeepSeek新模型深度解读",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -863,17 +1088,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "DeepSeek开源新模型DeepSeek-OCR",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -890,7 +1104,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
@@ -902,30 +1116,43 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 11时10分]"
         },
         {
           "title": "金价银价大反攻",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E5%8F%8D%E6%94%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D7%26cate%3D5001%26flag%3D0%26band_rank%3D7%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E5%25A4%25A7%25E5%258F%258D%25E6%2594%25BB%2523%26pos%3D8%26dgr%3D0%26c_type%3D31%26display_time%3D1761011327%26pre_seqid%3D17610113272420313323338",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时10分]"
         },
         {
           "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
           "url": "https://www.cls.cn/detail/2175165",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时10分]"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）上海金早盘价为993.35元/克，较国际金价(995.35元/克)，低2元/克",
+          "url": "https://flash.jin10.com/detail/20251021102951257800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "11时10分"
         },
         {
           "title": "全球消费者买金习惯发生改变：印度消费者节日购金倾向以旧换新，金价高位运行推动韩国白银价格屡创新高",
@@ -942,7 +1169,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
@@ -952,8 +1179,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 11时10分]"
         },
         {
           "title": "美元指数20日上涨",
@@ -978,6 +1205,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时24分]"
+        },
+        {
+          "title": "美贸协议乐观情绪推动亚股走高，日经225指数逼近5万关口，买入信号显现；现货黄金重回4300美元关口后，多头仍在观望，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251021103630837800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         }
       ]
     },
@@ -990,11 +1228,12 @@
           "url": "https://www.cls.cn/detail/2175118",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 11时10分]"
         }
       ]
     },
@@ -1013,6 +1252,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "主力资金 开源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20251021104054601800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         }
       ]
     },
