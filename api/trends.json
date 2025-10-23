@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T20:54:03.514195+08:00",
-  "total_titles_processed": 1908,
+  "generated_at": "2025-10-23T21:37:55.894037+08:00",
+  "total_titles_processed": 1991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 94,
       "titles": [
         {
           "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
@@ -91,8 +91,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时30分 ~ 20时54分]"
+          "appearance_count": 11,
+          "time_info": "[12时30分 ~ 21时37分]"
         },
         {
           "title": "【早报】特朗普：取消与普京会面；公募基金业绩比较基准规则征求意见稿即将发布",
@@ -124,6 +124,19 @@
           "time_info": "[00时33分 ~ 11时07分]"
         },
         {
+          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1964624412641833840",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时25分 ~ 21时37分]"
+        },
+        {
           "title": "他被特朗普当众羞辱，全场都在哄笑",
           "url": "https://news.ifeng.com/c/8ng6g7G7AiA",
           "source": "凤凰网",
@@ -143,11 +156,12 @@
             14,
             12,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 20时54分]"
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 21时37分]"
         },
         {
           "title": "特朗普开始创造性破坏白宫",
@@ -160,11 +174,12 @@
             22,
             12,
             15,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 20时54分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 21时37分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -236,19 +251,6 @@
           "time_info": "[00时33分 ~ 07时21分]"
         },
         {
-          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1964624412641833840",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时25分 ~ 20时54分]"
-        },
-        {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
           "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
           "source": "凤凰网",
@@ -258,6 +260,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 21时37分]"
         },
         {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
@@ -271,6 +284,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时51分 ~ 15时25分]"
+        },
+        {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 21时37分]"
         },
         {
           "title": "特朗普称取消与普京在布达佩斯的会面",
@@ -294,28 +318,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时37分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
-          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
-        },
-        {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 20时54分]"
         },
         {
           "title": "特朗普称取消与普京会面",
@@ -582,6 +584,17 @@
           "time_info": "[17时29分 ~ 19时22分]"
         },
         {
+          "title": "评论员：特朗普准备大降印度关税",
+          "url": "https://www.toutiao.com/trending/7564356052515294746/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 21时37分]"
+        },
+        {
           "title": "通用汽车（GM）股价周三冲高回落，纽约中午持平，暂报66.63美元。 福特汽车跌幅收窄至1.1%，暂报12.42美元。 美国总统特朗普称：“通用汽车的Barra和福特汽车的Bill Ford打电话给我，感谢我的关税。Barr在电话中感谢我对某些卡车加征的关税。”",
           "url": "https://wallstreetcn.com/livenews/2992031",
           "source": "华尔街见闻-快讯",
@@ -712,17 +725,6 @@
           "time_info": "[00时33分 ~ 01时22分]"
         },
         {
-          "title": "评论员：特朗普准备大降印度关税",
-          "url": "https://www.toutiao.com/trending/7564356052515294746/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
-        },
-        {
           "title": "特朗普为啥又不想见普京了",
           "url": "https://www.toutiao.com/trending/7564254660786130471/",
           "source": "今日头条",
@@ -799,6 +801,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "白宫表示，特朗普政府将阿根廷牛肉的关税配额上调至8万吨，以降低价格。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美媒称美国允许乌对俄使用远程导弹 特朗普：假新闻！",
@@ -972,7 +985,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1065,13 +1078,24 @@
           "time_info": "06时21分"
         },
         {
+          "title": "美国白宫：特朗普政府将阿根廷牛肉的关税配额提高至8万吨，以降低价格。",
+          "url": "https://flash.jin10.com/detail/20251023204828232800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美国总统特朗普将于当地时间下午3点（北京时间次日凌晨3点）在华盛顿发表声明。",
           "url": "https://wallstreetcn.com/livenews/2992566",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1100,6 +1124,264 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 21时37分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
+          "url": "https://www.cls.cn/detail/2177654",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时20分 ~ 15时25分]"
+        },
+        {
+          "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时21分]"
+        },
+        {
+          "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
+          "url": "https://wallstreetcn.com/articles/3757661",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 19时22分]"
+        },
+        {
+          "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时19分]"
+        },
+        {
+          "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时21分]"
+        },
+        {
+          "title": "美股指普跌，动量股抛售潮继续，量子计算股重挫，原油逆市上涨",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251023040545784800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘后跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251023040507331800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "10年期德债收益率涨超1个基点，美股盘前出现一波显著的反弹",
+          "url": "https://wallstreetcn.com/livenews/2992020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时19分]"
+        },
+        {
+          "title": "小盘股指ETF收跌约1.5%，领跌美股大类资产类ETF，布油基金则涨3.1%",
+          "url": "https://wallstreetcn.com/livenews/2992080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时21分]"
+        },
+        {
+          "title": "网络股指数ETF收跌超2.1%，和半导体ETF领跌美股行业ETF，标普能源板块涨超1.3%",
+          "url": "https://wallstreetcn.com/livenews/2992078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时21分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐跌 网易跌超4%",
+          "url": "https://flash.jin10.com/detail/20251023040118815800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2992616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "超微电脑(SMCI.O)美股盘前下跌9%。",
+          "url": "https://flash.jin10.com/detail/20251023211125526800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "诺基亚美股盘前上涨9.7%。诺基亚第三季度调整后营业利润4.35亿欧元，预估3.242亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/2992438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "拉斯维加斯金沙三季度净营收33.3亿美元，分析师预期30.4亿美元。 三季度中国澳门净营收19.1亿美元，分析师预期18.4亿美元。 拉斯维加斯金沙（LVS）美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/2992074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "美股盘前，特斯拉延续跌势，现跌超3%，马斯克下调机器人和Robotaxi目标。量子计算概念股普涨，Quantum Computing上涨13%。Moderna下跌超4%，此前公司因试验受挫而暂停开发预防出生缺陷的疫苗。美股中概股盘前多数上涨，理想汽车、百度涨2%，京东、蔚来、阿里巴巴涨1%，拼多多涨0.7%，小鹏汽车跌0.2%，携程跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/2992436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "金十图示：2025年10月22日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251023003551309800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251023003549477800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "美股短线跳水，标普500指数跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251023003249960800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-23）",
+          "url": "https://flash.jin10.com/detail/20251023205439447800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股 上证 深证 创业板",
       "match_count": 22,
       "titles": [
@@ -1113,11 +1395,12 @@
             11,
             9,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 20时54分]"
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 21时37分]"
         },
         {
           "title": "A股福建本地股异动拉升，平潭发展直线涨停，海峡创新、厦门港务、漳州发展等纷纷冲高。",
@@ -1129,6 +1412,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "A股尾盘突然强劲拉升 发生了什么",
+          "url": "https://www.toutiao.com/trending/7563247198747738162/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 21时37分]"
+        },
+        {
+          "title": "【焦点复盘】上证50日线3连阳创3年多新高，寒潮天气再度引爆煤炭股，农业银行日线14连阳终结",
+          "url": "https://www.cls.cn/detail/2178481",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 21时37分]"
         },
         {
           "title": "A股高位人气股持续调整，上实发展、建设机械双双跌停，此前华建集团、睿能科技跌停，蓝丰生化、三孚股份、合肥城建、海鸥住工、远大控股等跟跌。",
@@ -1143,15 +1450,16 @@
           "time_info": "[13时25分 ~ 14时36分]"
         },
         {
-          "title": "【焦点复盘】上证50日线3连阳创3年多新高，寒潮天气再度引爆煤炭股，农业银行日线14连阳终结",
-          "url": "https://www.cls.cn/detail/2178481",
+          "title": "资金“集结”深圳股！涨停股中占四分之一，A股“炒地图”行情再起",
+          "url": "https://www.cls.cn/detail/2178585",
           "source": "财联社热门",
           "ranks": [
-            13
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 20时54分]"
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 21时37分]"
         },
         {
           "title": "A股收评：三大指数全线收红",
@@ -1164,28 +1472,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时35分 ~ 19时22分]"
-        },
-        {
-          "title": "资金“集结”深圳股！涨停股中占四分之一，A股“炒地图”行情再起",
-          "url": "https://www.cls.cn/detail/2178585",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
-        },
-        {
-          "title": "A股尾盘突然强劲拉升 发生了什么",
-          "url": "https://www.toutiao.com/trending/7563247198747738162/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "A股调整接近尾声 缩量中如何布局",
@@ -1357,233 +1643,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 20时54分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
-          "url": "https://www.cls.cn/detail/2177654",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 15时25分]"
-        },
-        {
-          "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
-          "url": "https://wallstreetcn.com/articles/3757563",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时21分]"
-        },
-        {
-          "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
-          "url": "https://wallstreetcn.com/articles/3757661",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 19时22分]"
-        },
-        {
-          "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时19分]"
-        },
-        {
-          "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时21分]"
-        },
-        {
-          "title": "美股指普跌，动量股抛售潮继续，量子计算股重挫，原油逆市上涨",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251023040545784800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)美股盘后跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251023040507331800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "10年期德债收益率涨超1个基点，美股盘前出现一波显著的反弹",
-          "url": "https://wallstreetcn.com/livenews/2992020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时19分]"
-        },
-        {
-          "title": "小盘股指ETF收跌约1.5%，领跌美股大类资产类ETF，布油基金则涨3.1%",
-          "url": "https://wallstreetcn.com/livenews/2992080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时21分]"
-        },
-        {
-          "title": "网络股指数ETF收跌超2.1%，和半导体ETF领跌美股行业ETF，标普能源板块涨超1.3%",
-          "url": "https://wallstreetcn.com/livenews/2992078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时21分]"
-        },
-        {
-          "title": "美股收盘：三大股指齐跌 网易跌超4%",
-          "url": "https://flash.jin10.com/detail/20251023040118815800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "诺基亚美股盘前上涨9.7%。诺基亚第三季度调整后营业利润4.35亿欧元，预估3.242亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/2992438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "拉斯维加斯金沙三季度净营收33.3亿美元，分析师预期30.4亿美元。 三季度中国澳门净营收19.1亿美元，分析师预期18.4亿美元。 拉斯维加斯金沙（LVS）美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/2992074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "美股盘前，特斯拉延续跌势，现跌超3%，马斯克下调机器人和Robotaxi目标。量子计算概念股普涨，Quantum Computing上涨13%。Moderna下跌超4%，此前公司因试验受挫而暂停开发预防出生缺陷的疫苗。美股中概股盘前多数上涨，理想汽车、百度涨2%，京东、蔚来、阿里巴巴涨1%，拼多多涨0.7%，小鹏汽车跌0.2%，携程跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/2992436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "金十图示：2025年10月22日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251023003551309800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251023003549477800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美股短线跳水，标普500指数跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251023003249960800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
@@ -1701,6 +1762,17 @@
           "time_info": "[00时33分 ~ 02时37分]"
         },
         {
+          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
+          "url": "https://wallstreetcn.com/articles/3757691",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 21时37分]"
+        },
+        {
           "title": "东方汇理预计金价可能在未来三年飙升至5000美元",
           "url": "https://wallstreetcn.com/livenews/2992304",
           "source": "华尔街见闻-快讯",
@@ -1723,17 +1795,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 12时30分]"
-        },
-        {
-          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
-          "url": "https://wallstreetcn.com/articles/3757691",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 20时54分]"
         },
         {
           "title": "分析师：美政府停摆持续与地缘政治紧张局势推动金价重返4100美元上方",
@@ -1767,6 +1828,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "摩根大通策略师团队：金价未来三年内可能会翻倍",
+          "url": "https://wallstreetcn.com/livenews/2992623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
@@ -1911,11 +1983,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 20时54分]"
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 21时37分]"
         }
       ]
     }
