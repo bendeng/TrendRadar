@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T17:26:58.502098+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2025-10-24T18:29:28.400605+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 17时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 18时29分]"
         },
         {
           "title": "特朗普：终止与加拿大的所有贸易谈判",
@@ -80,6 +80,20 @@
           "time_info": "[00时31分 ~ 07时21分]"
         },
         {
+          "title": "特朗普：美国终止与加拿大的所有贸易谈判",
+          "url": "https://www.cls.cn/detail/2179344",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时30分 ~ 18时29分]"
+        },
+        {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
           "url": "https://www.zhihu.com/question/1964624412641833840",
           "source": "知乎",
@@ -109,20 +123,6 @@
           "time_info": "[00时31分 ~ 07时21分]"
         },
         {
-          "title": "特朗普：美国终止与加拿大的所有贸易谈判",
-          "url": "https://www.cls.cn/detail/2179344",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时30分 ~ 17时26分]"
-        },
-        {
           "title": "特朗普赦免赵长鹏，白宫回应“是否利益输送”",
           "url": "https://news.ifeng.com/c/8nhrwh3rstP",
           "source": "凤凰网",
@@ -131,8 +131,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时06分 ~ 18时29分]"
+        },
+        {
+          "title": "特朗普特赦赵长鹏，后者承诺帮助美国成为全球加密货币之都，对此你怎么看，其会对市场产生何影响？",
+          "url": "https://www.zhihu.com/question/1964977368591495757",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时06分 ~ 17时26分]"
+          "time_info": "[12时30分 ~ 18时29分]"
         },
         {
           "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
@@ -162,15 +173,28 @@
           "time_info": "[09时45分 ~ 11时06分]"
         },
         {
-          "title": "特朗普特赦赵长鹏，后者承诺帮助美国成为全球加密货币之都，对此你怎么看，其会对市场产生何影响？",
-          "url": "https://www.zhihu.com/question/1964977368591495757",
-          "source": "知乎",
+          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
+          "url": "https://news.ifeng.com/c/8niGt31YVZS",
+          "source": "凤凰网",
           "ranks": [
-            8
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时29分]"
+        },
+        {
+          "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
+          "url": "https://wallstreetcn.com/articles/3757776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时30分 ~ 17时26分]"
+          "time_info": "[11时06分 ~ 18时29分]"
         },
         {
           "title": "普京回应特朗普取消会晤",
@@ -199,17 +223,6 @@
           "time_info": "[12时30分 ~ 17时26分]"
         },
         {
-          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
-          "url": "https://news.ifeng.com/c/8niGt31YVZS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时26分]"
-        },
-        {
           "title": "特朗普：终止与加拿大的贸易谈判",
           "url": "https://www.toutiao.com/trending/7563606616550703123/",
           "source": "今日头条",
@@ -232,6 +245,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "特朗普赦免赵长鹏",
+          "url": "https://www.douyin.com/hot/2280802",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时36分 ~ 18时29分]"
         },
         {
           "title": "特朗普制裁俄石油业 分析人士：低油价为美国升级行动留出空间",
@@ -259,16 +284,17 @@
           "time_info": "11时06分"
         },
         {
-          "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
-          "url": "https://wallstreetcn.com/articles/3757776",
-          "source": "华尔街见闻",
+          "title": "特朗普赦免币安创始人赵长鹏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            9
+            20,
+            16,
+            14
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时06分 ~ 17时26分]"
+          "time_info": "[14时36分 ~ 18时29分]"
         },
         {
           "title": "特朗普赦免赵长鹏将带来哪些影响",
@@ -304,6 +330,17 @@
           "time_info": "12时30分"
         },
         {
+          "title": "特朗普警告以色列：不准吞并约旦河西岸",
+          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "赵长鹏获特朗普赦免",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%B5%B5%E9%95%BF%E9%B9%8F%E8%8E%B7%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A6%E5%85%8D%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D4%26cate%3D5001%26flag%3D0%26stream_entry_id%3D31%26realpos%3D4%26pos%3D3%26q%3D%2523%25E8%25B5%25B5%25E9%2595%25BF%25E9%25B9%258F%25E8%258E%25B7%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25B5%25A6%25E5%2585%258D%2523%26lcate%3D5001%26display_time%3D1761280208%26pre_seqid%3D17612802080980118131383",
           "source": "微博",
@@ -321,33 +358,23 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
         {
-          "title": "特朗普赦免赵长鹏",
-          "url": "https://www.douyin.com/hot/2280802",
-          "source": "抖音",
+          "title": "一则广告惹出祸？特朗普：美国终止与加拿大的所有贸易谈判",
+          "url": "https://www.cls.cn/detail/2179429",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            9
+            12,
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时36分 ~ 17时26分]"
-        },
-        {
-          "title": "特朗普赦免币安创始人赵长鹏",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时36分 ~ 17时26分]"
+          "time_info": "[15时23分 ~ 18时29分]"
         },
         {
           "title": "美国总统特朗普：赦免币安创始人是应许多人的要求。",
@@ -537,19 +564,6 @@
           "time_info": "[02时37分 ~ 03时21分]"
         },
         {
-          "title": "一则广告惹出祸？特朗普：美国终止与加拿大的所有贸易谈判",
-          "url": "https://www.cls.cn/detail/2179429",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时26分]"
-        },
-        {
           "title": "特朗普团队警告称：政府停摆持续将导致更多航班延误",
           "url": "https://wallstreetcn.com/livenews/2992702",
           "source": "华尔街见闻-快讯",
@@ -611,6 +625,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时21分]"
+        },
+        {
+          "title": "特朗普朋友自掏腰包1.3亿美元付军饷",
+          "url": "https://www.toutiao.com/trending/7563586300629024831/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 18时29分]"
         },
         {
           "title": "美国白宫：（就对俄制裁）是否会有更多制裁取决于总统特朗普。",
@@ -733,6 +759,18 @@
           "time_info": "[02时37分 ~ 03时21分]"
         },
         {
+          "title": "赵长鹏回应获特朗普赦免",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E9%95%BF%E9%B9%8F%E5%9B%9E%E5%BA%94%E8%8E%B7%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A6%E5%85%8D",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 18时29分]"
+        },
+        {
           "title": "美国总统特朗普：接到英伟达CEO黄仁勋关于旧金山的电话。",
           "url": "https://flash.jin10.com/detail/20251024033944635800",
           "source": "金十数据",
@@ -756,17 +794,6 @@
           "time_info": "11时06分"
         },
         {
-          "title": "特朗普朋友自掏腰包1.3亿美元付军饷",
-          "url": "https://www.toutiao.com/trending/7563586300629024831/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
           "title": "机构：有理由对通胀感到担忧，特朗普关税政策正持续渗透到价格水平中",
           "url": "https://flash.jin10.com/detail/20251024140714776800",
           "source": "金十数据",
@@ -787,6 +814,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-24）",
+          "url": "https://flash.jin10.com/detail/20251024180231382800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "特朗普赦免币安创始人赵长鹏",
@@ -875,17 +913,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "赵长鹏回应获特朗普赦免",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E9%95%BF%E9%B9%8F%E5%9B%9E%E5%BA%94%E8%8E%B7%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A6%E5%85%8D",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
         },
         {
           "title": "美国白宫：特朗普认为俄罗斯在推动和平方面行动不足。",
@@ -1012,7 +1039,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "多家外资机构力挺A股，高盛：中国股票的慢牛行情正在酝酿中",
@@ -1075,6 +1102,19 @@
           "time_info": "09时46分"
         },
         {
+          "title": "“十五五”政策怎么走？多位首席划重点，看好A股慢牛",
+          "url": "https://www.cls.cn/detail/2179531",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 18时29分]"
+        },
+        {
           "title": "A股地下管网概念异动拉升，青龙管业触及涨停，三和管桩、韩建河山、东宏股份、金洲管道等跟涨。",
           "url": "https://wallstreetcn.com/livenews/2992982",
           "source": "华尔街见闻-快讯",
@@ -1097,6 +1137,19 @@
           "time_info": "13时24分"
         },
         {
+          "title": "A股收评：沪指涨0.71%续创10年新高",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.71%25%E7%BB%AD%E5%88%9B10%E5%B9%B4%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 18时29分]"
+        },
+        {
           "title": "林园：4300点是A股牛市的起点",
           "url": "https://www.toutiao.com/trending/7564392487238782470/",
           "source": "今日头条",
@@ -1108,19 +1161,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 04时26分]"
-        },
-        {
-          "title": "“十五五”政策怎么走？多位首席划重点，看好A股慢牛",
-          "url": "https://www.cls.cn/detail/2179531",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时26分]"
         },
         {
           "title": "创业板指涨3%，沪指涨0.6%，深成指涨1.7%。存储芯片、商业航天、算力硬件等方向领涨，沪深京三市上涨个股超3000只。",
@@ -1135,16 +1175,16 @@
           "time_info": "[13时24分 ~ 14时36分]"
         },
         {
-          "title": "A股收评：沪指涨0.71%续创10年新高",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E6%B6%A80.71%25%E7%BB%AD%E5%88%9B10%E5%B9%B4%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
+          "title": "李大霄：A股创下十年新高 成交量不足",
+          "url": "https://www.toutiao.com/trending/7564687770816351787/",
+          "source": "今日头条",
           "ranks": [
-            15,
-            28
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时26分]"
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 18时29分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-10-24）",
@@ -1191,17 +1231,6 @@
           "time_info": "15时24分"
         },
         {
-          "title": "李大霄：A股创下十年新高 成交量不足",
-          "url": "https://www.toutiao.com/trending/7564687770816351787/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
           "title": "上证指数早盘收报3938.98点，涨0.42%。 深证成指早盘收报13195.25点，涨1.30%。 创业板指早盘收报3126.05点，涨2.09%。 沪深300早盘收报4636.93点，涨0.66%。 科创50早盘收报1442.98点，涨2.98%。 中证500早盘收报7215.22点，涨1.01%。 中证1000早盘收报7391.06点，涨1.14%。",
           "url": "https://wallstreetcn.com/livenews/2993016",
           "source": "华尔街见闻-快讯",
@@ -1233,6 +1262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
+        },
+        {
+          "title": "A股未来五年大方向在哪里",
+          "url": "https://www.toutiao.com/trending/7564697479606701631/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "A股可控核聚变概念午后拉升，中国核建冲击涨停，应流股份、哈焊华通、合锻智能、永鼎股份等纷纷走强。",
@@ -1273,8 +1313,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时21分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[07时21分 ~ 18时29分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨近1% 热门中概股普涨",
@@ -1526,11 +1566,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31828132",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时26分]"
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时29分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）上海金午盘价为936.94元/克，较国际金价(937.82元/克)，低0.88元/克",
@@ -1561,7 +1602,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
