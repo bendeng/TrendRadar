@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T06:23:37.005392+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2025-10-27T07:23:47.827822+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -15,19 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
           "url": "https://wallstreetcn.com/articles/3757912",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "胡锡进：美国最铁杆的盟友，现在却被特朗普政府百般羞辱",
@@ -37,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "特朗普拆建白宫为何招非议",
@@ -49,11 +50,12 @@
             16,
             23,
             14,
-            21
+            21,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
@@ -63,8 +65,24 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
+        },
+        {
+          "title": "韩国加拿大为何都受不了特朗普",
+          "url": "https://www.toutiao.com/trending/7565519241336589887/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            24,
+            19,
+            26,
+            30,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时23分]"
+          "time_info": "[01时19分 ~ 07时23分]"
         },
         {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
@@ -76,21 +94,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 05时22分]"
-        },
-        {
-          "title": "韩国加拿大为何都受不了特朗普",
-          "url": "https://www.toutiao.com/trending/7565519241336589887/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            24,
-            19,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 06时23分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
@@ -137,11 +140,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时23分]"
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时23分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -159,17 +163,29 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE2.0%E4%BA%9A%E6%B4%B2%E2%80%9C%E9%A6%96%E7%A7%80%E2%80%9D%EF%BC%9A%E4%BA%94%E5%A4%A9%E4%B8%89%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时33分 ~ 07时23分]"
+        },
+        {
+          "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
+          "url": "https://www.cls.cn/detail/2180721",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时33分"
+          "time_info": "07时23分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股牛市中缩量震荡通常有多久？投资主线有哪些？十大券商策略来了",
@@ -180,8 +196,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
@@ -217,8 +233,30 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 06时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 07时23分]"
+        },
+        {
+          "title": "A股三季报业绩暖意足，电子有色金属等行业增长明显",
+          "url": "https://wallstreetcn.com/livenews/2993824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "上证报：A股新一轮稳健上涨行情有望延续，科技成长风格或“强者恒强”",
+          "url": "https://wallstreetcn.com/livenews/2993810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     },
@@ -235,8 +273,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -246,8 +284,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         }
       ]
     },
@@ -260,22 +298,24 @@
           "url": "https://flash.jin10.com/detail/20251027060229559800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时23分]"
         },
         {
           "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
           "url": "https://wallstreetcn.com/livenews/2993801",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时23分]"
         }
       ]
     },
