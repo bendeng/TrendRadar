@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T13:26:44.200238+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2025-10-27T14:41:15.353420+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 54,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -133,6 +133,17 @@
           "time_info": "11时28分"
         },
         {
+          "title": "特朗普：如果需要，将考虑向阿根廷提供更多支持。",
+          "url": "https://wallstreetcn.com/livenews/2994045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
           "url": "https://flash.jin10.com/detail/20251026184624203800",
           "source": "金十数据",
@@ -166,6 +177,40 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时00分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 14时41分]"
+        },
+        {
+          "title": "美国财长贝森特：美联储主席候选人名单缩减至五人，希望感恩节后向特朗普提交一份好名单。",
+          "url": "https://flash.jin10.com/detail/20251027142654141800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美国总统特朗普：停火是基于哈以双方的义务。我们也希望哈马斯加快归还人质尸体，目前我们还有13名人质，包括两名美国人。我们不认为（以色列的行动）构成对停火的违反。",
+          "url": "https://flash.jin10.com/detail/20251027142210815800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
@@ -242,6 +287,17 @@
           "time_info": "[07时23分 ~ 10时00分]"
         },
         {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
+        },
+        {
           "title": "特朗普在马来西亚听了个地狱笑话",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%90%AC%E4%BA%86%E4%B8%AA%E5%9C%B0%E7%8B%B1%E7%AC%91%E8%AF%9D",
           "source": "百度热搜",
@@ -253,15 +309,59 @@
           "time_info": "[00时30分 ~ 01时19分]"
         },
         {
-          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：我真没考虑过去竞选2028年的第三任期。",
+          "url": "https://flash.jin10.com/detail/20251027142110925800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时26分"
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美国总统特朗普：也许到今年年底，我们会就美联储做出相关决定。",
+          "url": "https://flash.jin10.com/detail/20251027142056759800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美国财长贝森特：美联储主席人选筛选范围已缩减至五人。 希望感恩节后向特朗普提交一份好名单。",
+          "url": "https://wallstreetcn.com/livenews/2994029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美国总统特朗普：我们必须立即拯救芝加哥，我们可以很容易做到，但必须迅速行动。",
+          "url": "https://flash.jin10.com/detail/20251027141856032800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "特朗普：关税生效时我们会通知加拿大。 暂时不会与加拿大总理卡尼会面。 普京应该结束俄乌冲突。 无意损害韩国造船业。 希望企业引进人才到美国。 将确保牧场主不受损失，同时降低物价。 要把牛肉价格降下来。",
+          "url": "https://wallstreetcn.com/livenews/2994027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "巴西总统卢拉：向美国总统特朗普递交了一份书面议程。",
@@ -275,6 +375,17 @@
           "time_info": "11时28分"
         },
         {
+          "title": "特朗普：和卢拉的会面很愉快，我们看看会发生什么。",
+          "url": "https://wallstreetcn.com/livenews/2994024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "巴西总统卢拉：昨日与美国总统特朗普会晤后留下了非常好的印象。我尊重特朗普，他也尊重我。",
           "url": "https://flash.jin10.com/detail/20251027111712719800",
           "source": "金十数据",
@@ -284,6 +395,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
+          "url": "https://flash.jin10.com/detail/20251027141650104800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "特朗普耗资3亿美元的白宫宴会厅项目 获币圈和科技行业盟友“鼎力相助”",
+          "url": "https://wallstreetcn.com/livenews/2994020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美国总统特朗普：将确保牧场不受损害。",
+          "url": "https://flash.jin10.com/detail/20251027141231764800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美国总统特朗普：我们一直关注南美许多国家，特别是在南美洲投入了很多精力，我们对南美洲有了很清楚的掌握。多方面的努力都在进行中。",
+          "url": "https://flash.jin10.com/detail/20251027141149356800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美国总统特朗普：我曾反对让韩国工人离开佐治亚州。",
+          "url": "https://flash.jin10.com/detail/20251027141042006800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美国总统特朗普：韩国方面有一个很好的计划，打算在美国造船业进行更多投资，甚至超过他们目前的投入。坦白说，他们现在正在讨论如何以最佳方式落实韩方在美国的投资，尤其是关于造船业。",
+          "url": "https://flash.jin10.com/detail/20251027141004535800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "巴西总统卢拉：已与特朗普提及委内瑞拉问题。",
@@ -330,6 +507,17 @@
           "time_info": "10时00分"
         },
         {
+          "title": "美国总统特朗普：期待与新任日本首相会面。",
+          "url": "https://flash.jin10.com/detail/20251027140519886800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "巴西总统卢拉：特朗普向我保证，我们一定会达成协议。",
           "url": "https://flash.jin10.com/detail/20251027113242354800",
           "source": "金十数据",
@@ -339,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
+        },
+        {
+          "title": "美国总统特朗普：日本新任首相是（已故前首相）安倍晋三的伟大盟友和朋友。",
+          "url": "https://flash.jin10.com/detail/20251027140510135800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "韩国总统顾问：在亚太经合组织会议期间，李在明总统与美国总统特朗普达成关税协议存在困难。",
@@ -363,6 +562,39 @@
           "time_info": "12时35分"
         },
         {
+          "title": "美国总统特朗普：我们将重返造船业。",
+          "url": "https://flash.jin10.com/detail/20251027140356330800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美国总统特朗普：我不想与加拿大总理会面。",
+          "url": "https://flash.jin10.com/detail/20251027140230204800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
+          "title": "美国总统特朗普：我对目前美国与加拿大达成的协议非常满意。",
+          "url": "https://flash.jin10.com/detail/20251027140217658800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
+        {
           "title": "特朗普抵达马来西亚和众人跳舞",
           "url": "https://www.toutiao.com/trending/7565096761908789267/",
           "source": "今日头条",
@@ -372,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大长期以来一直在剥削我们，他们不会再这样做了。",
+          "url": "https://flash.jin10.com/detail/20251027140045061800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "特朗普的关税“套路”曝光",
@@ -388,7 +631,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "A股牛市中缩量震荡通常有多久？投资主线有哪些？十大券商策略来了",
@@ -406,6 +649,19 @@
           "time_info": "[00时30分 ~ 13时26分]"
         },
         {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2284310",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 14时41分]"
+        },
+        {
           "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2180530",
           "source": "财联社热门",
@@ -415,18 +671,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时30分 ~ 06时23分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2284310",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 13时26分]"
         },
         {
           "title": "中信建投：A股调整接近尾声，上行趋势继续",
@@ -471,11 +715,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时41分]"
         },
         {
           "title": "上证指数早盘收报3991.35点，涨1.04%。 深证成指早盘收报13457.28点，涨1.26%。 创业板指早盘收报3220.52点，涨1.54%。 沪深300早盘收报4709.92点，涨1.06%。 科创50早盘收报1473.87点，涨0.80%。 中证500早盘收报7360.02点，涨1.40%。 中证1000早盘收报7486.07点，涨0.90%。",
@@ -488,6 +733,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时26分]"
+        },
+        {
+          "title": "A股逼近4000点释放什么信号",
+          "url": "https://www.toutiao.com/trending/7565743046185193002/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
         },
         {
           "title": "A股光刻机、光刻胶概念股开盘领涨",
@@ -532,6 +788,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
+        },
+        {
+          "title": "A股存储芯片板块午后再度上攻，江波龙涨超10％再创新高，大为股份、时空科技此前涨停，德明利、精智达、微导纳米跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2994011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         },
         {
           "title": "上证报：A股新一轮稳健上涨行情有望延续，科技成长风格或“强者恒强”",
@@ -595,7 +862,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -624,6 +891,59 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "第一批金价下跌受害者出现了",
+          "url": "https://www.toutiao.com/trending/7565011357729521670/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 10时00分]"
+        },
+        {
+          "title": "金价暴跌有大学生把生活费亏没了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E6%258A%258A%25E7%2594%259F%25E6%25B4%25BB%25E8%25B4%25B9%25E4%25BA%258F%25E6%25B2%25A1%25E4%25BA%2586%2523%26dgr%3D0%26pos%3D21%26filter_type%3Drealtimehot%26realpos%3D21%26c_type%3D31%26flag%3D2%26cate%3D5001%26lcate%3D5001%26band_rank%3D21%26display_time%3D1761496155%26pre_seqid%3D1761496155788032636497",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 10时00分]"
+        },
+        {
+          "title": "黄金价格下跌是进场“捡便宜”时机吗",
+          "url": "https://www.toutiao.com/trending/7565700779416227391/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 11时28分]"
+        },
+        {
+          "title": "业内：金价急跌套牢Z世代",
+          "url": "https://www.toutiao.com/trending/7565736865819528746/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -636,8 +956,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 13时26分]"
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 14时41分]"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -677,44 +997,31 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
+      "keyword_group": "主力资金 开源",
+      "match_count": 2,
       "titles": [
         {
-          "title": "第一批金价下跌受害者出现了",
-          "url": "https://www.toutiao.com/trending/7565011357729521670/",
-          "source": "今日头条",
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20251027104213490800",
+          "source": "金十数据",
           "ranks": [
-            21,
-            22,
-            24
+            26,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 10时00分]"
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 14时41分]"
         },
         {
-          "title": "金价暴跌有大学生把生活费亏没了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E6%258A%258A%25E7%2594%259F%25E6%25B4%25BB%25E8%25B4%25B9%25E4%25BA%258F%25E6%25B2%25A1%25E4%25BA%2586%2523%26dgr%3D0%26pos%3D21%26filter_type%3Drealtimehot%26realpos%3D21%26c_type%3D31%26flag%3D2%26cate%3D5001%26lcate%3D5001%26band_rank%3D21%26display_time%3D1761496155%26pre_seqid%3D1761496155788032636497",
-          "source": "微博",
+          "title": "为什么要开源？",
+          "url": "https://www.zhihu.com/question/33573424",
+          "source": "知乎",
           "ranks": [
-            21
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 10时00分]"
-        },
-        {
-          "title": "黄金价格下跌是进场“捡便宜”时机吗",
-          "url": "https://www.toutiao.com/trending/7565700779416227391/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 11时28分]"
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
         }
       ]
     },
@@ -733,23 +1040,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时30分 ~ 06时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "主力资金 开源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20251027104213490800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
         }
       ]
     }
