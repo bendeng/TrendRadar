@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T20:52:58.034406+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2025-10-27T21:36:56.000383+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 77,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -42,6 +42,18 @@
           "time_info": "[00时30分 ~ 07时23分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 21时36分]"
+        },
+        {
           "title": "特朗普拆建白宫为何招非议",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%86%E5%BB%BA%E7%99%BD%E5%AE%AB%E4%B8%BA%E4%BD%95%E6%8B%9B%E9%9D%9E%E8%AE%AE",
           "source": "bilibili 热搜",
@@ -67,18 +79,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时30分 ~ 07时23分]"
-        },
-        {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时52分]"
         },
         {
           "title": "韩国加拿大为何都受不了特朗普",
@@ -144,6 +144,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时30分 ~ 06时23分]"
+        },
+        {
+          "title": "特朗普访问日本",
+          "url": "https://www.douyin.com/hot/2285103",
+          "source": "抖音",
+          "ranks": [
+            9,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 21时36分]"
+        },
+        {
+          "title": "特朗普谈南海坠机：或用了劣质燃料",
+          "url": "https://www.toutiao.com/trending/7565133400080846342/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。",
@@ -216,16 +240,27 @@
           "time_info": "[10时00分 ~ 13时26分]"
         },
         {
-          "title": "特朗普访问日本",
-          "url": "https://www.douyin.com/hot/2285103",
-          "source": "抖音",
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
           "ranks": [
             9,
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时52分]"
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 21时36分]"
+        },
+        {
+          "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
+          "url": "https://v.ifeng.com/c/8nmnws4Ar5T",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
@@ -263,18 +298,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时41分 ~ 15时26分]"
-        },
-        {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 20时52分]"
         },
         {
           "title": "美国总统特朗普：祝贺阿根廷总统米莱取得压倒性胜利。",
@@ -410,6 +433,17 @@
           "time_info": "[07时23分 ~ 10时00分]"
         },
         {
+          "title": "日本天皇用英语说很高兴见到特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时36分]"
+        },
+        {
           "title": "美国总统特朗普：（被问及最近和马斯克的关系）偶尔联系，挺少的，几乎没有什么特别的。他是个非常有能力的人。我一直都喜欢他。",
           "url": "https://flash.jin10.com/detail/20251027141650104800",
           "source": "金十数据",
@@ -446,6 +480,18 @@
           "time_info": "[14时41分 ~ 15时26分]"
         },
         {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时36分]"
+        },
+        {
           "title": "美国总统特朗普：我们一直关注南美许多国家，特别是在南美洲投入了很多精力，我们对南美洲有了很清楚的掌握。多方面的努力都在进行中。",
           "url": "https://flash.jin10.com/detail/20251027141149356800",
           "source": "金十数据",
@@ -456,6 +502,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时41分 ~ 15时26分]"
+        },
+        {
+          "title": "评论员：特朗普在马来西亚双喜临门",
+          "url": "https://www.toutiao.com/trending/7565834902130658870/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时36分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -475,7 +532,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -486,7 +543,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -546,17 +603,6 @@
           "time_info": "11时28分"
         },
         {
-          "title": "日本天皇用英语说很高兴见到特朗普",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "特朗普：在医院接受了一次“完美的”核磁共振检查",
           "url": "https://flash.jin10.com/detail/20251027155706399800",
           "source": "金十数据",
@@ -612,28 +658,6 @@
           "time_info": "19时23分"
         },
         {
-          "title": "评论员：特朗普在马来西亚双喜临门",
-          "url": "https://www.toutiao.com/trending/7565834902130658870/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
-          "title": "特朗普：俄试射核动力巡航导弹不合适",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "特朗普：预计将在今年年底前就美联储主席做出决定",
           "url": "https://wallstreetcn.com/livenews/2994047",
           "source": "华尔街见闻-快讯",
@@ -654,6 +678,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.toutiao.com/trending/7565221360721592361/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "美国总统特朗普：韩国方面有一个很好的计划，打算在美国造船业进行更多投资，甚至超过他们目前的投入。坦白说，他们现在正在讨论如何以最佳方式落实韩方在美国的投资，尤其是关于造船业。",
@@ -868,7 +903,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "A股牛市中缩量震荡通常有多久？投资主线有哪些？十大券商策略来了",
@@ -910,6 +945,20 @@
           "time_info": "[00时30分 ~ 06时23分]"
         },
         {
+          "title": "A股放量大涨！沪指时隔十年再度逼近4000点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31842838",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 21时36分]"
+        },
+        {
           "title": "中信建投：A股调整接近尾声，上行趋势继续",
           "url": "https://wallstreetcn.com/livenews/2993780",
           "source": "华尔街见闻-快讯",
@@ -920,6 +969,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时30分 ~ 06时23分]"
+        },
+        {
+          "title": "潘功胜、吴清等发言重点来了！事关央行国债买卖、创业板改革......",
+          "url": "https://www.cls.cn/detail/2182260",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时36分]"
         },
         {
           "title": "A股业绩利好密集来袭",
@@ -934,20 +995,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 07时23分]"
-        },
-        {
-          "title": "A股放量大涨！沪指时隔十年再度逼近4000点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31842838",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时52分]"
         },
         {
           "title": "A股或摸高4000",
@@ -975,17 +1022,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时34分 ~ 18时30分]"
-        },
-        {
-          "title": "潘功胜、吴清等发言重点来了！事关央行国债买卖、创业板改革......",
-          "url": "https://www.cls.cn/detail/2182260",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
         },
         {
           "title": "A股三季报业绩暖意足，电子有色金属等行业增长明显",
@@ -1023,6 +1059,18 @@
           "time_info": "[15时26分 ~ 16时34分]"
         },
         {
+          "title": "吴清：证监会将启动实施深化创业板改革",
+          "url": "https://www.cls.cn/detail/2182124",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 21时36分]"
+        },
+        {
           "title": "A股逼近4000点 还能上车吗",
           "url": "https://www.toutiao.com/trending/7565798490819792390/",
           "source": "今日头条",
@@ -1033,17 +1081,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时31分 ~ 18时30分]"
-        },
-        {
-          "title": "吴清：证监会将启动实施深化创业板改革",
-          "url": "https://www.cls.cn/detail/2182124",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 20时52分]"
         },
         {
           "title": "上证指数早盘收报3991.35点，涨1.04%。 深证成指早盘收报13457.28点，涨1.26%。 创业板指早盘收报3220.52点，涨1.54%。 沪深300早盘收报4709.92点，涨1.06%。 科创50早盘收报1473.87点，涨0.80%。 中证500早盘收报7360.02点，涨1.40%。 中证1000早盘收报7486.07点，涨0.90%。",
@@ -1111,6 +1148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
+        },
+        {
+          "title": "【数据看盘】多只创业板ETF上周份额大减 机构激烈博弈存储芯片概念股",
+          "url": "https://www.cls.cn/detail/2182099",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "A股开盘：三大指数集体高开",
@@ -1259,7 +1307,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -1283,8 +1331,21 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 21时36分]"
+        },
+        {
+          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
+          "url": "https://www.cls.cn/detail/2182013",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时52分]"
+          "time_info": "[18时29分 ~ 21时36分]"
         },
         {
           "title": "亨廷顿银行美股盘前下跌2.3%，亨廷顿银行集团将以74亿美元收购凯登斯银行。",
@@ -1322,18 +1383,6 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
-          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
-          "url": "https://www.cls.cn/detail/2182013",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 20时52分]"
-        },
-        {
           "title": "美股盘前，科技股、中概股普涨",
           "url": "https://wallstreetcn.com/livenews/2994104",
           "source": "华尔街见闻-快讯",
@@ -1366,12 +1415,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-27）",
+          "url": "https://flash.jin10.com/detail/20251027210443791800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2994370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "第一批金价下跌受害者出现了",
@@ -1456,6 +1527,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
+        },
+        {
+          "title": "凯投宏观：下调黄金价格预期，预计到2026年底黄金价格将跌至每盎司3,500美元。",
+          "url": "https://flash.jin10.com/detail/20251027205309686800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "金十数据整理：金价一路飙升 菲律宾央行却热衷于减持",
+          "url": "https://flash.jin10.com/detail/20251027204235077800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
