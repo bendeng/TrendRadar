@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T15:26:06.548605+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2025-10-27T16:34:19.390234+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -85,6 +85,18 @@
           "time_info": "[01时19分 ~ 07时23分]"
         },
         {
+          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
+          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时26分 ~ 16时34分]"
+        },
+        {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
           "url": "https://m.thepaper.cn/newsDetail_forward_31837755",
           "source": "澎湃新闻",
@@ -94,18 +106,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 05时22分]"
-        },
-        {
-          "title": "特朗普到访，日本新首相高市早苗迎来外交“大考”",
-          "url": "https://news.ifeng.com/c/8nn0csPCPJl",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 15时26分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
@@ -180,6 +180,18 @@
           "time_info": "[10时00分 ~ 13时26分]"
         },
         {
+          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
+          "url": "https://www.cls.cn/detail/2181112",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时40分 ~ 16时34分]"
+        },
+        {
           "title": "美议员：特朗普将在国会就可能扩大对委内瑞拉打击举行吹风会",
           "url": "https://flash.jin10.com/detail/20251027041707138800",
           "source": "金十数据",
@@ -251,18 +263,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时41分 ~ 15时26分]"
-        },
-        {
-          "title": "各退一步？巴美就关税问题重启双边谈判，特朗普暗示“有希望”！",
-          "url": "https://www.cls.cn/detail/2181112",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时40分 ~ 15时26分]"
         },
         {
           "title": "韩国考虑授予特朗普“无穷花大勋章”",
@@ -427,7 +427,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -449,7 +449,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -476,13 +476,35 @@
           "time_info": "11时28分"
         },
         {
+          "title": "特朗普：在医院接受了一次“完美的”核磁共振检查",
+          "url": "https://flash.jin10.com/detail/20251027155706399800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "美国总统特朗普：正落地日本，期待与天皇见面。",
+          "url": "https://flash.jin10.com/detail/20251027155518803800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "特朗普：预计将在今年年底前就美联储主席做出决定",
           "url": "https://wallstreetcn.com/livenews/2994047",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -619,6 +641,17 @@
           "time_info": "14时41分"
         },
         {
+          "title": "特朗普称不会在2028年大选时作为副总统候选人参选",
+          "url": "https://wallstreetcn.com/livenews/2994077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "美国总统特朗普：我不想与加拿大总理会面。",
           "url": "https://flash.jin10.com/detail/20251027140230204800",
           "source": "金十数据",
@@ -677,7 +710,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "A股牛市中缩量震荡通常有多久？投资主线有哪些？十大券商策略来了",
@@ -759,26 +792,15 @@
           "time_info": "[12时35分 ~ 15时26分]"
         },
         {
-          "title": "A股收盘：沪指涨1.18%逼近4000点，存储芯片板块集体爆发",
-          "url": "https://wallstreetcn.com/livenews/2994073",
-          "source": "华尔街见闻-快讯",
+          "title": "A股全线收涨 沪指逼近4000点",
+          "url": "https://www.douyin.com/hot/2284310",
+          "source": "抖音",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "上证指数收报3996.94点，涨1.18%。 深证成指收报13489.40点，涨1.51%。 创业板指收报3234.45点，涨1.98%。 沪深300收报4716.02点，涨1.19%。 科创50收报1484.21点，涨1.50%。 中证500收报7379.39点，涨1.67%。 中证1000收报7495.38点，涨1.03%。",
-          "url": "https://wallstreetcn.com/livenews/2994071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "16时34分"
         },
         {
           "title": "A股三季报业绩暖意足，电子有色金属等行业增长明显",
@@ -790,6 +812,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "A股收盘：沪指涨1.18%逼近4000点，存储芯片板块集体爆发",
+          "url": "https://wallstreetcn.com/livenews/2994073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时34分]"
+        },
+        {
+          "title": "上证指数收报3996.94点，涨1.18%。 深证成指收报13489.40点，涨1.51%。 创业板指收报3234.45点，涨1.98%。 沪深300收报4716.02点，涨1.19%。 科创50收报1484.21点，涨1.50%。 中证500收报7379.39点，涨1.67%。 中证1000收报7495.38点，涨1.03%。",
+          "url": "https://wallstreetcn.com/livenews/2994071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时34分]"
         },
         {
           "title": "上证指数早盘收报3991.35点，涨1.04%。 深证成指早盘收报13457.28点，涨1.26%。 创业板指早盘收报3220.52点，涨1.54%。 沪深300早盘收报4709.92点，涨1.06%。 科创50早盘收报1473.87点，涨0.80%。 中证500早盘收报7360.02点，涨1.40%。 中证1000早盘收报7486.07点，涨0.90%。",
@@ -857,6 +903,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
+        },
+        {
+          "title": "A股放量大涨逼宫4000点 还能上车吗",
+          "url": "https://www.toutiao.com/trending/7565798490819792390/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "A股放量大涨！沪指时隔十年再度逼近4000点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31842838",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "A股存储芯片板块午后再度上攻，江波龙涨超10％再创新高，大为股份、时空科技此前涨停，德明利、精智达、微导纳米跟涨。",
@@ -960,62 +1028,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "第一批金价下跌受害者出现了",
-          "url": "https://www.toutiao.com/trending/7565011357729521670/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 10时00分]"
-        },
-        {
-          "title": "金价暴跌有大学生把生活费亏没了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E6%258A%258A%25E7%2594%259F%25E6%25B4%25BB%25E8%25B4%25B9%25E4%25BA%258F%25E6%25B2%25A1%25E4%25BA%2586%2523%26dgr%3D0%26pos%3D21%26filter_type%3Drealtimehot%26realpos%3D21%26c_type%3D31%26flag%3D2%26cate%3D5001%26lcate%3D5001%26band_rank%3D21%26display_time%3D1761496155%26pre_seqid%3D1761496155788032636497",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 10时00分]"
-        },
-        {
-          "title": "业内：金价急跌套牢Z世代",
-          "url": "https://www.toutiao.com/trending/7565736865819528746/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时40分 ~ 15时26分]"
-        },
-        {
-          "title": "黄金价格下跌是进场“捡便宜”时机吗",
-          "url": "https://www.toutiao.com/trending/7565700779416227391/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时00分 ~ 11时28分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -1027,8 +1041,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时27分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 16时34分]"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -1064,6 +1078,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "美股盘前，科技股、中概股普涨",
+          "url": "https://wallstreetcn.com/livenews/2994104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "第一批金价下跌受害者出现了",
+          "url": "https://www.toutiao.com/trending/7565011357729521670/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 10时00分]"
+        },
+        {
+          "title": "金价暴跌有大学生把生活费亏没了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%8A%8A%E7%94%9F%E6%B4%BB%E8%B4%B9%E4%BA%8F%E6%B2%A1%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E5%25A4%25A7%25E5%25AD%25A6%25E7%2594%259F%25E6%258A%258A%25E7%2594%259F%25E6%25B4%25BB%25E8%25B4%25B9%25E4%25BA%258F%25E6%25B2%25A1%25E4%25BA%2586%2523%26dgr%3D0%26pos%3D21%26filter_type%3Drealtimehot%26realpos%3D21%26c_type%3D31%26flag%3D2%26cate%3D5001%26lcate%3D5001%26band_rank%3D21%26display_time%3D1761496155%26pre_seqid%3D1761496155788032636497",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 10时00分]"
+        },
+        {
+          "title": "业内：金价急跌套牢Z世代",
+          "url": "https://www.toutiao.com/trending/7565736865819528746/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时40分 ~ 16时34分]"
+        },
+        {
+          "title": "黄金价格下跌是进场“捡便宜”时机吗",
+          "url": "https://www.toutiao.com/trending/7565700779416227391/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 11时28分]"
         }
       ]
     },
