@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T17:27:48.498589+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2025-10-28T18:29:53.838508+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -31,6 +31,22 @@
           "time_info": "[00时33分 ~ 05时23分]"
         },
         {
+          "title": "特朗普见高市早苗三句话不离安倍",
+          "url": "https://www.toutiao.com/trending/7565133400080928262/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            6,
+            5,
+            22,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 18时29分]"
+        },
+        {
           "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
           "url": "https://wallstreetcn.com/articles/3757964",
           "source": "华尔街见闻",
@@ -42,21 +58,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时33分 ~ 11时12分]"
-        },
-        {
-          "title": "特朗普见高市早苗三句话不离安倍",
-          "url": "https://www.toutiao.com/trending/7565133400080928262/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            6,
-            5,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 16时35分]"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -186,9 +187,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "特朗普自顾自检阅 高市早苗原地愣住",
+          "url": "https://www.toutiao.com/trending/7565434042020007460/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "美军航母摔飞机事大了！特朗普亲自解释靠谱吗？",
+          "url": "https://news.ifeng.com/c/8np6B3JJJNc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
@@ -200,6 +223,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        },
+        {
+          "title": "高市早苗给特朗普送礼 日网民炸锅",
+          "url": "https://www.toutiao.com/trending/7566135501460098598/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时29分]"
         },
         {
           "title": "美国总统特朗普：期待与日本首相高市早苗携手合作，共促国家发展。",
@@ -222,18 +257,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时12分 ~ 13时27分]"
-        },
-        {
-          "title": "高市早苗给特朗普送礼 日网民炸锅",
-          "url": "https://www.toutiao.com/trending/7566135501460098598/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时27分]"
         },
         {
           "title": "特朗普称与巴西总统卢拉进行了“良好会晤”",
@@ -271,6 +294,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 04时25分]"
+        },
+        {
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时29分]"
         },
         {
           "title": "特朗普“拉拢”日本 共同推动关键矿产供应保障",
@@ -330,6 +364,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "特朗普略过日本国旗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D16%26band_rank%3D16%26stream_entry_id%3D31%26pos%3D16%26lcate%3D5001%26flag%3D0%26display_time%3D1761643594%26pre_seqid%3D17616435949260281044382",
+          "source": "微博",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时29分]"
         },
         {
           "title": "特朗普到底薅了全世界多少钱",
@@ -397,17 +443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
-          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
         },
         {
           "title": "美国总统特朗普：这将是一段比以往任何时候都更加牢固的关系。",
@@ -575,17 +610,6 @@
           "time_info": "16时35分"
         },
         {
-          "title": "特朗普略过日本国旗",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE%E7%95%A5%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%2595%25A5%25E8%25BF%2587%25E6%2597%25A5%25E6%259C%25AC%25E5%259B%25BD%25E6%2597%2597%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D16%26band_rank%3D16%26stream_entry_id%3D31%26pos%3D16%26lcate%3D5001%26flag%3D0%26display_time%3D1761643594%26pre_seqid%3D17616435949260281044382",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "墨西哥比索兑美元短线拉升，日内整体涨超0.4%，逼近18.37比索。 墨西哥股指涨幅重新扩大至将近0.6%。 墨西哥总统辛鲍姆称，上周六与美国总统特朗普通话。 两国接近达成非关税壁垒协议。 美方将（针对墨西哥的）贸易截至日期推后好几周时间。",
           "url": "https://wallstreetcn.com/livenews/2994435",
           "source": "华尔街见闻-快讯",
@@ -663,6 +687,17 @@
           "time_info": "11时12分"
         },
         {
+          "title": "特朗普与高市早苗一同乘机登上美航母",
+          "url": "https://www.toutiao.com/trending/7565775120976429082/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "日本首相高市早苗计划推荐美国总统特朗普提名诺贝尔和平奖，将在周二的峰会上向特朗普传达这一意向。（NTV）",
           "url": "https://wallstreetcn.com/livenews/2994627",
           "source": "华尔街见闻-快讯",
@@ -710,7 +745,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "潘功胜、吴清等发言重点来了！事关央行国债买卖、创业板改革......",
@@ -783,11 +818,12 @@
             8,
             16,
             19,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时26分 ~ 17时27分]"
+          "appearance_count": 9,
+          "time_info": "[13时26分 ~ 18时29分]"
         },
         {
           "title": "A股福建本地股延续强势，平潭发展8天6板，福建水泥2连板，厦门港务、日上集团涨停，海峡创新涨超10%。",
@@ -799,6 +835,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "A股再上4000会带来牛市吗",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E5%86%8D%E4%B8%8A4000%E4%BC%9A%E5%B8%A6%E6%9D%A5%E7%89%9B%E5%B8%82%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "A股军工板块持续走强，江龙船艇20cm涨停，国瑞科技涨超10%，北方长龙、天海防务、航天智装、中科海讯等涨幅居前。",
@@ -862,6 +909,32 @@
           "time_info": "[12时28分 ~ 13时27分]"
         },
         {
+          "title": "A股涨到4010点回落 周三会变盘吗",
+          "url": "https://www.toutiao.com/trending/7566165187783298606/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时29分]"
+        },
+        {
+          "title": "A股冲4000点后为何跳水",
+          "url": "https://www.toutiao.com/trending/7566173470686449198/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时29分]"
+        },
+        {
           "title": "A股福建本地股午后持续爆发，路桥信息涨超25%，海峡创新、福建水泥、南方路机、海峡环保等近20股涨停。",
           "url": "https://wallstreetcn.com/livenews/2994781",
           "source": "华尔街见闻-快讯",
@@ -909,18 +982,6 @@
           "time_info": "[14时38分 ~ 15时24分]"
         },
         {
-          "title": "A股涨到4010点回落 周三会变盘吗",
-          "url": "https://www.toutiao.com/trending/7566165187783298606/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时27分]"
-        },
-        {
           "title": "农业银行涨近2%，再创历史新高，A股总市值突破2.65万亿。",
           "url": "https://wallstreetcn.com/livenews/2994791",
           "source": "华尔街见闻-快讯",
@@ -931,18 +992,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时38分 ~ 15时24分]"
-        },
-        {
-          "title": "A股冲4000点后为何跳水",
-          "url": "https://www.toutiao.com/trending/7566173470686449198/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时27分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-10-28）",
@@ -1047,7 +1096,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -1058,8 +1107,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时42分 ~ 17时27分]"
+          "appearance_count": 15,
+          "time_info": "[07时42分 ~ 18时29分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -1084,6 +1133,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 06时23分]"
+        },
+        {
+          "title": "UPS三季度营收214亿美元，预估208.7亿美元。 三季度经调整后每股收益1.74美元，预估1.32美元。 UPS预计第四季度营收约为240亿美元，市场预估238.7亿美元。 UPS美股盘前涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/2995038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
@@ -1213,12 +1273,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "新东方第一财季调整后每ADS收益1.61美元，预估1.65美元。 第一财季经营利润3.108亿美元，预估3.008亿美元。 第一财季净营收15.2亿美元，预估15.1亿美元。 第一财季资本支出5,540万美元。 新东方美股盘前涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/2995018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -1242,19 +1313,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 17时27分]"
-        },
-        {
-          "title": "伦敦金银市场协会（LBMA）调查：金价一年后料达每盎司4980.3美元。",
-          "url": "https://flash.jin10.com/detail/20251028162351099800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 18时29分]"
         },
         {
           "title": "金价突然杀跌原因何在",
@@ -1266,8 +1326,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 18时29分]"
+        },
+        {
+          "title": "伦敦金银市场协会（LBMA）调查：金价一年后料达每盎司4980.3美元。",
+          "url": "https://flash.jin10.com/detail/20251028162351099800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -1315,13 +1386,24 @@
           "time_info": "16时35分"
         },
         {
+          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
+          "url": "https://wallstreetcn.com/articles/3758026",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "市场分析：贸易乐观情绪打压需求，金价下跌",
           "url": "https://flash.jin10.com/detail/20251028171145842800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1351,7 +1433,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据AXIOS网站：OpenAI的新浏览器Atlas引发隐私和安全担忧。隐私保护人士表示，该浏览器收集的数据量远远超过市场上任何其他浏览器。",
@@ -1360,7 +1442,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1399,6 +1481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "特朗普将在东京举行CEO晚餐会 OpenAI、Salesforce等公司的高管将出席",
+          "url": "https://wallstreetcn.com/livenews/2995041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
@@ -1465,6 +1558,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时12分 ~ 15时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "牛散 游资",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【数据看盘】两家实力游资大幅抢筹中钨高新 多路资金激烈博弈恒宝股份",
+          "url": "https://www.cls.cn/detail/2183593",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     }
