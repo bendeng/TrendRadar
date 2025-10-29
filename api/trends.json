@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T12:33:29.725551+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2025-10-29T13:27:43.022884+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 85,
       "titles": [
         {
           "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
@@ -42,6 +42,28 @@
           "time_info": "[00时33分 ~ 07时23分]"
         },
         {
+          "title": "“美方没回应”，特朗普高市谈完未举行记者会",
+          "url": "https://news.ifeng.com/c/8npPbg5dPvS",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时27分]"
+        },
+        {
+          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
+          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时27分]"
+        },
+        {
           "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
           "url": "https://news.ifeng.com/c/8np198dmCFI",
           "source": "凤凰网",
@@ -67,28 +89,6 @@
           "time_info": "[00时33分 ~ 07时23分]"
         },
         {
-          "title": "“美方没回应”，特朗普高市谈完未举行记者会",
-          "url": "https://news.ifeng.com/c/8npPbg5dPvS",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 12时33分]"
-        },
-        {
-          "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
-          "url": "https://news.ifeng.com/c/8nq4lf0RzBq",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 12时33分]"
-        },
-        {
           "title": "特朗普在美航母上讲话时用手拍导弹",
           "url": "https://www.toutiao.com/trending/7565827783251755027/",
           "source": "今日头条",
@@ -111,6 +111,17 @@
           "time_info": "[11时20分 ~ 11时21分]"
         },
         {
+          "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
+          "url": "https://news.ifeng.com/c/8nqIhJxIfmR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时27分]"
+        },
+        {
           "title": "美国参议院以52比48的投票比例通过法案，终止特朗普宣布的针对巴西进口商品实施50%关税的国家紧急状态。",
           "url": "https://flash.jin10.com/detail/20251029070406007800",
           "source": "金十数据",
@@ -122,24 +133,13 @@
           "time_info": "07时23分"
         },
         {
-          "title": "韩国总统府表示，韩国周三将以一顶金冠复制品迎接美国总统特朗普，并颁授他韩国最高勳章“无穷花大勳章”。",
-          "url": "https://wallstreetcn.com/livenews/2995590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
           "title": "特朗普称轰炸广岛长崎只是小冲突",
           "url": "https://www.toutiao.com/trending/7565938735481716799/",
           "source": "今日头条",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -161,7 +161,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -177,6 +177,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "美国总统特朗普：将所有制药企业带回美国。",
+          "url": "https://flash.jin10.com/detail/20251029125230949800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "特朗普称轰炸广岛长崎只是小冲突",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%BD%B0%E7%82%B8%E5%B9%BF%E5%B2%9B%E9%95%BF%E5%B4%8E%E5%8F%AA%E6%98%AF%E5%B0%8F%E5%86%B2%E7%AA%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26pos%3D4%26flag%3D1%26dgr%3D0%26realpos%3D4%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D4%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E8%25BD%25B0%25E7%2582%25B8%25E5%25B9%25BF%25E5%25B2%259B%25E9%2595%25BF%25E5%25B4%258E%25E5%258F%25AA%25E6%2598%25AF%25E5%25B0%258F%25E5%2586%25B2%25E7%25AA%2581%2523%26c_type%3D31%26display_time%3D1761702354%26pre_seqid%3D176170235464508154691",
           "source": "微博",
@@ -188,15 +199,15 @@
           "time_info": "09时58分"
         },
         {
-          "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
-          "url": "https://news.ifeng.com/c/8nqIhJxIfmR",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：我们将与印度达成一项伟大的贸易协议。",
+          "url": "https://flash.jin10.com/detail/20251029125151888800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "13时27分"
         },
         {
           "title": "美国总统特朗普：到目前为止，旅途非常愉快。",
@@ -208,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "美国总统特朗普：我们正携手解决前所未有的挑战，塑造一个自由开放的印太地区，为所有人打造一个有尊严、有安全、有繁荣、有自豪的未来。",
+          "url": "https://flash.jin10.com/detail/20251029125009672800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "英伟达CEO黄仁勋：美国总统特朗普并没有要求入股公司。",
@@ -235,6 +257,18 @@
           "time_info": "[00时34分 ~ 01时23分]"
         },
         {
+          "title": "韩国总统府表示，韩国周三将以一顶金冠复制品迎接美国总统特朗普，并颁授他韩国最高勳章“无穷花大勳章”。",
+          "url": "https://wallstreetcn.com/livenews/2995590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时27分]"
+        },
+        {
           "title": "CME活牛期货跌超0.4%，饲牛期货跌3.4%，美国总统特朗普要求美国市场降低牛肉价格。",
           "url": "https://wallstreetcn.com/livenews/2995304",
           "source": "华尔街见闻-快讯",
@@ -245,6 +279,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时20分]"
+        },
+        {
+          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 13时27分]"
         },
         {
           "title": "特朗普访日在美士兵面前即兴起舞",
@@ -260,18 +307,6 @@
           "time_info": "[09时58分 ~ 12时33分]"
         },
         {
-          "title": "高市早苗在安倍影子下拉拢特朗普：“不平等条约”与前途未卜的稀土协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848486",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 12时33分]"
-        },
-        {
           "title": "特朗普演讲时一把搂住高市早苗",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E6%97%B6%E4%B8%80%E6%8A%8A%E6%90%82%E4%BD%8F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97",
           "source": "百度热搜",
@@ -282,6 +317,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时58分 ~ 11时21分]"
+        },
+        {
+          "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
+          "url": "https://www.zhihu.com/question/1966809012960977218",
+          "source": "知乎",
+          "ranks": [
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时27分]"
         },
         {
           "title": "美国参议院共和党领袖图恩：如果政府停摆结束，美国总统特朗普愿意在下周与民主党人会面。",
@@ -343,6 +390,18 @@
           "time_info": "[03时20分 ~ 04时32分]"
         },
         {
+          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时27分]"
+        },
+        {
           "title": "周二（10月28日，美联储FOMC货币政策会议开幕当天），降息赢家指数涨0.63%，报99.69点。 成分股Wayfair收涨大约23.20%，礼恩派LEG涨15.36%，SoFi Technologies涨5.53%表现第三，Polaris则跌5.31%。 “特朗普关税输家”指数涨1.00%，报110.12点，也是成分股Wayfair领跑，美妆公司e.l.f. Beauty涨4.37%紧随其后。",
           "url": "https://wallstreetcn.com/livenews/2995353",
           "source": "华尔街见闻-快讯",
@@ -355,6 +414,18 @@
           "time_info": "[05时23分 ~ 06时23分]"
         },
         {
+          "title": "特朗普抵韩 落地后专属BGM响起",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时27分]"
+        },
+        {
           "title": "特朗普到底想不想俄乌停战",
           "url": "https://www.toutiao.com/trending/7566442804163907078/",
           "source": "今日头条",
@@ -364,6 +435,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "美国总统特朗普：如果我还是总统，俄乌冲突根本不会发生。我们在八个月内完成了八个这样的任务，我相信其他的也会解决。我曾认为那是最简单的事情之一。",
+          "url": "https://flash.jin10.com/detail/20251029124807266800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "高市早苗在安倍影子下拉拢特朗普",
@@ -383,9 +465,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "美国总统特朗普：我非常钦佩印度总理莫迪。",
+          "url": "https://flash.jin10.com/detail/20251029124606831800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "美国联邦法官计划阻挠总统特朗普在政府关门期间裁员。",
@@ -397,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "美国总统特朗普：如果你在美国建厂，关税为零。",
+          "url": "https://flash.jin10.com/detail/20251029124346508800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "美国卫生部长RFK Jr.勒令疾控中心研究海上风电场对（总统特朗普）所谓造成的伤害。",
@@ -432,6 +536,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "美国总统特朗普：我们希望中东能够实现永久和平。",
+          "url": "https://flash.jin10.com/detail/20251029124250216800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "美国交通部长Duffy：与空中交通控制相关的学生津贴即将耗尽。 在特朗普政府关门期间，与联邦航空管理局（FAA）相关的那些学生将被赶走。",
           "url": "https://wallstreetcn.com/livenews/2995230",
           "source": "华尔街见闻-快讯",
@@ -460,7 +575,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -471,20 +586,64 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
         {
-          "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
-          "url": "https://www.zhihu.com/question/1966809012960977218",
-          "source": "知乎",
+          "title": "美国总统特朗普：与韩国的协议很快就会最终敲定。",
+          "url": "https://flash.jin10.com/detail/20251029123731778800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "美国总统特朗普：一系列新投资的重要因素是贸易政策。",
+          "url": "https://flash.jin10.com/detail/20251029123612436800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "特朗普",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D15%26flag%3D1%26realpos%3D15%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26pos%3D15%26display_time%3D1761715544%26pre_seqid%3D176171554416508426976",
+          "source": "微博",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "13时27分"
+        },
+        {
+          "title": "美国总统特朗普：经济安全就是国家安全。",
+          "url": "https://flash.jin10.com/detail/20251029123440083800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "美国总统特朗普：简化新能源和采矿项目的审批流程。",
+          "url": "https://flash.jin10.com/detail/20251029123125103800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "韩国称，特朗普将与李在明举行午宴峰会，特朗普和李在明将在峰会上讨论贸易和联盟现代化问题。",
@@ -496,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "美国总统特朗普：美国正在改革钢铁生产并提高产量。",
+          "url": "https://flash.jin10.com/detail/20251029122942604800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "WTI原油期货维持超过2%的跌幅，持稳于60美元关口附近。 哈马斯宣布推迟当地时间10月28日的以色列人质尸体移交工作，因为对方违反（美国总统特朗普撮合的）约定。",
@@ -515,20 +685,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
         {
-          "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31848121",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：韩国正在购买大量我们的武器。",
+          "url": "https://flash.jin10.com/detail/20251029122713757800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在为投资者快速发放许可。",
+          "url": "https://flash.jin10.com/detail/20251029122632354800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "13时27分"
         },
         {
           "title": "英伟达股价在ALT交易所上涨8.5%，此前特朗普在讲话中谈及Blackwell芯片。",
@@ -564,6 +745,28 @@
           "time_info": "02时37分"
         },
         {
+          "title": "美国总统特朗普：当美国繁荣时，我们的联盟和印太地区也将繁荣。",
+          "url": "https://flash.jin10.com/detail/20251029122319085800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "美国总统特朗普：我们将拥有一个非常繁荣的造船业。",
+          "url": "https://flash.jin10.com/detail/20251029122248320800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "美国参议院多数派领导人John Thune：如果政府停摆事件结束，总统特朗普愿意下周会见民主党。",
           "url": "https://wallstreetcn.com/livenews/2995309",
           "source": "华尔街见闻-快讯",
@@ -586,6 +789,17 @@
           "time_info": "09时58分"
         },
         {
+          "title": "美国总统特朗普：期望美国在芯片产业中占据重要地位。",
+          "url": "https://flash.jin10.com/detail/20251029122241983800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "美国众议院议长约翰逊谈及特朗普政府的SNAP计划，称：美国农业部（USDA）的确研究过，但无法提供资金支持。 无法避免美国在11月1日发生食品券悬崖。",
           "url": "https://wallstreetcn.com/livenews/2995214",
           "source": "华尔街见闻-快讯",
@@ -597,15 +811,26 @@
           "time_info": "00时34分"
         },
         {
-          "title": "特朗普抵韩 落地后专属BGM响起",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
-          "source": "百度热搜",
+          "title": "特朗普或和李在明主谈关税问题",
+          "url": "https://www.toutiao.com/trending/7565869575464550406/",
+          "source": "今日头条",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "13时27分"
+        },
+        {
+          "title": "美国总统特朗普：我们是韩国的真诚伙伴。",
+          "url": "https://flash.jin10.com/detail/20251029122213781800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "美国众议院议长约翰逊：看不到特朗普第三次担任美国总统的可能性。",
@@ -630,6 +855,17 @@
           "time_info": "09时58分"
         },
         {
+          "title": "美国总统特朗普：半导体制造业正迅速回流美国。",
+          "url": "https://flash.jin10.com/detail/20251029122205634800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "特朗普再批美联储主席鲍威尔",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%89%B9%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E9%B2%8D%E5%A8%81%E5%B0%94",
           "source": "百度热搜",
@@ -639,6 +875,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美国总统特朗普：不会让美联储加息。",
+          "url": "https://flash.jin10.com/detail/20251029122156402800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "针对特朗普关税武器化等问题，日本民众连日抗议日美首脑会谈",
@@ -652,6 +899,39 @@
           "time_info": "00时34分"
         },
         {
+          "title": "美国总统特朗普：美国工厂正在蓬勃发展。",
+          "url": "https://flash.jin10.com/detail/20251029122125147800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "美国总统特朗普：预计下季度GDP增长4%。",
+          "url": "https://flash.jin10.com/detail/20251029122115641800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "美国总统特朗普：到我第二个任期结束时，可能将有21万亿-22万亿美元的投资流入美国。",
+          "url": "https://flash.jin10.com/detail/20251029122108424800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
           "title": "美媒：特朗普在解决自己制造的危机",
           "url": "https://www.toutiao.com/trending/7565398924144443455/",
           "source": "今日头条",
@@ -661,6 +941,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "美国总统特朗普：我们已确保超过18万亿美元的新投资承诺。",
+          "url": "https://flash.jin10.com/detail/20251029122054233800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
         },
         {
           "title": "特朗普正式提名迈克尔・塞利格担任美国CFTC主席",
@@ -713,8 +1004,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时23分 ~ 12时33分]"
+          "appearance_count": 7,
+          "time_info": "[06时23分 ~ 13时27分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -901,8 +1192,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 13时27分]"
         },
         {
           "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
@@ -1041,6 +1332,18 @@
           "time_info": "[02时37分 ~ 03时20分]"
         },
         {
+          "title": "金价暴涨暴跌后 有央行开始考虑卖黄金了……",
+          "url": "https://www.cls.cn/detail/2184251",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时27分]"
+        },
+        {
           "title": "金价暴跌有投资者打算割肉离场",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E6%9C%89%E6%8A%95%E8%B5%84%E8%80%85%E6%89%93%E7%AE%97%E5%89%B2%E8%82%89%E7%A6%BB%E5%9C%BA&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D27%26lcate%3D5001%26realpos%3D27%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E8%25B7%258C%25E6%259C%2589%25E6%258A%2595%25E8%25B5%2584%25E8%2580%2585%25E6%2589%2593%25E7%25AE%2597%25E5%2589%25B2%25E8%2582%2589%25E7%25A6%25BB%25E5%259C%25BA%26cate%3D5001%26dgr%3D0%26pos%3D28%26c_type%3D31%26stream_entry_id%3D31%26display_time%3D1761693616%26pre_seqid%3D17616936161180346969155",
           "source": "微博",
@@ -1064,17 +1367,6 @@
           "time_info": "07时23分"
         },
         {
-          "title": "金价暴涨暴跌后 有央行开始考虑卖黄金了……",
-          "url": "https://www.cls.cn/detail/2184251",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
           "title": "隔夜金价一度跌破3900美元，投行纷纷下调黄金价格预期；特朗普又向鲍威尔“开炮”，称其不是无能就是坏；在政府停摆、数据缺失的背景下，万众瞩目的美联储决议将于明日凌晨公布，当前黄金空头占优，白银卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251029105537246800",
           "source": "金十数据",
@@ -1089,18 +1381,53 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "A股光伏板块涨幅扩大，阿特斯触及20cm涨停，通润装备此前封板，隆基绿能、弘元绿能涨超9%，晶科能源、通威股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2995620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "A股午后近端次新股盘中持续走强，C禾元涨超28%，触发临停，成交超15亿。",
+          "url": "https://wallstreetcn.com/livenews/2995612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
         {
           "title": "上证指数早盘收报4002.83点，涨0.37%。 深证成指早盘收报13550.65点，涨0.90%。 创业板指早盘收报3273.28点，涨1.35%。 沪深300早盘收报4714.54点，涨0.48%。 科创50早盘收报1468.64点，跌0.21%。 中证500早盘收报7425.69点，涨1.15%。 中证1000早盘收报7513.86点，涨0.46%。",
           "url": "https://wallstreetcn.com/livenews/2995576",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时27分]"
+        },
+        {
+          "title": "10月29日午间收评：创业板指半日涨1.35%，海南自贸区、券商股集体走强",
+          "url": "https://wallstreetcn.com/livenews/2995575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时27分]"
         },
         {
           "title": "3000余家A股公司三季报“交卷”，科技创新加速转化为业绩增长引擎",
@@ -1112,17 +1439,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "10月29日午间收评：创业板指半日涨1.35%，海南自贸区、券商股集体走强",
-          "url": "https://wallstreetcn.com/livenews/2995575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         },
         {
           "title": "上证指数开盘报3990.27点，涨0.05%。 深证成指开盘报13484.01点，涨0.40%。 创业板指开盘报3263.98点，涨1.07%。 沪深300开盘报4701.04点，涨0.19%。 科创50开盘报1466.44点，跌0.36%。 中证500开盘报7350.76点，涨0.13%。 中证1000开盘报7481.24点，涨0.03%。",
