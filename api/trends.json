@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T09:58:12.455735+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2025-11-01T11:16:23.459458+08:00",
+  "total_titles_processed": 830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普称将重启核武试验，俄表示会效仿",
@@ -62,11 +62,12 @@
           "url": "https://www.cls.cn/detail/2188509",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 11时16分]"
         },
         {
           "title": "美国总统特朗普：尚未给予匈牙利总理欧尔班豁免权。",
@@ -213,6 +214,18 @@
           "time_info": "[02时35分 ~ 03时18分]"
         },
         {
+          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
+          "url": "https://wallstreetcn.com/articles/3758448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 11时16分]"
+        },
+        {
           "title": "美国法官要求特朗普政府在下周一前说明是否会批准至少削减11月的美国补充营养协助计划（SNAP）福利。",
           "url": "https://flash.jin10.com/detail/20251101015246394800",
           "source": "金十数据",
@@ -249,16 +262,16 @@
           "time_info": "[04时27分 ~ 07时22分]"
         },
         {
-          "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
-          "url": "https://wallstreetcn.com/articles/3758448",
-          "source": "华尔街见闻",
+          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            6
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时22分 ~ 09时58分]"
+          "time_info": "[09时57分 ~ 11时16分]"
         },
         {
           "title": "特朗普：尚未决定是否袭击委内瑞拉境内目标",
@@ -332,17 +345,6 @@
           "time_info": "[09时57分 ~ 09时58分]"
         },
         {
-          "title": "释疑｜特朗普突然宣称将“重启核试验”，核军备竞赛要来了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31864882",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
-        },
-        {
           "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：美联储主席鲍威尔说12月降息远非“板上钉钉之事”，这让人感到欣慰。 鲍威尔（在新闻发布会的表态）实际上体现出FOMC成员们看法所形成的一个区间/范围。 每次会议都会根据当时的实际情况来做决定。 （在特朗普政府停摆的）当下是最难预料的。",
           "url": "https://wallstreetcn.com/livenews/2997828",
           "source": "华尔街见闻-快讯",
@@ -386,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "特朗普：加总理道歉了，没用",
+          "url": "https://news.ifeng.com/c/8nv8pIjDqzy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "美国总统特朗普：（被问及美国是否将恢复地下核爆试验）你们很快就会知道了。",
@@ -509,6 +522,17 @@
           "time_info": "03时18分"
         },
         {
+          "title": "特朗普匆忙回程或预示美政府结束停摆",
+          "url": "https://www.toutiao.com/trending/7566776242700566564/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：在（总统特朗普的）政府关门事件造成政府数据缺失之际，美联储的数据具有重要意义。",
           "url": "https://wallstreetcn.com/livenews/2997822",
           "source": "华尔街见闻-快讯",
@@ -553,11 +577,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 09时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 11时16分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -586,6 +611,18 @@
           "time_info": "[04时27分 ~ 09时58分]"
         },
         {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 11时16分]"
+        },
+        {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
           "url": "https://flash.jin10.com/detail/20251101040612568800",
           "source": "金十数据",
@@ -611,18 +648,6 @@
           "time_info": "[04时27分 ~ 07时22分]"
         },
         {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 09时58分]"
-        },
-        {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
           "url": "https://www.cls.cn/detail/2188490",
           "source": "财联社热门",
@@ -631,8 +656,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 09时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 11时16分]"
         },
         {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
@@ -681,8 +706,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 11时16分]"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -791,6 +816,37 @@
       ]
     },
     {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "创业板跌超2%，光模块龙头“易中天”大跌，创新药反弹，恒科指跌超2%，华虹跌超7%",
+          "url": "https://wallstreetcn.com/articles/3758393",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 11时16分]"
+        },
+        {
+          "title": "中金公司：三季度A股盈利增速改善 结构层面亮点突出",
+          "url": "https://wallstreetcn.com/livenews/2997951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -806,26 +862,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "创业板跌超2%，光模块龙头“易中天”大跌，创新药反弹，恒科指跌超2%，华虹跌超7%",
-          "url": "https://wallstreetcn.com/articles/3758393",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 09时58分]"
         }
       ]
     },
