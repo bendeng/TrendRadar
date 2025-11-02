@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T16:30:07.198238+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2025-11-02T17:23:55.997070+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
@@ -20,6 +20,19 @@
           "time_info": "[09时58分 ~ 15时22分]"
         },
         {
+          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
+          "url": "https://wallstreetcn.com/articles/3758488",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 17时23分]"
+        },
+        {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
           "url": "https://www.cls.cn/detail/2188509",
           "source": "财联社热门",
@@ -31,21 +44,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时26分 ~ 16时30分]"
-        },
-        {
-          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
-          "url": "https://wallstreetcn.com/articles/3758488",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 16时30分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 17时23分]"
         },
         {
           "title": "美防长：特朗普和我都认为美中关系从未如此之好",
@@ -81,8 +81,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时58分 ~ 16时30分]"
+          "appearance_count": 14,
+          "time_info": "[09时58分 ~ 17时23分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -121,6 +121,17 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
+          "title": "奥巴马又怼特朗普政府：无法无天！",
+          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 17时23分]"
+        },
+        {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
           "url": "https://wallstreetcn.com/articles/3758448",
           "source": "华尔街见闻",
@@ -133,15 +144,15 @@
           "time_info": "[00时26分 ~ 01时18分]"
         },
         {
-          "title": "奥巴马又怼特朗普政府：无法无天！",
-          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
+          "title": "特朗普下令“战争部”做好准备",
+          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
           "source": "凤凰网",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "克里姆林宫：解决乌克兰局势需要细致入微的工作，而不是安排普京与特朗普的会晤。",
@@ -232,8 +243,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[02时32分 ~ 16时30分]"
+          "appearance_count": 24,
+          "time_info": "[02时32分 ~ 17时23分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -260,8 +271,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 16时30分]"
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 17时23分]"
         },
         {
           "title": "OpenAI重组对AI产业链意味着什么",
@@ -303,11 +314,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时26分 ~ 16时30分]"
+          "appearance_count": 26,
+          "time_info": "[00时26分 ~ 17时23分]"
         },
         {
           "title": "“国家队”持仓动向揭秘！Q3持仓超100亿A股上市公司名单一览",
@@ -320,19 +332,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时59分 ~ 16时30分]"
-        },
-        {
-          "title": "高盛公司将三花智控A股评级下调至中性，目标价40.90元人民币。",
-          "url": "https://wallstreetcn.com/livenews/2998113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时30分"
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 17时23分]"
         },
         {
           "title": "切入存储领域的照明龙头年内涨超450% 近一月披露并购重组进展的A股名单一览",
@@ -343,8 +344,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 16时30分]"
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 17时23分]"
+        },
+        {
+          "title": "高盛公司将三花智控A股评级下调至中性，目标价40.90元人民币。",
+          "url": "https://wallstreetcn.com/livenews/2998113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 17时23分]"
         },
         {
           "title": "A股下周市场会迎来大变盘信号吗",
@@ -466,8 +479,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时22分 ~ 16时30分]"
+          "appearance_count": 12,
+          "time_info": "[11时22分 ~ 17时23分]"
         }
       ]
     }
