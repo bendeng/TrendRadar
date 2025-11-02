@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T17:23:55.997070+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2025-11-02T18:24:42.487835+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
@@ -26,11 +26,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 18时24分]"
         },
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -73,18 +74,6 @@
           "time_info": "[00时26分 ~ 13时25分]"
         },
         {
-          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
-          "url": "https://www.zhihu.com/question/1967205319198372105",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时58分 ~ 17时23分]"
-        },
-        {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
           "url": "https://news.ifeng.com/c/8nvYkTEOR3A",
           "source": "凤凰网",
@@ -94,6 +83,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
+          "url": "https://www.zhihu.com/question/1967205319198372105",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时58分 ~ 18时24分]"
         },
         {
           "title": "纯碰瓷！特朗普重启核试验，也是“给中国送大礼”",
@@ -128,8 +130,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 18时24分]"
+        },
+        {
+          "title": "特朗普下令“战争部”做好准备",
+          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时24分]"
         },
         {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
@@ -142,17 +155,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时18分]"
-        },
-        {
-          "title": "特朗普下令“战争部”做好准备",
-          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
         },
         {
           "title": "克里姆林宫：解决乌克兰局势需要细致入微的工作，而不是安排普京与特朗普的会晤。",
@@ -212,6 +214,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时29分 ~ 16时30分]"
+        },
+        {
+          "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
+          "url": "https://news.ifeng.com/c/8nxFfh4rZIk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     },
@@ -268,11 +281,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 17时23分]"
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 18时24分]"
         },
         {
           "title": "OpenAI重组对AI产业链意味着什么",
@@ -318,8 +332,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时26分 ~ 17时23分]"
+          "appearance_count": 27,
+          "time_info": "[00时26分 ~ 18时24分]"
         },
         {
           "title": "“国家队”持仓动向揭秘！Q3持仓超100亿A股上市公司名单一览",
@@ -329,11 +343,12 @@
             10,
             6,
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时59分 ~ 17时23分]"
+          "appearance_count": 14,
+          "time_info": "[09时59分 ~ 18时24分]"
         },
         {
           "title": "切入存储领域的照明龙头年内涨超450% 近一月披露并购重组进展的A股名单一览",
@@ -341,11 +356,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 17时23分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 18时24分]"
         },
         {
           "title": "高盛公司将三花智控A股评级下调至中性，目标价40.90元人民币。",
@@ -353,11 +369,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 17时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 18时24分]"
         },
         {
           "title": "A股下周市场会迎来大变盘信号吗",
@@ -476,11 +493,12 @@
             12,
             15,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时22分 ~ 17时23分]"
+          "appearance_count": 13,
+          "time_info": "[11时22分 ~ 18时24分]"
         }
       ]
     }
