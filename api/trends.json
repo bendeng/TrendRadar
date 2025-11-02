@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T21:27:28.999124+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2025-11-02T22:20:46.370655+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时28分 ~ 21时27分]"
+          "appearance_count": 15,
+          "time_info": "[12时28分 ~ 22时20分]"
         },
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -50,6 +50,17 @@
           "time_info": "[00时26分 ~ 17时23分]"
         },
         {
+          "title": "奥巴马又怼特朗普政府：无法无天！",
+          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 22时20分]"
+        },
+        {
           "title": "美防长：特朗普和我都认为美中关系从未如此之好",
           "url": "https://news.ifeng.com/c/8nwvz4AVTbb",
           "source": "凤凰网",
@@ -62,15 +73,15 @@
           "time_info": "[12时28分 ~ 15时22分]"
         },
         {
-          "title": "奥巴马又怼特朗普政府：无法无天！",
-          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
+          "title": "特朗普下令“战争部”做好准备",
+          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
           "source": "凤凰网",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 21时27分]"
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 22时20分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
@@ -136,17 +147,6 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
-          "title": "特朗普下令“战争部”做好准备",
-          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 21时27分]"
-        },
-        {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
           "url": "https://wallstreetcn.com/articles/3758448",
           "source": "华尔街见闻",
@@ -157,6 +157,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
+          "url": "https://flash.jin10.com/detail/20251102221418618800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
+          "url": "https://wallstreetcn.com/livenews/2998163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
+          "url": "https://news.ifeng.com/c/8nxFfh4rZIk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 22时20分]"
         },
         {
           "title": "克里姆林宫：解决乌克兰局势需要细致入微的工作，而不是安排普京与特朗普的会晤。",
@@ -186,15 +219,15 @@
           "time_info": "[19时18分 ~ 21时27分]"
         },
         {
-          "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
-          "url": "https://news.ifeng.com/c/8nxFfh4rZIk",
+          "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
+          "url": "https://v.ifeng.com/c/8nx3gSMpzKH",
           "source": "凤凰网",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时24分 ~ 21时27分]"
+          "time_info": "[19时18分 ~ 22时20分]"
         },
         {
           "title": "邵永灵：特朗普又将矛头对准尼日利亚",
@@ -209,15 +242,29 @@
           "time_info": "[15时21分 ~ 16时30分]"
         },
         {
-          "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
-          "url": "https://v.ifeng.com/c/8nx3gSMpzKH",
-          "source": "凤凰网",
+          "title": "以色列总理内塔尼亚胡：解除哈马斯的武装、实现加沙地带的非军事化是我们坚持的原则，这是我与特朗普总统共同达成的共识，我们正是以此为明确纲领开展行动。当然，如果这种方法行不通，我们将会采取另一种方法。",
+          "url": "https://flash.jin10.com/detail/20251102194256163800",
+          "source": "金十数据",
           "ranks": [
-            12
+            10,
+            13,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时27分]"
+          "time_info": "[20时44分 ~ 22时20分]"
+        },
+        {
+          "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时20分]"
         },
         {
           "title": "特朗普主动提“G2” 中国为何不接招",
@@ -243,29 +290,6 @@
           "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡：解除哈马斯的武装、实现加沙地带的非军事化是我们坚持的原则，这是我与特朗普总统共同达成的共识，我们正是以此为明确纲领开展行动。当然，如果这种方法行不通，我们将会采取另一种方法。",
-          "url": "https://flash.jin10.com/detail/20251102194256163800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 21时27分]"
-        },
-        {
-          "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 21时27分]"
-        },
-        {
           "title": "特朗普威胁对尼日利亚采取军事行动",
           "url": "https://www.toutiao.com/trending/7567545340048670729/",
           "source": "今日头条",
@@ -275,6 +299,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时35分 ~ 14时36分]"
+        },
+        {
+          "title": "美国财长贝森特：特朗普政府不会就法官关于“补充营养援助计划”(SNAP)福利的裁决提出上诉。",
+          "url": "https://flash.jin10.com/detail/20251102220538929800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     },
@@ -335,8 +370,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时28分 ~ 21时27分]"
+          "appearance_count": 15,
+          "time_info": "[12时28分 ~ 22时20分]"
         },
         {
           "title": "OpenAI重组对AI产业链意味着什么",
@@ -382,8 +417,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时26分 ~ 21时27分]"
+          "appearance_count": 31,
+          "time_info": "[00时26分 ~ 22时20分]"
         },
         {
           "title": "“国家队”持仓动向揭秘！Q3持仓超100亿A股上市公司名单一览",
@@ -397,8 +432,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时59分 ~ 21时27分]"
+          "appearance_count": 18,
+          "time_info": "[09时59分 ~ 22时20分]"
         },
         {
           "title": "切入存储领域的照明龙头年内涨超450% 近一月披露并购重组进展的A股名单一览",
@@ -408,11 +443,12 @@
             12,
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时21分 ~ 21时27分]"
+          "appearance_count": 10,
+          "time_info": "[15时21分 ~ 22时20分]"
         },
         {
           "title": "高盛公司将三花智控A股评级下调至中性，目标价40.90元人民币。",
@@ -436,11 +472,12 @@
           "ranks": [
             7,
             13,
-            16
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时27分]"
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时20分]"
         },
         {
           "title": "A股下周市场会迎来大变盘信号吗",
@@ -561,11 +598,12 @@
             16,
             17,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时22分 ~ 21时27分]"
+          "appearance_count": 17,
+          "time_info": "[11时22分 ~ 22时20分]"
         }
       ]
     }
