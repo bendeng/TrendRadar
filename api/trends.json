@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T11:16:31.225605+08:00",
-  "total_titles_processed": 961,
+  "generated_at": "2025-11-05T12:29:44.099600+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时29分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -52,7 +53,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -144,6 +145,18 @@
           "time_info": "[00时30分 ~ 01时31分]"
         },
         {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 12时29分]"
+        },
+        {
           "title": "美国法官被原告的代理律师要求强迫总统特朗普的政府全额支付关于联邦食品救济项目“补充营养援助计划”（SNAP）的资金。",
           "url": "https://wallstreetcn.com/livenews/2999303",
           "source": "华尔街见闻-快讯",
@@ -178,18 +191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时42分]"
-        },
-        {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 11时16分]"
         },
         {
           "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
@@ -329,7 +330,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -395,7 +396,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -417,7 +418,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -458,7 +459,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -494,8 +495,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 12时29分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -506,19 +507,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 12时29分]"
         },
         {
           "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
           "url": "https://www.zhihu.com/question/1969182296755122552",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时29分]"
         },
         {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
@@ -543,6 +545,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时42分]"
+        },
+        {
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时29分]"
         },
         {
           "title": "费城金银指数收跌4.51%，报265.03点，跳空低开之后，大部分时间低位震荡。 纽约证交所ARCA金矿开采商指数收跌3.98%，报1926.21点；北京时间22:30美股开盘之前维持微幅下跌状态，主要持稳于2000-1990点区间，之后跳空下挫，后续低位震荡。",
@@ -597,7 +611,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -619,7 +633,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -633,17 +647,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
-        },
-        {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
         },
         {
           "title": "戴尔科技美股盘后跌3.7%，投资者关注超微电脑业绩报告。",
@@ -696,9 +699,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "金十整理：美股“一夜变天”，华尔街对美股未来走势争论不休",
+          "url": "https://flash.jin10.com/detail/20251105113353093800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "超微电脑第一财季净销售50.2亿美元，分析师预期60.9亿美元。预计全年净销售至少360亿美元，公司原本预计至少330亿美元。预计第二财季净销售100亿-110亿美元，分析师预期80.5亿美元。超微电脑美股盘后跌超10%。",
@@ -737,7 +751,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "A股投资者逼近2.5亿！年末或将突破大关",
@@ -747,8 +761,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 12时29分]"
         },
         {
           "title": "【每日收评】创业板指跌近2%，两市成交额不足2万亿，福建本地股逆势爆发",
@@ -797,6 +811,18 @@
           "time_info": "[01时30分 ~ 02时36分]"
         },
         {
+          "title": "A股电力股异动拉升，闽东电力直线涨停，恒盛能源涨超7%，九洲集团、乐山电力、豫能控股、廊坊发展等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/2999573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时29分]"
+        },
+        {
           "title": "A股",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DA%E8%82%A1&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D24%26flag%3D1%26lcate%3D5001%26realpos%3D24%26filter_type%3Drealtimehot%26q%3DA%25E8%2582%25A1%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26pos%3D24%26c_type%3D31%26display_time%3D1762307571%26pre_seqid%3D176230757178508987945&launchid=10000360-page_H5",
           "source": "微博",
@@ -806,17 +832,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时54分 ~ 09时55分]"
-        },
-        {
-          "title": "A股电力股异动拉升，闽东电力直线涨停，恒盛能源涨超7%，九洲集团、乐山电力、豫能控股、廊坊发展等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/2999573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
         },
         {
           "title": "A股海南自贸区板块盘初冲高，海马汽车涨停，海峡股份、洲际油气、欣龙控股、罗牛山、康芝药业跟涨。",
@@ -836,9 +851,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "上证指数早盘收报3962.04点，涨0.05%。 深证成指早盘收报13155.62点，跌0.15%。 创业板指早盘收报3139.53点，涨0.17%。 沪深300早盘收报4615.33点，跌0.07%。 科创50早盘收报1379.94点，跌0.53%。 中证500早盘收报7205.24点，跌0.08%。 中证1000早盘收报7440.96点，涨0.07%。",
+          "url": "https://wallstreetcn.com/livenews/2999598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "11月5日午间收评：沪指、创业板指低开高走翻红，海南、电网设备板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/2999597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "A股三大指数集体低开，算力硬件产业链再度回",
@@ -861,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "创业板指翻红，此前一度跌超2%。沪指接近翻红。",
+          "url": "https://wallstreetcn.com/livenews/2999590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         }
       ]
     },
@@ -873,11 +921,12 @@
           "url": "https://wallstreetcn.com/livenews/2999584",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时29分]"
         },
         {
           "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
@@ -903,6 +952,17 @@
           "time_info": "[09时54分 ~ 09时55分]"
         },
         {
+          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时29分]"
+        },
+        {
           "title": "AMD：AI芯片的机会超过5000亿美元。 与OpenAI的协议是一个独一无二的结构。",
           "url": "https://wallstreetcn.com/livenews/2999443",
           "source": "华尔街见闻-快讯",
@@ -912,17 +972,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
-          "url": "https://www.zhihu.com/question/1968690991750967598",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
         }
       ]
     },
@@ -973,7 +1022,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -1091,7 +1140,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         }
