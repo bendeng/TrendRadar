@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T22:29:00.127215+08:00",
-  "total_titles_processed": 2010,
+  "generated_at": "2025-11-06T23:28:30.809411+08:00",
+  "total_titles_processed": 2089,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时57分 ~ 22时29分]"
+          "appearance_count": 17,
+          "time_info": "[09时57分 ~ 23时28分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -95,6 +95,18 @@
           "time_info": "[00时33分 ~ 09时57分]"
         },
         {
+          "title": "特朗普为什么总是针对南非？",
+          "url": "https://news.ifeng.com/c/8o3ygttojoa",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时51分 ~ 23时28分]"
+        },
+        {
           "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
           "url": "https://news.ifeng.com/c/8o2qbh848kJ",
           "source": "凤凰网",
@@ -119,16 +131,16 @@
           "time_info": "[11时20分 ~ 13时27分]"
         },
         {
-          "title": "特朗普为什么总是针对南非？",
-          "url": "https://news.ifeng.com/c/8o3ygttojoa",
-          "source": "凤凰网",
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            4
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时51分 ~ 22时29分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 23时28分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -152,18 +164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
-          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 22时29分]"
         },
         {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
@@ -296,6 +296,19 @@
           "time_info": "[20时51分 ~ 22时29分]"
         },
         {
+          "title": "特朗普重申不会出席G20峰会",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时28分]"
+        },
+        {
           "title": "提醒：美国最高法院针对特朗普关税官司的辩论环节结束。",
           "url": "https://wallstreetcn.com/livenews/3000053",
           "source": "华尔街见闻-快讯",
@@ -307,18 +320,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普重申不会出席G20峰会",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时29分]"
         },
         {
           "title": "据CBS新闻：礼来制药、诺和诺德将与美国总统特朗普宣布下调减肥药价格。",
@@ -701,7 +702,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -712,8 +713,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时57分 ~ 22时29分]"
+          "appearance_count": 17,
+          "time_info": "[09时57分 ~ 23时28分]"
         },
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -800,6 +801,17 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
+          "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
+          "url": "https://wallstreetcn.com/livenews/3000636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "纳斯达克美股盘前下跌1.8%，此前欧盟委员会就德意志交易所与纳斯达克之间可能存在的合谋行为展开反垄断调查。",
           "url": "https://flash.jin10.com/detail/20251106191520119800",
           "source": "金十数据",
@@ -867,8 +879,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时29分]"
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时28分]"
         },
         {
           "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
@@ -881,6 +893,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时25分]"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3000606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时28分]"
         },
         {
           "title": "美股收盘：三大股指收涨 超微电脑跌11%",
@@ -919,6 +943,18 @@
           "time_info": "[06时24分 ~ 07时25分]"
         },
         {
+          "title": "礼来美股盘前一度涨近2%，公司新减肥药Eloralintide减重超20%，拟与白宫合作拓宽医保覆盖。",
+          "url": "https://wallstreetcn.com/livenews/3000605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时28分]"
+        },
+        {
           "title": "Metsera美股盘后涨6.8%。",
           "url": "https://wallstreetcn.com/livenews/3000123",
           "source": "华尔街见闻-快讯",
@@ -929,6 +965,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时25分]"
+        },
+        {
+          "title": "摩根大通称散户有望支撑美股直至年关 高盛认为回调不会持久",
+          "url": "https://wallstreetcn.com/livenews/3000599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时29分 ~ 23时28分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
@@ -943,26 +991,15 @@
           "time_info": "[02时35分 ~ 03时23分]"
         },
         {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3000606",
-          "source": "华尔街见闻-快讯",
+          "title": "美股低开低走，纳指跌幅扩大至1%，标普500指数跌0.68%，道指跌0.65%。",
+          "url": "https://flash.jin10.com/detail/20251106230312926800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时29分"
-        },
-        {
-          "title": "礼来美股盘前一度涨近2%，公司新减肥药Eloralintide减重超20%，拟与白宫合作拓宽医保覆盖。",
-          "url": "https://wallstreetcn.com/livenews/3000605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时29分"
+          "time_info": "23时28分"
         },
         {
           "title": "特朗普上任一年美股跑输全球大盘",
@@ -976,6 +1013,17 @@
           "time_info": "02时35分"
         },
         {
+          "title": "Datadog美股盘初涨19%，创2022年2月份以来盘中新高。",
+          "url": "https://wallstreetcn.com/livenews/3000620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
           "url": "https://wallstreetcn.com/livenews/3000120",
           "source": "华尔街见闻-快讯",
@@ -987,15 +1035,15 @@
           "time_info": "06时24分"
         },
         {
-          "title": "摩根大通称散户有望支撑美股直至年关 高盛认为回调不会持久",
-          "url": "https://wallstreetcn.com/livenews/3000599",
+          "title": "行业ETF美股盘初涨跌各异。 网络股指数ETF跌0.61%，可选消费ETF跌0.54%，全球科技股指数ETF跌0.48%，科技行业ETF跌0.25%，半导体ETF跌0.09%。 银行业ETF则涨0.32%，能源业ETF涨0.63%",
+          "url": "https://wallstreetcn.com/livenews/3000619",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时29分"
+          "time_info": "23时28分"
         },
         {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股盘中）",
@@ -1031,15 +1079,37 @@
           "time_info": "02时35分"
         },
         {
+          "title": "金十图示：2025年11月06日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251106225002023800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2025-11-06）",
           "url": "https://flash.jin10.com/detail/20251106220221302800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时29分"
+        },
+        {
+          "title": "多邻国美股跌幅达创纪录的27%，股价跌至2024年8月以来最低水平。",
+          "url": "https://flash.jin10.com/detail/20251106223241147800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         }
       ]
     },
@@ -1440,6 +1510,19 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时51分 ~ 23时28分]"
+        },
+        {
           "title": "紫金黄金国际港股涨逾8%，创一周来盘中最大涨幅。摩根士丹利给予其超配的初始评级，目标价为175港元，称其当前估值隐含的黄金价格仅约为3500美元/盎司，具有吸引力。",
           "url": "https://wallstreetcn.com/livenews/3000356",
           "source": "华尔街见闻-快讯",
@@ -1452,28 +1535,16 @@
           "time_info": "[14时37分 ~ 15时25分]"
         },
         {
-          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时51分 ~ 22时29分]"
-        },
-        {
           "title": "金价暴涨三四线城市金店撑不住了",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26band_rank%3D27%26stream_entry_id%3D31%26pos%3D27%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26realpos%3D27%26display_time%3D1762439232%26pre_seqid%3D17624392326750257096108&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时28分 ~ 22时29分]"
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时28分]"
         },
         {
           "title": "澳大利亚贸易顺差受金价飙升推动",
@@ -1616,8 +1687,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 22时29分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 23时28分]"
         }
       ]
     }
