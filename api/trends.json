@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T14:37:48.463794+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2025-11-06T15:25:52.824981+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,18 @@
           "time_info": "[00时33分 ~ 11时20分]"
         },
         {
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 15时25分]"
+        },
+        {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
           "url": "https://wallstreetcn.com/articles/3758695",
           "source": "华尔街见闻",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时25分]"
-        },
-        {
-          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
-          "url": "https://wallstreetcn.com/articles/3758755",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 14时37分]"
         },
         {
           "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
@@ -53,8 +53,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时23分 ~ 14时37分]"
+          "appearance_count": 12,
+          "time_info": "[05时23分 ~ 15时25分]"
+        },
+        {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 15时25分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -81,17 +92,6 @@
           "time_info": "[09时57分 ~ 13时27分]"
         },
         {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 14时37分]"
-        },
-        {
           "title": "特朗普的大麻烦来了",
           "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
           "source": "凤凰网",
@@ -114,6 +114,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 11时20分]"
+        },
+        {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时25分]"
         },
         {
           "title": "美国总统特朗普：我们必须把牛肉价格降下来。",
@@ -147,17 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
-        },
-        {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         },
         {
           "title": "纽约新市长为何成特朗普的“噩梦”",
@@ -444,7 +444,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -499,7 +499,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -609,6 +609,17 @@
           "time_info": "[00时33分 ~ 06时24分]"
         },
         {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 15时25分]"
+        },
+        {
           "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
           "url": "https://www.cls.cn/detail/2192424",
           "source": "财联社热门",
@@ -622,15 +633,17 @@
           "time_info": "[07时24分 ~ 14时37分]"
         },
         {
-          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
+          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
+          "url": "https://www.cls.cn/detail/2192518",
+          "source": "财联社热门",
           "ranks": [
-            1
+            6,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 15时25分]"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -646,17 +659,16 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
-          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
-          "url": "https://www.cls.cn/detail/2192518",
-          "source": "财联社热门",
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
-            4
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 15时25分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -668,18 +680,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 07时25分]"
-        },
-        {
-          "title": "美股泡沫有多大？瑞银给出七个观测指标",
-          "url": "https://wallstreetcn.com/articles/3758712",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 14时37分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
@@ -836,7 +836,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -848,17 +848,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时25分]"
-        },
-        {
-          "title": "创业板指涨超2%，沪指涨0.9%，深成指涨1.73%，磷化工、有色金属、机器人、算力硬件等方向领涨，沪深京三市上涨个股近2800只。",
-          "url": "https://wallstreetcn.com/livenews/3000348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         },
         {
           "title": "高估值担忧引发全球风险资产重挫，A股低开高走逆势翻红",
@@ -895,6 +884,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 14时37分]"
+        },
+        {
+          "title": "创业板指涨超2%，沪指涨0.9%，深成指涨1.73%，磷化工、有色金属、机器人、算力硬件等方向领涨，沪深京三市上涨个股近2800只。",
+          "url": "https://wallstreetcn.com/livenews/3000348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时25分]"
         },
         {
           "title": "A股汽车芯片概念震荡反弹，格尔软件涨停，源杰科技、东芯股份、芯原股份、兆易创新、扬杰科技、龙芯中科等跟涨。",
@@ -945,13 +946,24 @@
           "time_info": "[12时32分 ~ 13时27分]"
         },
         {
+          "title": "金十数据整理：A股每日市场要闻回顾（2025-11-06）",
+          "url": "https://flash.jin10.com/detail/20251106150920560800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "A股消费电子板块震荡上扬，东山精密午后涨停，鸿富瀚涨超8%创新高，蓝思科技、百邦科技、博杰股份、统联精密、瀛通通讯跟涨。",
           "url": "https://wallstreetcn.com/livenews/3000335",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -976,6 +988,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "A股收盘：沪指涨近1%重返4000点，化工、有色板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/3000384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "上证指数收报4007.76点，涨0.97%。 深证成指收报13452.42点，涨1.73%。 创业板指收报3224.62点，涨1.84%。 沪深300收报4693.40点，涨1.43%。 科创50收报1436.86点，涨3.34%。 中证500收报7345.72点，涨1.61%。 中证1000收报7551.83点，涨1.17%。",
+          "url": "https://wallstreetcn.com/livenews/3000382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "上证指数开盘报3973.35点，涨0.10%。 深证成指开盘报13272.47点，涨0.37%。 创业板指开盘报3185.13点，涨0.60%。 沪深300开盘报4642.01点，涨0.32%。 科创50开盘报1405.15点，涨1.06%。 中证500开盘报7243.20点，涨0.19%。 中证1000开盘报7482.91点，涨0.24%。",
@@ -1146,7 +1180,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -1183,11 +1217,12 @@
           "url": "https://wallstreetcn.com/livenews/3000356",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时25分]"
         },
         {
           "title": "澳大利亚贸易顺差受金价飙升推动",
@@ -1226,7 +1261,7 @@
     },
     {
       "keyword_group": "主力资金 开源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "主力资金流向前十大个股",
@@ -1239,6 +1274,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时20分 ~ 14时37分]"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流入11.65亿元，占比0.06%；大单资金净流出112.16亿元，占比0.55%；小单资金净流入120.12亿元，占比0.58%。",
+          "url": "https://flash.jin10.com/detail/20251106150622506800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     }
