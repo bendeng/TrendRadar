@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T14:37:50.932711+08:00",
-  "total_titles_processed": 1241,
+  "generated_at": "2025-11-07T15:26:42.652685+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 72,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -46,11 +46,12 @@
           "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 15时26分]"
         },
         {
           "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
@@ -75,6 +76,44 @@
           "time_info": "03时20分"
         },
         {
+          "title": "特朗普称已与中俄领导人讨论无核化，外交部：中国核力量与美俄完全不在一个量级",
+          "url": "https://wallstreetcn.com/livenews/3001047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
+          "url": "https://www.cls.cn/detail/2193664",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 15时26分]"
+        },
+        {
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时16分 ~ 15时26分]"
+        },
+        {
           "title": "佩洛西宣布退休 特朗普：大好事，她是个邪恶的女人",
           "url": "https://flash.jin10.com/detail/20251107072831115800",
           "source": "金十数据",
@@ -92,9 +131,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "特朗普将与匈牙利总理欧尔班会面，讨论俄罗斯石油及经济合作问题。",
@@ -103,7 +153,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -117,32 +167,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
-        },
-        {
-          "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
-          "url": "https://www.cls.cn/detail/2193664",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 14时37分]"
-        },
-        {
-          "title": "特朗普：美国人正为关税付出代价",
-          "url": "https://www.toutiao.com/trending/7569021464603901971/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时16分 ~ 14时37分]"
         },
         {
           "title": "男子在特朗普身边晕倒 发布会中断",
@@ -369,6 +393,17 @@
           "time_info": "[00时33分 ~ 01时25分]"
         },
         {
+          "title": "特朗普痛骂佩洛西是“邪恶女人”",
+          "url": "https://www.toutiao.com/trending/7569040586016620587/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时26分]"
+        },
+        {
           "title": "美国众议长约翰逊：我可不会对（总统特朗普的政府关门期间的）医疗保健补贴问题作出投票承诺。",
           "url": "https://wallstreetcn.com/livenews/3000647",
           "source": "华尔街见闻-快讯",
@@ -417,6 +452,17 @@
           "time_info": "[02时37分 ~ 03时20分]"
         },
         {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "美国总统特朗普：礼来公司将在美国投资270亿美元，诺和诺德将投资100亿美元。",
           "url": "https://flash.jin10.com/detail/20251107011357287800",
           "source": "金十数据",
@@ -426,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "特朗普称计划应莫迪邀请到访印度 访问时间可能定在明年",
+          "url": "https://wallstreetcn.com/livenews/3001040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "特朗普官宣：减肥药降价",
@@ -569,17 +626,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
-        },
-        {
-          "title": "特朗普痛骂佩洛西是“邪恶女人”",
-          "url": "https://www.toutiao.com/trending/7569040586016620587/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         },
         {
           "title": "美联储威廉姆斯、巴尔将于十分钟后出席活动；美国总统特朗普将于十分钟后就减肥药物发表声明。",
@@ -829,8 +875,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时36分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[07时36分 ~ 15时26分]"
+        },
+        {
+          "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
+          "url": "https://www.cls.cn/detail/2193592",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时23分 ~ 15时26分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -846,20 +907,6 @@
           "time_info": "[00时33分 ~ 09时59分]"
         },
         {
-          "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
-          "url": "https://www.cls.cn/detail/2193592",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时23分 ~ 14时37分]"
-        },
-        {
           "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
           "url": "https://wallstreetcn.com/articles/3758813",
           "source": "华尔街见闻",
@@ -868,8 +915,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时36分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[07时36分 ~ 15时26分]"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -1032,6 +1079,149 @@
       ]
     },
     {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "AH股强势收涨，沪指重返4000点，创业板涨1.8%，算力硬件产业链爆发，恒指涨超2%，机械、有色金属、半导体领涨",
+          "url": "https://wallstreetcn.com/articles/3758777",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 15时26分]"
+        },
+        {
+          "title": "创业板指跌超1%，沪指跌0.19%，深成指跌0.73%，CPO、AI芯片、量子科技、PCB等方向跌幅居前，沪深京三市下跌个股超3100只。",
+          "url": "https://wallstreetcn.com/livenews/3000863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时16分]"
+        },
+        {
+          "title": "A股三大指数全线转涨，此前创业板一度跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3000920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时29分]"
+        },
+        {
+          "title": "A股中船系概念股直线拉涨，中船特气涨2.66%，昆船智能、中国防务、中国船舶涨幅居前。国产航母概念股拉升，国瑞科技涨超10%，中国卫星、昊华科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3000975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时37分]"
+        },
+        {
+          "title": "A股海南自贸区板块高开，海马汽车涨停，海南发展、康芝药业、欣龙控股、凯撒旅业、海峡股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3000857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 11时16分]"
+        },
+        {
+          "title": "上证指数早盘收报4001.24点，跌0.16%。 深证成指早盘收报13431.09点，跌0.16%。 创业板指早盘收报3212.70点，跌0.37%。 沪深300早盘收报4683.66点，跌0.21%。 科创50早盘收报1426.03点，跌0.75%。 中证500早盘收报7341.93点，跌0.05%。 中证1000早盘收报7555.76点，涨0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3000939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时25分]"
+        },
+        {
+          "title": "上证指数开盘报3994.32点，跌0.34%。 深证成指开盘报13380.35点，跌0.54%。 创业板指开盘报3201.26点，跌0.72%。 沪深300开盘报4673.76点，跌0.42%。 科创50开盘报1420.23点，跌1.16%。 中证500开盘报7307.30点，跌0.52%。 中证1000开盘报7519.75点，跌0.42%。",
+          "url": "https://wallstreetcn.com/livenews/3000852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "A股收盘：三大指数小幅下跌，闻泰科技尾盘直线拉升，化工、电池板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3001035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "A股商业航天板块短线拉升，上海沪工直线触及涨停，航天智装涨超6%，上海瀚讯、航天动力、航天科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3000898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "上证指数收报3997.56点，跌0.25%。 深证成指收报13404.06点，跌0.36%。 创业板指收报3208.21点，跌0.51%。 沪深300收报4678.79点，跌0.31%。 科创50收报1415.69点，跌1.47%。 中证500收报7327.91点，跌0.24%。 中证1000收报7541.88点，跌0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3001031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "整体营收净利均两位数增长，创业板三季报何以领跑",
+          "url": "https://wallstreetcn.com/livenews/3000785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "上证报：北交所市场生态日趋完善，专精特新企业价值获认可",
+          "url": "https://wallstreetcn.com/livenews/3000780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 10,
       "titles": [
@@ -1044,8 +1234,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时36分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[07时36分 ~ 15时26分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1072,8 +1262,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 15时26分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -1086,8 +1276,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 15时26分]"
         },
         {
           "title": "OpenAI的CEO Sam Altman：在OpenAI数据中心问题上，并没有获得美国政府的（资金）担保。 讨论过通过（寻求）贷款担保来支持美国半导体晶圆（的可行性）。",
@@ -1163,127 +1353,6 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "创业板指跌超1%，沪指跌0.19%，深成指跌0.73%，CPO、AI芯片、量子科技、PCB等方向跌幅居前，沪深京三市下跌个股超3100只。",
-          "url": "https://wallstreetcn.com/livenews/3000863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时16分]"
-        },
-        {
-          "title": "A股三大指数全线转涨，此前创业板一度跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3000920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 12时29分]"
-        },
-        {
-          "title": "A股中船系概念股直线拉涨，中船特气涨2.66%，昆船智能、中国防务、中国船舶涨幅居前。国产航母概念股拉升，国瑞科技涨超10%，中国卫星、昊华科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3000975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时37分]"
-        },
-        {
-          "title": "AH股强势收涨，沪指重返4000点，创业板涨1.8%，算力硬件产业链爆发，恒指涨超2%，机械、有色金属、半导体领涨",
-          "url": "https://wallstreetcn.com/articles/3758777",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 14时37分]"
-        },
-        {
-          "title": "A股海南自贸区板块高开，海马汽车涨停，海南发展、康芝药业、欣龙控股、凯撒旅业、海峡股份跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3000857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时16分]"
-        },
-        {
-          "title": "上证指数早盘收报4001.24点，跌0.16%。 深证成指早盘收报13431.09点，跌0.16%。 创业板指早盘收报3212.70点，跌0.37%。 沪深300早盘收报4683.66点，跌0.21%。 科创50早盘收报1426.03点，跌0.75%。 中证500早盘收报7341.93点，跌0.05%。 中证1000早盘收报7555.76点，涨0.05%。",
-          "url": "https://wallstreetcn.com/livenews/3000939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时25分]"
-        },
-        {
-          "title": "上证指数开盘报3994.32点，跌0.34%。 深证成指开盘报13380.35点，跌0.54%。 创业板指开盘报3201.26点，跌0.72%。 沪深300开盘报4673.76点，跌0.42%。 科创50开盘报1420.23点，跌1.16%。 中证500开盘报7307.30点，跌0.52%。 中证1000开盘报7519.75点，跌0.42%。",
-          "url": "https://wallstreetcn.com/livenews/3000852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "A股商业航天板块短线拉升，上海沪工直线触及涨停，航天智装涨超6%，上海瀚讯、航天动力、航天科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3000898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "整体营收净利均两位数增长，创业板三季报何以领跑",
-          "url": "https://wallstreetcn.com/livenews/3000785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "上证报：北交所市场生态日趋完善，专精特新企业价值获认可",
-          "url": "https://wallstreetcn.com/livenews/3000780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 6,
       "titles": [
@@ -1295,11 +1364,12 @@
             5,
             6,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 14时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 15时26分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -1365,36 +1435,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数下跌0.5%",
-          "url": "https://wallstreetcn.com/livenews/3000729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "美元指数6日下跌",
-          "url": "https://flash.jin10.com/detail/20251107052956396800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "主力资金 开源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "主力资金流向前十大个股",
@@ -1419,6 +1461,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时25分 ~ 14时37分]"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出471.62亿元，占比2.36%；大单资金净流出249.78亿元，占比1.25%；小单资金净流入401.83亿元，占比2.01%。",
+          "url": "https://flash.jin10.com/detail/20251107150633437800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数下跌0.5%",
+          "url": "https://wallstreetcn.com/livenews/3000729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
+        {
+          "title": "美元指数6日下跌",
+          "url": "https://flash.jin10.com/detail/20251107052956396800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         }
       ]
     },
