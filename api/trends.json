@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T13:23:24.340712+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2025-11-08T14:35:40.559670+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "time_info": "[00时27分 ~ 07时23分]"
         },
         {
+          "title": "死对头要走了，特朗普开心坏了",
+          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时47分 ~ 14时35分]"
+        },
+        {
           "title": "特朗普真想对委内瑞拉开战吗？",
           "url": "https://v.ifeng.com/c/8o61H5snkCE",
           "source": "凤凰网",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时27分 ~ 07时23分]"
-        },
-        {
-          "title": "死对头要走了，特朗普开心坏了",
-          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时23分]"
         },
         {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
@@ -103,6 +103,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时48分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时06分 ~ 14时35分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -191,6 +205,20 @@
           "time_info": "[02时36分 ~ 03时20分]"
         },
         {
+          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
+          "url": "https://flash.jin10.com/detail/20251108101917094800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 14时35分]"
+        },
+        {
           "title": "美国总统特朗普：希望继续在布达佩斯与俄罗斯总统普京会晤。",
           "url": "https://flash.jin10.com/detail/20251108020350624800",
           "source": "金十数据",
@@ -201,32 +229,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时20分]"
-        },
-        {
-          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时06分 ~ 13时23分]"
-        },
-        {
-          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
-          "url": "https://flash.jin10.com/detail/20251108101917094800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时07分 ~ 13时23分]"
         },
         {
           "title": "特朗普称希望继续在布达佩斯与普京会晤",
@@ -240,6 +242,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时19分]"
+        },
+        {
+          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
+          "url": "https://flash.jin10.com/detail/20251108105346756800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时35分]"
         },
         {
           "title": "最高法院暂准特朗普政府官员限制补充营养援助计划（SNAP）的食品援助。",
@@ -313,18 +328,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时20分]"
-        },
-        {
-          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
-          "url": "https://flash.jin10.com/detail/20251108105346756800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时23分]"
         },
         {
           "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
@@ -512,7 +515,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         },
@@ -608,8 +611,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时22分 ~ 13时23分]"
+          "appearance_count": 9,
+          "time_info": "[07时22分 ~ 14时35分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -622,8 +625,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 13时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 14时35分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -691,11 +694,12 @@
           "ranks": [
             11,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时07分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[11时07分 ~ 14时35分]"
         },
         {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -882,11 +886,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时23分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时35分]"
         }
       ]
     },
@@ -900,11 +905,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时23分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时35分]"
         }
       ]
     },
