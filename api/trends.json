@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T09:59:48.220253+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2025-11-09T11:21:09.677706+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时21分]"
         },
         {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
@@ -40,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时21分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -51,8 +52,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时21分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
@@ -122,7 +123,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         }
@@ -139,11 +140,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时21分]"
         }
       ]
     },
@@ -162,8 +164,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时21分]"
         }
       ]
     },
@@ -179,8 +181,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 09时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时21分]"
         }
       ]
     }
