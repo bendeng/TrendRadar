@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T19:22:59.682653+08:00",
-  "total_titles_processed": 1481,
+  "generated_at": "2025-11-10T20:54:52.162294+08:00",
+  "total_titles_processed": 1584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -61,18 +61,6 @@
           "time_info": "[00时27分 ~ 07时23分]"
         },
         {
-          "title": "拜登狠批特朗普",
-          "url": "https://www.douyin.com/hot/2300132",
-          "source": "抖音",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时59分]"
-        },
-        {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
           "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
           "source": "澎湃新闻",
@@ -84,8 +72,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时26分 ~ 19时22分]"
+          "appearance_count": 9,
+          "time_info": "[13时26分 ~ 20时54分]"
+        },
+        {
+          "title": "拜登狠批特朗普",
+          "url": "https://www.douyin.com/hot/2300132",
+          "source": "抖音",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 09时59分]"
         },
         {
           "title": "泽连斯基：全世界都怕特朗普但我不怕",
@@ -188,6 +188,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 05时21分]"
+        },
+        {
+          "title": "英国首相发言人否认特朗普对BBC腐败的指控。他表示，有关BBC章程审查将在适当的时候启动。",
+          "url": "https://flash.jin10.com/detail/20251110203730195800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "特朗普称政府停摆接近结束",
@@ -406,6 +417,18 @@
           "time_info": "[07时22分 ~ 07时23分]"
         },
         {
+          "title": "获400亿美元援助后米莱大跳特朗普舞",
+          "url": "https://www.toutiao.com/trending/7570573863009124361/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时54分]"
+        },
+        {
           "title": "美参议院据悉已有足够票数推动结束“停摆”的法案、特朗普称希望继续在布达佩斯与普京会晤、中国央行连续第12个月增持黄金......现货黄金亚盘重回4050美元上方，当前多头持续占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251110104051679800",
           "source": "金十数据",
@@ -437,17 +460,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
-        },
-        {
-          "title": "获400亿美元援助后米莱大跳特朗普舞",
-          "url": "https://www.toutiao.com/trending/7570573863009124361/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "特朗普：美政府“停摆”接近结束",
@@ -511,7 +523,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         }
@@ -519,7 +531,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "A股并购重组活跃 本周披露并购重组进展的A股名单一览",
@@ -555,6 +567,19 @@
           "time_info": "09时59分"
         },
         {
+          "title": "中金2026年A股展望：前升后稳，防范“波动”",
+          "url": "https://wallstreetcn.com/articles/3759002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 20时54分]"
+        },
+        {
           "title": "A股主要指数午后拉升，沪指涨0.28%，深成指转涨，创业板指跌幅收窄至1.2%，早盘一度跌超2%。",
           "url": "https://wallstreetcn.com/livenews/3001946",
           "source": "华尔街见闻-快讯",
@@ -581,18 +606,6 @@
           "time_info": "[13时26分 ~ 15时24分]"
         },
         {
-          "title": "中金2026年A股展望：前升后稳，防范“波动”",
-          "url": "https://wallstreetcn.com/articles/3759002",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 19时22分]"
-        },
-        {
           "title": "【午报】创业板指跌超2%，大消费方向集体爆发，算力硬件股再遭调整",
           "url": "https://www.cls.cn/detail/2195675",
           "source": "财联社热门",
@@ -601,8 +614,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 20时54分]"
         },
         {
           "title": "A股CPO概念午后回升，剑桥科技涨超8%，斯瑞新材涨超7%，徕木股份、本川智能、长电科技、杰普特等个股跟涨。",
@@ -711,6 +724,17 @@
           "time_info": "09时59分"
         },
         {
+          "title": "A股涨跌互现，创业板跌0.9%，大消费集体爆发，港股全线收涨，恒指涨超1%",
+          "url": "https://wallstreetcn.com/articles/3759020",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "上证指数开盘报4001.79点，涨0.11%。 深证成指开盘报13453.37点，涨0.37%。 创业板指开盘报3221.93点，涨0.43%。 沪深300开盘报4688.12点，涨0.20%。 科创50开盘报1422.32点，涨0.47%。 中证500开盘报7357.34点，涨0.40%。 中证1000开盘报7568.75点，涨0.36%。",
           "url": "https://wallstreetcn.com/livenews/3001832",
           "source": "华尔街见闻-快讯",
@@ -791,7 +815,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -816,11 +840,12 @@
             10,
             9,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时25分 ~ 19时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时25分 ~ 20时54分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -902,6 +927,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
+        },
+        {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "超级AI临界点逼近：OpenAI发出警告",
+          "url": "https://www.toutiao.com/trending/7571055203147845126/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "OpenAI：美国现役军人及退伍军人在退役或离职前12个月内，可免费获得一年的ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20251110183752790800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
+          "url": "https://flash.jin10.com/detail/20251110183215863800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         }
       ]
     },
@@ -930,8 +1005,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[18时30分 ~ 20时54分]"
         },
         {
           "title": "经济疲软助推降息预期 黄金价格跳涨至两周高点",
@@ -943,34 +1018,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI：美国现役军人及退伍军人在退役或离职前12个月内，可免费获得一年的ChatGPT Plus服务。",
-          "url": "https://flash.jin10.com/detail/20251110183752790800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
-          "title": "据Business Insider：OpenAI正在考虑进军消费者健康应用领域。",
-          "url": "https://flash.jin10.com/detail/20251110183215863800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         }
       ]
     },
@@ -1029,11 +1076,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[18时30分 ~ 20时54分]"
         }
       ]
     }
