@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T12:30:02.139143+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2025-11-11T13:25:57.862151+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时33分 ~ 09时56分]"
+        },
+        {
+          "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
+          "url": "https://news.ifeng.com/c/8oBhZI0ZGcZ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 13时25分]"
         },
         {
           "title": "因剪辑拼接特朗普视频，BBC高管辞职",
@@ -45,18 +57,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时33分 ~ 11时18分]"
-        },
-        {
-          "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
-          "url": "https://news.ifeng.com/c/8oBhZI0ZGcZ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 12时30分]"
         },
         {
           "title": "特朗普的“贸易战”收到了什么结果",
@@ -94,6 +94,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时23分]"
+        },
+        {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时18分 ~ 13时25分]"
         },
         {
           "title": "BBC主席就特朗普纪录片争议道歉，特朗普称或索赔至少10亿美元",
@@ -142,18 +154,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时25分]"
-        },
-        {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 12时30分]"
         },
         {
           "title": "特朗普提拔的美联储理事米兰：政府关门不会影响到我对美国经济的看法",
@@ -594,6 +594,17 @@
       "match_count": 21,
       "titles": [
         {
+          "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
+          "url": "https://www.cls.cn/detail/2196579",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 13时25分]"
+        },
+        {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
           "url": "https://wallstreetcn.com/articles/3759034",
           "source": "华尔街见闻",
@@ -603,19 +614,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 12时30分]"
-        },
-        {
-          "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
-          "url": "https://www.cls.cn/detail/2196579",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 12时30分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 13时25分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -641,8 +641,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 12时30分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 13时25分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -663,8 +663,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[11时18分 ~ 13时25分]"
         },
         {
           "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
@@ -881,6 +881,30 @@
           "time_info": "[11时18分 ~ 12时30分]"
         },
         {
+          "title": "上证指数早盘收报4003.17点，跌0.38%。 深证成指早盘收报13357.43点，跌0.52%。 创业板指早盘收报3155.29点，跌0.74%。 沪深300早盘收报4663.53点，跌0.67%。 科创50早盘收报1397.48点，跌0.72%。 中证500早盘收报7319.33点，跌0.33%。 中证1000早盘收报7574.59点，涨0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3002497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时25分]"
+        },
+        {
+          "title": "11月11日午间收评：创业板指高开低走跌0.74%，超硬材料、光伏板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3002496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时25分]"
+        },
+        {
           "title": "摩根大通证券股份有限公司：上调赣锋锂业A股评级至中性，上调天齐锂业A股评级至中性。",
           "url": "https://wallstreetcn.com/livenews/3002276",
           "source": "华尔街见闻-快讯",
@@ -915,17 +939,6 @@
           "time_info": "07时23分"
         },
         {
-          "title": "上证指数早盘收报4003.17点，跌0.38%。 深证成指早盘收报13357.43点，跌0.52%。 创业板指早盘收报3155.29点，跌0.74%。 沪深300早盘收报4663.53点，跌0.67%。 科创50早盘收报1397.48点，跌0.72%。 中证500早盘收报7319.33点，跌0.33%。 中证1000早盘收报7574.59点，涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3002497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
-        },
-        {
           "title": "上证指数开盘报4023.88点，涨0.13%。 深证成指开盘报13476.25点，涨0.36%。 创业板指开盘报3197.12点，涨0.58%。 沪深300开盘报4706.34点，涨0.24%。 科创50开盘报1416.86点，涨0.66%。 中证500开盘报7364.93点，涨0.29%。 中证1000开盘报7579.91点，涨0.22%。",
           "url": "https://wallstreetcn.com/livenews/3002423",
           "source": "华尔街见闻-快讯",
@@ -935,17 +948,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "11月11日午间收评：创业板指高开低走跌0.74%，超硬材料、光伏板块逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3002496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
         },
         {
           "title": "创业板指转跌0.14%，沪指和深成指分别下跌0.26%和0.29%。万得微盘股指数涨超0.7%。",
