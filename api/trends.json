@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T17:28:25.108619+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2025-11-11T18:28:42.072052+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时18分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[11时18分 ~ 18时28分]"
         },
         {
           "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
@@ -85,6 +85,17 @@
           "time_info": "[00时33分 ~ 05时23分]"
         },
         {
+          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
+          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
           "title": "白宫经济顾问哈塞特被问及50年期抵押贷款方案，称：我支持美国总统特朗普的想法。 白宫将举行一系列会议。",
           "url": "https://wallstreetcn.com/livenews/3002316",
           "source": "华尔街见闻-快讯",
@@ -94,17 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
-        },
-        {
-          "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
-          "url": "https://news.ifeng.com/c/8oC9ysNtJAU",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美国众议长约翰逊：我喜欢“特朗普主张的空管人员（政府关门期间）享受奖金”这种概念。",
@@ -178,6 +178,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时25分]"
+        },
+        {
+          "title": "换了件“马甲”，他见上特朗普了(图)",
+          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
+          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
+          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
         },
         {
           "title": "特朗普提拔的美联储理事米兰：政府关门不会影响到我对美国经济的看法",
@@ -359,26 +381,15 @@
           "time_info": "[05时23分 ~ 06时25分]"
         },
         {
-          "title": "换了件“马甲”，他见上特朗普了(图)",
-          "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
-          "source": "凤凰网",
+          "title": "特朗普回应高市早苗涉台错误言论",
+          "url": "https://www.toutiao.com/trending/7571253212158689290/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
-          "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "18时28分"
         },
         {
           "title": "特朗普：不利裁决或将导致关税返还超3万亿美元 可能对美国的未来造成毁灭性影响",
@@ -420,7 +431,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -478,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-11）",
+          "url": "https://flash.jin10.com/detail/20251111175811195800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美国参议院多数党领袖John Thune：很快将（全体）投票表决临时开支立法草案。 希望能在未来几个小时就投票。 希望能迅速着手审议更多的拨款问题。 希望总统特朗普会批准参议院提出的权宜性开支立法草案。 白宫参与了参议院融资议案的起草工作。",
@@ -681,7 +703,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -888,6 +910,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "英伟达美股盘前跌幅扩大至1%，触及盘中低点。",
+          "url": "https://wallstreetcn.com/livenews/3002712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "小鹏汽车港股涨超15%，追随隔夜小鹏汽车美股走势（隔夜涨幅16.15%），市场对其机器人感到乐观。",
           "url": "https://wallstreetcn.com/livenews/3002456",
           "source": "华尔街见闻-快讯",
@@ -897,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "禾赛美股盘前涨超6%，公司第三季度的净收入7.95亿元，同比增加47.5%。",
+          "url": "https://wallstreetcn.com/livenews/3002710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "金十图示：2025年11月10日（周一）美股热门股票行情一览（美股盘中）",
@@ -935,7 +979,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "中金2026年A股展望：前升后稳，防范“波动”",
@@ -983,6 +1027,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时38分 ~ 15时25分]"
+        },
+        {
+          "title": "【每日收评】深成指与创业板指双双跌超1%，两市成交额不足2万亿，大消费方向午后再度活跃",
+          "url": "https://www.cls.cn/detail/2197237",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
         },
         {
           "title": "创业板指跌超1%，盘初一度涨近1%，沪指跌0.61%，深成指跌0.77%，煤炭、保险、白酒、算力硬件股跌幅居前，沪深京三市下跌个股超2500只。",
@@ -1044,17 +1099,6 @@
           "time_info": "[09时55分 ~ 09时56分]"
         },
         {
-          "title": "【每日收评】深成指与创业板指双双跌超1%，两市成交额不足2万亿，大消费方向午后再度活跃",
-          "url": "https://www.cls.cn/detail/2197237",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "【创业板指高开低走跌1.4%，超硬材料、光伏板块逆势走强】市场全天震荡调整，深成指、创业板指均跌超1%。超硬材料概念逆势大涨，四方达、黄河旋风涨停。光伏板块集体走强，中来股份、协鑫集成等封板。大消费板块午后拉升，欢乐家、三元股份等涨停。下跌方面，存储芯片板块调整，香农芯创跌超10%；算力硬件股下挫，天孚通信跌超7%。个股涨跌互现，今日成交2.01万亿。截止收盘沪指跌0.39%，深成指跌1.03%，创业板指跌1.4%。",
           "url": "https://wallstreetcn.com/livenews/3002588",
           "source": "华尔街见闻-快讯",
@@ -1099,13 +1143,24 @@
           "time_info": "15时25分"
         },
         {
+          "title": "A股千亿市值游戏大厂“摘帽”",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8D%83%E4%BA%BF%E5%B8%82%E5%80%BC%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%8E%82%E2%80%9C%E6%91%98%E5%B8%BD%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "A股涨到4024点回落 明天会怎么走",
           "url": "https://www.toutiao.com/trending/7571361862642568723/",
           "source": "今日头条",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1127,7 +1182,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
@@ -1166,6 +1221,18 @@
           "time_info": "[00时33分 ~ 07时23分]"
         },
         {
+          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
+          "url": "https://www.cls.cn/detail/2197016",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
           "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
           "url": "https://flash.jin10.com/detail/20251111034728559800",
           "source": "金十数据",
@@ -1175,17 +1242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
-        },
-        {
-          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
-          "url": "https://www.cls.cn/detail/2197016",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "金十图示：2025年11月11日（周二）上海金午盘价为946.77元/克，较国际金价(945.51元/克)，高1.26元/克",
@@ -1226,7 +1282,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -1239,6 +1295,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时37分]"
+        },
+        {
+          "title": "AI热潮驱动，软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "英特尔CTO跳槽至OpenAI，CEO陈立武将兼任该职",
@@ -1347,25 +1414,8 @@
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纽交所金矿股指数涨3.7%，创10月16日以来最佳盘中表现。 GAU涨13.2%，赫克拉矿业涨7.7%，ASM涨7%，THM涨7.2%，PPTA涨6%，AG涨5.3%，巴里克矿业涨5.3%，金田公司涨5.2%，哈莫尼黄金和B2gold涨5%，泛美白银涨4.9%，科尔黛伦矿业涨4%，金矿股ETF涨3.2%，黄金矿工因素指数ETF涨3.2%，白银ETF涨2.7%，金条价格ETF涨2.1%，黄金ETF涨1.9%。 此外，多伦多上市的Santacruz Silver Mining Ltd.涨17%，创最近14周最大盘中涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3002210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "牛散 游资",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【数据看盘】多只医药ETF上周份额大增 机构、实力游资激烈博弈锂电股",
@@ -1380,6 +1430,34 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时23分]"
+        },
+        {
+          "title": "【数据看盘】实力游资、机构联手抢筹四方达 IF期指空头大幅减仓",
+          "url": "https://www.cls.cn/detail/2197350",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纽交所金矿股指数涨3.7%，创10月16日以来最佳盘中表现。 GAU涨13.2%，赫克拉矿业涨7.7%，ASM涨7%，THM涨7.2%，PPTA涨6%，AG涨5.3%，巴里克矿业涨5.3%，金田公司涨5.2%，哈莫尼黄金和B2gold涨5%，泛美白银涨4.9%，科尔黛伦矿业涨4%，金矿股ETF涨3.2%，黄金矿工因素指数ETF涨3.2%，白银ETF涨2.7%，金条价格ETF涨2.1%，黄金ETF涨1.9%。 此外，多伦多上市的Santacruz Silver Mining Ltd.涨17%，创最近14周最大盘中涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3002210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     }
