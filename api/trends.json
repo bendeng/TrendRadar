@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T13:27:20.198831+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2025-11-12T14:37:41.934803+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -72,11 +72,12 @@
             17,
             13,
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 13时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 14时37分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -105,6 +106,19 @@
           "time_info": "[00时32分 ~ 06时24分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 14时37分]"
+        },
+        {
           "title": "特朗普回应高市早苗涉台言论",
           "url": "https://www.douyin.com/hot/2302972",
           "source": "抖音",
@@ -117,19 +131,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时22分]"
-        },
-        {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 13时27分]"
         },
         {
           "title": "特朗普回应高市早苗涉台错误言论",
@@ -469,6 +470,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "据英国金融时报：英国国家安全顾问乔纳森·鲍威尔试图打开与俄罗斯总统普京的秘密沟通渠道。英国及其欧洲盟友担心，特朗普政府可能会在乌克兰问题上置它们的利益于不顾。",
+          "url": "https://flash.jin10.com/detail/20251112132543128800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "特朗普：美国需要一些有才华的外国工人。",
           "url": "https://wallstreetcn.com/livenews/3003050",
           "source": "华尔街见闻-快讯",
@@ -505,7 +517,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "【每日收评】深成指与创业板指双双跌超1%，两市成交额不足2万亿，大消费方向午后再度活跃",
@@ -597,7 +609,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -633,6 +645,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "A股存储芯片板块震荡回暖，大港股份午后涨停，科翔股份回封涨停，香农芯创涨超10%，普冉股份、德明利跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3003203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "A股三大指数集体翻红，医药商业、油气、脑机接口、保险等板块领涨，沪深京三市上涨个股超2100只。",
@@ -694,8 +717,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 14时37分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
@@ -808,8 +831,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 13时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 14时37分]"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 14时37分]"
         },
         {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
@@ -846,18 +882,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时22分]"
-        },
-        {
-          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2197744",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 13时27分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -970,35 +994,59 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
           "url": "https://wallstreetcn.com/livenews/3003176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时37分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26realpos%3D6%26pos%3D5%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D1%26cate%3D5001%26q%3D%2523%25E5%2589%258DDeepSeek%25E7%25A0%2594%25E7%25A9%25B6%25E5%2591%2598%25E7%25BD%2597%25E7%25A6%258F%25E8%258E%2589%25E5%25B7%25B2%25E5%258A%25A0%25E5%2585%25A5%25E5%25B0%258F%25E7%25B1%25B3%2523%26band_rank%3D6%26lcate%3D5001%26stream_entry_id%3D31%26display_time%3D1762929425%26pre_seqid%3D1762929425892024523118&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "14时37分"
         }
       ]
     },
     {
       "keyword_group": "主力资金 开源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "主力资金流向前十大个股",
           "url": "https://flash.jin10.com/detail/20251112104148294800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 14时37分]"
+        },
+        {
+          "title": "前海开源基金创始人王兆华因病去世，享年69岁",
+          "url": "https://wallstreetcn.com/livenews/3003196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时17分"
+          "time_info": "14时37分"
         }
       ]
     },
