@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T22:24:29.097056+08:00",
-  "total_titles_processed": 2033,
+  "generated_at": "2025-11-13T23:27:59.760941+08:00",
+  "total_titles_processed": 2121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -359,6 +359,17 @@
           "time_info": "19时22分"
         },
         {
+          "title": "房利美下跌12%，创8月8日以来盘中新低，美国总统特朗普近日提出50年其抵押贷款假想。",
+          "url": "https://wallstreetcn.com/livenews/3004257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "白宫称特朗普外部团队已起诉BBC",
           "url": "https://wallstreetcn.com/livenews/3003989",
           "source": "华尔街见闻-快讯",
@@ -469,6 +480,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "特朗普首席经济顾问：美国9月就业报告可能下周公布",
+          "url": "https://wallstreetcn.com/livenews/3004247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：（谈英国广播公司）美国总统特朗普对其演讲被编辑一事深感关切。",
           "url": "https://flash.jin10.com/detail/20251113024054748800",
           "source": "金十数据",
@@ -478,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "白宫国家经济委员会主任凯文·哈塞特：美国总统特朗普所谓的50年期抵押贷款是正在研究的许多政策方案之一。",
+          "url": "https://wallstreetcn.com/livenews/3004246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美国财长贝森特：选民授权特朗普让美国再次更有负担能力。",
@@ -614,6 +647,247 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
+          "url": "https://www.cls.cn/detail/2198992",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时24分 ~ 16时33分]"
+        },
+        {
+          "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3759214",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 06时24分]"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251113050551816800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "迅雷美股盘前涨超8%，公司三季度总营收1.264亿美元，同比增长57.7%。",
+          "url": "https://wallstreetcn.com/livenews/3004108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时22分]"
+        },
+        {
+          "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3003643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251113050525386800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美股小型股有望跑赢大盘 盈利增长更快估值更具吸引力",
+          "url": "https://flash.jin10.com/detail/20251113202452131800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "美股开盘下跌 连涨势头或将终结",
+          "url": "https://flash.jin10.com/detail/20251113230001158800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "哔哩哔哩美股盘前一度涨超6%，公司Q3营收76.9亿元，同比增长5%。",
+          "url": "https://wallstreetcn.com/livenews/3004100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "美股收盘：道指创新高 AMD涨9%",
+          "url": "https://flash.jin10.com/detail/20251113050121041800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "房利美股价下跌12%，至8月8日以来最低水平；房地美跌超10%。",
+          "url": "https://flash.jin10.com/detail/20251113225044627800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍下跌，半导体ETF跌1.2%，科技行业ETF跌0.7%，全球科技股指数ETF跌0.66%，能源业ETF涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3004250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "航空业ETF收涨约3.1%，领跑美股行业ETF，标普能源板块涨超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3003637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3004230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜Meta收跌将近2.9%，特斯拉跌超2%",
+          "url": "https://wallstreetcn.com/livenews/3003633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "美股期货收复稍早失地，纳斯达克100指数期货转为上涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3003743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "京东(JD.O)美股盘前涨幅扩大至近5%，此前第三季度营收超预期。",
+          "url": "https://flash.jin10.com/detail/20251113174541985800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-13）",
+          "url": "https://flash.jin10.com/detail/20251113210734667800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "京东美股盘前涨超3%，此前公布业绩数据。",
+          "url": "https://wallstreetcn.com/livenews/3004076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251113223632726800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "美股存储芯片股盘前下跌，美光科技跌近3%，西部数据跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3004069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股 上证 深证 创业板",
       "match_count": 20,
       "titles": [
@@ -628,6 +902,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 06时24分]"
+        },
+        {
+          "title": "一图看懂 | 锂电池红遍A股，产业链上市公司全梳理",
+          "url": "https://www.cls.cn/detail/2199850",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时22分 ~ 23时27分]"
         },
         {
           "title": "哪些原因促成了今天A股的爆发",
@@ -657,16 +943,18 @@
           "time_info": "[09时56分 ~ 16时33分]"
         },
         {
-          "title": "一图看懂 | 锂电池红遍A股，产业链上市公司全梳理",
-          "url": "https://www.cls.cn/detail/2199850",
+          "title": "【焦点复盘】创业板指放量涨超2%，锂电、储能赛道持续火爆，“宁王”盘中一度飙升逾9%",
+          "url": "https://www.cls.cn/detail/2199765",
           "source": "财联社热门",
           "ranks": [
-            8,
-            2
+            13,
+            12,
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 22时24分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 23时27分]"
         },
         {
           "title": "A股收盘：沪指涨0.73%刷新十年新高",
@@ -680,19 +968,6 @@
           "time_info": "[15时24分 ~ 20时53分]"
         },
         {
-          "title": "【焦点复盘】创业板指放量涨超2%，锂电、储能赛道持续火爆，“宁王”盘中一度飙升逾9%",
-          "url": "https://www.cls.cn/detail/2199765",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 22时24分]"
-        },
-        {
           "title": "久违再现“百股涨停”！A股涨停数创2个月新高，这三大板块占比均超一成",
           "url": "https://www.cls.cn/detail/2199818",
           "source": "财联社热门",
@@ -700,11 +975,12 @@
             13,
             10,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 22时24分]"
+          "appearance_count": 6,
+          "time_info": "[19时22分 ~ 23时27分]"
         },
         {
           "title": "A股三大指数全线翻红，沪指上涨0.02%，深证成指上涨0.46%，创业板指上涨0.41%。",
@@ -862,203 +1138,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
-          "url": "https://www.cls.cn/detail/2198992",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时24分 ~ 16时33分]"
-        },
-        {
-          "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
-          "url": "https://wallstreetcn.com/articles/3759214",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时24分]"
-        },
-        {
-          "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251113050551816800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "迅雷美股盘前涨超8%，公司三季度总营收1.264亿美元，同比增长57.7%。",
-          "url": "https://wallstreetcn.com/livenews/3004108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时22分]"
-        },
-        {
-          "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
-          "url": "https://wallstreetcn.com/livenews/3003643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时24分]"
-        },
-        {
-          "title": "金十图示：2025年11月12日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251113050525386800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "美股小型股有望跑赢大盘 盈利增长更快估值更具吸引力",
-          "url": "https://flash.jin10.com/detail/20251113202452131800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "哔哩哔哩美股盘前一度涨超6%，公司Q3营收76.9亿元，同比增长5%。",
-          "url": "https://wallstreetcn.com/livenews/3004100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "美股收盘：道指创新高 AMD涨9%",
-          "url": "https://flash.jin10.com/detail/20251113050121041800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "航空业ETF收涨约3.1%，领跑美股行业ETF，标普能源板块涨超1.4%",
-          "url": "https://wallstreetcn.com/livenews/3003637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3004230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜Meta收跌将近2.9%，特斯拉跌超2%",
-          "url": "https://wallstreetcn.com/livenews/3003633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "美股期货收复稍早失地，纳斯达克100指数期货转为上涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3003743",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "京东(JD.O)美股盘前涨幅扩大至近5%，此前第三季度营收超预期。",
-          "url": "https://flash.jin10.com/detail/20251113174541985800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-11-13）",
-          "url": "https://flash.jin10.com/detail/20251113210734667800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "京东美股盘前涨超3%，此前公布业绩数据。",
-          "url": "https://wallstreetcn.com/livenews/3004076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "美股存储芯片股盘前下跌，美光科技跌近3%，西部数据跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3004069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 13,
       "titles": [
@@ -1070,8 +1149,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 22时24分]"
+          "appearance_count": 6,
+          "time_info": "[19时22分 ~ 23时27分]"
         },
         {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
@@ -1137,6 +1216,18 @@
           "time_info": "[11时19分 ~ 13时26分]"
         },
         {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时53分 ~ 23时27分]"
+        },
+        {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
           "url": "https://flash.jin10.com/detail/20251113060235382800",
           "source": "金十数据",
@@ -1147,18 +1238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时24分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 22时24分]"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -1365,7 +1444,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         }
