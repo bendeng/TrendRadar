@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-14T16:33:28.868988+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2025-11-14T17:27:40.426723+08:00",
+  "total_titles_processed": 1537,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 35,
       "titles": [
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 17时27分]"
+        },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
           "url": "https://www.cls.cn/detail/2200266",
@@ -41,17 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 16时33分]"
         },
         {
           "title": "英国广播公司（BBC）第二次篡改了美国总统特朗普的演讲。",
@@ -89,6 +89,18 @@
           "time_info": "[02时35分 ~ 04时28分]"
         },
         {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://www.cls.cn/detail/2200844",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时27分]"
+        },
+        {
           "title": "特朗普将在美东时间下午2点（北京时间凌晨3点）签署新的行政命令。",
           "url": "https://flash.jin10.com/detail/20251114025925256800",
           "source": "金十数据",
@@ -99,6 +111,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时28分]"
+        },
+        {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时27分]"
         },
         {
           "title": "国际货币基金组织（IMF）因特朗普政府关门事件而推迟与美国的“第四条款磋商”（US Article IV discussions），原定11月进行。 IMF通讯主管Julie Kozack在一次新闻发布会上表示：“数据的缺失最近使我们难以评估美国经济状况，也难以开展第四条款磋商的初步工作。” 尚未确定磋商的新日期，但IMF将与美国当局协商新的时间表。 第四条款磋商是对IMF成员国经济进行的年度审查，通常涵盖货币、财政和其他政策。",
@@ -172,17 +195,6 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
-          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
-          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "美国总统特朗普推动的近海钻探计划在加利福尼亚州遭遇根深蒂固的反对。",
           "url": "https://flash.jin10.com/detail/20251114000857927800",
           "source": "金十数据",
@@ -192,17 +204,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
-          "url": "https://www.cls.cn/detail/2200844",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
         },
         {
           "title": "特朗普送叙利亚领导人香水还问有几个妻子，美网民：缺乏外交礼仪",
@@ -332,7 +333,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -710,7 +711,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
