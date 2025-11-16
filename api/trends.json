@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T10:00:54.885746+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2025-11-16T11:24:41.707024+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             9,
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 10时00分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 11时24分]"
         },
         {
           "title": "据CNN：两名以色列消息人士称，特朗普政府正向以色列施压，要求其就拉法赫的哈马斯武装人员问题取得进展。",
@@ -27,11 +28,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 10时00分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 11时24分]"
         },
         {
           "title": "特朗普：对委内瑞拉“差不多下定决心”",
@@ -95,9 +97,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时00分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时00分 ~ 11时24分]"
         }
       ]
     },
@@ -113,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 10时00分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 11时24分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -126,8 +128,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 10时00分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 11时24分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -139,8 +141,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 10时00分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 11时24分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -168,7 +170,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
         }
@@ -187,8 +189,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 10时00分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 11时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "主力资金 开源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "智谱董事长刘德兵：完全支持开源，我们已开源40多款AI模型",
+          "url": "https://wallstreetcn.com/livenews/3005235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         }
       ]
     }
