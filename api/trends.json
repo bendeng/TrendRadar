@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T02:32:38.474895+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2025-11-17T03:18:45.403711+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
@@ -49,8 +49,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "博主：特朗普正走向众叛亲离",
@@ -58,11 +58,12 @@
           "source": "今日头条",
           "ranks": [
             29,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时18分]"
         }
       ]
     },
@@ -78,8 +79,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "龙头四连板 本周披露并购重组进展的A股名单一览",
@@ -89,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：孚日股份、华盛锂电等多只锂电池概念股在列",
@@ -100,8 +101,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         }
       ]
     },
@@ -117,8 +118,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 03时18分]"
         }
       ]
     }
