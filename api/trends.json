@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T17:24:13.877317+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2025-11-16T18:24:46.143989+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -135,6 +135,17 @@
           "time_info": "[12时30分 ~ 15时23分]"
         },
         {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 18时24分]"
+        },
+        {
           "title": "特朗普一个多月购债券逾8千万美元，涉及受益于其政策的行业",
           "url": "https://news.ifeng.com/c/8oKKiWVdO0C",
           "source": "凤凰网",
@@ -159,17 +170,6 @@
           "time_info": "[10时00分 ~ 12时30分]"
         },
         {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 17时24分]"
-        },
-        {
           "title": "10亿至50亿！特朗普开口了",
           "url": "https://news.ifeng.com/c/8oKTyan4q6j",
           "source": "凤凰网",
@@ -177,8 +177,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 17时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 18时24分]"
         },
         {
           "title": "爱泼斯坦2万份文件揭了特朗普哪些短",
@@ -204,11 +204,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 17时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 18时24分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -221,8 +222,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 17时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 18时24分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -268,8 +269,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时30分 ~ 17时24分]"
+          "appearance_count": 11,
+          "time_info": "[12时30分 ~ 18时24分]"
         },
         {
           "title": "龙头四连板 本周披露并购重组进展的A股名单一览",
@@ -280,8 +281,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 17时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 18时24分]"
         }
       ]
     },
