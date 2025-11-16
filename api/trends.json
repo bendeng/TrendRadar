@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T05:21:42.184586+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-11-17T06:23:02.269556+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时23分]"
         },
         {
           "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
@@ -27,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时23分]"
         },
         {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
@@ -37,11 +37,12 @@
           "ranks": [
             7,
             10,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 06时23分]"
         },
         {
           "title": "特朗普首席贸易谈判代表警告欧盟：欧盟对美国的关税仍然过高",
@@ -84,8 +85,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时23分]"
         },
         {
           "title": "龙头四连板 本周披露并购重组进展的A股名单一览",
@@ -95,19 +96,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时23分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：孚日股份、华盛锂电等多只锂电池概念股在列",
           "url": "https://www.cls.cn/detail/2201801",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时23分]"
         }
       ]
     },
@@ -120,11 +122,12 @@
           "url": "https://www.cls.cn/detail/2201578",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 05时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 06时23分]"
         }
       ]
     },
@@ -141,8 +144,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时25分 ~ 05时21分]"
+          "appearance_count": 5,
+          "time_info": "[04时25分 ~ 06时23分]"
         }
       ]
     }
