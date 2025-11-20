@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T20:51:25.001191+08:00",
-  "total_titles_processed": 1775,
+  "generated_at": "2025-11-20T21:34:30.613547+08:00",
+  "total_titles_processed": 1867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 20时51分]"
+          "appearance_count": 12,
+          "time_info": "[12时28分 ~ 21时34分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -567,6 +568,17 @@
           "time_info": "19时22分"
         },
         {
+          "title": "特朗普又称“利用关税帮助解决了印巴冲突”，印媒吐槽：类似说法说了N遍",
+          "url": "https://wallstreetcn.com/livenews/3007958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "美国总统特朗普：我们应该从能源中获利，而不是遭受损失。我们正在简化所有新能源和矿业项目的审批流程，显著缩短之前28天的时间。",
           "url": "https://flash.jin10.com/detail/20251120015210196800",
           "source": "金十数据",
@@ -724,7 +736,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -736,8 +748,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时23分 ~ 20时51分]"
+          "appearance_count": 16,
+          "time_info": "[07时23分 ~ 21时34分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -789,6 +801,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "多只美股QDII基金“闭门谢客”",
+          "url": "https://wallstreetcn.com/livenews/3007980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "美股核电股盘前普涨，Oklo涨超5%，纳米核能涨超6%。",
@@ -965,6 +988,20 @@
       "match_count": 20,
       "titles": [
         {
+          "title": "连辞三家上市公司独董 “A股大所”负责人疑失联",
+          "url": "https://www.cls.cn/detail/2206173",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 21时34分]"
+        },
+        {
           "title": "【每日收评】沪指、创业板指小幅收红，全市场连续两日超4000股收跌，水产股异军突起",
           "url": "https://www.cls.cn/detail/2205067",
           "source": "财联社热门",
@@ -978,20 +1015,6 @@
           "time_info": "[00时33分 ~ 07时23分]"
         },
         {
-          "title": "连辞三家上市公司独董 “A股大所”负责人疑失联",
-          "url": "https://www.cls.cn/detail/2206173",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 20时51分]"
-        },
-        {
           "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
           "url": "https://www.cls.cn/detail/2206448",
           "source": "财联社热门",
@@ -1000,8 +1023,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时51分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时34分]"
         },
         {
           "title": "A股华为算力概念午后拉升，青云科技涨超15%，新晨科技、首都在线、东方国信、优刻得、并行科技等跟涨。",
@@ -1024,8 +1047,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 21时34分]"
         },
         {
           "title": "上证指数早盘收报3961.70点，涨0.38%。 深证成指早盘收报13073.30点，跌0.05%。 创业板指早盘收报3060.93点，跌0.52%。 沪深300早盘收报4602.83点，涨0.32%。 科创50早盘收报1337.37点，跌0.55%。 中证500早盘收报7106.20点，跌0.23%。 中证1000早盘收报7376.78点，跌0.14%。",
@@ -1302,6 +1325,17 @@
           "time_info": "[15时24分 ~ 17时27分]"
         },
         {
+          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 21时34分]"
+        },
+        {
           "title": "伦敦金属交易所：2026年中起将停止管理LBMA铂金和钯金价格",
           "url": "https://wallstreetcn.com/livenews/3007872",
           "source": "华尔街见闻-快讯",
@@ -1312,17 +1346,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时27分 ~ 19时22分]"
-        },
-        {
-          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 20时51分]"
         },
         {
           "title": "卖空者浑水创始人Carson Block：现在喜欢做多股票。 看涨加拿大初级金矿公司Snowline Gold Corp.（SGD）。 相比黄金价格，该公司参与的潜在项目的价值被低估了。",
@@ -1372,8 +1395,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美元指数升至六个月高位，最高至100.35。",
+          "url": "https://wallstreetcn.com/livenews/3007975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
         {
           "title": "美元指数涨穿100关口，为11月6日以来首次，日内当前涨超0.4%。",
           "url": "https://wallstreetcn.com/livenews/3007307",
@@ -1476,6 +1510,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "【数据看盘】四家实力游资激烈博弈五连板人气股 多路资金大笔抛售多氟多",
+          "url": "https://www.cls.cn/detail/2206416",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时27分 ~ 21时34分]"
+        },
+        {
           "title": "【数据看盘】机构、游资激烈博弈国联水产 IM期指空头大幅加仓",
           "url": "https://www.cls.cn/detail/2205169",
           "source": "财联社热门",
@@ -1485,19 +1533,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时20分 ~ 05时19分]"
-        },
-        {
-          "title": "【数据看盘】四家实力游资激烈博弈五连板人气股 多路资金大笔抛售多氟多",
-          "url": "https://www.cls.cn/detail/2206416",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 20时51分]"
         }
       ]
     }
