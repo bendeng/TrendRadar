@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T19:22:31.225589+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2025-11-20T20:51:25.001191+08:00",
+  "total_titles_processed": 1775,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 19时22分]"
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 20时51分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -562,7 +562,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -736,8 +736,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时23分 ~ 19时22分]"
+          "appearance_count": 15,
+          "time_info": "[07时23分 ~ 20时51分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -988,8 +988,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 19时22分]"
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 20时51分]"
+        },
+        {
+          "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
+          "url": "https://www.cls.cn/detail/2206448",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时51分]"
         },
         {
           "title": "A股华为算力概念午后拉升，青云科技涨超15%，新晨科技、首都在线、东方国信、优刻得、并行科技等跟涨。",
@@ -1008,11 +1020,12 @@
           "url": "https://www.cls.cn/detail/2206329",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时51分]"
         },
         {
           "title": "上证指数早盘收报3961.70点，涨0.38%。 深证成指早盘收报13073.30点，跌0.05%。 创业板指早盘收报3060.93点，跌0.52%。 沪深300早盘收报4602.83点，涨0.32%。 科创50早盘收报1337.37点，跌0.55%。 中证500早盘收报7106.20点，跌0.23%。 中证1000早盘收报7376.78点，跌0.14%。",
@@ -1049,17 +1062,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时28分 ~ 13时25分]"
-        },
-        {
-          "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
-          "url": "https://www.cls.cn/detail/2206448",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-11-20）",
@@ -1319,8 +1321,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时51分]"
         },
         {
           "title": "卖空者浑水创始人Carson Block：现在喜欢做多股票。 看涨加拿大初级金矿公司Snowline Gold Corp.（SGD）。 相比黄金价格，该公司参与的潜在项目的价值被低估了。",
@@ -1490,11 +1492,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时22分]"
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时51分]"
         }
       ]
     }
