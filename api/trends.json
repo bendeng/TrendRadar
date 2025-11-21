@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T17:26:54.341348+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2025-11-21T18:26:55.309717+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 18时26分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -29,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 18时26分]"
         },
         {
           "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
@@ -44,6 +45,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时15分 ~ 17时26分]"
+        },
+        {
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时29分 ~ 18时26分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -82,8 +97,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 17时26分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 18时26分]"
         },
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -96,19 +111,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[07时23分 ~ 16时35分]"
-        },
-        {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时29分 ~ 17时26分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -172,6 +174,18 @@
           "time_info": "07时23分"
         },
         {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 18时26分]"
+        },
+        {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251121050621300800",
           "source": "金十数据",
@@ -182,18 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时22分]"
-        },
-        {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 17时26分]"
         },
         {
           "title": "金十图示：2025年11月20日（周四）热门中概股行情一览（美股收盘）",
@@ -233,6 +235,19 @@
           "time_info": "[00时33分 ~ 02时36分]"
         },
         {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时26分]"
+        },
+        {
           "title": "周四（11月20日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.20%，报87605美元，北京时间22:00之前维持上涨状态——持稳于92000美元附近，之后开始下行，03:04刷新日低至86075美元。 CME以太币期货DCR主力合约跌1.82%，报2891.50美元，日内交投于3065.50-2792.50美元区间。 美股加密货币与加密货币关联指数跌5.49%，报58.79点。 MarketVector数字资产100小盘指数最近24小时跌3.59%，暂报18187.16点。 北京时间05:58，现货比特币跌2.23%，报87199.85美元；以太坊跌1.41%，Solana涨1.08%，狗狗币涨0.90%，XRP跌0.91%。",
           "url": "https://wallstreetcn.com/livenews/3008204",
           "source": "华尔街见闻-快讯",
@@ -243,18 +258,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时23分]"
-        },
-        {
-          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
-          "url": "https://www.cls.cn/detail/2207216",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时26分]"
         },
         {
           "title": "（美股）费城金银指数收跌5.06%，报281.81点，美股盘初微幅上涨至301.10点刷新日高，随后逐步回吐涨幅并转跌，01:00过后持续低位震荡。 纽约证交所ARCA金矿开采商指数收跌4.02%，报2065.29点。",
@@ -302,6 +305,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时23分]"
+        },
+        {
+          "title": "美股期货短线跳水，纳指期货日内跌幅扩大至0.8%，标普500指数期货跌0.38%，道指期货日内涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3008616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "美股三大指数转跌，标普500指数跌0.3%，纳斯达克指数跌0.5%，道琼斯指数跌0.2%。英伟达(NVDA.O)跌幅扩大至1%，此前一度涨超5%。",
@@ -480,6 +494,18 @@
           "time_info": "[00时33分 ~ 04时29分]"
         },
         {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时25分 ~ 18时26分]"
+        },
+        {
           "title": "特朗普“化缘”21万亿美元意味着啥",
           "url": "https://www.toutiao.com/trending/7574747368273219114/",
           "source": "今日头条",
@@ -491,18 +517,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时25分 ~ 17时26分]"
         },
         {
           "title": "美国国会预算办公室下调关税收入预估 料难弥补特朗普减税影响",
@@ -861,7 +875,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "英伟达Q3营收570亿美元！一图看懂A股核心“朋友圈”",
@@ -956,11 +970,24 @@
           "ranks": [
             13,
             7,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 17时26分]"
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 18时26分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超4%，全市场不足400股飘红，近百股跌停",
+          "url": "https://www.cls.cn/detail/2207410",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 18时26分]"
         },
         {
           "title": "上证指数早盘收报3857.24点，跌1.88%。 深证成指早盘收报12627.85点，跌2.72%。 创业板指早盘收报2945.61点，跌3.18%。 沪深300早盘收报4476.40点，跌1.94%。 科创50早盘收报1293.51点，跌2.61%。 中证500早盘收报6873.56点，跌2.67%。 中证1000早盘收报7132.86点，跌2.83%。",
@@ -1080,15 +1107,15 @@
           "time_info": "07时23分"
         },
         {
-          "title": "【每日收评】创业板指放量跌超4%，全市场不足400股飘红，近百股跌停",
-          "url": "https://www.cls.cn/detail/2207410",
-          "source": "财联社热门",
+          "title": "A股下周能否实现反弹",
+          "url": "https://www.toutiao.com/trending/7575087696855436851/",
+          "source": "今日头条",
           "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时26分"
+          "time_info": "18时26分"
         },
         {
           "title": "创业板指跌超4% 全市场近百股跌停",
@@ -1102,6 +1129,17 @@
           "time_info": "16时35分"
         },
         {
+          "title": "李大霄：A股出现特殊情况",
+          "url": "https://www.toutiao.com/trending/7575090649750310441/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "A股3D打印概念异动拉升，长江材料直线涨停，海正生材、金橙子等纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/3008427",
           "source": "华尔街见闻-快讯",
@@ -1111,6 +1149,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "A股慢牛要空间更要时间",
+          "url": "https://www.toutiao.com/trending/7575091299007598121/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "专家：未来A股市场操作难度会更大",
+          "url": "https://www.toutiao.com/trending/7575099880377421354/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "A股半日放量1975亿",
@@ -1267,6 +1327,86 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "标普500指数跌幅扩大至1%，道指下跌318点、跌幅0.7%，纳指跌295点跌幅1.3%，纳斯达克100指数跌376点跌幅1.5%，半导体指数跌3%。 比特币日内大跌5000美元，跌幅5.64%，现报86400美元/枚。",
+          "url": "https://wallstreetcn.com/livenews/3008112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时20分]"
+        },
+        {
+          "title": "美元指数抹去此前跌幅，英镑触及日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3008615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "美元指数20日下跌",
+          "url": "https://flash.jin10.com/detail/20251121052858642800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "主力资金 开源",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20251121104126325800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 14时38分]"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出1474.31亿元，占比7.5%；大单资金净流出630.22亿元，占比3.21%；小单资金净流入1175.28亿元，占比5.98%。",
+          "url": "https://flash.jin10.com/detail/20251121150649628800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "华为在上海举办“2025 AI容器应用落地与发展论坛”，会上正式发布并开源了创新AI容器技术Flex:ai",
+          "url": "https://wallstreetcn.com/livenews/3008623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1295,66 +1435,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "标普500指数跌幅扩大至1%，道指下跌318点、跌幅0.7%，纳指跌295点跌幅1.3%，纳斯达克100指数跌376点跌幅1.5%，半导体指数跌3%。 比特币日内大跌5000美元，跌幅5.64%，现报86400美元/枚。",
-          "url": "https://wallstreetcn.com/livenews/3008112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时20分]"
-        },
-        {
-          "title": "美元指数20日下跌",
-          "url": "https://flash.jin10.com/detail/20251121052858642800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "主力资金 开源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20251121104126325800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 14时38分]"
-        },
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出1474.31亿元，占比7.5%；大单资金净流出630.22亿元，占比3.21%；小单资金净流入1175.28亿元，占比5.98%。",
-          "url": "https://flash.jin10.com/detail/20251121150649628800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "牛散 游资",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【数据看盘】四家实力游资激烈博弈五连板人气股 多路资金大笔抛售多氟多",
@@ -1368,6 +1450,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时23分]"
+        },
+        {
+          "title": "【数据看盘】四家机构、外资逆市抢筹锂电股 三家实力游资激烈博弈易点天下",
+          "url": "https://www.cls.cn/detail/2207513",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     }
