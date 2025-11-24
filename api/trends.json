@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T18:29:21.288024+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2025-11-24T19:23:37.323762+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "美乌日内瓦会谈，美方称“取得良好进展”，特朗普发帖猛喷欧乌，泽连斯基立刻“致谢”",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时02分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[10时02分 ~ 19时23分]"
         },
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -31,6 +31,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普28条能让俄乌停战吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE28%E6%9D%A1%E8%83%BD%E8%AE%A9%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 19时23分]"
         },
         {
           "title": "泽连斯基：感谢美国，感谢特朗普",
@@ -45,17 +57,6 @@
           "time_info": "[10时02分 ~ 13时27分]"
         },
         {
-          "title": "特朗普28条能让俄乌停战吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE28%E6%9D%A1%E8%83%BD%E8%AE%A9%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 18时29分]"
-        },
-        {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
           "source": "澎湃新闻",
@@ -68,6 +69,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 07时22分]"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 19时23分]"
         },
         {
           "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
@@ -148,18 +161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "曝特朗普最后一刻才知28点计划内容",
-          "url": "https://www.toutiao.com/trending/7575287851869323300/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 18时29分]"
         },
         {
           "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
@@ -294,6 +295,39 @@
           "time_info": "[13时26分 ~ 13时27分]"
         },
         {
+          "title": "据Politico：特朗普的医保计划将把《平价医疗法案》的补贴延长两年。特朗普的计划包括对《平价医疗法案》的税收抵免设定收入上限。",
+          "url": "https://flash.jin10.com/detail/20251124190511411800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "特朗普：关税的全部收益还没算出来。",
+          "url": "https://wallstreetcn.com/livenews/3009563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "特朗普暗示乌克兰谈判可能在取得进展",
+          "url": "https://wallstreetcn.com/livenews/3009561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "特朗普：“囤货”现象即将结束 关税收入将激增",
           "url": "https://flash.jin10.com/detail/20251124131919141800",
           "source": "金十数据",
@@ -349,6 +383,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "特朗普：关税带来的全部好处尚未计算",
+          "url": "https://flash.jin10.com/detail/20251124183937041800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "美国总统特朗普：乌克兰“领导层”对我们的努力毫无感激之情，而欧洲却继续从俄罗斯购买石油。",
           "url": "https://wallstreetcn.com/livenews/3009128",
           "source": "华尔街见闻-快讯",
@@ -358,12 +403,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及乌克兰会谈）可能有好事发生，乌克兰谈判可能正在取得进展。",
+          "url": "https://flash.jin10.com/detail/20251124183630604800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "万亿级券商或诞生 本周披露并购重组进展的A股名单一览",
@@ -378,6 +434,18 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
+          "title": "A股三大指数全线收涨，阿里概念股大涨，港股高开高走，恒科指涨超2%，科网、新能源车反弹",
+          "url": "https://wallstreetcn.com/articles/3759974",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时30分 ~ 19时23分]"
+        },
+        {
           "title": "年末重新增配A股迎来契机？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2208280",
           "source": "财联社热门",
@@ -389,18 +457,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时02分 ~ 13时27分]"
-        },
-        {
-          "title": "A股三大指数全线收涨，阿里概念股大涨，港股高开高走，恒科指涨超2%，科网、新能源车反弹",
-          "url": "https://wallstreetcn.com/articles/3759974",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 18时29分]"
         },
         {
           "title": "A股三大指数翻红，创业板涨近1%，阿里概念股大涨，港股高开高走，恒指、恒科指涨超2%，科网、新能源车反弹",
@@ -451,6 +507,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时59分 ~ 12时40分]"
+        },
+        {
+          "title": "A股小作文引发工业富联盘中跌停",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B0%8F%E4%BD%9C%E6%96%87%E5%BC%95%E5%8F%91%E5%B7%A5%E4%B8%9A%E5%AF%8C%E8%81%94%E7%9B%98%E4%B8%AD%E8%B7%8C%E5%81%9C%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
           "title": "A股",
@@ -633,8 +700,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 18时29分]"
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 19时23分]"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -746,11 +813,12 @@
           "ranks": [
             12,
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时36分 ~ 18时29分]"
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 19时23分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
