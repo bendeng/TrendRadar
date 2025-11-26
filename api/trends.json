@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-26T20:54:24.479790+08:00",
-  "total_titles_processed": 1828,
+  "generated_at": "2025-11-26T21:39:35.258862+08:00",
+  "total_titles_processed": 1927,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时25分 ~ 20时54分]"
+          "appearance_count": 14,
+          "time_info": "[06时25分 ~ 21时39分]"
         },
         {
           "title": "特朗普电话后，日本沮丧了三次",
@@ -86,6 +86,18 @@
           "time_info": "[09时56分 ~ 15时24分]"
         },
         {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 21时39分]"
+        },
+        {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
           "url": "https://news.ifeng.com/c/8oZtlTWZHWZ",
           "source": "凤凰网",
@@ -95,18 +107,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 07时23分]"
-        },
-        {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 20时54分]"
         },
         {
           "title": "特朗普与高市早苗通话",
@@ -162,6 +162,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时56分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 21时39分]"
         },
         {
           "title": "2026年11月深圳的APEC会议，特朗普要来了？",
@@ -266,18 +278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
-        },
-        {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 20时54分]"
         },
         {
           "title": "刚见面不久特朗普为何急着和中方通话",
@@ -555,6 +555,18 @@
           "time_info": "[09时56分 ~ 11时19分]"
         },
         {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时39分]"
+        },
+        {
           "title": "CoreWeave债券价格继续下跌，其高收益债券跌幅显著。 此前，美国总统特朗普签署行政命令，从联邦层面促进人工智能（AI）创新。",
           "url": "https://wallstreetcn.com/livenews/3010309",
           "source": "华尔街见闻-快讯",
@@ -601,6 +613,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时56分 ~ 11时19分]"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时39分]"
         },
         {
           "title": "特朗普：我们从华盛顿特区撤离了1700人。",
@@ -711,17 +735,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         },
         {
           "title": "特朗普 先达成协议再说",
@@ -843,23 +856,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
-        },
-        {
-          "title": "特朗普一通电话后 高市早苗只有沉默",
-          "url": "https://www.toutiao.com/trending/7576901878579990070/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
@@ -916,11 +918,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时54分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时39分]"
         },
         {
           "title": "A股收盘：创业板指低开高走涨超2%，大消费板块尾盘走强",
@@ -1080,6 +1083,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "明天A股如何走",
+          "url": "https://www.toutiao.com/trending/7576993405557804586/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-11-26）",
@@ -1325,7 +1339,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -1337,8 +1351,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时54分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时39分]"
         },
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
@@ -1352,6 +1366,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时25分]"
+        },
+        {
+          "title": "暴跌40%！软银成为“OpenAI链”风向标",
+          "url": "https://wallstreetcn.com/articles/3760166",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "据The Information：截至7月，约有3500万人支付了ChatGPT Plus或Pro订阅费用，通常每月花费20美元和200美元。",
@@ -1525,11 +1550,12 @@
           "ranks": [
             13,
             11,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时54分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时39分]"
         }
       ]
     },
