@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T17:28:38.731135+08:00",
-  "total_titles_processed": 1577,
+  "generated_at": "2025-11-27T18:28:54.030739+08:00",
+  "total_titles_processed": 1673,
   "failed_sources": [],
   "trends": [
     {
@@ -19,22 +19,6 @@
           "time_info": "[00时33分 ~ 07时23分]"
         },
         {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.toutiao.com/trending/7576971637803716150/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            2,
-            4,
-            9,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 17时28分]"
-        },
-        {
           "title": "特朗普一通电话后 高市早苗只有沉默",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E5%90%8E+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%AA%E6%9C%89%E6%B2%89%E9%BB%98",
           "source": "百度热搜",
@@ -45,6 +29,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 09时54分]"
+        },
+        {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.toutiao.com/trending/7576971637803716150/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2,
+            4,
+            9,
+            7,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 18时28分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -70,11 +71,28 @@
             13,
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 17时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 18时28分]"
+        },
+        {
+          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16,
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时15分 ~ 18时28分]"
         },
         {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
@@ -86,23 +104,23 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时15分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[11时15分 ~ 18时28分]"
         },
         {
-          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
-          "source": "澎湃新闻",
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
           "ranks": [
-            19,
             17,
-            16,
+            7,
+            11,
             15,
-            14
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时15分 ~ 17时28分]"
+          "appearance_count": 8,
+          "time_info": "[11时15分 ~ 18时28分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -165,21 +183,6 @@
           "time_info": "[11时15分 ~ 15时26分]"
         },
         {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            7,
-            11,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 17时28分]"
-        },
-        {
           "title": "特朗普下令增兵：行凶者必付出代价",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
           "source": "百度热搜",
@@ -211,6 +214,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 18时28分]"
         },
         {
           "title": "特朗普为何称明年G20峰会不邀请南非",
@@ -261,18 +277,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时53分 ~ 11时16分]"
-        },
-        {
-          "title": "特朗普致电高市：别在台湾问题上挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 17时28分]"
         },
         {
           "title": "美财长：特朗普明年或将两次访华",
@@ -497,6 +501,228 @@
       ]
     },
     {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "【每日收评】AI产业链引领创业板指走强，中际旭创再创新高，大消费尾盘异军突起",
+          "url": "https://www.cls.cn/detail/2211624",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 07时23分]"
+        },
+        {
+          "title": "创业板涨超2%，中际旭创新高，万科债临停，地产股冲高回落，港股美团涨超5%",
+          "url": "https://wallstreetcn.com/articles/3760136",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时22分 ~ 12时30分]"
+        },
+        {
+          "title": "创业板指涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3011169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "A股商业航天概念午后拉升，中天火箭直线涨停，天宜新材涨超10%，超捷股份、上海沪工、霍莱沃、航宇科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3011281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 14时39分]"
+        },
+        {
+          "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
+          "url": "https://wallstreetcn.com/articles/3760222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
+          "title": "上证指数早盘收报3883.01点，涨0.49%。 深证成指早盘收报12956.99点，涨0.38%。 创业板指早盘收报3061.79点，涨0.56%。 沪深300早盘收报4531.83点，涨0.31%。 科创50早盘收报1327.87点，涨0.98%。 中证500早盘收报6990.32点，涨0.36%。 中证1000早盘收报7287.51点，涨0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3011245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时26分]"
+        },
+        {
+          "title": "11月27日午间收评：创业板指冲高回落涨0.56%，有机硅、消费电子板块走强",
+          "url": "https://wallstreetcn.com/livenews/3011244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时26分]"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2025-11-27）",
+          "url": "https://flash.jin10.com/detail/20251127151111804800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "创业板指午后翻绿，早盘一度涨超2%，海南自贸区、AI应用、培育钻石等方向跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3011311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "A股收盘：创业板指冲高回落跌0.44%，有机硅、固态电池概念股走强",
+          "url": "https://wallstreetcn.com/livenews/3011359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "上证指数收报3875.26点，涨0.29%。 深证成指收报12875.19点，跌0.25%。 创业板指收报3031.30点，跌0.44%。 沪深300收报4515.40点，跌0.05%。 科创50收报1310.70点，跌0.33%。 中证500收报6951.28点，跌0.20%。 中证1000收报7257.45点，涨0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3011357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "午后全线跳水 A股反弹还能否延续",
+          "url": "https://www.toutiao.com/trending/7577305771424091698/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "A股陕西板块午后拉升，西安饮食拉升涨停，西安旅游、天地源、曲江文旅、陕西华达、广电网络、标准股份涨停。",
+          "url": "https://wallstreetcn.com/livenews/3011296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "A股机器人概念午后活跃，力星股份涨超10%，斯菱股份、大洋电机、长盈精密、嵘泰股份、浙江荣泰、拓普集团跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3011294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "上证指数开盘报3867.20点，涨0.08%。 深证成指开盘报12903.91点，跌0.03%。 创业板指开盘报3041.20点，跌0.11%。 沪深300开盘报4520.01点，涨0.05%。 科创50开盘报1325.85点，涨0.82%。 中证500开盘报6970.73点，涨0.08%。 中证1000开盘报7243.71点，跌0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3011137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "全线跳水 A股反弹能否延续",
+          "url": "https://www.toutiao.com/trending/7577305771424091698/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "智利IPSA股票指数突破1万点，创盘中历史新高，日内当前涨幅超过0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3010949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "业内：A股市场底部已基本确立",
+          "url": "https://www.toutiao.com/trending/7577325754254364196/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "创业板指涨超2%，科创50指数涨2.6%。深成指涨1.2%，沪指涨0.5%。固态电池、半导体、存储芯片板块涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3011183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
@@ -706,206 +932,6 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "【每日收评】AI产业链引领创业板指走强，中际旭创再创新高，大消费尾盘异军突起",
-          "url": "https://www.cls.cn/detail/2211624",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 07时23分]"
-        },
-        {
-          "title": "创业板涨超2%，中际旭创新高，万科债临停，地产股冲高回落，港股美团涨超5%",
-          "url": "https://wallstreetcn.com/articles/3760136",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时22分 ~ 12时30分]"
-        },
-        {
-          "title": "创业板指涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3011169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "A股商业航天概念午后拉升，中天火箭直线涨停，天宜新材涨超10%，超捷股份、上海沪工、霍莱沃、航宇科技等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3011281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 14时39分]"
-        },
-        {
-          "title": "上证指数早盘收报3883.01点，涨0.49%。 深证成指早盘收报12956.99点，涨0.38%。 创业板指早盘收报3061.79点，涨0.56%。 沪深300早盘收报4531.83点，涨0.31%。 科创50早盘收报1327.87点，涨0.98%。 中证500早盘收报6990.32点，涨0.36%。 中证1000早盘收报7287.51点，涨0.54%。",
-          "url": "https://wallstreetcn.com/livenews/3011245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 13时26分]"
-        },
-        {
-          "title": "11月27日午间收评：创业板指冲高回落涨0.56%，有机硅、消费电子板块走强",
-          "url": "https://wallstreetcn.com/livenews/3011244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 13时26分]"
-        },
-        {
-          "title": "金十数据整理：A股每日市场要闻回顾（2025-11-27）",
-          "url": "https://flash.jin10.com/detail/20251127151111804800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "创业板指午后翻绿，早盘一度涨超2%，海南自贸区、AI应用、培育钻石等方向跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3011311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "AH股指数表现分化，创业板、恒科指冲高回落，锂电、固态电池走强，消费板块爆发，万科债上演“过山车”行情，铂钯期货首秀大涨",
-          "url": "https://wallstreetcn.com/articles/3760222",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "A股收盘：创业板指冲高回落跌0.44%，有机硅、固态电池概念股走强",
-          "url": "https://wallstreetcn.com/livenews/3011359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "上证指数收报3875.26点，涨0.29%。 深证成指收报12875.19点，跌0.25%。 创业板指收报3031.30点，跌0.44%。 沪深300收报4515.40点，跌0.05%。 科创50收报1310.70点，跌0.33%。 中证500收报6951.28点，跌0.20%。 中证1000收报7257.45点，涨0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3011357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        },
-        {
-          "title": "午后全线跳水 A股反弹还能否延续",
-          "url": "https://www.toutiao.com/trending/7577305771424091698/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "A股陕西板块午后拉升，西安饮食拉升涨停，西安旅游、天地源、曲江文旅、陕西华达、广电网络、标准股份涨停。",
-          "url": "https://wallstreetcn.com/livenews/3011296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "A股机器人概念午后活跃，力星股份涨超10%，斯菱股份、大洋电机、长盈精密、嵘泰股份、浙江荣泰、拓普集团跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3011294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时39分"
-        },
-        {
-          "title": "上证指数开盘报3867.20点，涨0.08%。 深证成指开盘报12903.91点，跌0.03%。 创业板指开盘报3041.20点，跌0.11%。 沪深300开盘报4520.01点，涨0.05%。 科创50开盘报1325.85点，涨0.82%。 中证500开盘报6970.73点，涨0.08%。 中证1000开盘报7243.71点，跌0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3011137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "智利IPSA股票指数突破1万点，创盘中历史新高，日内当前涨幅超过0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3010949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "创业板指涨超2%，科创50指数涨2.6%。深成指涨1.2%，沪指涨0.5%。固态电池、半导体、存储芯片板块涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3011183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
@@ -943,8 +969,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 18时28分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -968,6 +994,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月27日（周四）上海金早盘价为942.06元/克，较国际金价(943.34元/克)，低1.28元/克",
+          "url": "https://flash.jin10.com/detail/20251127110218289800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 12时30分]"
+        },
+        {
+          "title": "金十图示：2025年11月27日（周四）上海金午盘价为942.44元/克，较国际金价(946.08元/克)，低3.64元/克",
+          "url": "https://flash.jin10.com/detail/20251127150233224800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "三菱日联：初请数据难以撼动降息前景 金价守稳高位",
+          "url": "https://flash.jin10.com/detail/20251127175027884800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     },
@@ -1005,35 +1071,6 @@
           "source": "金十数据",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月27日（周四）上海金早盘价为942.06元/克，较国际金价(943.34元/克)，低1.28元/克",
-          "url": "https://flash.jin10.com/detail/20251127110218289800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 12时30分]"
-        },
-        {
-          "title": "金十图示：2025年11月27日（周四）上海金午盘价为942.44元/克，较国际金价(946.08元/克)，低3.64元/克",
-          "url": "https://flash.jin10.com/detail/20251127150233224800",
-          "source": "金十数据",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
