@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T04:25:24.791259+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2025-11-28T05:22:36.050888+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -29,8 +29,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -41,8 +41,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
@@ -50,11 +50,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时25分]"
+          "appearance_count": 3,
+          "time_info": "[03时19分 ~ 05时22分]"
         },
         {
           "title": "德国总理默茨：我将设法劝说美国（总统特朗普），进而让南非获得参与2026年（由美方轮值主办的）二十国集团（G20）峰会。",
@@ -92,11 +93,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -106,8 +108,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         }
       ]
     },
@@ -123,8 +125,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "中国中车拟分拆子公司至创业板上市",
@@ -132,11 +134,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 05时22分]"
         }
       ]
     },
@@ -152,8 +155,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         }
       ]
     },
@@ -205,11 +208,12 @@
           "ranks": [
             7,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         }
       ]
     }
