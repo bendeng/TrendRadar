@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T20:51:42.063561+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2025-11-28T21:34:41.918575+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时53分 ~ 20时51分]"
+          "appearance_count": 13,
+          "time_info": "[09时53分 ~ 21时34分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -389,11 +389,12 @@
           "url": "https://www.cls.cn/detail/2214409",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时34分]"
         },
         {
           "title": "A股影视股震荡拉升，中国电影涨停，金逸影视、幸福蓝海、博纳影业、横店影视、上海电影跟涨。",
@@ -530,8 +531,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时23分 ~ 20时51分]"
+          "appearance_count": 15,
+          "time_info": "[07时23分 ~ 21时34分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -574,8 +575,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 20时51分]"
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 21时34分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -713,8 +714,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时53分 ~ 20时51分]"
+          "appearance_count": 14,
+          "time_info": "[09时53分 ~ 21时34分]"
         },
         {
           "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
@@ -867,7 +868,7 @@
     },
     {
       "keyword_group": "牛散 游资",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【数据看盘】多路资金联手抢筹锂电股 四家实力游资扎堆新华都",
@@ -883,6 +884,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时23分]"
+        },
+        {
+          "title": "【数据看盘】机构活跃度连续两日下降 四家实力游资联手抢筹航天发展",
+          "url": "https://www.cls.cn/detail/2214210",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     }
