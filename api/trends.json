@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T15:23:23.035146+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2025-11-29T16:32:00.133933+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
@@ -316,8 +316,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时22分 ~ 15时23分]"
+          "appearance_count": 13,
+          "time_info": "[07时22分 ~ 16时32分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -328,8 +328,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 15时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 16时32分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -497,7 +497,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "涉及中际旭创、胜宏科技等，A股多条重要指数样本股调整",
@@ -507,8 +507,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 15时23分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 16时32分]"
         },
         {
           "title": "蓝箭航天朱雀三号即将首飞 火箭产业链价值量及其占比超5%的A股名单一览",
@@ -520,8 +520,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时53分 ~ 15时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时53分 ~ 16时32分]"
         },
         {
           "title": "龙头15天10板 本周披露并购重组进展的A股名单一览",
@@ -533,8 +533,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时29分 ~ 15时23分]"
+          "appearance_count": 9,
+          "time_info": "[12时29分 ~ 16时32分]"
         },
         {
           "title": "A股重要调整",
@@ -558,6 +558,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 12时30分]"
+        },
+        {
+          "title": "电解液细分龙头盘中创历史新高 VC、FEC等电解液添加剂产能A股名单一览",
+          "url": "https://www.cls.cn/detail/2214775",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         }
       ]
     },
@@ -575,8 +586,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 15时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时24分 ~ 16时32分]"
         },
         {
           "title": "金价",
