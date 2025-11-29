@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T13:25:01.927568+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2025-11-29T14:36:02.596654+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -128,6 +128,21 @@
           "time_info": "[03时20分 ~ 07时23分]"
         },
         {
+          "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
+          "url": "https://wallstreetcn.com/livenews/3012411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            15,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 14时36分]"
+        },
+        {
           "title": "据纽约时报：美国总统特朗普上周与委内瑞拉领导人马杜罗通了电话，讨论了会晤事宜。",
           "url": "https://flash.jin10.com/detail/20251129032541398800",
           "source": "金十数据",
@@ -139,20 +154,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时28分 ~ 09时53分]"
-        },
-        {
-          "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
-          "url": "https://wallstreetcn.com/livenews/3012411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 13时25分]"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -182,6 +183,18 @@
           "time_info": "[04时28分 ~ 07时23分]"
         },
         {
+          "title": "特朗普废除拜登用自动签名笔签的文件",
+          "url": "https://www.toutiao.com/trending/7577899454150279187/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 14时36分]"
+        },
+        {
           "title": "日本学者点破特朗普真实想法",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AD%A6%E8%80%85%E7%82%B9%E7%A0%B4%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%9F%E5%AE%9E%E6%83%B3%E6%B3%95%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -206,15 +219,15 @@
           "time_info": "[09时53分 ~ 11时16分]"
         },
         {
-          "title": "特朗普废除拜登用自动签名笔签的文件",
-          "url": "https://www.toutiao.com/trending/7577899454150279187/",
+          "title": "特朗普“和平新计划”为何会再次落空",
+          "url": "https://www.toutiao.com/trending/7576949262657126419/",
           "source": "今日头条",
           "ranks": [
-            15
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "time_info": "[14时35分 ~ 14时36分]"
         },
         {
           "title": "美媒称特朗普上周与马杜罗通话",
@@ -293,18 +306,6 @@
           "time_info": "[00时31分 ~ 06时23分]"
         },
         {
-          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2214556",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 13时25分]"
-        },
-        {
           "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
           "url": "https://www.cls.cn/detail/2214656",
           "source": "财联社热门",
@@ -315,8 +316,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时22分 ~ 13时25分]"
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 14时36分]"
+        },
+        {
+          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2214556",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 14时36分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -494,8 +507,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 13时25分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 14时36分]"
         },
         {
           "title": "蓝箭航天朱雀三号即将首飞 火箭产业链价值量及其占比超5%的A股名单一览",
@@ -507,8 +520,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时53分 ~ 14时36分]"
         },
         {
           "title": "龙头15天10板 本周披露并购重组进展的A股名单一览",
@@ -516,11 +529,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 14时36分]"
         },
         {
           "title": "A股重要调整",
@@ -556,11 +570,12 @@
           "url": "https://www.douyin.com/hot/2321048",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 14时36分]"
         },
         {
           "title": "金价",
@@ -638,8 +653,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 14时36分]"
         }
       ]
     },
