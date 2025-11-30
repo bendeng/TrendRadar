@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T18:24:47.539048+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2025-11-30T19:19:57.066753+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -58,6 +58,18 @@
           "time_info": "[00时29分 ~ 07时23分]"
         },
         {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 19时19分]"
+        },
+        {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
           "url": "https://flash.jin10.com/detail/20251129220829620800",
           "source": "金十数据",
@@ -68,18 +80,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时30分 ~ 10时07分]"
-        },
-        {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时36分 ~ 18时24分]"
         },
         {
           "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
@@ -170,15 +170,27 @@
           "time_info": "[00时30分 ~ 07时23分]"
         },
         {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
           "url": "https://flash.jin10.com/detail/20251130174813876800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时19分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -196,7 +208,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "蓝箭航天朱雀三号即将首飞 火箭产业链价值量及其占比超5%的A股名单一览",
@@ -230,8 +242,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 18时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 19时19分]"
         },
         {
           "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
@@ -242,11 +254,12 @@
             7,
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时06分 ~ 18时24分]"
+          "appearance_count": 12,
+          "time_info": "[10时06分 ~ 19时19分]"
         },
         {
           "title": "下周A股将迎接新一轮行情",
@@ -284,6 +297,17 @@
           "time_info": "[10时06分 ~ 10时07分]"
         },
         {
+          "title": "A股需要内需的变化打开高度",
+          "url": "https://wallstreetcn.com/articles/3760402",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "A股成交创4个月新低释放什么信号",
           "url": "https://www.toutiao.com/trending/7578305044378816006/",
           "source": "今日头条",
@@ -301,7 +325,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         }
@@ -322,11 +346,12 @@
             2,
             13,
             16,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 18时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 19时19分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -357,8 +382,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 18时24分]"
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 19时19分]"
         }
       ]
     },
