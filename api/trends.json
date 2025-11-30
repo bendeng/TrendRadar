@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T00:29:41.452835+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-01T01:21:20.895545+08:00",
+  "total_titles_processed": 334,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "“特朗普交易”遭重创",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
@@ -48,8 +48,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         }
       ]
     },
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "A股需要内需的变化打开高度",
@@ -76,8 +76,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         },
         {
           "title": "A股连续缩量说明了什么",
@@ -104,8 +104,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         }
       ]
     },
@@ -121,8 +121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时21分]"
         }
       ]
     }
