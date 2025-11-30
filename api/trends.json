@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T20:47:14.394237+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2025-11-30T21:31:20.994605+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时36分 ~ 20时47分]"
+          "appearance_count": 11,
+          "time_info": "[14时36分 ~ 21时31分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时23分]"
+        },
+        {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 21时31分]"
         },
         {
           "title": "特朗普称委内瑞拉空域应被视为关闭",
@@ -80,17 +91,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时30分 ~ 10时07分]"
-        },
-        {
-          "title": "美媒：特朗普直接要求马杜罗下台",
-          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时47分]"
         },
         {
           "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
@@ -185,11 +185,23 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
           "source": "百度热搜",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 21时31分]"
+        },
+        {
+          "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
+          "url": "https://flash.jin10.com/detail/20251130201511290800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
@@ -198,11 +210,24 @@
           "ranks": [
             4,
             13,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时47分]"
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时31分]"
+        },
+        {
+          "title": "美媒担心特朗普借贪腐抛弃乌克兰",
+          "url": "https://www.toutiao.com/trending/7578459169896795667/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 21时31分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -215,17 +240,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 13时25分]"
-        },
-        {
-          "title": "美媒担心特朗普借贪腐抛弃乌克兰",
-          "url": "https://www.toutiao.com/trending/7578459169896795667/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
         }
       ]
     },
@@ -265,8 +279,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时29分 ~ 20时47分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 21时31分]"
         },
         {
           "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
@@ -281,8 +295,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时06分 ~ 20时47分]"
+          "appearance_count": 16,
+          "time_info": "[10时06分 ~ 21时31分]"
         },
         {
           "title": "下周A股将迎接新一轮行情",
@@ -305,8 +319,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时47分]"
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 21时31分]"
+        },
+        {
+          "title": "博主：调整中的A股静待新故事爆发",
+          "url": "https://www.toutiao.com/trending/7578466413241699866/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 21时31分]"
         },
         {
           "title": "A股指数重大调整！涉及胜宏科技、中际旭创等",
@@ -318,17 +344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "博主：调整中的A股静待新故事爆发",
-          "url": "https://www.toutiao.com/trending/7578466413241699866/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
         },
         {
           "title": "A股下周能否延续反弹",
@@ -385,8 +400,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时29分 ~ 20时47分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 21时31分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -417,8 +432,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 20时47分]"
+          "appearance_count": 9,
+          "time_info": "[16时29分 ~ 21时31分]"
         }
       ]
     },
