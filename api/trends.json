@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T21:31:20.994605+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2025-11-30T22:22:16.941146+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时36分 ~ 21时31分]"
+          "appearance_count": 13,
+          "time_info": "[14时36分 ~ 22时22分]"
+        },
+        {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时19分 ~ 22时22分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时23分]"
-        },
-        {
-          "title": "美媒：特朗普直接要求马杜罗下台",
-          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 21时31分]"
         },
         {
           "title": "特朗普称委内瑞拉空域应被视为关闭",
@@ -186,22 +186,25 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时46分 ~ 21时31分]"
+          "appearance_count": 6,
+          "time_info": "[20时46分 ~ 22时22分]"
         },
         {
-          "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
-          "url": "https://flash.jin10.com/detail/20251130201511290800",
-          "source": "金十数据",
+          "title": "美媒担心特朗普借贪腐抛弃乌克兰",
+          "url": "https://www.toutiao.com/trending/7578459169896795667/",
+          "source": "今日头条",
           "ranks": [
-            5
+            26,
+            24,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时46分 ~ 22时22分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
@@ -218,16 +221,16 @@
           "time_info": "[18时24分 ~ 21时31分]"
         },
         {
-          "title": "美媒担心特朗普借贪腐抛弃乌克兰",
-          "url": "https://www.toutiao.com/trending/7578459169896795667/",
-          "source": "今日头条",
+          "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
+          "url": "https://flash.jin10.com/detail/20251130201511290800",
+          "source": "金十数据",
           "ranks": [
-            26,
-            24
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时46分 ~ 21时31分]"
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 22时22分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -245,7 +248,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "蓝箭航天朱雀三号即将首飞 火箭产业链价值量及其占比超5%的A股名单一览",
@@ -292,11 +295,12 @@
             6,
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时06分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[10时06分 ~ 22时22分]"
         },
         {
           "title": "下周A股将迎接新一轮行情",
@@ -319,8 +323,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 21时31分]"
+          "appearance_count": 7,
+          "time_info": "[19时19分 ~ 22时22分]"
         },
         {
           "title": "博主：调整中的A股静待新故事爆发",
@@ -344,6 +348,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时06分 ~ 10时07分]"
+        },
+        {
+          "title": "A股连续缩量说明了什么",
+          "url": "https://www.toutiao.com/trending/7578495650929577482/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
         },
         {
           "title": "A股下周能否延续反弹",
@@ -397,11 +412,12 @@
             16,
             14,
             15,
-            19
+            19,
+            11
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时29分 ~ 21时31分]"
+          "appearance_count": 28,
+          "time_info": "[00时29分 ~ 22时22分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -432,8 +448,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时29分 ~ 21时31分]"
+          "appearance_count": 11,
+          "time_info": "[16时29分 ~ 22时22分]"
         }
       ]
     },
