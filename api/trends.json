@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T16:30:31.424908+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2025-11-30T17:23:52.714781+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
@@ -166,8 +166,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 16时30分]"
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 17时23分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -219,8 +219,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 16时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 17时23分]"
         },
         {
           "title": "拟收购“小巨人”企业的算力概念股年内股价涨超200% 11月披露并购重组进展的A股名单一览",
@@ -230,11 +230,12 @@
             13,
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时06分 ~ 16时30分]"
+          "appearance_count": 10,
+          "time_info": "[10时06分 ~ 17时23分]"
         },
         {
           "title": "下周A股将迎接新一轮行情",
@@ -242,11 +243,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时36分 ~ 16时30分]"
+          "appearance_count": 5,
+          "time_info": "[14时36分 ~ 17时23分]"
         },
         {
           "title": "A股指数重大调整！涉及胜宏科技、中际旭创等",
@@ -301,8 +303,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 16时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 17时23分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -328,11 +330,12 @@
           "url": "https://wallstreetcn.com/articles/3760398",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 16时30分]"
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 17时23分]"
         }
       ]
     },
