@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T22:22:16.941146+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2025-11-30T23:24:09.289964+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -19,6 +19,17 @@
           "time_info": "[00时29分 ~ 07时23分]"
         },
         {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时19分 ~ 23时24分]"
+        },
+        {
           "title": "“特朗普交易”遭重创",
           "url": "https://wallstreetcn.com/articles/3760394",
           "source": "华尔街见闻",
@@ -27,19 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时36分 ~ 22时22分]"
-        },
-        {
-          "title": "美媒：特朗普直接要求马杜罗下台",
-          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时19分 ~ 22时22分]"
+          "appearance_count": 15,
+          "time_info": "[14时36分 ~ 23时24分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -79,6 +79,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普与委总统通话 直接要求其下台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[20时46分 ~ 23时24分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -181,19 +195,6 @@
           "time_info": "[00时30分 ~ 07时23分]"
         },
         {
-          "title": "特朗普与委总统通话 直接要求其下台",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时46分 ~ 22时22分]"
-        },
-        {
           "title": "美媒担心特朗普借贪腐抛弃乌克兰",
           "url": "https://www.toutiao.com/trending/7578459169896795667/",
           "source": "今日头条",
@@ -205,6 +206,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[20时46分 ~ 22时22分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
+          "url": "https://wallstreetcn.com/livenews/3012550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
@@ -226,11 +238,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时22分]"
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 23时24分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -243,6 +256,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 13时25分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特表示，如果美国总统特朗普提名他担任美联储主席，他“将非常乐意任职”。",
+          "url": "https://flash.jin10.com/detail/20251130222919146800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         }
       ]
     },
@@ -299,8 +323,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时06分 ~ 22时22分]"
+          "appearance_count": 20,
+          "time_info": "[10时06分 ~ 23时24分]"
+        },
+        {
+          "title": "A股需要内需的变化打开高度",
+          "url": "https://wallstreetcn.com/articles/3760402",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时19分 ~ 23时24分]"
         },
         {
           "title": "下周A股将迎接新一轮行情",
@@ -316,17 +352,6 @@
           "time_info": "[14时36分 ~ 17时23分]"
         },
         {
-          "title": "A股需要内需的变化打开高度",
-          "url": "https://wallstreetcn.com/articles/3760402",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时19分 ~ 22时22分]"
-        },
-        {
           "title": "博主：调整中的A股静待新故事爆发",
           "url": "https://www.toutiao.com/trending/7578466413241699866/",
           "source": "今日头条",
@@ -339,6 +364,18 @@
           "time_info": "[20时46分 ~ 21时31分]"
         },
         {
+          "title": "A股连续缩量说明了什么",
+          "url": "https://www.toutiao.com/trending/7578495650929577482/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时21分 ~ 23时24分]"
+        },
+        {
           "title": "A股指数重大调整！涉及胜宏科技、中际旭创等",
           "url": "https://wallstreetcn.com/articles/3760373",
           "source": "华尔街见闻",
@@ -348,17 +385,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "A股连续缩量说明了什么",
-          "url": "https://www.toutiao.com/trending/7578495650929577482/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
         },
         {
           "title": "A股下周能否延续反弹",
@@ -416,8 +442,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时29分 ~ 22时22分]"
+          "appearance_count": 30,
+          "time_info": "[00时29分 ~ 23时24分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -448,8 +474,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时29分 ~ 22时22分]"
+          "appearance_count": 13,
+          "time_info": "[16时29分 ~ 23时24分]"
         }
       ]
     },
