@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T07:25:12.492756+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2025-12-05T09:59:13.613969+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -253,12 +253,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时40分]"
+        },
+        {
+          "title": "哈里王子上脱口秀讥讽特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E9%87%8C%E7%8E%8B%E5%AD%90%E4%B8%8A%E8%84%B1%E5%8F%A3%E7%A7%80%E8%AE%A5%E8%AE%BD%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "据福克斯新闻：美国国土安全部长诺姆表示，特朗普政府将旅行禁令适用国家扩大至30多个。",
+          "url": "https://flash.jin10.com/detail/20251205085517265800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
@@ -275,6 +297,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时36分 ~ 06时23分]"
+        },
+        {
+          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -299,6 +332,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时25分 ~ 07时25分]"
+        },
+        {
+          "title": "美股收盘：小盘股指数再创历史新高",
+          "url": "https://www.cls.cn/detail/2220253",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 09时59分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）热门中概股行情一览（美股收盘）",
@@ -364,17 +409,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时40分 ~ 04时30分]"
-        },
-        {
-          "title": "美股收盘：小盘股指数再创历史新高",
-          "url": "https://www.cls.cn/detail/2220253",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 07时25分]"
         },
         {
           "title": "周四（12月4日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.72%，报92590美元，日内交投于94440-91165美元区间。 CME以太币期货DCR主力合约持平，报3149.50美元，日内交投于3252.50-3080美元区间。 美股加密货币与加密货币关联指数涨2.72%，报71.95点。 最近24小时，MarketVector数字资产100小盘指数跌2.33%，暂报4277.88点。",
@@ -460,6 +494,67 @@
       ]
     },
     {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
+          "url": "https://www.cls.cn/detail/2219854",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时25分]"
+        },
+        {
+          "title": "证券日报评论：A股开户数企稳是一个值得重视的市场信号",
+          "url": "https://wallstreetcn.com/livenews/3015395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "A股食品、零售等消费股盘初拉升，安记食品4连板，西王食品直线涨停，茂业商业、好想你、海欣食品等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3015479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "上证指数开盘报3873.12点，跌0.07%。 深证成指开盘报13020.29点，涨0.10%。 创业板指开盘报3084.22点，涨0.55%。 沪深300开盘报4547.91点，涨0.03%。 科创50开盘报1319.72点，跌0.49%。 中证500开盘报7008.65点，跌0.06%。 中证1000开盘报7244.28点，跌0.06%。",
+          "url": "https://wallstreetcn.com/livenews/3015469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-05）",
+          "url": "https://flash.jin10.com/detail/20251205090428099800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -523,7 +618,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -534,35 +629,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "摩尔线程明日登陆A股 参考今年新股行情 一签能赚多少钱？",
-          "url": "https://www.cls.cn/detail/2219854",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时25分]"
-        },
-        {
-          "title": "证券日报评论：A股开户数企稳是一个值得重视的市场信号",
-          "url": "https://wallstreetcn.com/livenews/3015395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
@@ -581,8 +648,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 09时59分]"
         }
       ]
     },
@@ -600,6 +667,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "主力资金 开源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "迎战TPU与Trainium？英伟达再度发文“自证”：GB200 NVL72可将开源AI模型性能最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3760723",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         }
       ]
     }
