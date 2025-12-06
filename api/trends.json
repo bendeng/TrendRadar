@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T21:31:14.763100+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2025-12-06T22:21:57.871200+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时22分 ~ 21时31分]"
+          "appearance_count": 12,
+          "time_info": "[15时22分 ~ 22时21分]"
         },
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -45,8 +45,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时24分 ~ 21时31分]"
+          "appearance_count": 10,
+          "time_info": "[17时24分 ~ 22时21分]"
         },
         {
           "title": "特朗普将废“出生公民权”，美最高法院决定审理行政令是否合宪",
@@ -58,6 +58,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[20时47分 ~ 21时31分]"
+        },
+        {
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时25分 ~ 22时21分]"
         },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -74,16 +86,15 @@
           "time_info": "[00时33分 ~ 07时24分]"
         },
         {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[18时25分 ~ 21时31分]"
+          "time_info": "[19时19分 ~ 22时21分]"
         },
         {
           "title": "特朗普警告高市早苗别插手台海",
@@ -111,17 +122,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时14分 ~ 15时22分]"
-        },
-        {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时19分 ~ 21时31分]"
         },
         {
           "title": "日媒：特朗普与高市通话措辞非常严厉",
@@ -570,6 +570,17 @@
           "time_info": "[12时28分 ~ 12时29分]"
         },
         {
+          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
+          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "哈塞特：美联储是时候谨慎降息了，未与特朗普讨论过主席相关话题",
           "url": "https://wallstreetcn.com/articles/3760815",
           "source": "华尔街见闻",
@@ -617,8 +628,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时52分 ~ 21时31分]"
+          "appearance_count": 18,
+          "time_info": "[09时52分 ~ 22时21分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -659,8 +670,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时24分 ~ 21时31分]"
+          "appearance_count": 19,
+          "time_info": "[07时24分 ~ 22时21分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
@@ -855,8 +866,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时28分 ~ 21时31分]"
+          "appearance_count": 16,
+          "time_info": "[12时28分 ~ 22时21分]"
         },
         {
           "title": "A股迎首部上市公司监管专项行政法规，74条全梳理",
@@ -883,8 +894,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时24分 ~ 21时31分]"
+          "appearance_count": 14,
+          "time_info": "[13时24分 ~ 22时21分]"
         },
         {
           "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
@@ -897,8 +908,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时24分 ~ 21时31分]"
+          "appearance_count": 14,
+          "time_info": "[13时24分 ~ 22时21分]"
         },
         {
           "title": "【焦点复盘】创业板指2连涨收复60日线，全市场近百股涨超10%，算力硬件股卷土重来",
@@ -974,11 +985,25 @@
             8,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时28分 ~ 21时31分]"
+          "appearance_count": 16,
+          "time_info": "[12时28分 ~ 22时21分]"
+        },
+        {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时24分 ~ 22时21分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -994,18 +1019,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[12时28分 ~ 21时31分]"
-        },
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时24分 ~ 21时31分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -1100,11 +1113,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时47分 ~ 21时31分]"
+          "appearance_count": 5,
+          "time_info": "[20时47分 ~ 22时21分]"
         }
       ]
     },
