@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T13:23:57.317611+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2025-12-07T14:35:30.583068+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
@@ -61,22 +61,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时23分]"
-        },
-        {
-          "title": "特朗普签署行政令调查外资企业食品反竞争行为",
-          "url": "https://flash.jin10.com/detail/20251207124750348800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 14时35分]"
         },
         {
           "title": "美国发生特大诈骗案 特朗普怒批",
@@ -85,11 +75,24 @@
           "ranks": [
             25,
             5,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 14时35分]"
+        },
+        {
+          "title": "特朗普签署行政令调查外资企业食品反竞争行为",
+          "url": "https://flash.jin10.com/detail/20251207124750348800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时35分]"
         },
         {
           "title": "特朗普或将给高市早苗放权",
@@ -109,7 +112,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         }
@@ -117,7 +120,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -166,6 +169,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 01时21分]"
+        },
+        {
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         }
       ]
     },
@@ -195,8 +209,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 14时35分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -225,8 +239,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 14时35分]"
         },
         {
           "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
@@ -237,8 +251,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 14时35分]"
         },
         {
           "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
@@ -248,8 +262,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 14时35分]"
         }
       ]
     },
@@ -269,8 +283,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 13时23分]"
+          "appearance_count": 17,
+          "time_info": "[00时29分 ~ 14时35分]"
         }
       ]
     }
