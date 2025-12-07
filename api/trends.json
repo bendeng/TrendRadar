@@ -1,8 +1,73 @@
 {
-  "generated_at": "2025-12-07T07:23:10.617561+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2025-12-07T10:08:06.042899+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时23分]"
+        },
+        {
+          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
+          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 10时08分]"
+        },
+        {
+          "title": "特朗普或将给高市早苗放权",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%86%E7%BB%99%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%94%BE%E6%9D%83%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
@@ -58,59 +123,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
-        },
-        {
-          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
-          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -131,11 +143,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 10时08分]"
         },
         {
           "title": "美股三大指数小幅收涨",
@@ -160,11 +173,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 10时08分]"
         },
         {
           "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
@@ -175,8 +189,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 10时08分]"
         },
         {
           "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
@@ -186,8 +200,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 10时08分]"
         }
       ]
     },
@@ -202,11 +216,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 10时08分]"
         }
       ]
     }
