@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T13:28:41.806944+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2025-12-08T14:42:02.641040+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
@@ -22,11 +22,12 @@
             17,
             12,
             22,
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 13时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 14时42分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -38,11 +39,23 @@
             16,
             17,
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 13时28分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 14时42分]"
+        },
+        {
+          "title": "特朗普：我对泽连斯基有点失望",
+          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 14时42分]"
         },
         {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
@@ -57,6 +70,18 @@
           "time_info": "[04时27分 ~ 11时38分]"
         },
         {
+          "title": "以总统拒绝特朗普“求情”",
+          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 14时42分]"
+        },
+        {
           "title": "市场消息：美国总统特朗普计划于当地时间周一宣布一项价值120亿美元的农业援助计划。",
           "url": "https://flash.jin10.com/detail/20251208111302850800",
           "source": "金十数据",
@@ -68,15 +93,28 @@
           "time_info": "11时38分"
         },
         {
-          "title": "特朗普：我对泽连斯基有点失望",
-          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "title": "网飞与华纳达成收购协议，特朗普警告",
+          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
           "source": "凤凰网",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 13时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时37分 ~ 14时42分]"
+        },
+        {
+          "title": "特朗普称对泽连斯基感到失望",
+          "url": "https://www.toutiao.com/trending/7581294692906716710/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时37分 ~ 14时42分]"
         },
         {
           "title": "特朗普长子：特朗普或退出乌和平进程",
@@ -89,18 +127,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时37分 ~ 12时38分]"
-        },
-        {
-          "title": "以总统拒绝特朗普“求情”",
-          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 13时28分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -146,30 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "网飞与华纳达成收购协议，特朗普警告",
-          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 13时28分]"
-        },
-        {
-          "title": "特朗普称对泽连斯基感到失望",
-          "url": "https://www.toutiao.com/trending/7581294692906716710/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 13时28分]"
         },
         {
           "title": "特朗普长子：特朗普可能会因乌克兰的腐败丑闻而退出俄乌和平谈判",
@@ -281,7 +283,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
@@ -305,28 +307,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时22分]"
-        },
-        {
-          "title": "A股机器人概念股震荡拉升，五洲新春午后涨停，飞龙股份、景业智能、豪能股份、中坚科技、泰尔股份等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3016725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "A股海南自贸概念震荡走强，新大洲A涨停，海南发展此前封板，凯撒旅业、康芝药业、海峡股份、海南海药、海马汽车跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3016720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         },
         {
           "title": "上证指数早盘收报3927.19点，涨0.62%。 深证成指早盘收报13351.47点，涨1.55%。 创业板指早盘收报3203.06点，涨3.02%。 沪深300早盘收报4632.29点，涨1.04%。 科创50早盘收报1348.31点，涨1.67%。 中证500早盘收报7168.66点，涨1.00%。 中证1000早盘收报7419.39点，涨1.05%。",
@@ -355,6 +335,54 @@
           "time_info": "[11时38分 ~ 13时28分]"
         },
         {
+          "title": "A股机器人概念股震荡拉升，五洲新春午后涨停，飞龙股份、景业智能、豪能股份、中坚科技、泰尔股份等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3016725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时42分]"
+        },
+        {
+          "title": "A股海南自贸概念震荡走强，新大洲A涨停，海南发展此前封板，凯撒旅业、康芝药业、海峡股份、海南海药、海马汽车跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3016720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时42分]"
+        },
+        {
+          "title": "十大券商看后市｜A股春季行情有望提前演绎，指数或迈上新台阶",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32127705",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 14时42分]"
+        },
+        {
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 14时42分]"
+        },
+        {
           "title": "创业板指涨3%，深证成指涨1.6%，沪指涨0.7%。CPO概念股走强，个股涨多跌少，沪深京三市超3500股飘红。",
           "url": "https://wallstreetcn.com/livenews/3016673",
           "source": "华尔街见闻-快讯",
@@ -367,15 +395,15 @@
           "time_info": "[11时38分 ~ 12时38分]"
         },
         {
-          "title": "十大券商看后市｜A股春季行情有望提前演绎，指数或迈上新台阶",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32127705",
-          "source": "澎湃新闻",
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时28分]"
+          "time_info": "[14时41分 ~ 14时42分]"
         },
         {
           "title": "创业板指涨超1%，沪指涨0.27%，深成指涨0.51%，商业航天、券商、算力硬件、福建等方向领涨，沪深京三市上涨个股近3500只。",
@@ -395,7 +423,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -417,7 +445,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -444,17 +472,6 @@
           "time_info": "09时59分"
         },
         {
-          "title": "A股行情",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
           "title": "评论员：留意A股冲高回落的风险",
           "url": "https://www.toutiao.com/trending/7581303375891811876/",
           "source": "今日头条",
@@ -464,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
+        },
+        {
+          "title": "A股福建板块再度拉升，厦门空港直线涨停。厦门“十五五”规划建议，推动厦金率先融合，优化厦金客运、货运航线布局。",
+          "url": "https://wallstreetcn.com/livenews/3016728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         }
       ]
     },
@@ -476,11 +504,12 @@
           "url": "https://www.cls.cn/detail/2222331",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 14时42分]"
         }
       ]
     },
@@ -504,6 +533,23 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧莱雅将所持高德美股份增持至20%。",
+          "url": "https://wallstreetcn.com/livenews/3016758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "主力资金 开源",
       "match_count": 1,
       "titles": [
@@ -512,11 +558,12 @@
           "url": "https://flash.jin10.com/detail/20251208104447458800",
           "source": "金十数据",
           "ranks": [
-            22
+            22,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 14时42分]"
         }
       ]
     }
