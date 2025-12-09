@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T18:31:37.939151+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-12-09T19:25:07.302003+08:00",
+  "total_titles_processed": 1728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -57,6 +57,20 @@
           "time_info": "[00时35分 ~ 03时22分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时26分 ~ 19时25分]"
+        },
+        {
           "title": "特朗普：允许英伟达对华出售H200芯片",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%85%81%E8%AE%B8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
           "source": "百度热搜",
@@ -90,6 +104,17 @@
           "time_info": "[13时26分 ~ 15时27分]"
         },
         {
+          "title": "据Politico：美国总统特朗普表示，欧洲国家“正在走向衰败”，领导人“软弱”。",
+          "url": "https://flash.jin10.com/detail/20251209191036728800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
           "url": "https://flash.jin10.com/detail/20251209003933561800",
           "source": "金十数据",
@@ -101,17 +126,15 @@
           "time_info": "01时25分"
         },
         {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
+          "title": "匈牙利福林兑美元抹去涨幅，据报特朗普否认承诺救助匈牙利。",
+          "url": "https://flash.jin10.com/detail/20251209190828500800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 18时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "美国总统特朗普：欧盟对社交媒体平台“X”的罚款是“卑鄙的做法”。",
@@ -484,9 +507,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "据Politico：特朗普否认承诺救助匈牙利。",
+          "url": "https://flash.jin10.com/detail/20251209190736130800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "伊拉克West Qurna 2油田将在正常水平的基础上增产石油，从而弥补（特朗普政府对俄罗斯制裁）造成的的停产（损失）。",
@@ -522,6 +556,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "路透社/益普索民意调查：随着共和党人支持美国总统特朗普应对生活成本问题的方式，对其工作方面的支持率从38%升至41%。",
+          "url": "https://flash.jin10.com/detail/20251209190617908800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "市场消息：美国法官裁定特朗普禁止风能项目的行政令是非法的。",
           "url": "https://flash.jin10.com/detail/20251209062839282800",
           "source": "金十数据",
@@ -555,6 +600,17 @@
           "time_info": "16时37分"
         },
         {
+          "title": "路透社/益普索民意调查：西语裔对美国总统特朗普的支持率微升至34%。",
+          "url": "https://flash.jin10.com/detail/20251209190541205800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "美国法官认定：总统特朗普对若干风电项目的禁令非法。",
           "url": "https://wallstreetcn.com/livenews/3017188",
           "source": "华尔街见闻-快讯",
@@ -564,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "路透社/益普索民意调查：美国总统特朗普在生活成本问题上的支持率从26%升至31%，其中共和党内的支持率大幅上涨10个百分点。",
+          "url": "https://flash.jin10.com/detail/20251209190527721800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "特朗普预告：本周将签行政令 为AI制定统一国家规则",
@@ -789,6 +856,19 @@
           "time_info": "15时27分"
         },
         {
+          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
+          "url": "https://wallstreetcn.com/articles/3760975",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 19时25分]"
+        },
+        {
           "title": "A股商业航天概念继续活跃，龙洲股份5连板，宝胜股份、西部材料3连板，陕西华达涨超10%，达华智能、航天宏图、雷科防务、顺灏股份跟涨。",
           "url": "https://wallstreetcn.com/livenews/3017276",
           "source": "华尔街见闻-快讯",
@@ -823,18 +903,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时27分 ~ 16时37分]"
-        },
-        {
-          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
-          "url": "https://wallstreetcn.com/articles/3760975",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 18时31分]"
         },
         {
           "title": "上证指数开盘报3916.51点，跌0.19%。 深证成指开盘报13295.62点，跌0.26%。 创业板指开盘报3183.61点，跌0.21%。 沪深300开盘报4611.38点，跌0.22%。 科创50开盘报1338.85点，跌0.88%。 中证500开盘报7150.97点，跌0.30%。 中证1000开盘报7400.93点，跌0.30%。",
@@ -985,7 +1053,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -996,8 +1064,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时58分 ~ 18时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时58分 ~ 19时25分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -1184,6 +1252,17 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "英伟达美股盘前涨幅收窄至1%。",
+          "url": "https://wallstreetcn.com/livenews/3017613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "英伟达美股盘后涨幅扩大至2.7%。",
           "url": "https://wallstreetcn.com/livenews/3017185",
           "source": "华尔街见闻-快讯",
@@ -1304,8 +1383,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时31分]"
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 19时25分]"
         },
         {
           "title": "主力资金流向前十大个股",
@@ -1362,17 +1441,6 @@
           "time_info": "[00时35分 ~ 07时24分]"
         },
         {
-          "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
-          "url": "https://tech.ifeng.com/c/8ovZfiG4ies",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时25分 ~ 07时24分]"
-        },
-        {
           "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
           "url": "https://www.zhihu.com/question/1981658527434053567",
           "source": "知乎",
@@ -1382,8 +1450,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时39分 ~ 18时31分]"
+          "appearance_count": 9,
+          "time_info": "[14时39分 ~ 19时25分]"
+        },
+        {
+          "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
+          "url": "https://tech.ifeng.com/c/8ovZfiG4ies",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 07时24分]"
         }
       ]
     },
@@ -1449,11 +1528,12 @@
           "url": "https://www.cls.cn/detail/2224218",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 19时25分]"
         }
       ]
     },
