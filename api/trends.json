@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T20:55:36.609880+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2025-12-09T21:40:25.894061+08:00",
+  "total_titles_processed": 1920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -68,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时26分 ~ 20时55分]"
+          "appearance_count": 9,
+          "time_info": "[15时26分 ~ 21时40分]"
         },
         {
           "title": "特朗普：允许英伟达对华出售H200芯片",
@@ -502,6 +502,17 @@
           "time_info": "[09时58分 ~ 09时59分]"
         },
         {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时40分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-09）",
           "url": "https://flash.jin10.com/detail/20251209181308403800",
           "source": "金十数据",
@@ -524,6 +535,17 @@
           "time_info": "19时25分"
         },
         {
+          "title": "据CNN： 特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。",
+          "url": "https://flash.jin10.com/detail/20251209210853362800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "伊拉克West Qurna 2油田将在正常水平的基础上增产石油，从而弥补（特朗普政府对俄罗斯制裁）造成的的停产（损失）。",
           "url": "https://wallstreetcn.com/livenews/3017082",
           "source": "华尔街见闻-快讯",
@@ -533,6 +555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3017721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
@@ -689,6 +722,17 @@
           "time_info": "17时30分"
         },
         {
+          "title": "白宫新闻秘书莱维特表示，美国总统特朗普今日将在宾州发表利好经济的讲话。",
+          "url": "https://flash.jin10.com/detail/20251209204946258800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "美国总统特朗普声称，如有必要，“我们将对加拿大化肥加征关税”。 威胁要对加拿大化肥加征“严厉的”关税。 Nutrien跌幅扩大至2.3%。",
           "url": "https://wallstreetcn.com/livenews/3017142",
           "source": "华尔街见闻-快讯",
@@ -698,6 +742,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普今天将在宾夕法尼亚州发表积极的经济演讲。",
+          "url": "https://wallstreetcn.com/livenews/3017706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片，收取25%的分成",
@@ -783,7 +838,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -794,18 +849,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
-        },
-        {
-          "title": "采访中特朗普突然发飙怒斥记者",
-          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         }
@@ -879,17 +923,6 @@
           "time_info": "[00时35分 ~ 05时21分]"
         },
         {
-          "title": "金十数据整理：A股每日市场要闻回顾（2025-12-09）",
-          "url": "https://flash.jin10.com/detail/20251209151138740800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
           "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
           "url": "https://wallstreetcn.com/articles/3760975",
           "source": "华尔街见闻",
@@ -899,8 +932,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时30分 ~ 20时55分]"
+          "appearance_count": 6,
+          "time_info": "[17时30分 ~ 21时40分]"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2025-12-09）",
+          "url": "https://flash.jin10.com/detail/20251209151138740800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         },
         {
           "title": "A股商业航天概念继续活跃，龙洲股份5连板，宝胜股份、西部材料3连板，陕西华达涨超10%，达华智能、航天宏图、雷科防务、顺灏股份跟涨。",
@@ -1090,7 +1134,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         }
@@ -1109,8 +1153,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时58分 ~ 20时55分]"
+          "appearance_count": 17,
+          "time_info": "[09时58分 ~ 21时40分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -1303,7 +1347,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1439,8 +1483,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时37分 ~ 20时55分]"
+          "appearance_count": 7,
+          "time_info": "[16时37分 ~ 21时40分]"
         },
         {
           "title": "主力资金流向前十大个股",
@@ -1589,8 +1633,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时55分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时40分]"
         }
       ]
     },
