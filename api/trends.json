@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T18:31:33.489285+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2025-12-11T19:24:47.506804+08:00",
+  "total_titles_processed": 1763,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,17 @@
           "time_info": "[01时08分 ~ 07时23分]"
         },
         {
+          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时24分]"
+        },
+        {
           "title": "特朗普：被扣押油轮上的石油归美国了",
           "url": "https://www.toutiao.com/trending/7581744403334086710/",
           "source": "今日头条",
@@ -66,17 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时36分 ~ 17时31分]"
-        },
-        {
-          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时31分]"
         },
         {
           "title": "特朗普警告哥伦比亚总统“最好放聪明点”",
@@ -160,6 +160,17 @@
           "time_info": "[02时38分 ~ 03时23分]"
         },
         {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时24分]"
+        },
+        {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
           "url": "https://flash.jin10.com/detail/20251211054743918800",
           "source": "金十数据",
@@ -170,17 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时23分]"
-        },
-        {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时31分]"
         },
         {
           "title": "美国总统特朗普：我们有“很好的借口”拦截“委内瑞拉油轮”。",
@@ -243,6 +243,18 @@
           "time_info": "[04时31分 ~ 05时28分]"
         },
         {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时24分]"
+        },
+        {
           "title": "“特朗普黄金卡”开始接受申请",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
           "source": "百度热搜",
@@ -272,7 +284,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -327,7 +339,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -415,7 +427,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -437,7 +449,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -539,17 +551,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
         },
         {
           "title": "美国总统特朗普：乌克兰很久没有举行过选举了。",
@@ -687,8 +688,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时02分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[10时02分 ~ 19时24分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -1085,7 +1086,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -1096,7 +1097,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -1140,6 +1141,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
+          "url": "https://www.zhihu.com/question/1980552349165564560",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时24分]"
+        },
+        {
           "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
           "url": "https://flash.jin10.com/detail/20251211064706062800",
           "source": "金十数据",
@@ -1149,17 +1161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
-          "url": "https://www.zhihu.com/question/1980552349165564560",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
         },
         {
           "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
@@ -1327,8 +1328,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时08分 ~ 18时31分]"
+          "appearance_count": 25,
+          "time_info": "[01时08分 ~ 19时24分]"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流出857.75亿元，占比4.62%；大单资金净流出347.64亿元，占比1.87%；小单资金净流入654.76亿元，占比3.53%。",
@@ -1388,11 +1389,12 @@
           "url": "https://www.cls.cn/detail/2226827",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时24分]"
         }
       ]
     }
