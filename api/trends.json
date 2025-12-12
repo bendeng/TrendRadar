@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T19:25:50.357326+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2025-12-12T20:55:06.811634+08:00",
+  "total_titles_processed": 1909,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             6,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时27分 ~ 19时25分]"
+          "appearance_count": 12,
+          "time_info": "[13时27分 ~ 20时55分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -45,11 +46,12 @@
             8,
             11,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时01分 ~ 19时25分]"
+          "appearance_count": 15,
+          "time_info": "[10时01分 ~ 20时55分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -65,28 +67,17 @@
           "time_info": "[00时38分 ~ 07时25分]"
         },
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时41分 ~ 15时28分]"
-        },
-        {
           "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
           "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 19时25分]"
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 20时55分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -97,8 +88,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 19时25分]"
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 20时55分]"
+        },
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时41分 ~ 15时28分]"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -463,7 +466,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -693,8 +696,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时59分 ~ 19时25分]"
+          "appearance_count": 14,
+          "time_info": "[11时59分 ~ 20时55分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -717,8 +720,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时41分 ~ 19时25分]"
+          "appearance_count": 13,
+          "time_info": "[12时41分 ~ 20时55分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -757,6 +760,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 04时29分]"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 20时55分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -893,17 +908,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         },
         {
           "title": "OpenAI：预计未来几周将发布针对CodeX优化的GPT-5.2版本。",
@@ -1047,6 +1051,19 @@
           "time_info": "15时28分"
         },
         {
+          "title": "【焦点复盘】创业板指放量涨近1%，全市场超百股涨超10%，电网、可控核聚变概念携手爆发",
+          "url": "https://www.cls.cn/detail/2228044",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时30分 ~ 20时55分]"
+        },
+        {
           "title": "【每日收评】深成指与创业板指双双跌超1%，全市场近4400股飘绿，摩尔线程逆势大涨近30%",
           "url": "https://www.cls.cn/detail/2226719",
           "source": "财联社热门",
@@ -1106,18 +1123,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时59分 ~ 13时28分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指放量涨近1%，全市场超百股涨超10%，电网、可控核聚变概念携手爆发",
-          "url": "https://www.cls.cn/detail/2228044",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时30分 ~ 19时25分]"
         },
         {
           "title": "李大霄：八个迹象显示A股或将反弹",
@@ -1285,7 +1290,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
@@ -1664,8 +1669,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时30分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[18时30分 ~ 20时55分]"
         }
       ]
     },
