@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T16:37:06.457382+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2025-12-12T17:31:24.959361+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时38分 ~ 11时59分]"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 17时31分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -41,24 +54,12 @@
             3,
             5,
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时27分 ~ 16时37分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            8,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[13时27分 ~ 17时31分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -203,6 +204,18 @@
           "time_info": "[03时25分 ~ 04时29分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时31分]"
+        },
+        {
           "title": "特朗普：只有泽连斯基不喜欢和平计划",
           "url": "https://news.ifeng.com/c/8p1VFhun2fI",
           "source": "凤凰网",
@@ -213,6 +226,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时28分 ~ 16时37分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时31分]"
         },
         {
           "title": "学者：特朗普想在中日博弈中两头渔利",
@@ -239,17 +264,6 @@
           "time_info": "[00时38分 ~ 02时38分]"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
-        },
-        {
           "title": "加州州长再批特朗普：最具破坏性总统",
           "url": "https://news.ifeng.com/c/8p18mDHMrQq",
           "source": "凤凰网",
@@ -259,17 +273,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 11时59分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
         },
         {
           "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
@@ -494,6 +497,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "据熟悉竞标过程的消息人士透露，派拉蒙在竞标华纳兄弟探索频道的过程中不得不做出一个关键改变——明确承诺其外国合作伙伴和特朗普的女婿库什纳的基金将没有任何投票权或管理权。",
           "url": "https://flash.jin10.com/detail/20251212045820378800",
           "source": "金十数据",
@@ -632,6 +646,19 @@
       "match_count": 28,
       "titles": [
         {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时59分 ~ 17时31分]"
+        },
+        {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
           "url": "https://www.cls.cn/detail/2227243",
           "source": "财联社热门",
@@ -645,19 +672,6 @@
           "time_info": "[10时01分 ~ 14时40分]"
         },
         {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时59分 ~ 16时37分]"
-        },
-        {
           "title": "ChatGPT5.2有哪些新升级",
           "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
@@ -665,8 +679,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时41分 ~ 16时37分]"
+          "appearance_count": 8,
+          "time_info": "[12时41分 ~ 17时31分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1201,7 +1215,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
@@ -1214,8 +1228,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时38分 ~ 16时37分]"
+          "appearance_count": 21,
+          "time_info": "[00时38分 ~ 17时31分]"
         },
         {
           "title": "A股收盘：创业板指探底回升涨近1%，全市场成交额突破2万亿",
@@ -1381,6 +1395,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "李大霄：八个迹象显示A股或将反弹",
+          "url": "https://www.toutiao.com/trending/7582860539362020870/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "A股半导体设备板块短线拉升，拓荆科技涨超10%，中科飞测、京仪装备、芯源微、中微公司、微导纳米等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3019649",
           "source": "华尔街见闻-快讯",
@@ -1412,6 +1437,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "A股三大指数全线收红",
+          "url": "https://www.toutiao.com/trending/7582540459596775460/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "博主：A股修复性反弹进入重要观察期",
+          "url": "https://www.toutiao.com/trending/7582869749168623155/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     },
