@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T17:26:07.832103+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2025-12-14T18:25:50.364801+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
@@ -262,8 +262,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 17时26分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 18时25分]"
         },
         {
           "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
@@ -347,7 +347,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力芯片龙头赫然在列",
@@ -357,8 +357,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时08分 ~ 17时26分]"
+          "appearance_count": 13,
+          "time_info": "[10时08分 ~ 18时25分]"
         },
         {
           "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力龙头赫然在列",
@@ -380,8 +380,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 17时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 18时25分]"
         },
         {
           "title": "累计金额超1375亿！1468家A股上市公司今年以来实施回购，个股回购额排行榜出炉",
@@ -391,11 +391,23 @@
             10,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 17时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 18时25分]"
+        },
+        {
+          "title": "千亿市值背后的资本棋局：解码A股光模块“三剑客”发家史",
+          "url": "https://www.cls.cn/detail/2228836",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "日本加息对A股的影响有多大",
@@ -478,8 +490,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 17时26分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 18时25分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
