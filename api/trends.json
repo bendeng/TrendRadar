@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T19:20:57.206680+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2025-12-14T20:49:09.618303+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -157,6 +157,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时30分 ~ 04时27分]"
+        },
+        {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 20时49分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -339,7 +350,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -368,8 +379,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时08分 ~ 19时20分]"
+          "appearance_count": 16,
+          "time_info": "[10时08分 ~ 20时49分]"
         },
         {
           "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力龙头赫然在列",
@@ -391,8 +402,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 19时20分]"
+          "appearance_count": 26,
+          "time_info": "[00时30分 ~ 20时49分]"
         },
         {
           "title": "累计金额超1375亿！1468家A股上市公司今年以来实施回购，个股回购额排行榜出炉",
@@ -406,8 +417,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 19时20分]"
+          "appearance_count": 26,
+          "time_info": "[00时30分 ~ 20时49分]"
         },
         {
           "title": "千亿市值背后的资本棋局：解码A股光模块“三剑客”发家史",
@@ -415,11 +426,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 20时49分]"
         },
         {
           "title": "日本加息对A股的影响有多大",
