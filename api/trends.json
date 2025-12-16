@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:28:42.258218+08:00",
-  "total_titles_processed": 1389,
+  "generated_at": "2025-12-16T16:37:41.919203+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
@@ -89,17 +89,6 @@
           "time_info": "[00时15分 ~ 04时31分]"
         },
         {
-          "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
-          "url": "https://flash.jin10.com/detail/20251216000109802800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
           "source": "澎湃新闻",
@@ -109,8 +98,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 15时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时59分 ~ 16时37分]"
+        },
+        {
+          "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
+          "url": "https://flash.jin10.com/detail/20251216000109802800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -561,8 +561,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 15时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 16时37分]"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-16）",
@@ -571,7 +571,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -640,7 +640,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -888,7 +888,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -944,8 +944,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 15时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 16时37分]"
         },
         {
           "title": "英伟达收购开源工作负荷管理供应商Schedmd。",
@@ -990,7 +990,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
