@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T15:27:27.319000+08:00",
-  "total_titles_processed": 1380,
+  "generated_at": "2025-12-19T16:36:39.938114+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -18,6 +18,32 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时37分 ~ 10时01分]"
+        },
+        {
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 16时36分]"
+        },
+        {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 16时36分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -42,32 +68,6 @@
           "time_info": "[10时01分 ~ 14时39分]"
         },
         {
-          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
-          "url": "https://www.cls.cn/detail/2234192",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 15时27分]"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 15时27分]"
-        },
-        {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
           "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
           "source": "澎湃新闻",
@@ -78,11 +78,12 @@
             13,
             14,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时27分 ~ 15时27分]"
+          "appearance_count": 20,
+          "time_info": "[01时27分 ~ 16时36分]"
         },
         {
           "title": "特朗普，敢不敢动武？",
@@ -93,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 16时36分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -103,11 +104,37 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 16时36分]"
+        },
+        {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 16时36分]"
+        },
+        {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 16时36分]"
         },
         {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我（才不会像美国总统特朗普对付美联储主席鲍威尔那样）向Galipolo施加压力，他才是做决定的那个人。",
@@ -119,30 +146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
-        {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 15时27分]"
-        },
-        {
-          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
-          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
         },
         {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
@@ -228,6 +231,19 @@
           "time_info": "[00时37分 ~ 01时28分]"
         },
         {
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 16时36分]"
+        },
+        {
           "title": "特朗普为何既要日本管住嘴又让迈开腿",
           "url": "https://www.toutiao.com/trending/7584332222707793963/",
           "source": "今日头条",
@@ -285,18 +301,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时59分 ~ 12时41分]"
-        },
-        {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时27分]"
         },
         {
           "title": "特朗普签署行政命令 重申2028年登月目标",
@@ -429,6 +433,17 @@
           "time_info": "[07时24分 ~ 07时25分]"
         },
         {
+          "title": "卢拉打算给特朗普打电话 为美国和委内瑞拉说和",
+          "url": "https://wallstreetcn.com/livenews/3023763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
           "url": "https://flash.jin10.com/detail/20251219123531783800",
           "source": "金十数据",
@@ -460,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "特朗普旗下企业拟并购核聚变初创公司 核聚变行业商业化显著加速",
+          "url": "https://www.cls.cn/detail/2234124",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国总统特朗普：尚未与以色列总理安排会面，但他很想见我。",
@@ -829,11 +855,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 16时36分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -1201,7 +1228,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "A股商业航天概念延续强势，华体科技2连板，广联航空、瑞华泰、优机股份涨超10%，国机精工、航天智装、通宇通讯、西部材料涨超7%。",
@@ -1278,7 +1305,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -1316,6 +1343,17 @@
           "time_info": "10时01分"
         },
         {
+          "title": "A股收评：全市近4500只个股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E5%85%A8%E5%B8%82%E8%BF%914500%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-19）",
           "url": "https://flash.jin10.com/detail/20251219090536148800",
           "source": "金十数据",
@@ -1333,7 +1371,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -1347,6 +1385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "专家：A股确立慢牛长牛走势",
+          "url": "https://www.toutiao.com/trending/7584317404030812201/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
@@ -1407,7 +1456,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         }
@@ -1499,7 +1548,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         }
