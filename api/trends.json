@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T21:32:19.771211+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2025-12-21T22:23:38.543240+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时26分 ~ 21时32分]"
+          "appearance_count": 14,
+          "time_info": "[13时26分 ~ 22时23分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -47,6 +47,17 @@
           "time_info": "[00时31分 ~ 10时08分]"
         },
         {
+          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
+          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时20分 ~ 22时23分]"
+        },
+        {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
           "url": "https://news.ifeng.com/c/8pFTv3cncwR",
           "source": "凤凰网",
@@ -56,17 +67,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时08分 ~ 15时24分]"
-        },
-        {
-          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
-          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时20分 ~ 21时32分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -140,11 +140,12 @@
           "ranks": [
             3,
             9,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时32分]"
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 22时23分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -258,8 +259,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时30分 ~ 21时32分]"
+          "appearance_count": 28,
+          "time_info": "[00时30分 ~ 22时23分]"
         },
         {
           "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
@@ -272,8 +273,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时08分 ~ 21时32分]"
+          "appearance_count": 16,
+          "time_info": "[10时08分 ~ 22时23分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -286,8 +287,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时30分 ~ 21时32分]"
+          "appearance_count": 28,
+          "time_info": "[00时30分 ~ 22时23分]"
         },
         {
           "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
@@ -300,8 +301,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时02分 ~ 21时32分]"
+          "appearance_count": 15,
+          "time_info": "[12时02分 ~ 22时23分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -313,8 +314,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时30分 ~ 21时32分]"
+          "appearance_count": 28,
+          "time_info": "[00时30分 ~ 22时23分]"
         },
         {
           "title": "A股可能已进入“右侧行情”",
@@ -325,8 +326,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时25分 ~ 21时32分]"
+          "appearance_count": 8,
+          "time_info": "[18时25分 ~ 22时23分]"
         },
         {
           "title": "东吴证券首席战略官、研究所联席所长孙婷明确表示，券商股的风向标属性并未消失，但其信号意义趋于弱化，而保险股与市场的紧密联动，则更多源于会计准则的变化。（上证报）",
@@ -369,7 +370,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -430,13 +431,35 @@
           "time_info": "[00时30分 ~ 10时08分]"
         },
         {
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
+          "url": "https://wallstreetcn.com/articles/3761798",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
           "url": "https://www.zhihu.com/question/1985011347914774514",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
@@ -468,8 +491,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时37分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[14时37分 ~ 22时23分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -572,8 +595,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时49分 ~ 21时32分]"
+          "appearance_count": 4,
+          "time_info": "[20时49分 ~ 22时23分]"
         }
       ]
     }
