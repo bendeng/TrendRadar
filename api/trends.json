@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T00:30:58.078805+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-22T01:22:08.853352+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时22分]"
         },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时22分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时22分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时22分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：认为经济并未处于“招聘衰退”。 通胀高于目标的情况已经停止。 正如古尔斯比所说，仍有充足的降息空间。 目前正在关注核心通胀三个月平均为1.6%。 特朗普希望美联储主席能做出独立判断。 特朗普在美联储主席候选人中看重依赖数据决策。",
@@ -59,19 +59,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时22分]"
         },
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
           "url": "https://wallstreetcn.com/articles/3761799",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时22分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -81,14 +82,14 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 01时22分]"
         }
       ]
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "A股2025年分红额创历史新高 分红次数居前上市公司名单一览",
@@ -98,8 +99,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时22分]"
         },
         {
           "title": "累计金额超890亿！520家A股上市公司股东今年以来实施增持，增持金额排行榜出炉",
@@ -109,8 +110,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时22分]"
         },
         {
           "title": "商业航天龙头月内股价涨超130% 梳理产业链价值量居前A股名单",
@@ -120,8 +121,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时22分]"
         },
         {
           "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
@@ -131,8 +132,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时22分]"
+        },
+        {
+          "title": "A股跨年加春季躁动行情拉开帷幕？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2235729",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 01时22分]"
         },
         {
           "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
@@ -159,8 +171,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时22分]"
         },
         {
           "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
@@ -170,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时22分]"
         }
       ]
     },
@@ -187,8 +199,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时22分]"
         }
       ]
     },
@@ -201,11 +213,12 @@
           "url": "https://www.douyin.com/hot/2342947",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时22分]"
         }
       ]
     },
@@ -218,11 +231,12 @@
           "url": "https://wallstreetcn.com/articles/3761788",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 01时22分]"
         }
       ]
     }
