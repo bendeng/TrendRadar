@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T16:36:41.931156+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2025-12-24T17:30:33.343234+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时34分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时00分 ~ 17时30分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -60,11 +73,12 @@
             19,
             30,
             12,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 16时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时34分 ~ 17时30分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -80,8 +94,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时34分 ~ 16时36分]"
+          "appearance_count": 23,
+          "time_info": "[00时34分 ~ 17时30分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -113,6 +127,20 @@
           "time_info": "[00时34分 ~ 07时24分]"
         },
         {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 17时30分]"
+        },
+        {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
           "url": "https://www.cls.cn/detail/2238272",
           "source": "财联社热门",
@@ -126,18 +154,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时00分 ~ 15时29分]"
-        },
-        {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时00分 ~ 16时36分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -165,17 +181,15 @@
           "time_info": "[04时28分 ~ 13时29分]"
         },
         {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 16时36分]"
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -375,6 +389,17 @@
           "time_info": "[02时39分 ~ 03时22分]"
         },
         {
+          "title": "美联储“2025回忆录”：特朗普威压下坚守独立，降息75基点后明年何去何从？",
+          "url": "https://www.cls.cn/detail/2238581",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
           "title": "美国总统特朗普：通货膨胀会自行解决。",
           "url": "https://flash.jin10.com/detail/20251224020017627800",
           "source": "金十数据",
@@ -525,7 +550,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
@@ -669,6 +694,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时29分 ~ 16时36分]"
+        },
+        {
+          "title": "A股喜提六连阳 还能涨吗",
+          "url": "https://www.toutiao.com/trending/7587319094953643556/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "A股半导体板块继续走强，圣晖集成3连板，德明利、北京君正、芯源微、汇成股份、华虹公司等涨幅居前，消息上，中芯国际已经对部分产能实施了涨价，涨幅约为10%。",
@@ -854,7 +890,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
@@ -894,6 +930,17 @@
           "time_info": "[00时34分 ~ 07时24分]"
         },
         {
+          "title": "Dynavax美股盘前涨近38%，赛诺菲以每股15.5美元的现金价格收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3026125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        },
+        {
           "title": "金价癫了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%99%AB%E4%BA%86%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -904,6 +951,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时00分 ~ 11时40分]"
+        },
+        {
+          "title": "金价银价铜价均创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%93%9C%E4%BB%B7%E5%9D%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时30分]"
         },
         {
           "title": "金价彻底爆了 有人拖行李箱抢购",
@@ -926,17 +985,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
-        },
-        {
-          "title": "金价银价铜价均创历史新高",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%93%9C%E4%BB%B7%E5%9D%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         }
       ]
     },
