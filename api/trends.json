@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T13:30:26.019234+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2025-12-28T14:38:53.037023+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
@@ -107,6 +107,17 @@
           "time_info": "[10时13分 ~ 12时11分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 14时38分]"
+        },
+        {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251228084239521800",
           "source": "金十数据",
@@ -117,17 +128,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时13分 ~ 12时11分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时30分]"
         },
         {
           "title": "特朗普为美国带来了什么改变",
@@ -196,11 +196,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时30分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 14时38分]"
         },
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -211,8 +212,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 13时30分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 14时38分]"
         },
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -220,11 +221,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时30分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 14时38分]"
         },
         {
           "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
@@ -232,11 +234,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时30分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 14时38分]"
         }
       ]
     },
