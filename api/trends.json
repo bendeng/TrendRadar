@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T20:51:22.110075+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2025-12-28T21:33:40.429829+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 07时25分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时29分 ~ 21时33分]"
         },
         {
           "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
@@ -46,19 +59,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 06时24分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时29分 ~ 20时51分]"
         },
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -109,6 +109,17 @@
           "time_info": "[00时31分 ~ 03时20分]"
         },
         {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 21时33分]"
+        },
+        {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
           "url": "https://flash.jin10.com/detail/20251228145227378800",
           "source": "金十数据",
@@ -157,17 +168,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时13分 ~ 12时11分]"
-        },
-        {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时51分]"
         },
         {
           "title": "泽连斯基抵达美国，准备与特朗普会谈",
@@ -261,11 +261,12 @@
             2,
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时31分 ~ 20时51分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 21时33分]"
         },
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -278,8 +279,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时11分 ~ 20时51分]"
+          "appearance_count": 11,
+          "time_info": "[12时11分 ~ 21时33分]"
         },
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -291,8 +292,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时13分 ~ 20时51分]"
+          "appearance_count": 12,
+          "time_info": "[10时13分 ~ 21时33分]"
         },
         {
           "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
@@ -306,8 +307,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时11分 ~ 20时51分]"
+          "appearance_count": 11,
+          "time_info": "[12时11分 ~ 21时33分]"
         },
         {
           "title": "机构：A股或出现跨年“春季行情”",
@@ -347,8 +348,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 20时51分]"
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 21时33分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
