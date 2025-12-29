@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T07:25:01.594199+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2025-12-29T10:11:58.725906+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
         {
           "title": "泽连斯基：我想跟特朗普谈5个问题",
@@ -213,15 +213,37 @@
           "time_info": "06时25分"
         },
         {
+          "title": "特朗普：不排除亲自前往乌克兰",
+          "url": "https://news.ifeng.com/c/8pTDPPdlvje",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "特朗普称俄乌“接近达成协议”，不排除三方会晤",
           "url": "https://wallstreetcn.com/livenews/3027716",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "特朗普政府正在调查美国大型企业在招聘和晋升方面的相关举措。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3027820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "美国总统特朗普被问及是否认为俄罗斯总统普京对和平（协议）是严肃认真的，称：我的确那样认为。 普京对和平（协议的谈判）是非常严肃的。 我认为，普京和乌克兰总统泽连斯基都希望达成一份协议。 今天会议之后，我将与普京通电话。 我们将与欧洲首脑们对话。 对于结束俄乌战事，我并没有截止日期。 俄乌双方最近的攻势都很猛烈。 （被问及美西方冻结的俄罗斯资产的未来，称他自己）还没有做决定。",
@@ -308,11 +330,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B9%8C%E2%80%9C%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 07时25分]"
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 10时11分]"
         },
         {
           "title": "特朗普见泽连斯基前先与普京通话",
@@ -378,7 +401,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -400,7 +423,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -427,13 +450,24 @@
           "time_info": "06时25分"
         },
         {
+          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
+          "url": "https://news.ifeng.com/c/8pTKjz1vjXV",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
           "title": "俄总统特别代表德米特里耶夫：“全世界”都赞赏美国总统特朗普及其团队的和平努力。",
           "url": "https://flash.jin10.com/detail/20251229063730645800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -444,7 +478,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -488,9 +522,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "邱毅：高市早苗踩了特朗普两个大雷",
+          "url": "https://www.toutiao.com/trending/7588485828298129451/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "市场消息：特朗普和泽连斯基在双边会晤后与欧洲领导人通电话。",
@@ -510,9 +555,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "特朗普与泽连斯基会晤",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%BC%9A%E6%99%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：与特朗普、泽连斯基及多位欧洲领导人进行了长达一小时的友好通话，讨论今日关于和平谈判的会议。",
@@ -521,7 +577,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -532,7 +588,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -543,7 +599,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -554,7 +610,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -565,7 +621,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -576,7 +632,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -587,7 +643,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -598,7 +654,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
@@ -606,7 +662,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -659,7 +715,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -673,6 +729,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "A股脑机接口板块持续走强，翔宇医疗涨近10%，三博脑科涨超8%，创新医疗涨超7%，美好医疗、爱朋医疗跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3027807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "龙头8连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2242179",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "上证指数开盘报3964.65点，涨0.02%。 深证成指开盘报13604.30点，涨0.00%。 创业板指开盘报3237.77点，跌0.19%。 沪深300开盘报4658.27点，涨0.02%。 科创50开盘报1345.98点，涨0.01%。 中证500开盘报7467.50点，涨0.12%。 中证1000开盘报7606.44点，涨0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3027784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     },
@@ -700,7 +789,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         }
@@ -715,11 +804,12 @@
           "url": "https://news.ifeng.com/c/8pTGEplZnSO",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 07时25分]"
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 10时11分]"
         }
       ]
     },
@@ -735,8 +825,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 10时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金亚盘下跌 但价格可能维持高位",
+          "url": "https://flash.jin10.com/detail/20251229093859229800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     }
