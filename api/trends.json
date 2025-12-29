@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T19:24:50.897888+08:00",
-  "total_titles_processed": 1479,
+  "generated_at": "2025-12-29T20:56:33.257797+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
@@ -68,6 +68,18 @@
           "time_info": "[00时31分 ~ 05时24分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时43分 ~ 20时56分]"
+        },
+        {
           "title": "乌克兰总统办公室：乌克兰总统泽连斯基和美国总统特朗普将与欧洲领导人举行电话会议。",
           "url": "https://flash.jin10.com/detail/20251228225633143800",
           "source": "金十数据",
@@ -109,18 +121,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 06时25分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时43分 ~ 19时24分]"
         },
         {
           "title": "特朗普当众施压泽连斯基",
@@ -577,7 +577,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -742,7 +742,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1017,11 +1017,12 @@
           "source": "今日头条",
           "ranks": [
             9,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时30分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[18时30分 ~ 20时56分]"
         },
         {
           "title": "A股医药商业股持续下挫，漱玉平民跌超18%，人民同泰、达嘉维康、英特集团、药易购均跌逾5%，华人健康、重药控股、开开实业等跟跌。",
@@ -1034,6 +1035,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时34分 ~ 14时43分]"
+        },
+        {
+          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
+          "url": "https://wallstreetcn.com/articles/3762226",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时56分]"
         },
         {
           "title": "A股收盘：沪指冲高回落录得9连阳，机器人、商业航天概念持续爆发",
@@ -1080,17 +1093,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
-        },
-        {
-          "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
-          "url": "https://wallstreetcn.com/articles/3762226",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         },
         {
           "title": "上证指数开盘报3964.65点，涨0.02%。 深证成指开盘报13604.30点，涨0.00%。 创业板指开盘报3237.77点，跌0.19%。 沪深300开盘报4658.27点，涨0.02%。 科创50开盘报1345.98点，涨0.01%。 中证500开盘报7467.50点，涨0.12%。 中证1000开盘报7606.44点，涨0.01%。",
@@ -1214,7 +1216,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -1239,6 +1241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
@@ -1344,6 +1357,36 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时30分 ~ 20时56分]"
+        },
+        {
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -1369,24 +1412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
-          "url": "https://www.cls.cn/detail/2242969",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时30分 ~ 19时24分]"
         }
       ]
     }
