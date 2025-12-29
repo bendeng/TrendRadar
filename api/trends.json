@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T13:34:30.771924+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2025-12-29T14:43:30.052101+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "泽连斯基：我想跟特朗普谈5个问题",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普：不排除亲自前往乌克兰",
+          "url": "https://news.ifeng.com/c/8pTDPPdlvje",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 14时43分]"
         },
         {
           "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 05时24分]"
-        },
-        {
-          "title": "特朗普：不排除亲自前往乌克兰",
-          "url": "https://news.ifeng.com/c/8pTDPPdlvje",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时34分]"
         },
         {
           "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -272,7 +272,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         },
@@ -339,6 +339,17 @@
           "time_info": "[04时29分 ~ 07时25分]"
         },
         {
+          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
+          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 14时43分]"
+        },
+        {
           "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
           "url": "https://news.ifeng.com/c/8pTKjz1vjXV",
           "source": "凤凰网",
@@ -360,17 +371,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时24分 ~ 10时11分]"
-        },
-        {
-          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
-          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时34分]"
         },
         {
           "title": "特朗普见泽连斯基前先与普京通话",
@@ -406,6 +406,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普当众施压泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 14时43分]"
         },
         {
           "title": "特朗普见泽连斯基前后均与普京通话",
@@ -485,6 +497,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
+          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "俄总统特别代表德米特里耶夫：“全世界”都赞赏美国总统特朗普及其团队的和平努力。",
           "url": "https://flash.jin10.com/detail/20251229063730645800",
           "source": "金十数据",
@@ -538,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "特朗普称俄乌“接近达成协议” 不排除三方会晤",
@@ -623,7 +657,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         },
@@ -659,17 +693,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "特朗普当众施压泽连斯基",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时34分"
         },
         {
           "title": "美国总统特朗普：今天与泽连斯基和普京讨论了扎波罗热核电站问题，普京正与乌克兰合作，争取开放扎波罗热核电站，热核电站可以很快开放，目前状况良好。",
@@ -719,7 +742,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
@@ -774,8 +797,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时11分 ~ 13时34分]"
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 14时43分]"
+        },
+        {
+          "title": "创业板指跌幅扩大至1%，沪指回落翻绿，医药商业、电池、食品饮料板块跌幅居前，全市场超3500只个股下跌。",
+          "url": "https://wallstreetcn.com/livenews/3027952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "多家A股公司打响年末“保壳大战”",
@@ -801,6 +835,30 @@
           "time_info": "[12时14分 ~ 13时34分]"
         },
         {
+          "title": "A股医药商业股持续下挫，漱玉平民跌超18%，人民同泰、达嘉维康、英特集团、药易购均跌逾5%，华人健康、重药控股、开开实业等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3027907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 14时43分]"
+        },
+        {
+          "title": "2025 年上证指数重回 4000 点，A 股成交额突破 400 万亿元，A 股这一年都有哪些看点？",
+          "url": "https://www.zhihu.com/question/1986751461766484039",
+          "source": "知乎",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 14时43分]"
+        },
+        {
           "title": "A股迎多项利好",
           "url": "https://www.toutiao.com/trending/7588759906153840703/",
           "source": "今日头条",
@@ -810,17 +868,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "A股医药商业股持续下挫，漱玉平民跌超18%，人民同泰、达嘉维康、英特集团、药易购均跌逾5%，华人健康、重药控股、开开实业等跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3027907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时34分"
         },
         {
           "title": "A股脑机接口板块持续走强，翔宇医疗涨近10%，三博脑科涨超8%，创新医疗涨超7%，美好医疗、爱朋医疗跟涨。",
@@ -845,6 +892,17 @@
           "time_info": "10时11分"
         },
         {
+          "title": "A股机器人概念涨势扩大，上纬新材、步科股份20cm涨停，双双创历史新高，天奇股份、五洲新春、征和工业等多股此前涨停，斯菱智驱、大鹏工业涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3027920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "A股三大指数集体翻红，创业板指此前一度跌近1%。",
           "url": "https://wallstreetcn.com/livenews/3027838",
           "source": "华尔街见闻-快讯",
@@ -854,17 +912,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时14分]"
         },
         {
-          "title": "2025 年上证指数重回 4000 点，A 股成交额突破 400 万亿元，A 股这一年都有哪些看点？",
-          "url": "https://www.zhihu.com/question/1986751461766484039",
-          "source": "知乎",
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时34分"
+          "time_info": "14时43分"
+        },
+        {
+          "title": "金十图示：2025年12月29日（周一）上海金早盘价为1010.41元/克，较国际金价(1016.45元/克)，低6.04元/克",
+          "url": "https://flash.jin10.com/detail/20251229105826518800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     },
@@ -891,38 +978,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 12时14分]"
-        },
-        {
-          "title": "金十图示：2025年12月29日（周一）上海金早盘价为1010.41元/克，较国际金价(1016.45元/克)，低6.04元/克",
-          "url": "https://flash.jin10.com/detail/20251229105826518800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         }
       ]
     },
@@ -986,8 +1044,19 @@
     },
     {
       "keyword_group": "主力资金 开源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20251229141158403800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
         {
           "title": "智谱GLM-4.7登顶Artificial Analysis全球开源榜首",
           "url": "https://wallstreetcn.com/livenews/3027900",
@@ -995,7 +1064,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         }
