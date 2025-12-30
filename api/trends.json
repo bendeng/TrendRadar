@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T15:28:13.702946+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2025-12-30T16:36:54.765670+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 97,
       "titles": [
         {
           "title": "普京官邸遇袭，俄官员称特朗普感到“震惊和愤怒”",
@@ -51,11 +51,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 15时28分]"
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 16时36分]"
         },
         {
           "title": "普京称官邸遭袭 特朗普回应",
@@ -66,8 +67,32 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 16时36分]"
+        },
+        {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时03分 ~ 16时36分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中国军演言论",
+          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国总统特朗普：伊朗可能正在美国轰炸过的地点之外重建其核计划。",
@@ -112,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
+          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "美国总统特朗普：如果哈马斯不解除武装，必将付出代价。",
@@ -165,18 +201,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时37分 ~ 05时24分]"
-        },
-        {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时03分 ~ 15时28分]"
         },
         {
           "title": "美国总统特朗普：在与内塔尼亚胡的五分钟会面中，我们解决了三个问题。",
@@ -441,6 +465,18 @@
           "time_info": "[00时32分 ~ 01时24分]"
         },
         {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 16时36分]"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯总统普京告诉我，他的官邸遭到乌克兰袭击。（就该事件）我不认同此类行为。",
           "url": "https://flash.jin10.com/detail/20251230024049423800",
           "source": "金十数据",
@@ -621,17 +657,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 05时24分]"
-        },
-        {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 15时28分]"
         },
         {
           "title": "美国总统特朗普：希望尽快进入加沙计划的第二阶段。",
@@ -875,6 +900,17 @@
           "time_info": "05时24分"
         },
         {
+          "title": "俄称乌无人机袭击普京官邸，扎哈罗娃：泽连斯基“打脸”特朗普",
+          "url": "https://news.ifeng.com/c/8pVV1ZtFrwe",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：在午餐期间正式宣布，决定将以色列勋章授予美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20251230045508229800",
           "source": "金十数据",
@@ -895,6 +931,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "泽连斯基希望美国保护乌克兰50年，特朗普：将予以考虑",
+          "url": "https://news.ifeng.com/c/8pV90njbrp6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "以色列总理内塔尼亚胡：与美国总统特朗普的会晤非常富有成效。",
@@ -1145,6 +1192,19 @@
           "time_info": "10时03分"
         },
         {
+          "title": "A股马字辈个股异动拉升，福龙马午后涨停，万里马、三羊马、天亿马等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3028598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 16时36分]"
+        },
+        {
           "title": "A股三花智控午后成交额达100亿元，现涨近8%。",
           "url": "https://wallstreetcn.com/livenews/3028559",
           "source": "华尔街见闻-快讯",
@@ -1155,18 +1215,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时29分 ~ 14时40分]"
-        },
-        {
-          "title": "A股马字辈个股异动拉升，福龙马午后涨停，万里马、三羊马、天亿马等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3028598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时28分]"
         },
         {
           "title": "A股人形机器人概念股午后再度拉升，步科股份涨超18%再创新高，昊志机电涨超10%，万向钱潮直线涨停，鸣志电器、方正电机纷纷拉升。",
@@ -1193,6 +1241,18 @@
           "time_info": "[14时40分 ~ 15时28分]"
         },
         {
+          "title": "A股收盘：沪指日线走出10连阳，机器人概念股集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3028611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 16时36分]"
+        },
+        {
           "title": "A股沪指冲高回落录得9连阳，商业航天、人形机器人爆发，国投白银LOF日内巨震，沪银涨幅回落至5.7%，港股转跌",
           "url": "https://wallstreetcn.com/articles/3762226",
           "source": "华尔街见闻",
@@ -1202,6 +1262,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 10时03分]"
+        },
+        {
+          "title": "上证指数收报3965.12点，跌0.00%。 深证成指收报13604.07点，涨0.49%。 创业板指收报3242.90点，涨0.63%。 沪深300收报4651.28点，涨0.26%。 科创50收报1359.87点，涨1.01%。 中证500收报7458.94点，涨0.38%。 中证1000收报7597.30点，涨0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3028609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 16时36分]"
         },
         {
           "title": "A股机器人概念股低开高走，锋龙股份5连板，五洲新春直线涨停，龙洲股份、步科股份、昊志机电、景业智能等跟涨。",
@@ -1257,28 +1329,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
-        },
-        {
-          "title": "A股收盘：沪指日线走出10连阳，机器人概念股集体爆发",
-          "url": "https://wallstreetcn.com/livenews/3028611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "上证指数收报3965.12点，跌0.00%。 深证成指收报13604.07点，涨0.49%。 创业板指收报3242.90点，涨0.63%。 沪深300收报4651.28点，涨0.26%。 科创50收报1359.87点，涨1.01%。 中证500收报7458.94点，涨0.38%。 中证1000收报7597.30点，涨0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3028609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
         },
         {
           "title": "上证指数开盘报3947.87点，跌0.44%。 深证成指开盘报13466.30点，跌0.52%。 创业板指开盘报3208.32点，跌0.44%。 沪深300开盘报4617.32点，跌0.48%。 科创50开盘报1346.13点，跌0.01%。 中证500开盘报7390.14点，跌0.54%。 中证1000开盘报7556.54点，跌0.50%。",
@@ -1349,8 +1399,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 15时28分]"
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 16时36分]"
         },
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -1400,6 +1450,18 @@
           "time_info": "05时24分"
         },
         {
+          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
+          "url": "https://wallstreetcn.com/articles/3762263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 16时36分]"
+        },
+        {
           "title": "（美股）费城金银指数收跌5.21%，报344.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌4.76%，报2449.98点，北京时间22:30美股开盘时跳空（加速）下跌。 原材料指数跌1.59%，金属与矿业指数跌1.95%。",
           "url": "https://wallstreetcn.com/livenews/3028344",
           "source": "华尔街见闻-快讯",
@@ -1422,17 +1484,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
-          "url": "https://wallstreetcn.com/articles/3762263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 15时28分]"
         },
         {
           "title": "航空业ETF收跌将近1.3%，领跌美股行业ETF",
@@ -1482,7 +1533,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
@@ -1490,11 +1541,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 16时36分]"
         },
         {
           "title": "金价暴跌店员称跌幅首次见",
@@ -1503,11 +1555,23 @@
           "ranks": [
             9,
             15,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时29分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[13时29分 ~ 16时36分]"
+        },
+        {
+          "title": "金十图示：2025年12月30日（周二）上海金午盘价为980.74元/克，较国际金价(983.6元/克)，低2.86元/克",
+          "url": "https://flash.jin10.com/detail/20251230155139232800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "分析师：金价从历史高位回落 流动性稀薄正放大回调走势",
@@ -1519,6 +1583,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "主力资金 开源",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出387.72亿元，占比1.81%；大单资金净流出214.58亿元，占比1%；小单资金净流入399.37亿元，占比1.86%。",
+          "url": "https://flash.jin10.com/detail/20251230150812117800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "腾讯混元开源翻译模型1.5，端侧可部署",
+          "url": "https://wallstreetcn.com/livenews/3028654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20251230141035849800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         }
       ]
     },
@@ -1548,36 +1651,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 15时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "主力资金 开源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出387.72亿元，占比1.81%；大单资金净流出214.58亿元，占比1%；小单资金净流入399.37亿元，占比1.86%。",
-          "url": "https://flash.jin10.com/detail/20251230150812117800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时28分"
-        },
-        {
-          "title": "主力资金流向前十大个股",
-          "url": "https://flash.jin10.com/detail/20251230141035849800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时40分"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 16时36分]"
         }
       ]
     },
