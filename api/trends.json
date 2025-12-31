@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T20:53:58.644172+08:00",
-  "total_titles_processed": 1665,
+  "generated_at": "2025-12-31T21:36:46.852997+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
@@ -104,6 +104,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 21时36分]"
+        },
+        {
           "title": "外交部回应特朗普谈解放军军演",
           "url": "https://www.douyin.com/hot/2352044",
           "source": "抖音",
@@ -164,17 +175,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时24分]"
-        },
-        {
-          "title": "李在明展示特朗普送的白宫金钥匙(图)",
-          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 20时53分]"
         },
         {
           "title": "国台办回应特朗普称不担心台海局势",
@@ -312,6 +312,19 @@
           "time_info": "[14时41分 ~ 18时28分]"
         },
         {
+          "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32291082",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 21时36分]"
+        },
+        {
           "title": "A股2025年收官：沪指全年收涨超18%",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A12025%E5%B9%B4%E6%94%B6%E5%AE%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%85%A8%E5%B9%B4%E6%94%B6%E6%B6%A8%E8%B6%8518%25",
           "source": "百度热搜",
@@ -334,19 +347,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
-        },
-        {
-          "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32291082",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 20时53分]"
         },
         {
           "title": "上证指数早盘收报3962.24点，跌0.07%。 深证成指早盘收报13513.21点，跌0.67%。 创业板指早盘收报3207.24点，跌1.10%。 沪深300早盘收报4630.63点，跌0.44%。 科创50早盘收报1347.95点，跌0.88%。 中证500早盘收报7444.43点，跌0.19%。 中证1000早盘收报7583.94点，跌0.18%。",
@@ -509,8 +509,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时24分 ~ 20时53分]"
+          "appearance_count": 17,
+          "time_info": "[07时24分 ~ 21时36分]"
         },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
