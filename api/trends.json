@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T21:42:26.586986+08:00",
-  "total_titles_processed": 1875,
+  "generated_at": "2026-01-06T22:29:19.811989+08:00",
+  "total_titles_processed": 1961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 77,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -66,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时31分 ~ 21时42分]"
+          "appearance_count": 11,
+          "time_info": "[13时31分 ~ 22时29分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -79,6 +79,24 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 07时26分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            20,
+            22,
+            15,
+            19,
+            17,
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时04分 ~ 22时29分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -108,11 +126,12 @@
             27,
             17,
             24,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 21时42分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 22时29分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -135,23 +154,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 07时26分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            20,
-            22,
-            15,
-            19,
-            17,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时04分 ~ 21时42分]"
         },
         {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
@@ -231,6 +233,19 @@
           "time_info": "[12时04分 ~ 15时31分]"
         },
         {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 22时29分]"
+        },
+        {
           "title": "据NBC：美国总统特朗普表示，该项目可能只需不到18个月。",
           "url": "https://flash.jin10.com/detail/20260106070427283800",
           "source": "金十数据",
@@ -286,30 +301,6 @@
           "time_info": "07时26分"
         },
         {
-          "title": "美国总统特朗普称赞股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3031704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
-        },
-        {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 21时42分]"
-        },
-        {
           "title": "据NBC：美国总统特朗普表示，委内瑞拉在未来30天内不会举行新选举。",
           "url": "https://flash.jin10.com/detail/20260106070034158800",
           "source": "金十数据",
@@ -338,7 +329,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -451,6 +442,31 @@
           "time_info": "[02时40分 ~ 03时25分]"
         },
         {
+          "title": "美国总统特朗普称赞股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3031704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时29分]"
+        },
+        {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 22时29分]"
+        },
+        {
           "title": "土耳其总统府：总统埃尔多安与美国总统特朗普进行了通话，他们在电话中讨论了双边关系、国防工业合作、贸易、加沙和委内瑞拉等问题。",
           "url": "https://flash.jin10.com/detail/20260106050326397800",
           "source": "金十数据",
@@ -461,18 +477,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时27分]"
-        },
-        {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 21时42分]"
         },
         {
           "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
@@ -558,6 +562,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 12时04分]"
+        },
+        {
+          "title": "特朗普称西半球是我们的半球",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A5%BF%E5%8D%8A%E7%90%83%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%8D%8A%E7%90%83%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 22时29分]"
         },
         {
           "title": "特朗普为何急于控制格陵兰岛",
@@ -659,6 +675,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "美联储理事米兰：预计数据将支持更多降息。 美联储今年应降息超过100个基点。 核心通胀接近美联储目标。 美联储政策具有限制性，正在拖累经济发展。 尚未与特朗普讨论成为美联储主席一事。 美联储主席候选名单上的所有人都很有资历。",
+          "url": "https://wallstreetcn.com/livenews/3031716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "市场消息：特朗普将于周二上午10点（北京时间晚上11点）在共和党成员休会会上发表讲话；将于周二下午2点30分（北京时间次日凌晨3点30分）参加政策会议。",
           "url": "https://flash.jin10.com/detail/20260106094824055800",
           "source": "金十数据",
@@ -676,7 +703,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -703,6 +730,17 @@
           "time_info": "14时42分"
         },
         {
+          "title": "特朗普媒体科技集团：与核聚变初创公司TAE开始为首个创新聚变发电厂进行选址规划流程。计划于2026年启动选址和建设工作，未来的发电厂预计装机容量为350至500兆瓦电力（MWE）。",
+          "url": "https://wallstreetcn.com/livenews/3031714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
           "url": "https://www.cls.cn/detail/2248515",
           "source": "财联社热门",
@@ -723,17 +761,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
-        },
-        {
-          "title": "特朗普称西半球是我们的半球",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A5%BF%E5%8D%8A%E7%90%83%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%8D%8A%E7%90%83%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时42分"
         },
         {
           "title": "据华尔街日报：据知情人士透露，美国总统特朗普在马杜罗被捕前几周曾告诉几位石油高管“做好准备”。知情人士表示，大型石油公司近期并无增加对委内瑞拉投资的计划，特朗普并未透露罢黜委内瑞拉领导人的计划。",
@@ -797,7 +824,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -813,6 +840,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美国总统特朗普对众议院共和党人的讲话将于上午10点左右（北京时间23:00）进行现场直播。",
+          "url": "https://flash.jin10.com/detail/20260106214535298800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-06）",
           "url": "https://flash.jin10.com/detail/20260106175900949800",
           "source": "金十数据",
@@ -822,6 +860,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "美联储理事米兰：尚未就美联储主席职位与特朗普总统交谈。",
+          "url": "https://flash.jin10.com/detail/20260106214218662800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "谁接任马杜罗？特朗普收到机密报告",
+          "url": "https://www.toutiao.com/trending/7591547941907824667/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "墨西哥总统强硬回应特朗普：可以合作缉毒 但不准跨界",
@@ -841,7 +901,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -874,6 +934,19 @@
           "time_info": "[00时34分 ~ 07时26分]"
         },
         {
+          "title": "2026年A股牛市有望持续吗",
+          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4A%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%89%E6%9C%9B%E6%8C%81%E7%BB%AD%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 22时29分]"
+        },
+        {
           "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
           "url": "https://www.cls.cn/detail/2248168",
           "source": "财联社热门",
@@ -899,18 +972,6 @@
           "time_info": "[00时34分 ~ 06时27分]"
         },
         {
-          "title": "2026年A股牛市有望持续吗",
-          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4A%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%89%E6%9C%9B%E6%8C%81%E7%BB%AD%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 21时42分]"
-        },
-        {
           "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
           "url": "https://www.cls.cn/detail/2249345",
           "source": "财联社热门",
@@ -920,8 +981,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 21时42分]"
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 22时29分]"
         },
         {
           "title": "进入全面生产阶段！黄仁勋CES上带货Rubin平台 A股供应链谁能分羹？",
@@ -1158,7 +1219,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -1169,8 +1230,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时26分 ~ 21时42分]"
+          "appearance_count": 14,
+          "time_info": "[07时26分 ~ 22时29分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -1210,6 +1271,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时34分 ~ 13时31分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3031726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -1293,6 +1365,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2249754",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260106013941390800",
           "source": "金十数据",
@@ -1318,7 +1401,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "工行开年上调积存金风险评级，下周起C3及以上客户才可买，金价走强更多银行不断入局",
@@ -1379,6 +1462,17 @@
           "time_info": "14时42分"
         },
         {
+          "title": "金价大涨 黄金珠宝行业面临分化",
+          "url": "https://www.toutiao.com/trending/7592189155237789750/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "银行家表示，土耳其央行上周的外汇储备预计减少了55亿美元至1885亿美元；土耳其央行上周出售了40亿美元，其中近20亿美元的降幅源于金价变动。",
           "url": "https://flash.jin10.com/detail/20260106134420710800",
           "source": "金十数据",
@@ -1429,8 +1523,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时05分 ~ 21时42分]"
+          "appearance_count": 13,
+          "time_info": "[10时05分 ~ 22时29分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1574,8 +1668,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 21时42分]"
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 22时29分]"
         }
       ]
     },
