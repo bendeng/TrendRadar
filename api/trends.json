@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T20:57:12.851258+08:00",
-  "total_titles_processed": 1855,
+  "generated_at": "2026-01-07T21:44:27.453388+08:00",
+  "total_titles_processed": 1955,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时05分 ~ 20时57分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 21时44分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -65,8 +66,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时04分 ~ 20时57分]"
+          "appearance_count": 13,
+          "time_info": "[12时04分 ~ 21时44分]"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时38分 ~ 21时44分]"
         },
         {
           "title": "特朗普为何恨他入骨？",
@@ -116,19 +130,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时26分 ~ 14时42分]"
-        },
-        {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时38分 ~ 20时57分]"
         },
         {
           "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
@@ -183,6 +184,18 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 21时44分]"
+        },
+        {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
           "source": "bilibili 热搜",
@@ -207,15 +220,17 @@
           "time_info": "[10时05分 ~ 14时42分]"
         },
         {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 20时57分]"
+          "appearance_count": 6,
+          "time_info": "[17时34分 ~ 21时44分]"
         },
         {
           "title": "哈马斯于加沙废墟中重塑统治 对特朗普和平计划构成挑战",
@@ -243,17 +258,17 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            8,
-            9
+            15,
+            17,
+            14
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时34分 ~ 20时57分]"
+          "time_info": "[18时31分 ~ 21时44分]"
         },
         {
           "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
@@ -377,17 +392,16 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            17,
-            14
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时57分]"
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 21时44分]"
         },
         {
           "title": "美国总统特朗普：我们有很多石油可以开采。开采石油会进一步降低油价。",
@@ -519,17 +533,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时34分 ~ 18时31分]"
-        },
-        {
-          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "美参院民主党领袖批特朗普对委行动",
@@ -910,7 +913,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "2026年A股牛市有望持续吗",
@@ -1024,6 +1027,19 @@
           "time_info": "[00时36分 ~ 03时22分]"
         },
         {
+          "title": "李大霄：A股十四连阳上攻势头放缓",
+          "url": "https://www.toutiao.com/trending/7592514223378137131/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时44分]"
+        },
+        {
           "title": "A股收评：沪指微涨录得14连阳",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%BE%AE%E6%B6%A8%E5%BD%95%E5%BE%9714%E8%BF%9E%E9%98%B3",
           "source": "百度热搜",
@@ -1060,18 +1076,6 @@
           "time_info": "[13时31分 ~ 14时42分]"
         },
         {
-          "title": "李大霄：A股十四连阳上攻势头放缓",
-          "url": "https://www.toutiao.com/trending/7592514223378137131/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 20时57分]"
-        },
-        {
           "title": "上证指数早盘收报4095.54点，涨0.29%。 深证成指早盘收报14071.35点，涨0.35%。 创业板指早盘收报3332.74点，涨0.41%。 沪深300早盘收报4792.05点，涨0.03%。 科创50早盘收报1445.48点，涨1.13%。 中证500早盘收报7902.04点，涨1.13%。 中证1000早盘收报7930.24点，涨0.83%。",
           "url": "https://wallstreetcn.com/livenews/3032090",
           "source": "华尔街见闻-快讯",
@@ -1082,6 +1086,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时05分 ~ 13时31分]"
+        },
+        {
+          "title": "直击存储芯片风口：A股头部公司及“预备队”各家优势一览",
+          "url": "https://www.cls.cn/detail/2251000",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "A股存储芯片板块开盘领涨，普冉股份20cm涨停，股价创历史新高，恒烁股份、聚辰股份、江波龙、香农芯创、联芸科技等涨超10%。",
@@ -1427,7 +1442,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -1519,6 +1534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "国际金价为何一路狂飙",
+          "url": "https://www.toutiao.com/trending/7591730575850602502/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "大摩看多金价：今年将冲刺4800美元",
@@ -1638,8 +1664,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时57分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时44分]"
         }
       ]
     },
