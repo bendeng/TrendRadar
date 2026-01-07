@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T17:34:22.260533+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2026-01-07T18:31:49.364405+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时05分 ~ 17时34分]"
+          "appearance_count": 10,
+          "time_info": "[10时05分 ~ 18时31分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -83,6 +83,17 @@
           "time_info": "[13时31分 ~ 16时38分]"
         },
         {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时04分 ~ 18时31分]"
+        },
+        {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
           "url": "https://www.cls.cn/detail/2249909",
           "source": "财联社热门",
@@ -117,17 +128,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时05分 ~ 14时42分]"
-        },
-        {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时04分 ~ 17时34分]"
         },
         {
           "title": "特朗普支持格陵兰岛独立",
@@ -169,6 +169,17 @@
           "time_info": "[12时04分 ~ 12时05分]"
         },
         {
+          "title": "“除掉马杜罗”，特朗普早就下了决心",
+          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时31分]"
+        },
+        {
           "title": "特朗普向印度发出新警告",
           "url": "https://news.ifeng.com/c/8piCojZXRGw",
           "source": "凤凰网",
@@ -188,7 +199,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -207,15 +218,16 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
-          "title": "“除掉马杜罗”，特朗普早就下了决心",
-          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
-          "source": "凤凰网",
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
           "ranks": [
+            10,
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时31分]"
         },
         {
           "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
@@ -277,18 +289,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 14时42分]"
-        },
-        {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时34分]"
         },
         {
           "title": "据华尔街日报：美国国务卿鲁比奥向议员们透露，特朗普有意购买格陵兰岛，并淡化了军事行动的可能性。鲁比奥称，白宫正利用言辞向丹麦施压，促使其展开谈判。",
@@ -361,6 +361,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "美国总统特朗普：还将与石油公司会面。",
@@ -470,6 +482,30 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
+          "title": "特朗普说若输了中期选举可能被弹劾",
+          "url": "https://wallstreetcn.com/livenews/3032302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时31分]"
+        },
+        {
+          "title": "美参院民主党领袖批特朗普对委行动",
+          "url": "https://www.toutiao.com/trending/7591542867982614564/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 18时31分]"
+        },
+        {
           "title": "特朗普模仿举重动作嘲讽跨性别运动员",
           "url": "https://www.toutiao.com/trending/7592416851683033142/",
           "source": "今日头条",
@@ -503,15 +539,15 @@
           "time_info": "15时31分"
         },
         {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-07）",
+          "url": "https://flash.jin10.com/detail/20260107180801342800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时34分"
+          "time_info": "18时31分"
         },
         {
           "title": "巴西副总统：巴西总统卢拉与美国总统特朗普关系良好。",
@@ -542,7 +578,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -580,17 +616,6 @@
           "time_info": "06时27分"
         },
         {
-          "title": "特朗普说若输了中期选举可能被弹劾",
-          "url": "https://wallstreetcn.com/livenews/3032302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
           "title": "据白宫声明，美国总统特朗普及其团队正在讨论获取格陵兰岛的一系列选项，“利用美国军方始终是一个选项”。",
           "url": "https://flash.jin10.com/detail/20260107043619137800",
           "source": "金十数据",
@@ -600,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "美国总统特朗普：将加快武器生产速度。 F-35战斗机和阿帕奇直升机的生产时间太长。",
@@ -688,17 +724,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "美参院民主党领袖批特朗普对委行动",
-          "url": "https://www.toutiao.com/trending/7591542867982614564/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
         },
         {
           "title": "金十整理：对委发动“闪电战”后，还有谁被纳入特朗普下一步行动的“高风险清单”？",
@@ -945,17 +970,6 @@
           "time_info": "16时38分"
         },
         {
-          "title": "美股稀土概念盘前走强，Critical Metals涨超10%，MP Materials涨超3%，USA Rare Earth涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3032318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
           "title": "Strategy美股盘后涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3031899",
           "source": "华尔街见闻-快讯",
@@ -1014,6 +1028,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时27分]"
+        },
+        {
+          "title": "美股稀土概念盘前走强，Critical Metals涨超10%，MP Materials涨超3%，USA Rare Earth涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3032318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "周二（1月6日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.81%，报93815美元，北京时间02:00刷新日低至91460美元。 CME以太币期货DCR主力合约涨1.23%，报3296.50美元。 美股加密货币与加密货币关联指数收跌2.09%，报66.31点，整体呈现出V形走势——北京时间02:00刷新日低至63.68点。 最近24小时，MarketVectorTM数字资产100小盘指数涨1.11%，暂报4269.69点。 MarketVectorTM数字资产100中盘指数涨0.21%，报3964.13点。 MarketVector数字资产100指数涨0.46%，报19504.12点。",
@@ -1212,6 +1238,19 @@
           "time_info": "[00时36分 ~ 03时22分]"
         },
         {
+          "title": "A股收评：沪指微涨录得14连阳",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%BE%AE%E6%B6%A8%E5%BD%95%E5%BE%9714%E8%BF%9E%E9%98%B3",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时31分]"
+        },
+        {
           "title": "十年新高再刷新！A股放量大涨，沪指创纪录13连阳",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325817",
           "source": "澎湃新闻",
@@ -1234,18 +1273,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时05分 ~ 13时31分]"
-        },
-        {
-          "title": "A股收评：沪指微涨录得14连阳",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%BE%AE%E6%B6%A8%E5%BD%95%E5%BE%9714%E8%BF%9E%E9%98%B3",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时34分]"
         },
         {
           "title": "A股存储芯片板块开盘领涨，普冉股份20cm涨停，股价创历史新高，恒烁股份、聚辰股份、江波龙、香农芯创、联芸科技等涨超10%。",
@@ -1339,7 +1366,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -1384,9 +1411,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
+        },
+        {
+          "title": "现货金重新站上4500美元！桥水达里奥：金价暴涨释放警示信号",
+          "url": "https://www.cls.cn/detail/2250158",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "金价涨超1%，上探4500美元关口",
@@ -1406,7 +1444,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         },
@@ -1504,6 +1542,35 @@
       ]
     },
     {
+      "keyword_group": "牛散 游资",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【数据看盘】5.76亿元资金涌入山子高科 机构联手游资抢筹道氏技术",
+          "url": "https://www.cls.cn/detail/2249443",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时26分]"
+        },
+        {
+          "title": "【数据看盘】金风科技龙虎榜现机构与游资博弈 多路资金联手抢筹南大光电",
+          "url": "https://www.cls.cn/detail/2250715",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -1518,24 +1585,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 05时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "牛散 游资",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【数据看盘】5.76亿元资金涌入山子高科 机构联手游资抢筹道氏技术",
-          "url": "https://www.cls.cn/detail/2249443",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时26分]"
         }
       ]
     }
