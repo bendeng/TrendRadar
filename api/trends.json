@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T18:31:49.364405+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2026-01-07T19:26:23.428430+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时05分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[10时05分 ~ 19时26分]"
         },
         {
           "title": "特朗普不到1年对7国动武",
@@ -58,6 +58,17 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时04分 ~ 19时26分]"
+        },
+        {
           "title": "特朗普为何恨他入骨？",
           "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
           "source": "凤凰网",
@@ -81,17 +92,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时31分 ~ 16时38分]"
-        },
-        {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时04分 ~ 18时31分]"
         },
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -158,6 +158,30 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
+          "title": "“除掉马杜罗”，特朗普早就下了决心",
+          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 19时26分]"
+        },
+        {
+          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
+          "url": "https://www.cls.cn/detail/2250493",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 19时26分]"
+        },
+        {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
           "source": "bilibili 热搜",
@@ -167,17 +191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 12时05分]"
-        },
-        {
-          "title": "“除掉马杜罗”，特朗普早就下了决心",
-          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -216,18 +229,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时36分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
-          "url": "https://www.cls.cn/detail/2250493",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时31分]"
         },
         {
           "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
@@ -351,6 +352,19 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 19时26分]"
+        },
+        {
           "title": "美国总统特朗普：我们有很多石油可以开采。开采石油会进一步降低油价。",
           "url": "https://flash.jin10.com/detail/20260107002833131800",
           "source": "金十数据",
@@ -361,18 +375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时28分]"
-        },
-        {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "美国总统特朗普：还将与石油公司会面。",
@@ -494,6 +496,18 @@
           "time_info": "[17时34分 ~ 18时31分]"
         },
         {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时26分]"
+        },
+        {
           "title": "美参院民主党领袖批特朗普对委行动",
           "url": "https://www.toutiao.com/trending/7591542867982614564/",
           "source": "今日头条",
@@ -545,7 +559,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -625,17 +639,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        },
-        {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
         },
         {
           "title": "美国总统特朗普：将加快武器生产速度。 F-35战斗机和阿帕奇直升机的生产时间太长。",
@@ -882,6 +885,281 @@
       ]
     },
     {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "2026年A股牛市有望持续吗",
+          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4A%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%89%E6%9C%9B%E6%8C%81%E7%BB%AD%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时36分 ~ 07时26分]"
+        },
+        {
+          "title": "2025年全年新增开户2744万户，这在A股史上是什么水平？",
+          "url": "https://www.cls.cn/detail/2249723",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 10时05分]"
+        },
+        {
+          "title": "紫光国芯启动A股IPO辅导 脱胎于英飞凌 聚焦DRAM存储技术",
+          "url": "https://www.cls.cn/detail/2249957",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            10,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时05分 ~ 16时38分]"
+        },
+        {
+          "title": "创业板指刷新阶段高点",
+          "url": "https://www.douyin.com/hot/2359620",
+          "source": "抖音",
+          "ranks": [
+            13,
+            9,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 15时31分]"
+        },
+        {
+          "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
+          "url": "https://www.cls.cn/detail/2249345",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时28分]"
+        },
+        {
+          "title": "A股三大指数午后集体翻绿，互联网保险、脑机接口、可燃冰、证券板块跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3032132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-01-07）",
+          "url": "https://flash.jin10.com/detail/20260107151920032800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "A股可控核聚变板块持续上扬，远东股份、弘讯科技涨停，中国核建、国机重装、王子新材、天力复合、保变电气跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3032029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "A股“13连阳” 散户机构都在入场",
+          "url": "https://www.toutiao.com/trending/7592226933111262774/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 03时22分]"
+        },
+        {
+          "title": "A股收评：沪指微涨录得14连阳",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%BE%AE%E6%B6%A8%E5%BD%95%E5%BE%9714%E8%BF%9E%E9%98%B3",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时31分]"
+        },
+        {
+          "title": "十年新高再刷新！A股放量大涨，沪指创纪录13连阳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325817",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 14时42分]"
+        },
+        {
+          "title": "上证指数早盘收报4095.54点，涨0.29%。 深证成指早盘收报14071.35点，涨0.35%。 创业板指早盘收报3332.74点，涨0.41%。 沪深300早盘收报4792.05点，涨0.03%。 科创50早盘收报1445.48点，涨1.13%。 中证500早盘收报7902.04点，涨1.13%。 中证1000早盘收报7930.24点，涨0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3032090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时31分]"
+        },
+        {
+          "title": "A股存储芯片板块开盘领涨，普冉股份20cm涨停，股价创历史新高，恒烁股份、聚辰股份、江波龙、香农芯创、联芸科技等涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3032017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "上证指数开盘报4083.84点，涨0.00%。 深证成指开盘报14062.02点，涨0.28%。 创业板指开盘报3331.34点，涨0.36%。 沪深300开盘报4796.93点，涨0.13%。 科创50开盘报1442.51点，涨0.92%。 中证500开盘报7838.91点，涨0.32%。 中证1000开盘报7881.84点，涨0.22%。",
+          "url": "https://wallstreetcn.com/livenews/3032013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "A股光刻机、光刻胶概念持续走高，南大光电20cm涨停，高盟新材、华融化学、雅克科技、恒坤新材等多股此前封板，安集科技、鼎龙股份、容大感光均涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3032068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "A股14连阳",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A114%E8%BF%9E%E9%98%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "高盛：维持对A股和H股的超配",
+          "url": "https://wallstreetcn.com/livenews/3032002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "上证指数收报4085.77点，涨0.05%。 深证成指收报14030.56点，涨0.06%。 创业板指收报3329.69点，涨0.31%。 沪深300收报4776.67点，跌0.29%。 科创50收报1443.39点，涨0.99%。 中证500收报7875.08点，涨0.78%。 中证1000收报7906.42点，涨0.53%。",
+          "url": "https://wallstreetcn.com/livenews/3032202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "A股脑机接口概念震荡回落，诚益通、麦澜德、熵基科技、爱朋医疗跌超10%，伟思医疗、荣泰健康、博拓生物、狄耐克等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3032136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "A股三大指数午后集体翻绿，钛白粉、数字货币、脑机接口、油气等方向跌幅居前，沪深京三市下跌个股近3100只。",
+          "url": "https://wallstreetcn.com/livenews/3032134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "李大霄：A股十四连阳上攻势头放缓",
+          "url": "https://www.toutiao.com/trending/7592514223378137131/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
+          "title": "A股油气股局部异动，山东墨龙直线触板，科力股份、准油股份、通源石油等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3032187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "和讯投顾：A股目标剑指4100点",
+          "url": "https://www.toutiao.com/trending/7592548235051273778/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 20,
       "titles": [
@@ -1123,250 +1401,8 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "2026年A股牛市有望持续吗",
-          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4A%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%89%E6%9C%9B%E6%8C%81%E7%BB%AD%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 07时26分]"
-        },
-        {
-          "title": "2025年全年新增开户2744万户，这在A股史上是什么水平？",
-          "url": "https://www.cls.cn/detail/2249723",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 10时05分]"
-        },
-        {
-          "title": "紫光国芯启动A股IPO辅导 脱胎于英飞凌 聚焦DRAM存储技术",
-          "url": "https://www.cls.cn/detail/2249957",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            10,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时05分 ~ 16时38分]"
-        },
-        {
-          "title": "创业板指刷新阶段高点",
-          "url": "https://www.douyin.com/hot/2359620",
-          "source": "抖音",
-          "ranks": [
-            13,
-            9,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时05分 ~ 15时31分]"
-        },
-        {
-          "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
-          "url": "https://www.cls.cn/detail/2249345",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时28分]"
-        },
-        {
-          "title": "A股三大指数午后集体翻绿，互联网保险、脑机接口、可燃冰、证券板块跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3032132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "金十数据整理：A股每日市场要闻回顾（2026-01-07）",
-          "url": "https://flash.jin10.com/detail/20260107151920032800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "A股可控核聚变板块持续上扬，远东股份、弘讯科技涨停，中国核建、国机重装、王子新材、天力复合、保变电气跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3032029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "A股“13连阳” 散户机构都在入场",
-          "url": "https://www.toutiao.com/trending/7592226933111262774/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时22分]"
-        },
-        {
-          "title": "A股收评：沪指微涨录得14连阳",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B2%AA%E6%8C%87%E5%BE%AE%E6%B6%A8%E5%BD%95%E5%BE%9714%E8%BF%9E%E9%98%B3",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时31分]"
-        },
-        {
-          "title": "十年新高再刷新！A股放量大涨，沪指创纪录13连阳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325817",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 14时42分]"
-        },
-        {
-          "title": "上证指数早盘收报4095.54点，涨0.29%。 深证成指早盘收报14071.35点，涨0.35%。 创业板指早盘收报3332.74点，涨0.41%。 沪深300早盘收报4792.05点，涨0.03%。 科创50早盘收报1445.48点，涨1.13%。 中证500早盘收报7902.04点，涨1.13%。 中证1000早盘收报7930.24点，涨0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3032090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时05分 ~ 13时31分]"
-        },
-        {
-          "title": "A股存储芯片板块开盘领涨，普冉股份20cm涨停，股价创历史新高，恒烁股份、聚辰股份、江波龙、香农芯创、联芸科技等涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3032017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "上证指数开盘报4083.84点，涨0.00%。 深证成指开盘报14062.02点，涨0.28%。 创业板指开盘报3331.34点，涨0.36%。 沪深300开盘报4796.93点，涨0.13%。 科创50开盘报1442.51点，涨0.92%。 中证500开盘报7838.91点，涨0.32%。 中证1000开盘报7881.84点，涨0.22%。",
-          "url": "https://wallstreetcn.com/livenews/3032013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "A股光刻机、光刻胶概念持续走高，南大光电20cm涨停，高盟新材、华融化学、雅克科技、恒坤新材等多股此前封板，安集科技、鼎龙股份、容大感光均涨超15%。",
-          "url": "https://wallstreetcn.com/livenews/3032068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "高盛：维持对A股和H股的超配",
-          "url": "https://wallstreetcn.com/livenews/3032002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "上证指数收报4085.77点，涨0.05%。 深证成指收报14030.56点，涨0.06%。 创业板指收报3329.69点，涨0.31%。 沪深300收报4776.67点，跌0.29%。 科创50收报1443.39点，涨0.99%。 中证500收报7875.08点，涨0.78%。 中证1000收报7906.42点，涨0.53%。",
-          "url": "https://wallstreetcn.com/livenews/3032202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        },
-        {
-          "title": "A股脑机接口概念震荡回落，诚益通、麦澜德、熵基科技、爱朋医疗跌超10%，伟思医疗、荣泰健康、博拓生物、狄耐克等跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3032136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "A股三大指数午后集体翻绿，钛白粉、数字货币、脑机接口、油气等方向跌幅居前，沪深京三市下跌个股近3100只。",
-          "url": "https://wallstreetcn.com/livenews/3032134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "A股油气股局部异动，山东墨龙直线触板，科力股份、准油股份、通源石油等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3032187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -1422,7 +1458,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -1458,6 +1494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "大摩看多金价：今年将冲刺4800美元",
+          "url": "https://www.toutiao.com/trending/7592535670967504403/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
@@ -1562,11 +1609,12 @@
           "url": "https://www.cls.cn/detail/2250715",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时26分]"
         }
       ]
     },
