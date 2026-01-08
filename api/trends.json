@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T19:26:25.294527+08:00",
-  "total_titles_processed": 1754,
+  "generated_at": "2026-01-08T20:57:49.412811+08:00",
+  "total_titles_processed": 1873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 84,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时04分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[12时04分 ~ 20时57分]"
         },
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -79,11 +79,12 @@
             13,
             14,
             15,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时05分 ~ 19时26分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 20时57分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -219,6 +220,18 @@
           "time_info": "07时26分"
         },
         {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时57分]"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：在周三与美国总统特朗普会面后，我已批准了两党俄罗斯制裁法案。",
           "url": "https://flash.jin10.com/detail/20260108070557141800",
           "source": "金十数据",
@@ -239,17 +252,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 19时26分]"
         },
         {
           "title": "美国总统特朗普：采购的设备将改善委内瑞拉的电网和能源设施。",
@@ -585,6 +587,17 @@
           "time_info": "10时05分"
         },
         {
+          "title": "特朗普“炮轰”美国军火商",
+          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美国总统特朗普发表针对国防企业的言论后，美国防务股涨势放缓，通用动力股价下跌1.3%，波音(BA.N)股价涨幅收窄。",
           "url": "https://flash.jin10.com/detail/20260108032933903800",
           "source": "金十数据",
@@ -638,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "特朗普宣布扩军计划 重燃全球军工行情",
+          "url": "https://flash.jin10.com/detail/20260108203127157800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "特朗普锁定委内瑞拉石油，加拿大原油价格暴跌",
@@ -899,7 +923,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
@@ -973,8 +997,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时05分 ~ 19时26分]"
+          "appearance_count": 14,
+          "time_info": "[10时05分 ~ 20时57分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -1151,7 +1175,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         }
@@ -1200,6 +1224,31 @@
           "time_info": "14时42分"
         },
         {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时57分]"
+        },
+        {
+          "title": "今天A股发生了这些变化",
+          "url": "https://www.toutiao.com/trending/7591811735389405238/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时31分 ~ 20时57分]"
+        },
+        {
           "title": "A股今日共112只个股涨停",
           "url": "https://www.toutiao.com/trending/7592013704616181801/",
           "source": "今日头条",
@@ -1210,29 +1259,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时34分 ~ 18时31分]"
-        },
-        {
-          "title": "今天A股发生了这些变化",
-          "url": "https://www.toutiao.com/trending/7591811735389405238/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时26分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时26分]"
         },
         {
           "title": "A股商业航天概念午后持续拉升，泰胜风能20cm涨停，此前通宇通讯、航天电器、航天电子、航天科技、巨力索具等超二十股涨停。",
