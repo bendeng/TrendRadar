@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T17:27:28.205140+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-01-11T18:27:41.848450+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时21分 ~ 17时27分]"
+          "appearance_count": 11,
+          "time_info": "[10时21分 ~ 18时27分]"
         },
         {
           "title": "特朗普放话：我可不要中俄当邻居",
@@ -31,22 +31,6 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
-          "title": "特朗普：很快打击墨西哥境内",
-          "url": "https://wallstreetcn.com/articles/3763023",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时20分 ~ 17时27分]"
-        },
-        {
           "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
           "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
           "source": "凤凰网",
@@ -55,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时13分 ~ 17时27分]"
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 18时27分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
@@ -67,8 +51,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时13分 ~ 17时27分]"
+          "appearance_count": 10,
+          "time_info": "[12时13分 ~ 18时27分]"
+        },
+        {
+          "title": "特朗普：很快打击墨西哥境内",
+          "url": "https://wallstreetcn.com/articles/3763023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[03时20分 ~ 18时27分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报",
@@ -150,6 +151,21 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
+          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/articles/3763030",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时31分 ~ 18时27分]"
+        },
+        {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
           "url": "https://www.cls.cn/detail/2253739",
           "source": "财联社热门",
@@ -176,21 +192,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/articles/3763030",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时31分 ~ 17时27分]"
         },
         {
           "title": "意大利总理说很多问题上不同意特朗普做法",
@@ -262,6 +263,17 @@
           "time_info": "15时27分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-11）",
+          "url": "https://flash.jin10.com/detail/20260111175613540800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
           "url": "https://wallstreetcn.com/articles/3762989",
           "source": "华尔街见闻",
@@ -272,17 +284,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 02时36分]"
-        },
-        {
-          "title": "达尔全球首席执行官表示，达尔全球与特朗普集团将推出价值100亿美元的全新沙特房地产项目。",
-          "url": "https://flash.jin10.com/detail/20260111163438424800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
         },
         {
           "title": "美媒：特朗普听取对伊朗打击方案简报 但尚未作出最终决定",
@@ -356,6 +357,18 @@
           "time_info": "[10时21分 ~ 13时31分]"
         },
         {
+          "title": "达尔全球首席执行官表示，达尔全球与特朗普集团将推出价值100亿美元的全新沙特房地产项目。",
+          "url": "https://flash.jin10.com/detail/20260111163438424800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时27分]"
+        },
+        {
           "title": "石油巨头齐聚白宫探讨委内瑞拉原油，特朗普“你们投千亿、政府不出钱”，美孚“没改革就没投资”",
           "url": "https://wallstreetcn.com/articles/3763006",
           "source": "华尔街见闻",
@@ -416,6 +429,18 @@
           "time_info": "[16时33分 ~ 16时34分]"
         },
         {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时27分]"
+        },
+        {
           "title": "特朗普再次威胁伊朗，伊朗军方：团结起来挫败敌人阴谋",
           "url": "https://wallstreetcn.com/livenews/3034596",
           "source": "华尔街见闻-快讯",
@@ -469,7 +494,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -480,20 +505,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
         {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
+          "title": "据多家财经媒体及官方渠道披露，达尔环球（Dar Global）与特朗普集团（The Trump Organization）正深化合作。根据最新消息，达尔环球CEO齐亚德·埃尔·查尔（Ziad El Chaar）确认，双方将启动一个总价值约100亿美元 的新沙特房地产项目。",
+          "url": "https://wallstreetcn.com/livenews/3034676",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "18时27分"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报",
@@ -561,8 +586,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 17时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 18时27分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -609,7 +634,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价将走向何方",
@@ -628,11 +653,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E9%93%B6%E8%A1%8C%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 18时27分]"
         },
         {
           "title": "金价银价大幅波动原因",
@@ -645,6 +671,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 15时27分]"
+        },
+        {
+          "title": "金价飙升 多家银行公告提醒",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A%E6%8F%90%E9%86%92",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "金价新高不断 还能上车吗",
@@ -661,7 +698,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Neuralink今年大规模生产脑机接口设备！龙头5天4板，产业链价值量占比居前的A股名单及相关业务一览",
@@ -672,8 +709,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 17时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 18时27分]"
         },
         {
           "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
@@ -686,8 +723,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 17时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 18时27分]"
         },
         {
           "title": "下周A股还能涨吗",
@@ -702,6 +739,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时31分 ~ 17时27分]"
+        },
+        {
+          "title": "专家：今年A股至少还有20%上涨空间",
+          "url": "https://www.toutiao.com/trending/7593144823998742570/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         }
       ]
     },
