@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T15:27:06.634797+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-01-11T16:34:32.712339+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普放话：我可不要中俄当邻居",
@@ -26,8 +26,37 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时21分 ~ 15时27分]"
+          "appearance_count": 9,
+          "time_info": "[10时21分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普：很快打击墨西哥境内",
+          "url": "https://wallstreetcn.com/articles/3763023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[03时20分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
+          "url": "https://news.ifeng.com/c/8pp0Cwro8Vo",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 16时34分]"
         },
         {
           "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
@@ -44,19 +73,16 @@
           "time_info": "[00时31分 ~ 14时40分]"
         },
         {
-          "title": "特朗普：很快打击墨西哥境内",
-          "url": "https://wallstreetcn.com/articles/3763023",
-          "source": "华尔街见闻",
+          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
+          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            7,
-            6,
-            5
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时20分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 16时34分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
@@ -100,6 +126,18 @@
           "time_info": "[00时32分 ~ 07时25分]"
         },
         {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
+          "url": "https://www.zhihu.com/question/1993621515099399503",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 16时34分]"
+        },
+        {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
           "url": "https://www.zhihu.com/question/1993265925231761101",
           "source": "知乎",
@@ -139,40 +177,18 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
-          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
-          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
-          "source": "凤凰网",
+          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/articles/3763030",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时27分]"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
-          "url": "https://news.ifeng.com/c/8pp0Cwro8Vo",
-          "source": "凤凰网",
-          "ranks": [
+            9,
+            8,
             6,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时27分]"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
-          "url": "https://www.zhihu.com/question/1993621515099399503",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[13时31分 ~ 16时34分]"
         },
         {
           "title": "意大利总理说很多问题上不同意特朗普做法",
@@ -226,9 +242,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "意大利总理：不同意特朗普许多做法",
+          "url": "https://www.toutiao.com/trending/7593680373650358291/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时39分 ~ 16时34分]"
         },
         {
           "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
@@ -241,19 +269,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 02时36分]"
-        },
-        {
-          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/articles/3763030",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 15时27分]"
         },
         {
           "title": "美媒：特朗普听取对伊朗打击方案简报 但尚未作出最终决定",
@@ -352,18 +367,6 @@
           "time_info": "[07时25分 ~ 10时21分]"
         },
         {
-          "title": "意大利总理：不同意特朗普许多做法",
-          "url": "https://www.toutiao.com/trending/7593680373650358291/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 15时27分]"
-        },
-        {
           "title": "全面代替美联储？房贷QE后，特朗普要给信用卡利率设“10%上限”",
           "url": "https://wallstreetcn.com/articles/3763014",
           "source": "华尔街见闻",
@@ -386,6 +389,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 07时25分]"
+        },
+        {
+          "title": "意大利总理：不同意特朗普的许多做法，国际法必须得到充分捍卫",
+          "url": "https://news.ifeng.com/c/8ppArIDCETK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "特朗普再次威胁伊朗，伊朗军方：团结起来挫败敌人阴谋",
@@ -500,8 +514,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 15时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 16时34分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -523,11 +537,12 @@
           "ranks": [
             11,
             4,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[12时13分 ~ 16时34分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -546,53 +561,20 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 4,
       "titles": [
         {
-          "title": "Neuralink今年大规模生产脑机接口设备！龙头5天4板，产业链价值量占比居前的A股名单及相关业务一览",
-          "url": "https://www.cls.cn/detail/2253788",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 15时27分]"
-        },
-        {
-          "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
-          "url": "https://www.cls.cn/detail/2253862",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 15时27分]"
-        },
-        {
-          "title": "下周A股还能涨吗",
-          "url": "https://www.toutiao.com/trending/7593203351320346670/",
+          "title": "金价将走向何方",
+          "url": "https://www.toutiao.com/trending/7593981430330297862/",
           "source": "今日头条",
           "ranks": [
-            7,
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 15时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
+        },
         {
           "title": "金价银价大幅波动原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E5%B9%85%E6%B3%A2%E5%8A%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=28&Refer=top",
@@ -606,6 +588,17 @@
           "time_info": "[15时26分 ~ 15时27分]"
         },
         {
+          "title": "金价飙升银行紧急提示",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E9%93%B6%E8%A1%8C%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
+        },
+        {
           "title": "金价新高不断 还能上车吗",
           "url": "https://www.toutiao.com/trending/7593887858499259940/",
           "source": "今日头条",
@@ -615,6 +608,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Neuralink今年大规模生产脑机接口设备！龙头5天4板，产业链价值量占比居前的A股名单及相关业务一览",
+          "url": "https://www.cls.cn/detail/2253788",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 16时34分]"
+        },
+        {
+          "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
+          "url": "https://www.cls.cn/detail/2253862",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 16时34分]"
+        },
+        {
+          "title": "下周A股还能涨吗",
+          "url": "https://www.toutiao.com/trending/7593203351320346670/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时31分 ~ 16时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
+          "url": "https://www.cls.cn/detail/2253716",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时25分]"
+        },
+        {
+          "title": "下周看点：美股Q4财报季拉开帷幕",
+          "url": "https://www.toutiao.com/trending/7593513607846166538/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
         }
       ]
     },
@@ -646,25 +714,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时13分 ~ 14时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
-          "url": "https://www.cls.cn/detail/2253716",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时25分]"
         }
       ]
     },
