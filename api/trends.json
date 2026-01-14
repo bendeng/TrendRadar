@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T20:58:27.394078+08:00",
-  "total_titles_processed": 1873,
+  "generated_at": "2026-01-14T21:47:33.339485+08:00",
+  "total_titles_processed": 1998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 109,
+      "match_count": 112,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时38分 ~ 20时58分]"
+          "appearance_count": 7,
+          "time_info": "[16时38分 ~ 21时47分]"
         },
         {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
@@ -63,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时12分 ~ 20时58分]"
+          "appearance_count": 11,
+          "time_info": "[12时12分 ~ 21时47分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -102,6 +102,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时10分 ~ 14时42分]"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 21时47分]"
         },
         {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
@@ -168,7 +183,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -184,20 +199,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时10分 ~ 15时31分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 20时58分]"
         },
         {
           "title": "中方回应“特朗普称不需要国际法”",
@@ -944,7 +945,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1076,7 +1077,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1191,6 +1192,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "美联储卡什卡利：特朗普的威胁实际是货币政策问题 一月份没有降息的必要",
+          "url": "https://flash.jin10.com/detail/20260114210614869800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "美国参议院多数党领袖John Thune：并不建议实施（特朗普政府主张的）信用卡利率上限政策。 这样的政策可能会让许多人丧失获取信用（融资）的渠道。 预计将对信用卡竞争法案投票。",
           "url": "https://wallstreetcn.com/livenews/3036279",
           "source": "华尔街见闻-快讯",
@@ -1200,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "特朗普政府执政近一年给世界带来了啥",
+          "url": "https://www.toutiao.com/trending/7595171405177684018/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "白宫特使秘密会晤伊朗前王储 特朗普政府重新评估反对派力量",
@@ -1235,6 +1258,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "美国明尼阿波利斯联储主席Kashkari表示，特朗普对美联储的举措“关乎货币政策”。其表示鲍威尔对此事“解释得很准确”。Kashkari称目前没有“一月降息的动力”。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3037062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "美国总统特朗普：将在底特律谈论经济。",
           "url": "https://flash.jin10.com/detail/20260113233358056800",
           "source": "金十数据",
@@ -1252,7 +1286,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         }
@@ -1281,11 +1315,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时31分 ~ 20时58分]"
+          "appearance_count": 8,
+          "time_info": "[15时31分 ~ 21时47分]"
         },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
@@ -1297,8 +1332,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时38分 ~ 20时58分]"
+          "appearance_count": 7,
+          "time_info": "[16时38分 ~ 21时47分]"
         },
         {
           "title": "A股调整融资保证金有何影响",
@@ -1306,11 +1341,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 20时58分]"
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 21时47分]"
         },
         {
           "title": "深交所调整融资保证金比例，不得低于 100%，上证指数大幅调整，如何解读这一调整？",
@@ -1323,8 +1359,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时38分 ~ 20时58分]"
+          "appearance_count": 7,
+          "time_info": "[16时38分 ~ 21时47分]"
         },
         {
           "title": "【监管“降温”组合拳出手 专家：政策调控旨在为市场“降温”，而非“熄火”】14日，A股三大指数冲高回落。截至收盘，沪指跌0.31%，报4126.09点；深证成指涨0.56%，创业板指涨0.82%。市场成交额逼近4万亿元，超半数个股上涨。午间收盘后，沪深北交易所发布通知，针对新开融资合约，适度调整融资保证金比例从80%提高至100%。午盘沪指迅速跳水翻绿，最低下跌0.85%至4103.62点。南开大学金融发展研究院院长田利辉表示，融资政策的调整叠加热门概念股的高效监管，说明A股监管的“组合拳”已经打出。政策调控旨在为市场“降温”，而非“熄火”，未来市场将更强调基本面与合规性。短期波动难免，但“慢牛”“长牛”格局正逐步夯实。投资者需摒弃短期博弈思维，以理性与耐心穿越市场波动，共享中国经济高质量发展的红利。（央广网）",
@@ -1435,6 +1471,18 @@
           "time_info": "[18时31分 ~ 18时32分]"
         },
         {
+          "title": "是什么激活了A股",
+          "url": "https://www.toutiao.com/trending/7595151105852444214/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 21时47分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -1524,17 +1572,6 @@
           "time_info": "15时31分"
         },
         {
-          "title": "是什么激活了A股",
-          "url": "https://www.toutiao.com/trending/7595151105852444214/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
           "title": "上证指数开盘报4138.65点，跌0.00%。 深证成指开盘报14194.11点，涨0.17%。 创业板指开盘报3333.17点，涨0.34%。 沪深300开盘报4767.70点，涨0.14%。 科创50开盘报1479.30点，涨0.66%。 中证500开盘报8165.35点，涨0.27%。 中证1000开盘报8204.28点，涨0.01%。",
           "url": "https://wallstreetcn.com/livenews/3036537",
           "source": "华尔街见闻-快讯",
@@ -1571,7 +1608,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1581,8 +1618,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时10分 ~ 20时58分]"
+          "appearance_count": 12,
+          "time_info": "[10时10分 ~ 21时47分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -1721,7 +1758,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
         },
@@ -1765,9 +1802,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
+        },
+        {
+          "title": "花旗集团：第四季度FICC销售与交易收入为34.6亿美元，市场预期为32.9亿美元。 第四季度股票销售与交易收入为10.8亿美元，市场预期为11.6亿美元。 第四季度银行业务收入为22.1亿美元，市场预期为20亿美元。 第四季度投行业务收入为12.7亿美元。 第四季度总收入为198.7亿美元；每股收益为1.19美元。 花旗美股盘前一度涨0.5%，现跌超1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3037064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         }
       ]
     },
@@ -1879,9 +1927,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 21时47分]"
         },
         {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
@@ -2003,8 +2051,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时58分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时47分]"
         }
       ]
     }
