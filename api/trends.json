@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T18:31:48.188563+08:00",
-  "total_titles_processed": 1602,
+  "generated_at": "2026-01-16T19:25:52.514680+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 83,
+      "match_count": 88,
       "titles": [
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
@@ -72,11 +72,12 @@
             1,
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时41分 ~ 18时31分]"
+          "appearance_count": 8,
+          "time_info": "[14时41分 ~ 19时25分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -89,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时27分 ~ 18时31分]"
+          "appearance_count": 14,
+          "time_info": "[07时27分 ~ 19时25分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -103,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时05分 ~ 18时31分]"
+          "appearance_count": 9,
+          "time_info": "[12时05分 ~ 19时25分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -160,6 +161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "执念太深！特朗普笑纳“二手”和平奖章丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260116185041783800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "美国总统特朗普将授意关键的美国电网运营商执行紧急（批发电价）拍卖。",
@@ -365,8 +377,19 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 19时25分]"
+        },
+        {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时31分]"
+          "time_info": "[17时33分 ~ 19时25分]"
         },
         {
           "title": "马查多把诺贝尔和平奖颁给特朗普",
@@ -488,17 +511,6 @@
           "time_info": "[00时41分 ~ 01时37分]"
         },
         {
-          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时31分]"
-        },
-        {
           "title": "白宫新闻秘书莱维特：美国总统特朗普及其团队已告知伊朗，若“杀戮”持续，将面临严重后果。",
           "url": "https://flash.jin10.com/detail/20260116022638083800",
           "source": "金十数据",
@@ -589,6 +601,17 @@
           "time_info": "03时30分"
         },
         {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普在伊朗问题上保留所有选项。",
           "url": "https://flash.jin10.com/detail/20260116024403158800",
           "source": "金十数据",
@@ -653,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "美国军方正向中东地区增派防御和进攻能力，以应对特朗普可能下令打击伊朗的情况。",
+          "url": "https://flash.jin10.com/detail/20260116183626239800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "据AXIOS记者：尽管目前看来美国对伊朗发动打击并非迫在眉睫，但一名熟悉相关情况的美国消息人士称，所有人都知道，特朗普一直“把手指放在按钮上”（准备好打击）。",
@@ -842,6 +876,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "特朗普发布“伟大医疗计划”：聚焦药价与透明度 大选前夕豪赌医改",
           "url": "https://flash.jin10.com/detail/20260116004031147800",
           "source": "金十数据",
@@ -961,6 +1006,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "马查多为何赠特朗普诺贝尔和平奖",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%9F%A5%E5%A4%9A%E4%B8%BA%E4%BD%95%E8%B5%A0%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         }
       ]
     },
@@ -1045,11 +1101,12 @@
           "ranks": [
             20,
             5,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 19时25分]"
         },
         {
           "title": "上证指数早盘收报4103.45点，跌0.22%。 深证成指早盘收报14293.08点，跌0.10%。 创业板指早盘收报3367.45点，跌0.01%。 沪深300早盘收报4744.25点，跌0.15%。 科创50早盘收报1501.12点，涨0.48%。 中证500早盘收报8221.90点，跌0.02%。 中证1000早盘收报8206.29点，跌0.42%。",
@@ -1115,7 +1172,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -1222,8 +1279,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时06分 ~ 18时31分]"
+          "appearance_count": 13,
+          "time_info": "[10时06分 ~ 19时25分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1506,8 +1563,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时31分 ~ 18时31分]"
+          "appearance_count": 10,
+          "time_info": "[13时31分 ~ 19时25分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -1679,11 +1736,12 @@
           "url": "https://www.cls.cn/detail/2260455",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时25分]"
         }
       ]
     }
