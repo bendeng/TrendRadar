@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T22:31:21.461452+08:00",
-  "total_titles_processed": 1999,
+  "generated_at": "2026-01-16T23:31:49.859449+08:00",
+  "total_titles_processed": 2081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 100,
+      "match_count": 103,
       "titles": [
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
@@ -65,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时41分 ~ 22时31分]"
+          "appearance_count": 13,
+          "time_info": "[14时41分 ~ 23时31分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -92,8 +92,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时05分 ~ 22时31分]"
+          "appearance_count": 14,
+          "time_info": "[12时05分 ~ 23时31分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -118,8 +118,23 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时37分 ~ 23时31分]"
+        },
+        {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            12,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[16时37分 ~ 22时31分]"
+          "time_info": "[17时33分 ~ 23时31分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -133,18 +148,30 @@
           "time_info": "[00时41分 ~ 04时33分]"
         },
         {
-          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
-          "source": "澎湃新闻",
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            17,
-            15,
-            12
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时33分 ~ 22时31分]"
+          "appearance_count": 6,
+          "time_info": "[19时25分 ~ 23时31分]"
+        },
+        {
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时25分 ~ 23时31分]"
         },
         {
           "title": "马查多把诺贝尔和平奖颁给特朗普",
@@ -180,6 +207,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "马查多“献诺奖”，特朗普“笑纳”，颁奖方尴尬",
+          "url": "https://wallstreetcn.com/livenews/3038897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "美国白宫：特朗普提议的成本分摊计划可能使最常见的奥巴马医改计划保费降低逾10%。",
           "url": "https://flash.jin10.com/detail/20260116002613616800",
           "source": "金十数据",
@@ -211,31 +249,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时25分 ~ 22时31分]"
-        },
-        {
-          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时25分 ~ 22时31分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -659,7 +672,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -714,7 +727,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -824,7 +837,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -928,6 +941,17 @@
           "time_info": "07时27分"
         },
         {
+          "title": "Vistra（VST）跌7.3%，星牌能源（CEG）跌6.9%。 美国总统特朗普推动通过电力拍卖，让数据中心承担飙涨的电力成本。",
+          "url": "https://wallstreetcn.com/livenews/3038883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "美国总统特朗普：希望降低保险费，并要求保险公司对成本负责。",
           "url": "https://flash.jin10.com/detail/20260116000715536800",
           "source": "金十数据",
@@ -1000,7 +1024,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1077,7 +1101,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1110,7 +1134,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1126,13 +1150,24 @@
           "time_info": "21时42分"
         },
         {
+          "title": "特朗普政府或将签署一项遏制电价的协议，美国电力公司股价下跌，Talen能源(TLN.O)下跌8%，Vistra能源(VST.N)下跌6.9%，星座能源(CEG.O)下跌6.3%。",
+          "url": "https://flash.jin10.com/detail/20260116223126356800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "委内瑞拉反对派领导人马查多：委内瑞拉人“支持美国总统特朗普的行动”。",
           "url": "https://flash.jin10.com/detail/20260116214042937800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1161,8 +1196,280 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[10时06分 ~ 23时31分]"
+        },
+        {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时27分]"
+        },
+        {
+          "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时41分 ~ 06时28分]"
+        },
+        {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时31分 ~ 18时31分]"
+        },
+        {
+          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2259656",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 13时32分]"
+        },
+        {
+          "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2259424",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时29分 ~ 10时07分]"
+        },
+        {
+          "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，白银走V收复盘中大跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260116050523142800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时28分]"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260116050517374800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时28分]"
+        },
+        {
+          "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
+          "url": "https://wallstreetcn.com/livenews/3038227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "航空业ETF收涨约2.3%，和半导体ETF领跑美股行业ETF，标普能源板块跌0.9%",
+          "url": "https://wallstreetcn.com/livenews/3038225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时28分 ~ 07时27分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 大型金融股走强",
+          "url": "https://flash.jin10.com/detail/20260116050146912800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美股盘前，明星科技股走强，美光科技(MU.O)涨超3%、AMD(AMD.O)涨超2%、台积电(TSM.N)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260116170410342800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周四（1月15日），美国科技股七巨头（Magnificent 7）指数涨0.21%，报205.20点，跳空高开之后，至北京时间03:00高位震荡、之后持续回落并四度转跌。 “超大”市值科技股指数涨0.20%，报392.34点，跳空高开之后高位持稳，03:00开始逐步回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3038226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "Riot Platforms与AMD签订数据中心租赁协议。 其中包括初步部署25 MW算力，可能会扩张至200 MW算力的选项。 预计这笔交易将带来3.11亿美元承包收入，如果全面扩张可能会达到大约10亿美元。 Riot将在Rockdale购买200英亩土地，交易金额0.96亿美元。 Riot美股盘前涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3038870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260116225402994800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3038653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3038861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.36%，报394.75点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.18%，报2762.08点，也继续创收盘历史新高，北京时间22:30美股开盘之前主要维持微跌状态、持稳于2750点上方，之后跳水至2718.19点，03:24刷新日高至2775点上方。 （美股）原材料指数涨0.13%，报252.76点。 （美股）金属与矿业指数涨0.65%，报244.57点。",
+          "url": "https://wallstreetcn.com/livenews/3038238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，半导体ETF涨1.97%，科技行业ETF涨0.89%，全球科技股指数ETF涨0.63%，能源业ETF、银行业ETF、网络股指数ETF等至多涨0.13%，医疗ETF跌0.27%，公用事业ETF跌0.96%。",
+          "url": "https://wallstreetcn.com/livenews/3038880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-16）",
+          "url": "https://flash.jin10.com/detail/20260116214314914800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "美股开盘，道指涨54点、标普500指数涨0.18%、纳指涨0.4%。美光科技(MU.O)涨4.8%，其董事会成员Teyin Liu斥资约780万美元增持公司股份。诺和诺德(NVO.N)涨4.6%，英国监管机构批准以更高剂量的Wegovy治疗肥胖。纳斯达克中国金龙指数跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20260116223032607800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3038101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
@@ -1222,6 +1529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "今天是A股站上4100点的第6天",
+          "url": "https://www.toutiao.com/trending/7595955025646456370/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "A股航天装备板块短线拉升，航天宏图涨超10%，中国卫通、中天火箭、星网宇达、理工导航、航天环宇等跟涨。",
@@ -1407,245 +1725,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时06分 ~ 22时31分]"
-        },
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时27分]"
-        },
-        {
-          "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时28分]"
-        },
-        {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时31分 ~ 18时31分]"
-        },
-        {
-          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2259656",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 13时32分]"
-        },
-        {
-          "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2259424",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时29分 ~ 10时07分]"
-        },
-        {
-          "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，白银走V收复盘中大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260116050523142800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时28分]"
-        },
-        {
-          "title": "金十图示：2026年01月15日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260116050517374800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时28分]"
-        },
-        {
-          "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
-          "url": "https://wallstreetcn.com/livenews/3038227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "航空业ETF收涨约2.3%，和半导体ETF领跑美股行业ETF，标普能源板块跌0.9%",
-          "url": "https://wallstreetcn.com/livenews/3038225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 大型金融股走强",
-          "url": "https://flash.jin10.com/detail/20260116050146912800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美股盘前，明星科技股走强，美光科技(MU.O)涨超3%、AMD(AMD.O)涨超2%、台积电(TSM.N)涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260116170410342800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周四（1月15日），美国科技股七巨头（Magnificent 7）指数涨0.21%，报205.20点，跳空高开之后，至北京时间03:00高位震荡、之后持续回落并四度转跌。 “超大”市值科技股指数涨0.20%，报392.34点，跳空高开之后高位持稳，03:00开始逐步回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3038226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "Riot Platforms与AMD签订数据中心租赁协议。 其中包括初步部署25 MW算力，可能会扩张至200 MW算力的选项。 预计这笔交易将带来3.11亿美元承包收入，如果全面扩张可能会达到大约10亿美元。 Riot将在Rockdale购买200英亩土地，交易金额0.96亿美元。 Riot美股盘前涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3038870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3038653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3038861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.36%，报394.75点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.18%，报2762.08点，也继续创收盘历史新高，北京时间22:30美股开盘之前主要维持微跌状态、持稳于2750点上方，之后跳水至2718.19点，03:24刷新日高至2775点上方。 （美股）原材料指数涨0.13%，报252.76点。 （美股）金属与矿业指数涨0.65%，报244.57点。",
-          "url": "https://wallstreetcn.com/livenews/3038238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-16）",
-          "url": "https://flash.jin10.com/detail/20260116214314914800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3038101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
@@ -1796,11 +1875,12 @@
           "ranks": [
             9,
             7,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时31分 ~ 22时31分]"
+          "appearance_count": 15,
+          "time_info": "[13时31分 ~ 23时31分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -1829,7 +1909,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
@@ -1854,6 +1934,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时28分]"
+        },
+        {
+          "title": "标普500指数转跌，道指下跌逾百点、跌幅超0.2%，纳指大致持平。 美元/日元日内跌幅达0.5%，报157.84。",
+          "url": "https://wallstreetcn.com/livenews/3038894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "美元指数15日上涨",
@@ -1925,8 +2016,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时31分 ~ 22时31分]"
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 23时31分]"
         }
       ]
     }
