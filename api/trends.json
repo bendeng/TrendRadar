@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-19T07:25:48.329284+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-01-19T10:12:08.814850+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
-        {
-          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://www.cls.cn/detail/2261399",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
-        },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
           "url": "https://news.ifeng.com/c/8q1PDnUocDO",
@@ -29,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时25分]"
+        },
+        {
+          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://www.cls.cn/detail/2261399",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时12分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -47,22 +48,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时12分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
           "url": "https://news.ifeng.com/c/8q1bdYC7EP7",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时12分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -74,8 +77,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时12分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -119,6 +122,17 @@
           "time_info": "[01时23分 ~ 06时25分]"
         },
         {
+          "title": "欧洲8国集体回应特朗普关税威胁",
+          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
           "url": "https://wallstreetcn.com/livenews/3039284",
           "source": "华尔街见闻-快讯",
@@ -145,6 +159,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 05时23分]"
+        },
+        {
+          "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
+          "url": "https://www.cls.cn/detail/2261562",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默与丹麦首相、欧盟委员会主席冯德莱恩、美国总统特朗普等国际领导人对话。 斯塔姆重申自己在格陵兰问题上的立场。 特朗普对北约盟友们发出关税威胁的做法是错误的。",
@@ -421,6 +446,17 @@
           "time_info": "[00时31分 ~ 02时35分]"
         },
         {
+          "title": "伊朗：将追究特朗普等人责任",
+          "url": "https://news.ifeng.com/c/8q2B9XoMclS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
           "title": "特朗普发布个人黑白照",
           "url": "https://wallstreetcn.com/livenews/3039253",
           "source": "华尔街见闻-快讯",
@@ -436,7 +472,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "A股春季行情仍有新高？投资主线有哪些？十大券商策略来了",
@@ -449,8 +485,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时12分]"
         },
         {
           "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
@@ -472,11 +508,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时12分]"
         },
         {
           "title": "万亿存款搬家进行时 A股慢牛正在成形",
@@ -513,15 +550,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "上证指数开盘报4090.72点，跌0.27%。 深证成指开盘报14221.93点，跌0.41%。 创业板指开盘报3340.94点，跌0.60%。 沪深300开盘报4720.19点，跌0.25%。 科创50开盘报1513.59点，跌0.03%。 中证500开盘报8199.50点，跌0.40%。 中证1000开盘报8204.63点，跌0.34%。",
+          "url": "https://wallstreetcn.com/livenews/3039394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -531,8 +579,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时12分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -545,6 +593,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时35分 ~ 03时21分]"
+        },
+        {
+          "title": "OpenAI终向广告“妥协”，GEO逻辑被验证无误了吗？",
+          "url": "https://www.cls.cn/detail/2261328",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         }
       ]
     },
@@ -561,8 +648,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 07时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 10时12分]"
         }
       ]
     },
@@ -595,11 +682,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时25分]"
+          "appearance_count": 4,
+          "time_info": "[06时25分 ~ 10时12分]"
         }
       ]
     }
