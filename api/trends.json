@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T14:45:41.526655+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-01-20T15:35:03.965868+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -41,8 +41,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 14时45分]"
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 15时35分]"
+        },
+        {
+          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
+          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 15时35分]"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -65,21 +78,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时26分 ~ 14时45分]"
-        },
-        {
-          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
-          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 14时45分]"
+          "appearance_count": 11,
+          "time_info": "[07时26分 ~ 15时35分]"
         },
         {
           "title": "普京被邀请加入特朗普“和平委员会”",
@@ -126,8 +126,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 14时45分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 15时35分]"
         },
         {
           "title": "又会是“极限施压、最后时刻妥协”剧本？市场“很懂”特朗普",
@@ -138,8 +138,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 14时45分]"
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 15时35分]"
         },
         {
           "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
@@ -150,8 +150,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 14时45分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 15时35分]"
+        },
+        {
+          "title": "特朗普继续威胁，“100%加税，欧洲等着吧”",
+          "url": "https://news.ifeng.com/c/8q4ARvfivFN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 15时35分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -176,15 +187,15 @@
           "time_info": "[00时37分 ~ 01时28分]"
         },
         {
-          "title": "特朗普继续威胁，“100%加税，欧洲等着吧”",
-          "url": "https://news.ifeng.com/c/8q4ARvfivFN",
-          "source": "凤凰网",
+          "title": "特朗普计划于今年4月访华一事，中方能否提供更多细节？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3040264",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时45分"
+          "time_info": "15时35分"
         },
         {
           "title": "丹麦外交部长：相信英国首相斯塔默已与美国总统特朗普直接通话。",
@@ -198,13 +209,35 @@
           "time_info": "00时37分"
         },
         {
+          "title": "金十整理：不入局就加征200%关税？特朗普的“加沙和平委员会”为何难获响应？",
+          "url": "https://flash.jin10.com/detail/20260120151936040800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
+          "url": "https://www.cls.cn/detail/2263060",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时34分 ~ 15时35分]"
+        },
+        {
           "title": "特朗普：丹麦及其欧洲盟友必须做正确的事。",
           "url": "https://wallstreetcn.com/livenews/3040199",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -306,17 +339,6 @@
           "time_info": "[00时37分 ~ 01时28分]"
         },
         {
-          "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
-          "url": "https://www.cls.cn/detail/2263060",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时34分 ~ 14时45分]"
-        },
-        {
           "title": "欧盟将召开特别峰会应对特朗普“夺岛”关税",
           "url": "https://wallstreetcn.com/livenews/3039882",
           "source": "华尔街见闻-快讯",
@@ -414,6 +436,17 @@
           "time_info": "[02时40分 ~ 03时24分]"
         },
         {
+          "title": "是否会武力夺取格陵兰岛？特朗普回应：无可奉告！",
+          "url": "https://www.cls.cn/detail/2262925",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
           "title": "报道：法国总统将拒绝特朗普“和平委员会”的加入邀请",
           "url": "https://wallstreetcn.com/livenews/3039877",
           "source": "华尔街见闻-快讯",
@@ -498,7 +531,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -553,7 +586,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -575,7 +608,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -597,7 +630,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -674,7 +707,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -685,7 +718,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -718,7 +751,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
@@ -726,7 +759,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "创业板指跌超1%。",
@@ -881,7 +914,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -903,9 +936,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "A股收盘：创业板指高开低走跌1.79%，化工、黄金股逆势大涨",
+          "url": "https://wallstreetcn.com/livenews/3040232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "上证指数收报4113.65点，跌0.01%。 深证成指收报14155.63点，跌0.97%。 创业板指收报3277.98点，跌1.79%。 沪深300收报4718.88点，跌0.33%。 科创50收报1482.99点，跌1.58%。 中证500收报8247.80点，跌0.48%。 中证1000收报8182.75点，跌1.00%。",
+          "url": "https://wallstreetcn.com/livenews/3040231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
@@ -923,8 +978,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 14时45分]"
+          "appearance_count": 9,
+          "time_info": "[10时06分 ~ 15时35分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -935,8 +990,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 14时45分]"
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 15时35分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -974,8 +1029,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时26分 ~ 14时45分]"
+          "appearance_count": 11,
+          "time_info": "[07时26分 ~ 15时35分]"
         },
         {
           "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
@@ -1006,7 +1061,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
@@ -1067,7 +1122,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "财晓得丨金价涨成这样，到什么位置了？",
@@ -1081,8 +1136,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 14时45分]"
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 15时35分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -1099,12 +1154,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 07时27分]"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）上海金午盘价为1055元/克，较国际金价(1054.32元/克)，高0.68元/克",
+          "url": "https://flash.jin10.com/detail/20260120150210258800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
     {
       "keyword_group": "主力资金 开源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "主力资金流向前十大个股",
@@ -1113,9 +1179,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出1068.43亿元，占比3.85%；大单资金净流出393.53亿元，占比1.42%；小单资金净流入782.21亿元，占比2.82%。",
+          "url": "https://flash.jin10.com/detail/20260120150748892800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "社交媒体平台X工程团队表示，已将新的X算法开源，该算法采用与Grok模型相同的Transformer架构。马斯克转发称，这个算法很笨拙，需要大幅改进，但可以实时、透明地看到改进过程。",
@@ -1124,7 +1201,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
