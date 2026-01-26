@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T21:02:07.013811+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2026-01-26T21:52:37.572078+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -89,8 +89,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时40分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 21时52分]"
         },
         {
           "title": "10亿美元一席！特朗普任“主席”",
@@ -304,6 +304,28 @@
           "time_info": "[00时32分 ~ 03时21分]"
         },
         {
+          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 21时52分]"
+        },
+        {
+          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
+          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 21时52分]"
+        },
+        {
           "title": "俄外交部证实俄方曾向特朗普发出访俄邀请",
           "url": "https://flash.jin10.com/detail/20260126042756695800",
           "source": "金十数据",
@@ -349,28 +371,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
-          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "特朗普与奥巴马克林顿呛声",
@@ -448,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "德防长：建议特朗普道歉但不抱希望",
+          "url": "https://www.toutiao.com/trending/7599628634244694058/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     },
@@ -500,8 +511,33 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 21时52分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指放量跌近1%，资源股持续强势领涨，万亿市值油气龙头创历史新高",
+          "url": "https://www.cls.cn/detail/2269857",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时40分 ~ 21时02分]"
+          "time_info": "[18时34分 ~ 21时52分]"
+        },
+        {
+          "title": "A股三大指数集体调整",
+          "url": "https://www.toutiao.com/trending/7599593202085006874/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 21时52分]"
         },
         {
           "title": "多家A股公司预计2025年业绩大增",
@@ -517,17 +553,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 07时26分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指放量跌近1%，资源股持续强势领涨，万亿市值油气龙头创历史新高",
-          "url": "https://www.cls.cn/detail/2269857",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时34分 ~ 21时02分]"
         },
         {
           "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
@@ -566,18 +591,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 03时21分]"
-        },
-        {
-          "title": "A股三大指数集体调整",
-          "url": "https://www.toutiao.com/trending/7599593202085006874/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 21时02分]"
         },
         {
           "title": "A股商业航天板块午后持续走低，海格通信、航天动力、润贝航科、沃格光电、江顺科技等股跌停。",
@@ -726,7 +739,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
@@ -736,8 +749,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时40分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[17时40分 ~ 21时52分]"
         },
         {
           "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -774,17 +787,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时40分 ~ 16时41分]"
-        },
-        {
-          "title": "美国稀土(USAR.O)美股盘前涨幅收窄，现涨12.6%。",
-          "url": "https://flash.jin10.com/detail/20260126204312954800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
@@ -831,6 +833,18 @@
           "time_info": "18时34分"
         },
         {
+          "title": "美国稀土(USAR.O)美股盘前涨幅收窄，现涨12.6%。",
+          "url": "https://flash.jin10.com/detail/20260126204312954800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时52分]"
+        },
+        {
           "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
           "url": "https://wallstreetcn.com/livenews/3043857",
           "source": "华尔街见闻-快讯",
@@ -855,13 +869,35 @@
           "time_info": "[17时40分 ~ 18时34分]"
         },
         {
+          "title": "Coreweave(CRWV.O)美股盘前短线拉升，一度涨超11%。",
+          "url": "https://flash.jin10.com/detail/20260126210223888800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "CoreWeave美股盘前涨超10%，报道称英伟达向CoreWeave A类普通股投资20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3044022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "Allied Gold美股盘前一度涨近9%，紫金黄金国际拟以280亿元收购其100%股权",
           "url": "https://wallstreetcn.com/livenews/3043979",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -883,7 +919,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -908,6 +944,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "IONQ美股盘前涨超3%，该公司将以每股35美元的价格收购Skywater Technology。",
+          "url": "https://wallstreetcn.com/livenews/3044013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "IONQ美股盘前涨2.7%；该公司将以每股35美元的价格收购Skywater Technology。",
+          "url": "https://flash.jin10.com/detail/20260126205303894800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     },
@@ -925,11 +983,12 @@
             9,
             7,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时19分 ~ 21时02分]"
+          "appearance_count": 14,
+          "time_info": "[12时19分 ~ 21时52分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -962,6 +1021,20 @@
           "time_info": "[12时19分 ~ 15时33分]"
         },
         {
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            27,
+            28,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时34分 ~ 21时52分]"
+        },
+        {
           "title": "金十图示：2026年01月26日（周一）上海金午盘价为1142.06元/克，较国际金价(1138.03元/克)，高4.03元/克",
           "url": "https://flash.jin10.com/detail/20260126151422471800",
           "source": "金十数据",
@@ -982,19 +1055,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
-        },
-        {
-          "title": "金价飙升原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时34分 ~ 21时02分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -1129,6 +1189,34 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数短线波动不大，现报97.27。",
+          "url": "https://wallstreetcn.com/livenews/3044038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "美元指数走弱，日元、欧元周一走强",
+          "url": "https://wallstreetcn.com/livenews/3043439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "主力资金 开源",
       "match_count": 2,
       "titles": [
@@ -1170,8 +1258,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时23分 ~ 21时02分]"
+          "appearance_count": 15,
+          "time_info": "[10时23分 ~ 21时52分]"
         },
         {
           "title": "“陈小群”概念股炒作利益链调查：“交易软件+券商”龙虎榜信息造神，游资借“互联网战法”收割散户",
@@ -1202,23 +1290,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 04时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数走弱，日元、欧元周一走强",
-          "url": "https://wallstreetcn.com/livenews/3043439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
         }
       ]
     }
