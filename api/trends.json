@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T19:28:46.543163+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2026-01-27T21:02:49.834441+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时28分 ~ 19时28分]"
+          "appearance_count": 15,
+          "time_info": "[07时28分 ~ 21时02分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -124,8 +124,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时44分 ~ 19时28分]"
+          "appearance_count": 9,
+          "time_info": "[14时44分 ~ 21时02分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -182,6 +182,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时39分 ~ 21时02分]"
         },
         {
           "title": "无视特朗普关税威胁 韩股收盘首破5000点创新高",
@@ -279,17 +291,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 06时29分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时39分 ~ 19时28分]"
         },
         {
           "title": "特朗普将于周二前往爱荷华州就美国经济发表演讲",
@@ -752,7 +753,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -763,8 +764,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时28分 ~ 19时28分]"
+          "appearance_count": 17,
+          "time_info": "[06时28分 ~ 21时02分]"
         },
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -800,6 +801,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时28分 ~ 13时33分]"
+        },
+        {
+          "title": "波音(BA.N)美股盘前抹去涨幅，现跌1.5%。",
+          "url": "https://flash.jin10.com/detail/20260127204911496800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "康宁美股盘前涨超7%，此前CNBC报道称，Meta准备向康宁公司支付高达60亿美元用于购买光纤电缆。",
+          "url": "https://wallstreetcn.com/livenews/3044789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -875,13 +898,35 @@
           "time_info": "[05时30分 ~ 06时29分]"
         },
         {
+          "title": "波音四季度营收239.5亿美元，预估225.8亿美元。 四季度核心每股收益9.92美元。 四季度调整后自由现金流3.75亿美元，预估2.719亿美元。 波音美股盘前涨1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "康宁(GLW.N)美股盘前涨6.5%，此前有报道称，Meta公司达成协议，将向该公司支付高达60亿美元，用于在人工智能数据中心中采购光纤电缆。",
+          "url": "https://flash.jin10.com/detail/20260127204317752800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "UPS四季度营收245亿美元，预估239.9亿美元。 四季度营调整后每股收益2.38美元，预估2.21美元。 UPS预计2026年营收约897亿美元，市场预估879.5亿美元。 UPS预计2026年资本支出约为30亿美元，市场预估37.2亿美元。 UPS美股盘前涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3044744",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -892,7 +937,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -908,6 +953,28 @@
           "time_info": "05时30分"
         },
         {
+          "title": "波音(BA.N)美股盘前涨2.2%，第四财季调整后自由现金流超出预期。",
+          "url": "https://flash.jin10.com/detail/20260127203505463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "美国航空第四季度调整后客运营收126.6亿美元，预期127.6亿美元。 第四季度调整后每股收益16美分，预估34美分。 美国航空预计2026年调整后每股收益1.7-2.7美元，市场预估2.01美元。 美国航空预计2026年资本支出约为40亿至45亿美元，市场预估41.7亿美元。 美国航空预计2027年资本支出约为45亿美元。 美国航空美股盘前跌3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3044771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "（美股）费城金银指数收涨0.42%，报436.27点，高开之后持续高位震荡，北京时间01:44开始持续回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.01%，报3069.65点，美股开盘之前维持微幅上涨状态——持续交投于3050点一线，后续走势与费城金银指数一致。 （美股）原材料指数收跌1.29%，报261.86点，整体高开低走。 （美股）金属与矿业指数收跌1.87%，报247.73点，走势与原材料指数类似。",
           "url": "https://wallstreetcn.com/livenews/3044207",
           "source": "华尔街见闻-快讯",
@@ -917,6 +984,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "雷神技术四季度调整后销售额242.4亿美元， 预估226.3亿美元。 四季度调整后每股收益1.55美元，预估1.47美元。 雷神技术预计2026年调整后销售额920亿美元-930亿美元，市场预估924.3亿美元。 雷神技术预计2026年调整后每股收益6.6-6.8美元，市场预估6.7美元。 雷神技术美股盘前涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3044769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "联合健康美股盘后跳水超9%，CVS跌超10%，投资者关注与医疗保健费率相关的报道。",
@@ -952,6 +1030,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "通用汽车第四季度净销售额和营收452.9亿美元，预估453.7亿美元。 第四季度调整后每股收益2.51美元，预估2.28美元。 通用汽车预计2026年净利润103亿美元至117亿美元。 通用汽车预计2026年调整后EBIT 130亿美元至150亿美元。 通用汽车预计2026年调整后每股收益11美元至13美元。 通用汽车预计2026年资本支出100亿美元至120亿美元。 通用汽车批准新的60亿美元股票回购授权。 通用汽车美股盘前涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3044761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "全球最大白银ETF--iShares Silver Trust美股盘前涨超3%，Global X白银矿业ETF涨超2%。",
           "url": "https://flash.jin10.com/detail/20260127171823945800",
           "source": "金十数据",
@@ -977,7 +1066,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "创业板跌近1%，金银板块狂飙，商业航天集体调整，恒科指跌超1%，紫金矿业创历史新高，沪银飙涨13%",
@@ -1050,8 +1139,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 21时02分]"
         },
         {
           "title": "A股",
@@ -1195,6 +1284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
+        },
+        {
+          "title": "A股三大指数集体上涨",
+          "url": "https://www.toutiao.com/trending/7599567524702978111/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     },
@@ -1323,8 +1423,30 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
+          "url": "https://flash.jin10.com/detail/20260127205258899800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "彭博美元即期指数触及2022年3月以来最弱水平。",
+          "url": "https://wallstreetcn.com/livenews/3044792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
         {
           "title": "美元指数DXY失守97，日内跌幅0.48%。",
           "url": "https://flash.jin10.com/detail/20260127050513890800",
@@ -1391,6 +1513,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时40分 ~ 21时02分]"
+        },
+        {
+          "title": "DeepSeek开源OCR 2模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时33分 ~ 21时02分]"
+        },
+        {
+          "title": "详解DeepSeek新模型OCR2",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
+          "url": "https://wallstreetcn.com/livenews/3044481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         }
       ]
     },
@@ -1523,48 +1711,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek开源OCR 2模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时33分 ~ 19时28分]"
-        },
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时40分 ~ 19时28分]"
-        },
-        {
-          "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
-          "url": "https://wallstreetcn.com/livenews/3044481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "牛散 游资",
       "match_count": 2,
       "titles": [
@@ -1585,11 +1731,12 @@
           "url": "https://www.cls.cn/detail/2271357",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 21时02分]"
         }
       ]
     },
@@ -1604,7 +1751,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         }
