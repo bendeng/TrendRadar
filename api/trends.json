@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T10:31:32.374191+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-01-29T12:43:03.403051+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -90,9 +90,20 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 12时43分]"
+        },
+        {
+          "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
+          "url": "https://flash.jin10.com/detail/20260129120407962800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "12时43分"
         },
         {
           "title": "美国财长贝森特接受CBS新闻采访，为总统特朗普的司法部刑事调查美联储主席鲍威尔一事“辩护”。 贝森特声称：美联储的独立性不等于“无需担责”。",
@@ -165,6 +176,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时37分]"
+        },
+        {
+          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
+          "url": "https://www.cls.cn/detail/2273332",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 12时43分]"
+        },
+        {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 12时43分]"
         },
         {
           "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
@@ -263,6 +298,28 @@
           "time_info": "[01时37分 ~ 02时44分]"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
           "title": "特朗普政府将召集高管，讨论加密货币立法。 白宫将于下周一会见银行业高管和加密货币行业高管。（路透）",
           "url": "https://wallstreetcn.com/livenews/3045766",
           "source": "华尔街见闻-快讯",
@@ -272,17 +329,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
-        },
-        {
-          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
-          "url": "https://www.cls.cn/detail/2273332",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
         },
         {
           "title": "美国财长贝森特：总统特朗普的美联储主席人选可能会在一周左右浮出水面。（雅虎财经）",
@@ -296,15 +342,15 @@
           "time_info": "04时39分"
         },
         {
-          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2273451",
-          "source": "财联社热门",
+          "title": "特朗普和舒默朝着可能达成避免美国政府停摆的协议迈进。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3046090",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "12时43分"
         },
         {
           "title": "特朗普再次暗示不会提名哈塞特执掌美联储",
@@ -362,6 +408,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
+          "url": "https://wallstreetcn.com/livenews/3046082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "特朗普再派舰队施压伊朗",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%B4%BE%E8%88%B0%E9%98%9F%E6%96%BD%E5%8E%8B%E4%BC%8A%E6%9C%97",
           "source": "百度热搜",
@@ -379,7 +436,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -456,7 +513,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -515,6 +572,19 @@
           "time_info": "[00时45分 ~ 10时31分]"
         },
         {
+          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
+          "url": "https://www.cls.cn/detail/2273407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时32分 ~ 12时43分]"
+        },
+        {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260129013122619800",
           "source": "金十数据",
@@ -558,18 +628,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 06时34分]"
-        },
-        {
-          "title": "美股收盘：存储股走强希捷劲升19% 费城半导体指数刷新高",
-          "url": "https://www.cls.cn/detail/2273407",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 10时31分]"
         },
         {
           "title": "瑞银：美联储仍将成为美股的顺风因素",
@@ -707,7 +765,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -746,11 +804,12 @@
             27,
             7,
             8,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 10时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 12时43分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -761,19 +820,31 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 10时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 12时43分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
           "url": "https://www.toutiao.com/trending/7600256243789627398/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时45分 ~ 12时43分]"
+        },
+        {
+          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
+          "url": "https://www.cls.cn/detail/2273420",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 12时43分]"
         },
         {
           "title": "金价波动",
@@ -789,17 +860,6 @@
           "time_info": "[02时44分 ~ 07时32分]"
         },
         {
-          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
-          "url": "https://www.cls.cn/detail/2273420",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
           "title": "渣打：金价任何回调都是买入机会",
           "url": "https://www.toutiao.com/trending/7600387008329944595/",
           "source": "今日头条",
@@ -812,6 +872,17 @@
           "time_info": "[07时32分 ~ 10时31分]"
         },
         {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -822,6 +893,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时32分 ~ 10时31分]"
+        },
+        {
+          "title": "金价银价暴涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
         },
         {
           "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报”三道红线“",
@@ -860,7 +942,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "营收指引亮眼 Meta股价盘后大涨10%",
@@ -891,9 +973,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "上证指数早盘收报4147.15点，跌0.10%。 深证成指早盘收报14344.96点，涨0.01%。 创业板指早盘收报3322.00点，跌0.05%。 沪深300早盘收报4713.50点，跌0.10%。 科创50早盘收报1531.12点，跌1.52%。 中证500早盘收报8605.49点，涨0.05%。 中证1000早盘收报8424.71点，涨0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3046070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "1月29日午间收评：创业板指冲高回落微跌，AI应用端集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3046069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         }
       ]
     },
@@ -950,6 +1054,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国产 VLA 模型接连开源，具身智能的 「DeepSeek 时刻」何时到来？",
+          "url": "https://www.zhihu.com/question/1999819158431503971",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
         }
       ]
     },
