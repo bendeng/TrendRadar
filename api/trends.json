@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:56:09.310725+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-02-02T19:40:02.041304+08:00",
+  "total_titles_processed": 1368,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "time_info": "[00时37分 ~ 07时31分]"
         },
         {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时09分 ~ 19时40分]"
+        },
+        {
           "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
           "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
           "source": "澎湃新闻",
@@ -56,18 +68,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时37分 ~ 07时31分]"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时09分 ~ 18时56分]"
         },
         {
           "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
@@ -272,6 +272,18 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202181717877800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时40分]"
+        },
+        {
           "title": "特朗普口风转软缓解供需忧虑 欧能股随国际油价重挫全线走低",
           "url": "https://flash.jin10.com/detail/20260202161737942800",
           "source": "金十数据",
@@ -349,17 +361,6 @@
           "time_info": "10时41分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
-          "url": "https://flash.jin10.com/detail/20260202181717877800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
           "title": "特朗普回应被爱泼斯坦案文件提及",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -388,7 +389,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         }
@@ -459,8 +460,35 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时52分 ~ 18时56分]"
+          "appearance_count": 7,
+          "time_info": "[16时52分 ~ 19时40分]"
+        },
+        {
+          "title": "A股收评：三大指数跌超2%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B7%8C%E8%B6%852%25",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时52分 ~ 19时40分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2387054",
+          "source": "抖音",
+          "ranks": [
+            6,
+            24,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时09分 ~ 19时40分]"
         },
         {
           "title": "深成指跌超1%，沪指跌0.87%，创业板指跌0.80%，有色金属、油气、农业、半导体芯片等方向跌幅居前，沪深京三市下跌个股近3000只。",
@@ -496,41 +524,17 @@
           "time_info": "15时09分"
         },
         {
-          "title": "A股收评：三大指数跌超2%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E8%B7%8C%E8%B6%852%25",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时52分 ~ 18时56分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2387054",
-          "source": "抖音",
-          "ranks": [
-            6,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时09分 ~ 17时58分]"
-        },
-        {
           "title": "A股三大股指跌超2% 有色金属板块大跌",
           "url": "https://www.toutiao.com/trending/7602160332387126826/",
           "source": "今日头条",
           "ranks": [
             21,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时58分]"
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 19时40分]"
         },
         {
           "title": "创业板指回落翻绿，此前一度涨超1%，贵金属、油气、农业、有色等板块跌幅居前，沪深京三市下跌个股近3000只。",
@@ -661,6 +665,20 @@
           "time_info": "[00时37分 ~ 16时53分]"
         },
         {
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时03分 ~ 19时40分]"
+        },
+        {
           "title": "男子看金价下跌花20多万买200克",
           "url": "https://www.toutiao.com/trending/7600970812455845951/",
           "source": "今日头条",
@@ -673,19 +691,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时31分 ~ 07时31分]"
-        },
-        {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 18时56分]"
         },
         {
           "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
@@ -921,7 +926,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         }
@@ -1024,11 +1029,12 @@
           "url": "https://www.cls.cn/detail/2277926",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 19时40分]"
         }
       ]
     }
