@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T13:55:34.549566+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-02-03T15:00:39.662806+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -16,8 +16,34 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 13时55分]"
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 15时00分]"
+        },
+        {
+          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
+          "url": "https://www.cls.cn/detail/2278350",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 15时00分]"
+        },
+        {
+          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2278428",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 15时00分]"
         },
         {
           "title": "法庭文件显示，纽约市发展委员会起诉特朗普政府，指控其扣留连接纽约市和新泽西州、耗资160亿美元的隧道建设资金。",
@@ -26,7 +52,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -53,41 +79,17 @@
           "time_info": "01时43分"
         },
         {
-          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
-          "url": "https://www.cls.cn/detail/2278350",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时55分]"
-        },
-        {
-          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2278428",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时55分]"
-        },
-        {
           "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
           "url": "https://www.zhihu.com/question/2001948735127643511",
           "source": "知乎",
           "ranks": [
             15,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 15时00分]"
         },
         {
           "title": "特朗普威胁要向哈佛大学索赔10亿美元",
@@ -112,6 +114,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时43分]"
+        },
+        {
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
         },
         {
           "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
@@ -414,7 +427,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "券商：A股迎低吸窗口",
@@ -432,11 +445,12 @@
           "url": "https://wallstreetcn.com/livenews/3048835",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 15时00分]"
         },
         {
           "title": "汇丰中国财富洞察：“十五五”开局政策精准发力，监管稳市有助A股长期健康发展|中国观点",
@@ -454,11 +468,12 @@
           "url": "https://wallstreetcn.com/livenews/3048828",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 15时00分]"
         },
         {
           "title": "A股光伏设备板块午后进一步走强，帝科股份20cm涨停，晶盛机电、海优新材、拉普拉斯涨超10%，奥特维、双良节能、钧达股份此前封板。",
@@ -467,7 +482,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -478,9 +493,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "沪指午后涨超1%，深成指、创业板指均涨超1.8%，太空光伏、算力硬件、商业航天等方向领涨，沪深京三市上涨个股超4700只。",
+          "url": "https://wallstreetcn.com/livenews/3048862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
+          "title": "A股算力租赁板块持续拉升，南凌科技盘中创新高，利通电子触及涨停，顺网科技涨超15%，网宿科技涨超10%，光环新网、青云科技、优刻得、创业黑马、首都在线跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3048850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
+          "title": "A股贵金属板块回升，西部黄金撬开跌停，中金黄金跌幅收窄至6%以内。",
+          "url": "https://wallstreetcn.com/livenews/3048844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         },
         {
           "title": "创业板指涨超2%，沪指涨0.54%，深成指涨1.42%，光伏、算力硬件、存储芯片等方向涨幅居前，沪深京三市上涨个股近4400只。",
@@ -562,8 +610,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[10时37分 ~ 15时00分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -574,8 +622,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时34分 ~ 13时55分]"
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 15时00分]"
         },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -705,7 +753,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -716,7 +764,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         }
@@ -735,8 +783,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时51分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时51分 ~ 15时00分]"
         },
         {
           "title": "李大霄解读金价一夜V型反转",
@@ -827,6 +875,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "主力资金 开源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260203141018682800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         }
       ]
     },
