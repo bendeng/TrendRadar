@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T17:53:40.555947+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-02-04T18:46:17.694455+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -19,6 +19,19 @@
           "time_info": "[01时01分 ~ 07时34分]"
         },
         {
+          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
+          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时44分 ~ 18时46分]"
+        },
+        {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
           "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
           "source": "凤凰网",
@@ -30,19 +43,6 @@
           "time_info": "[01时01分 ~ 06时51分]"
         },
         {
-          "title": "民主党人炸锅：这么搞是吧，特朗普一家子都等着！",
-          "url": "https://news.ifeng.com/c/8qStNzAAUTW",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时44分 ~ 17时53分]"
-        },
-        {
           "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
           "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
           "source": "凤凰网",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时32分 ~ 17时53分]"
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 18时46分]"
         },
         {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
@@ -62,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 17时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时54分 ~ 18时46分]"
         },
         {
           "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
@@ -76,8 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 17时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时54分 ~ 18时46分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -89,6 +89,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 06时51分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-04）",
+          "url": "https://flash.jin10.com/detail/20260204181439687800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         },
         {
           "title": "特朗普称同哥伦比亚总统的会晤“非常好” 哥总统：绝不接受胁迫",
@@ -263,6 +274,19 @@
           "time_info": "[01时01分 ~ 02时01分]"
         },
         {
+          "title": "特朗普与爱泼斯坦聚会视频曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时46分]"
+        },
+        {
           "title": "美国总统特朗普：是时候翻过爱泼斯坦丑闻这一页了。",
           "url": "https://flash.jin10.com/detail/20260204061551878800",
           "source": "金十数据",
@@ -311,18 +335,6 @@
           "time_info": "[06时51分 ~ 07时34分]"
         },
         {
-          "title": "特朗普与爱泼斯坦聚会视频曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时53分]"
-        },
-        {
           "title": "英美领导人通话讨论迪戈加西亚岛争议 此前特朗普立场反复",
           "url": "https://flash.jin10.com/detail/20260204071642360800",
           "source": "金十数据",
@@ -356,6 +368,17 @@
           "time_info": "05时47分"
         },
         {
+          "title": "据英国《金融时报》：美国参议员推动700亿美元融资协议，以支持美国总统特朗普的关键矿物议程。",
+          "url": "https://flash.jin10.com/detail/20260204180151298800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
           "title": "特朗普与哥伦比亚总统佩特罗会晤 讨论打击毒品走私",
           "url": "https://flash.jin10.com/detail/20260204024423166800",
           "source": "金十数据",
@@ -373,7 +396,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -678,8 +701,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时51分 ~ 17时53分]"
+          "appearance_count": 11,
+          "time_info": "[06时51分 ~ 18时46分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -690,8 +713,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时32分 ~ 17时53分]"
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 18时46分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -725,8 +748,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时54分 ~ 17时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时54分 ~ 18时46分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -776,8 +799,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时44分 ~ 17时53分]"
+          "appearance_count": 8,
+          "time_info": "[12时44分 ~ 18时46分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
@@ -788,8 +811,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 17时53分]"
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 18时46分]"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -924,7 +947,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         },
@@ -1252,7 +1275,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "2026年首月A股新开492万户，高于2025所有月份，如何看这个数据？",
@@ -1307,11 +1330,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时51分 ~ 17时53分]"
+          "appearance_count": 4,
+          "time_info": "[15时51分 ~ 18时46分]"
         },
         {
           "title": "A股白酒股再度拉升，皇台酒业触及涨停，走出5连板，酒鬼酒、贵州茅台、泸州老窖、山西汾酒等跟涨。",
@@ -1444,6 +1468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "近九成投顾看涨A股2026年全年行情",
+          "url": "https://www.toutiao.com/trending/7602428736499761202/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         }
       ]
     },
@@ -1499,11 +1534,12 @@
           "source": "微博",
           "ranks": [
             7,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时46分]"
         },
         {
           "title": "精准逃顶后拟反手做多 富达基金经理看好金价回调买入机会",
@@ -1523,7 +1559,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
         }
@@ -1617,11 +1653,12 @@
           "url": "https://www.cls.cn/detail/2280475",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时53分 ~ 18时46分]"
         }
       ]
     }
