@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T21:12:57.697423+08:00",
-  "total_titles_processed": 1860,
+  "generated_at": "2026-02-04T22:46:24.665027+08:00",
+  "total_titles_processed": 1998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 67,
       "titles": [
         {
           "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
@@ -92,6 +92,39 @@
           "time_info": "[01时01分 ~ 06时51分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://www.toutiao.com/trending/7603003215299149878/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "特朗普称同哥伦比亚总统的会晤“非常好” 哥总统：绝不接受胁迫",
           "url": "https://wallstreetcn.com/livenews/3049732",
           "source": "华尔街见闻-快讯",
@@ -101,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.douyin.com/hot/2389904",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
@@ -359,6 +403,17 @@
           "time_info": "15时51分"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "美国总统特朗普将于美东时间16:30签署（众议院移交的）政府拨款法案。",
           "url": "https://wallstreetcn.com/livenews/3049331",
           "source": "华尔街见闻-快讯",
@@ -491,6 +546,17 @@
           "time_info": "05时47分"
         },
         {
+          "title": "美国边境事务负责人霍曼：美国总统特朗普打算实施大规模驱逐出境，移民执法将每天持续进行。",
+          "url": "https://flash.jin10.com/detail/20260204221323459800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "特朗普称普京兑现了“能源停火”承诺",
           "url": "https://wallstreetcn.com/livenews/3049533",
           "source": "华尔街见闻-快讯",
@@ -500,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "美国副总统万斯：确认总统特朗普关于关键矿物“价格地板”的提议。",
+          "url": "https://wallstreetcn.com/livenews/3049943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "在特朗普签署政府拨款法案现场，没有一位记者向特朗普提问关于今日悬挂美国国旗油轮遭扣押未遂及伊朗沙赫德-139无人机被击落的事件。",
@@ -692,7 +769,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -703,8 +780,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时51分 ~ 21时12分]"
+          "appearance_count": 15,
+          "time_info": "[06时51分 ~ 22时46分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -715,8 +792,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时32分 ~ 21时12分]"
+          "appearance_count": 13,
+          "time_info": "[10时32分 ~ 22时46分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -729,8 +806,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时54分 ~ 21时12分]"
+          "appearance_count": 10,
+          "time_info": "[13时54分 ~ 22时46分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -765,8 +842,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时44分 ~ 21时12分]"
+          "appearance_count": 12,
+          "time_info": "[12时44分 ~ 22时46分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -829,6 +906,28 @@
           "time_info": "03时09分"
         },
         {
+          "title": "美股黄金股上涨，纽蒙特矿业(NEM.N)涨2.3%，巴里克黄金(GOLD.N)涨1.9%。",
+          "url": "https://flash.jin10.com/detail/20260204223418245800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "现货黄金短线从5037美元附近跳水，逼近4967美元，日内整体涨幅迅速收窄至0.5%。 现货白银回落至89美元一线，目前涨4.6%，美股盘前还曾涨至92.2043美元。",
+          "url": "https://wallstreetcn.com/livenews/3049959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
           "url": "https://wallstreetcn.com/livenews/3049338",
           "source": "华尔街见闻-快讯",
@@ -889,6 +988,28 @@
           "time_info": "[06时51分 ~ 07时34分]"
         },
         {
+          "title": "美股地区银行指数创盘中历史新高，一度涨约2%，至140.77点——突破2022年1月18日顶部140.11点。",
+          "url": "https://wallstreetcn.com/livenews/3049957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "AMD(AMD.O)美股盘后跌超4.5%。",
           "url": "https://flash.jin10.com/detail/20260204051829095800",
           "source": "金十数据",
@@ -909,6 +1030,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "美股开盘，道指涨0.17%，标普500指数涨0.1%，纳指跌0.16%。AMD(AMD.O)大跌11%，公司预计第一季度营收将小幅下滑。超微电脑(SMCI.O)大涨10%，公司上调年度营收预期。",
+          "url": "https://flash.jin10.com/detail/20260204223022747800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "美股减肥药概念股周二哀鸿遍野，诺和诺德发布了最新业绩报告。 诺和诺德ADR收跌14.64%，硕迪生物跌6.75%，Goodrx跌5.26%，礼来跌3.9%，平价减肥药供应商Hims & Hers跌3.4%，辉瑞制药跌3.34%，阿斯利康跌2.17%，制药ETF跌1.86%，Viking Therapeutics跌1.7%，福泰制药跌1.36%，渤健BIIB跌1.3%。",
@@ -953,6 +1085,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "区域银行ETF涨2.47%，银行业ETF涨1.91%，能源业ETF涨1.34%，领跑美股行业ETF，半导体ETF跌1.71%。",
+          "url": "https://wallstreetcn.com/livenews/3049948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "美股爆发AI恐慌性抛售",
@@ -1010,13 +1153,24 @@
           "time_info": "05时47分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3049937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "优步第一季度预计调整后EBITDA为23.7亿至24.7亿美元，市场预期为24.5亿美元。 第一季度预计总预订额为520亿至535亿美元，市场预期为513.7亿美元。 第四季度营收为143.7亿美元，同比增长20%，市场预期为142.9亿美元。 第四季度调整后EBITDA为24.9亿美元，同比增长35%，市场预期为24.8亿美元。 第四季度每股收益为0.14美元，去年同期为3.21美元。 第四季度净利润为2.96亿美元，同比下降96%。 优步美股盘前跌近9%。",
           "url": "https://wallstreetcn.com/livenews/3049864",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -1049,7 +1203,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         }
@@ -1057,7 +1211,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
@@ -1264,6 +1418,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "亚马逊讨论接入OpenAI技术的特殊渠道。 亚马逊可能会在自家Alexa采用定制的OpenAI模型。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3049936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
           "url": "https://flash.jin10.com/detail/20260204033202172800",
           "source": "金十数据",
@@ -1300,7 +1465,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "2026年首月A股新开492万户，高于2025所有月份，如何看这个数据？",
@@ -1338,6 +1503,18 @@
           "time_info": "15时01分"
         },
         {
+          "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
+          "url": "https://www.cls.cn/detail/2280661",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 22时46分]"
+        },
+        {
           "title": "A股煤炭板块午后进一步走强，潞安环能、宝泰隆、山西焦化、中煤能源、陕西黑猫、兖矿能源等近10股涨停。",
           "url": "https://wallstreetcn.com/livenews/3049590",
           "source": "华尔街见闻-快讯",
@@ -1363,17 +1540,6 @@
           "time_info": "[15时51分 ~ 18时46分]"
         },
         {
-          "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
-          "url": "https://www.cls.cn/detail/2280661",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
           "title": "A股白酒股再度拉升，皇台酒业触及涨停，走出5连板，酒鬼酒、贵州茅台、泸州老窖、山西汾酒等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3049468",
           "source": "华尔街见闻-快讯",
@@ -1383,6 +1549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "媒体：A股交易生态巨变",
+          "url": "https://www.toutiao.com/trending/7602973150476766746/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-02-04）",
@@ -1520,7 +1697,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -1544,7 +1721,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -1555,7 +1732,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时12分"
         },
@@ -1621,6 +1798,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "世界黄金协会：黄金价格波动不小，与股票的表现存在不对称性",
+          "url": "https://flash.jin10.com/detail/20260204221245663800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
@@ -1724,11 +1912,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时53分 ~ 21时12分]"
+          "appearance_count": 6,
+          "time_info": "[17时53分 ~ 22时46分]"
         }
       ]
     }
