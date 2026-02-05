@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T21:14:34.236709+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2026-02-05T22:50:54.529342+08:00",
+  "total_titles_processed": 1920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时53分 ~ 21时14分]"
+          "appearance_count": 21,
+          "time_info": "[01时53分 ~ 22时50分]"
         },
         {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
@@ -134,7 +134,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
         },
@@ -272,6 +272,18 @@
           "time_info": "[05时39分 ~ 07时34分]"
         },
         {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 22时50分]"
+        },
+        {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
           "url": "https://flash.jin10.com/detail/20260205021201236800",
           "source": "金十数据",
@@ -332,17 +344,6 @@
           "time_info": "[01时54分 ~ 02时59分]"
         },
         {
-          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
-          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
           "title": "特朗普：我提名的美联储主席沃什希望降低利率",
           "url": "https://wallstreetcn.com/livenews/3050075",
           "source": "华尔街见闻-快讯",
@@ -393,9 +394,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗正在谈判。",
+          "url": "https://flash.jin10.com/detail/20260205221446756800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "据Politico：美国众议院议长约翰逊计划今天下午会见美国总统特朗普。",
@@ -418,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "美国联邦住房金融局局长：没有在积极考虑“特朗普房”这个想法",
@@ -448,9 +471,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
+        },
+        {
+          "title": "美国总统特朗普：重申与委内瑞拉相处得非常好。",
+          "url": "https://wallstreetcn.com/livenews/3050730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
@@ -462,12 +496,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国总统特朗普再次抨击欧洲使用风能发电的行为。",
+          "url": "https://flash.jin10.com/detail/20260205221032241800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美国总统特朗普重申对国土安全部部长诺姆的支持。",
+          "url": "https://flash.jin10.com/detail/20260205220826755800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 35,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -544,6 +600,39 @@
           "time_info": "[07时34分 ~ 15时13分]"
         },
         {
+          "title": "美股开盘，道指跌0.55%，标普500指数跌0.87%，纳指跌1.3%。Alphabet(GOOG.O)跌6.6%，公司2026年资本支出指引远超预期。蔚来汽车(NIO.N)涨7.9%，公司预计Q4将首次实现单季度盈利。叮咚买菜(DDL.N)跌12%，美团拟7.17亿美元收购叮咚买菜。",
+          "url": "https://flash.jin10.com/detail/20260205223029069800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "可选消费ETF跌1.39%，能源业ETF跌1.15%，网络股指数ETF跌1.05%，科技行业ETF跌0.59%，在美股盘初领跌行业ETF，生物科技指数ETF涨0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3050756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美股盘前三大股指齐跌，纳指期货跌逾1%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
           "url": "https://www.cls.cn/detail/2281312",
           "source": "财联社热门",
@@ -618,6 +707,18 @@
           "time_info": "[05时39分 ~ 06时35分]"
         },
         {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 22时50分]"
+        },
+        {
           "title": "周三（2月4日）美股尾盘，彭博电动汽车价格回报指数涨0.65%，报3533.63点。 该指数全天处于上涨状态，整体呈现出“几”形走势，北京时间14:00-00:00高位震荡，最高在美股盘初达到3561.87点。 成分股宝马收涨3.88%，Ola Electric Mobility Ltd.涨3.6%，意法半导体收涨3.6%，保时捷P911涨3.5%，理想汽车H股收涨3.43%，浙江零跑科技H股收涨2.88%表现第六，智利化工矿业公司（SQM）则跌5.3%，MP材料跌6.2%，文远知行跌7.2%，Solid Power跌9.5%。",
           "url": "https://wallstreetcn.com/livenews/3050096",
           "source": "华尔街见闻-快讯",
@@ -628,6 +729,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时35分]"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "美股半导体和芯片设备股票盘前上涨，因Alphabet(GOOG.O)表示其2026年的资本支出可能翻一番。博通(AVGO.O)涨5%，AMD(AMD.O)、英伟达(NVDA.O)涨超2%。",
@@ -740,17 +852,6 @@
           "time_info": "18时49分"
         },
         {
-          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
-          "url": "https://www.zhihu.com/question/2002675555208803379",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
-        },
-        {
           "title": "美股收盘：纳指跌1.5% AMD大跌17%",
           "url": "https://flash.jin10.com/detail/20260205050057305800",
           "source": "金十数据",
@@ -815,12 +916,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "诺和诺德ADR美股盘前跌6.3%，报道称“平价医药供应商”Hims & Hers提供49美元的Wegovy仿制药。 礼来制药盘前下跌。",
+          "url": "https://wallstreetcn.com/livenews/3050723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -858,8 +970,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 21时14分]"
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 22时50分]"
         },
         {
           "title": "沪指跌幅扩大至1%，创业板指跌超2%，深成指跌1.73%，贵金属、光伏、半导体芯片、电网设备等方向跌幅居前，沪深京三市下跌个股近3500只。",
@@ -919,6 +1031,18 @@
           "time_info": "[01时53分 ~ 04时41分]"
         },
         {
+          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
+          "url": "https://wallstreetcn.com/articles/3765013",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 22时50分]"
+        },
+        {
           "title": "记者获悉，小红书对部分“基金实时估值博主”实施了禁言处理。（上证报）",
           "url": "https://wallstreetcn.com/livenews/3050374",
           "source": "华尔街见闻-快讯",
@@ -941,6 +1065,17 @@
           "time_info": "15时13分"
         },
         {
+          "title": "A股春节休市安排来了",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%98%A5%E8%8A%82%E4%BC%91%E5%B8%82%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "A股大消费板块集体走强，美容护理、旅游、食品、零售、影视等方向纷纷拉升，拉芳家化、安记食品、海欣食品、红棉股份、杭州解百、浙文影业、横店影视等多股涨停。",
           "url": "https://wallstreetcn.com/livenews/3050266",
           "source": "华尔街见闻-快讯",
@@ -961,17 +1096,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
-          "url": "https://wallstreetcn.com/articles/3765013",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时14分"
         },
         {
           "title": "A股电网设备股持续走弱，金盘科技跌超10%，此前四方股份跌停，伊戈尔、三变科技、白云电器、中国西电、保变电气等多股跌超7%。",
@@ -1082,6 +1206,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "A股春节休市安排来了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%98%A5%E8%8A%82%E4%BC%91%E5%B8%82%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI正在为其咨询团队招聘数百名员工。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3050279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "据The Information：OpenAI正在招聘数百名“前沿部署工程师”以赢得大型企业业务。",
+          "url": "https://flash.jin10.com/detail/20260205101900383800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "OpenAI推出OpenAI Frontier。",
+          "url": "https://flash.jin10.com/detail/20260205221051792800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260205013400830800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         }
       ]
     },
@@ -1131,48 +1316,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI正在为其咨询团队招聘数百名员工。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3050279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "据The Information：OpenAI正在招聘数百名“前沿部署工程师”以赢得大型企业业务。",
-          "url": "https://flash.jin10.com/detail/20260205101900383800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
-          "url": "https://flash.jin10.com/detail/20260205013400830800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
         }
       ]
     },
@@ -1228,11 +1374,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 21时14分]"
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 22时50分]"
         }
       ]
     },
