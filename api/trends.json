@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-02-06T01:54:51.354575+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-02-06T02:58:07.516821+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
+          "url": "https://wallstreetcn.com/livenews/3050842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时58分]"
+        },
+        {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 02时58分]"
+        },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于美东时间19:00揭晓TrumpRX。",
           "url": "https://wallstreetcn.com/livenews/3050787",
@@ -20,15 +54,15 @@
           "time_info": "[00时57分 ~ 01时54分]"
         },
         {
-          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
-          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
-          "source": "凤凰网",
+          "title": "唐宁街发言人：英国首相斯塔默与美国总统特朗普一致认为，达成一项协议以确保在迪戈加西亚岛建立英美联合基地至关重要，而该基地对双方共同的安全利益依然至关重要。",
+          "url": "https://flash.jin10.com/detail/20260206022526998800",
+          "source": "金十数据",
           "ranks": [
-            11
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
@@ -53,6 +87,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "美国总统特朗普：与英国首相斯塔默讨论（印度洋）Diego Garcia岛屿问题，磋商富有成效。 美方保留在Diego Garcia动用武力来保持美国存在感的权利。 不会允许岛上的军事基地遭到破坏。 我理解，首相斯塔默（面对我的威胁）竭尽所能地达成了一份协议。 如果协议失败，美国可能会“保护”Diago Garcia。",
+          "url": "https://wallstreetcn.com/livenews/3050825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
           "title": "贝森特：是否起诉沃什由特朗普决定，称“起诉”言论只是玩笑",
           "url": "https://wallstreetcn.com/livenews/3050778",
           "source": "华尔街见闻-快讯",
@@ -64,15 +109,15 @@
           "time_info": "00时57分"
         },
         {
-          "title": "沃什未上任已被特朗普施压",
-          "url": "https://www.douyin.com/hot/2390169",
-          "source": "抖音",
+          "title": "特朗普：完全支持欧尔班再次担任匈牙利总理",
+          "url": "https://flash.jin10.com/detail/20260206021727047800",
+          "source": "金十数据",
           "ranks": [
-            17
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "02时58分"
         },
         {
           "title": "贝森特：特朗普向IRS索赔的100亿美元可能会来自美国纳税人",
@@ -81,7 +126,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -117,6 +162,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "特朗普：已就迪戈加西亚岛问题与斯塔默交谈 保留军事手段的权利",
+          "url": "https://flash.jin10.com/detail/20260206020251009800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
+          "url": "https://flash.jin10.com/detail/20260206020145026800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         }
       ]
     },
@@ -132,8 +199,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时58分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -143,8 +210,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时58分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
@@ -153,7 +220,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -164,7 +231,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
         },
@@ -176,8 +243,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时58分]"
         },
         {
           "title": "美股",
@@ -185,11 +252,12 @@
           "source": "微博",
           "ranks": [
             22,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时58分]"
         },
         {
           "title": "美股三大指数集体低开 纳指跌超1%",
@@ -200,76 +268,48 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "A股2026年春节休市安排公布",
-          "url": "https://www.cls.cn/detail/2281758",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
-        },
-        {
-          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
-          "url": "https://wallstreetcn.com/articles/3765013",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
-        },
-        {
-          "title": "A股春节休市安排来了",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%98%A5%E8%8A%82%E4%BC%91%E5%B8%82%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
-        },
-        {
-          "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
-          "url": "https://wallstreetcn.com/livenews/3050816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时54分"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时58分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI推出新平台Frontier，助力企业部署“AI同事”",
           "url": "https://wallstreetcn.com/livenews/3050813",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 02时58分]"
+        },
+        {
+          "title": "OpenAI创始人Altman：GPT-5.3-Codex来了！ 它拥有最佳编码性能，任务执行过程中的可操控性和实时更新功能，对于相同任务处理量，它仅需5.2-Codex一半的tokens，单 token处理速度提升25%以上，此外，它将能高效利用计算机资源。",
+          "url": "https://wallstreetcn.com/livenews/3050836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "02时58分"
+        },
+        {
+          "title": "OpenAI：GPT-5.3-Codex正式发布",
+          "url": "https://flash.jin10.com/detail/20260206022204665800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：今天晚些时候，Codex用户将迎来重大折扣。你只需去创造事物即可。",
@@ -285,6 +325,59 @@
       ]
     },
     {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "A股2026年春节休市安排公布",
+          "url": "https://www.cls.cn/detail/2281758",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时58分]"
+        },
+        {
+          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
+          "url": "https://wallstreetcn.com/articles/3765013",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时58分]"
+        },
+        {
+          "title": "A股春节休市安排来了",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%98%A5%E8%8A%82%E4%BC%91%E5%B8%82%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时58分]"
+        },
+        {
+          "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
+          "url": "https://wallstreetcn.com/livenews/3050816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 02时58分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "牛散 游资",
       "match_count": 1,
       "titles": [
@@ -296,8 +389,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 02时58分]"
         }
       ]
     }
