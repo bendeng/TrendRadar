@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T06:34:24.293611+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-02-06T07:30:42.363710+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时30分]"
+        },
+        {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 07时30分]"
         },
         {
           "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
@@ -93,18 +106,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时41分 ~ 05时36分]"
-        },
-        {
-          "title": "沃什未上任已被特朗普施压",
-          "url": "https://www.douyin.com/hot/2390169",
-          "source": "抖音",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 02时58分]"
         },
         {
           "title": "美国白宫：（就伊朗问题）特朗普除了外交手段外还有许多其他选择。",
@@ -343,7 +344,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -361,11 +362,12 @@
           "url": "https://www.cls.cn/detail/2282073",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时30分]"
         },
         {
           "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
@@ -374,11 +376,26 @@
           "ranks": [
             9,
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时30分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            24,
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时30分]"
         },
         {
           "title": "美股三大指数集体低开 纳指跌超1%",
@@ -390,20 +407,6 @@
             14,
             22,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时34分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            24,
-            30,
-            21
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -442,6 +445,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时34分]"
+        },
+        {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
+        },
+        {
+          "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
+          "url": "https://wallstreetcn.com/livenews/3050900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时30分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
@@ -490,17 +516,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时36分 ~ 06时34分]"
-        },
-        {
-          "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
-          "url": "https://wallstreetcn.com/livenews/3050900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时34分"
         }
       ]
     },
@@ -594,8 +609,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时30分]"
         },
         {
           "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
@@ -603,11 +618,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时30分]"
         },
         {
           "title": "A股春节休市安排来了",
@@ -620,8 +636,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时30分]"
         },
         {
           "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
@@ -666,6 +682,23 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "贵金属价格剧烈波动，上期所再度对黄金、白银等期货提保扩板",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32543462",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "牛散 游资",
       "match_count": 1,
       "titles": [
@@ -674,11 +707,12 @@
           "url": "https://www.cls.cn/detail/2281748",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时57分 ~ 07时30分]"
         }
       ]
     }
