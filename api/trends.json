@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T19:39:53.696148+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2026-02-05T21:14:34.236709+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时57分 ~ 19时39分]"
+          "appearance_count": 21,
+          "time_info": "[00时57分 ~ 21时14分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时53分 ~ 19时39分]"
+          "appearance_count": 20,
+          "time_info": "[01时53分 ~ 21时14分]"
         },
         {
           "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
@@ -126,6 +126,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时34分]"
+        },
+        {
+          "title": "据CNN：美国总统特朗普将于当地时间5日推出TruMPRx药品定价网站。",
+          "url": "https://flash.jin10.com/detail/20260205211058930800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
@@ -321,6 +332,17 @@
           "time_info": "[01时54分 ~ 02时59分]"
         },
         {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "特朗普：我提名的美联储主席沃什希望降低利率",
           "url": "https://wallstreetcn.com/livenews/3050075",
           "source": "华尔街见闻-快讯",
@@ -363,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
+        },
+        {
+          "title": "特朗普建“金库”：欲囤货银、铜等关键矿产丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260205210036976800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "据Politico：美国众议院议长约翰逊计划今天下午会见美国总统特朗普。",
@@ -409,6 +442,17 @@
           "time_info": "12时53分"
         },
         {
+          "title": "英国央行：特朗普关税对英国进口价格构成压力。",
+          "url": "https://wallstreetcn.com/livenews/3050656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
           "url": "https://flash.jin10.com/detail/20260204233806408800",
           "source": "金十数据",
@@ -423,7 +467,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -696,6 +740,17 @@
           "time_info": "18时49分"
         },
         {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "美股收盘：纳指跌1.5% AMD大跌17%",
           "url": "https://flash.jin10.com/detail/20260205050057305800",
           "source": "金十数据",
@@ -765,7 +820,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -795,6 +850,18 @@
           "time_info": "[00时57分 ~ 06时35分]"
         },
         {
+          "title": "A股2026年春节休市安排公布",
+          "url": "https://www.cls.cn/detail/2281758",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 21时14分]"
+        },
+        {
           "title": "沪指跌幅扩大至1%，创业板指跌超2%，深成指跌1.73%，贵金属、光伏、半导体芯片、电网设备等方向跌幅居前，沪深京三市下跌个股近3500只。",
           "url": "https://wallstreetcn.com/livenews/3050276",
           "source": "华尔街见闻-快讯",
@@ -804,17 +871,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
-        },
-        {
-          "title": "A股2026年春节休市安排公布",
-          "url": "https://www.cls.cn/detail/2281758",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         },
         {
           "title": "A股证券板块短线拉升，华林证券涨超8%，华鑫股份、国盛证券、中信建投、兴业证券、首创证券跟涨。",
@@ -905,6 +961,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
+          "url": "https://wallstreetcn.com/articles/3765013",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "A股电网设备股持续走弱，金盘科技跌超10%，此前四方股份跌停，伊戈尔、三变科技、白云电器、中国西电、保变电气等多股跌超7%。",
@@ -1019,47 +1086,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI正在为其咨询团队招聘数百名员工。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3050279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "据The Information：OpenAI正在招聘数百名“前沿部署工程师”以赢得大型企业业务。",
-          "url": "https://flash.jin10.com/detail/20260205101900383800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时34分"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
-          "url": "https://flash.jin10.com/detail/20260205013400830800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价巨震之下，水贝难寻金条现货|传真",
@@ -1095,6 +1123,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时52分 ~ 16时53分]"
+        },
+        {
+          "title": "摩根大通：预计今年官方净购金量将达到800吨，仍比2022年前高出70%。 今年央行和投资者的需求足以最终在2026年底将金价推高至每盎司6300美元。 预计近期银价有更高的底部（未来几个季度约为每盎司75-80美元）。 到明年初，银价最终将平均回升至每盎司90美元左右。",
+          "url": "https://wallstreetcn.com/livenews/3050662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI正在为其咨询团队招聘数百名员工。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3050279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "据The Information：OpenAI正在招聘数百名“前沿部署工程师”以赢得大型企业业务。",
+          "url": "https://flash.jin10.com/detail/20260205101900383800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260205013400830800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         }
       ]
     },
@@ -1149,11 +1227,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 19时39分]"
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 21时14分]"
         }
       ]
     },
@@ -1170,8 +1249,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时52分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[16时52分 ~ 21时14分]"
         }
       ]
     }
