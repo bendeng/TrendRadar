@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T13:07:46.412676+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-02-11T15:09:54.214587+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -19,6 +19,17 @@
           "time_info": "[01时08分 ~ 07时43分]"
         },
         {
+          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
+          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 15时09分]"
+        },
+        {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
           "url": "https://news.ifeng.com/c/8qdLiMlCmog",
           "source": "凤凰网",
@@ -30,24 +41,13 @@
           "time_info": "[01时08分 ~ 07时43分]"
         },
         {
-          "title": "美军“导弹已上膛”，特朗普再对伊朗发出威胁",
-          "url": "https://news.ifeng.com/c/8qeNbE9tmAI",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 13时07分]"
-        },
-        {
           "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
           "url": "https://flash.jin10.com/detail/20260211122756306800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
@@ -185,6 +185,29 @@
           "time_info": "[03时14分 ~ 04时53分]"
         },
         {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 15时09分]"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 15时09分]"
+        },
+        {
           "title": "美国总统特朗普：美国应当拥有世界上最低的利率。 我们的利率应该比当前水平低2个点（即200个百分点）。",
           "url": "https://wallstreetcn.com/livenews/3053255",
           "source": "华尔街见闻-快讯",
@@ -198,34 +221,12 @@
           "time_info": "[05时50分 ~ 07时43分]"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 13时07分]"
-        },
-        {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
           "url": "https://www.cls.cn/detail/2286509",
           "source": "财联社热门",
           "ranks": [
             7,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 13时07分]"
-        },
-        {
-          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
-          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
-          "source": "凤凰网",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -302,6 +303,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时53分]"
+        },
+        {
+          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
+          "url": "https://www.cls.cn/detail/2286531",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 15时09分]"
         },
         {
           "title": "内塔尼亚胡将向特朗普提供有关伊朗军事能力的新情报",
@@ -400,6 +413,17 @@
           "time_info": "[06时48分 ~ 07时43分]"
         },
         {
+          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
+          "url": "https://news.ifeng.com/c/8qeou7377qN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "市场消息：美国总统特朗普指示美国国防部购买煤炭，以振兴该行业。",
           "url": "https://flash.jin10.com/detail/20260211101457510800",
           "source": "金十数据",
@@ -409,17 +433,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
-        },
-        {
-          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
-          "url": "https://www.cls.cn/detail/2286531",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
         },
         {
           "title": "美国白宫：特朗普将于明日在白宫与以色列总理内塔尼亚胡举行双边会晤。",
@@ -472,7 +485,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
@@ -538,7 +551,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
@@ -598,11 +611,12 @@
           "url": "https://wallstreetcn.com/articles/3765438",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时48分 ~ 13时07分]"
+          "appearance_count": 3,
+          "time_info": "[10时48分 ~ 15时09分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -614,8 +628,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 13时07分]"
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 15时09分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -678,6 +692,18 @@
           "time_info": "[05时50分 ~ 07时43分]"
         },
         {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 15时09分]"
+        },
+        {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260211050700949800",
           "source": "金十数据",
@@ -700,6 +726,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时48分]"
+        },
+        {
+          "title": "罗杰斯为何清空美股死守金银铜",
+          "url": "https://www.toutiao.com/trending/7605434410879421993/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 15时09分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 西部数据跌8%",
@@ -726,17 +764,6 @@
           "time_info": "[06时48分 ~ 07时43分]"
         },
         {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
           "title": "美股1月日均成交额突破1万亿美元",
           "url": "https://flash.jin10.com/detail/20260211005235441800",
           "source": "金十数据",
@@ -748,17 +775,6 @@
           "time_info": "01时08分"
         },
         {
-          "title": "罗杰斯为何清空美股死守金银铜",
-          "url": "https://www.toutiao.com/trending/7605434410879421993/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
           "title": "周二（2月10日）美股尾盘，彭博电动汽车价格回报指数涨0.70%，报3616.33点。 亚太盘初至美股开盘持稳于3600点附近——维持微幅上涨状态，之后一度加速走高。",
           "url": "https://wallstreetcn.com/livenews/3053236",
           "source": "华尔街见闻-快讯",
@@ -768,6 +784,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "创业板指震荡跌超1%，全市场成交约2万亿",
+          "url": "https://wallstreetcn.com/livenews/3053512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "上证指数收报4131.98点，涨0.09%。 深证成指收报14160.93点，跌0.35%。 创业板指收报3284.74点，跌1.08%。 沪深300收报4713.82点，跌0.22%。 科创50收报1455.11点，跌1.11%。 中证500收报8325.81点，涨0.23%。 中证1000收报8239.51点，跌0.13%。",
+          "url": "https://wallstreetcn.com/livenews/3053510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "创业板指日内跌幅扩大至1%，CPO、文化传媒等板块跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3053380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "杰富瑞将比亚迪A股评级从落后大盘上调至持有，目标价88元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3053420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "上证指数早盘收报4137.55点，涨0.22%。 深证成指早盘收报14200.38点，跌0.07%。 创业板指早盘收报3290.41点，跌0.91%。 沪深300早盘收报4717.41点，跌0.15%。 科创50早盘收报1458.93点，跌0.85%。 中证500早盘收报8361.97点，涨0.67%。 中证1000早盘收报8278.80点，涨0.35%。",
+          "url": "https://wallstreetcn.com/livenews/3053419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "2月11日午间收评：创业板指半日跌近1%，玻纤概念股集体大涨",
+          "url": "https://wallstreetcn.com/livenews/3053418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "A股固态电池概念股异动拉升，金龙羽涨超8%，领湃科技、国轩高科、上海洗霸等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3053482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "A股煤炭板块震荡走强，山西焦化午后涨停，兖矿能源、潞安环能、电投能源、昊华能源、云维股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3053471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         }
       ]
     },
@@ -788,6 +898,17 @@
           "time_info": "[01时08分 ~ 07时43分]"
         },
         {
+          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 15时09分]"
+        },
+        {
           "title": "从避险到标配 摩根大通勾勒金价8000美元蓝图",
           "url": "https://flash.jin10.com/detail/20260211064938299800",
           "source": "金十数据",
@@ -799,74 +920,13 @@
           "time_info": "07时43分"
         },
         {
-          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "创业板指日内跌幅扩大至1%，CPO、文化传媒等板块跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3053380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
-          "title": "杰富瑞将比亚迪A股评级从落后大盘上调至持有，目标价88元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3053420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "上证指数早盘收报4137.55点，涨0.22%。 深证成指早盘收报14200.38点，跌0.07%。 创业板指早盘收报3290.41点，跌0.91%。 沪深300早盘收报4717.41点，跌0.15%。 科创50早盘收报1458.93点，跌0.85%。 中证500早盘收报8361.97点，涨0.67%。 中证1000早盘收报8278.80点，涨0.35%。",
-          "url": "https://wallstreetcn.com/livenews/3053419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "2月11日午间收评：创业板指半日跌近1%，玻纤概念股集体大涨",
-          "url": "https://wallstreetcn.com/livenews/3053418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "13时07分"
         }
@@ -874,7 +934,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数10日下跌",
@@ -901,6 +961,17 @@
           "time_info": "[04时53分 ~ 05时50分]"
         },
         {
+          "title": "非农料出现有史以来最大的年度下修 美元指数预计在数据公布前维持震荡",
+          "url": "https://flash.jin10.com/detail/20260211144052804800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.51%，暂报2652.98点。 MarketVectorTM数字资产100中盘指数跌1.02%，报2734.15点。 MarketVector数字资产100指数跌1.60%，报13869.65点。 Solana目前跌3.66%，狗狗币跌3.11%，XRP跌2.52%。 比特币跌1.89%，暂报69373美元；以太坊跌4.56%，暂报2028.89美元。",
           "url": "https://wallstreetcn.com/livenews/3053171",
           "source": "华尔街见闻-快讯",
@@ -915,18 +986,30 @@
     },
     {
       "keyword_group": "主力资金 开源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "主力资金流向前十大个股",
           "url": "https://flash.jin10.com/detail/20260211104354298800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            18
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 15时09分]"
+        },
+        {
+          "title": "蚂蚁开源全模态大模型Ming-Flash-Omni 2.0 性能对标Gemini 2.5 Pro",
+          "url": "https://wallstreetcn.com/livenews/3053495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "15时09分"
         }
       ]
     },
