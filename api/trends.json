@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T17:37:49.606537+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-02-14T18:33:56.830128+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,17 @@
           "time_info": "[04时46分 ~ 13时50分]"
         },
         {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时31分 ~ 18时33分]"
+        },
+        {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
@@ -53,15 +64,16 @@
           "time_info": "[00时55分 ~ 15时38分]"
         },
         {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
           "ranks": [
-            9
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时31分 ~ 17时37分]"
+          "time_info": "[12时45分 ~ 18时33分]"
         },
         {
           "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
@@ -76,18 +88,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时31分 ~ 17时37分]"
-        },
-        {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时45分 ~ 17时37分]"
         },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -202,17 +202,6 @@
           "time_info": "[03时48分 ~ 10时31分]"
         },
         {
-          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
-          "url": "https://flash.jin10.com/detail/20260214165909253800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
           "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
           "url": "https://www.cls.cn/detail/2290112",
           "source": "财联社热门",
@@ -223,17 +212,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时45分 ~ 15时38分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
-          "url": "https://flash.jin10.com/detail/20260214165831489800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
@@ -288,6 +266,17 @@
           "time_info": "[01时43分 ~ 03时48分]"
         },
         {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 18时33分]"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯想要达成协议，乌克兰总统泽连斯基必须行动起来。",
           "url": "https://wallstreetcn.com/livenews/3055317",
           "source": "华尔街见闻-快讯",
@@ -314,6 +303,18 @@
           "time_info": "[05时42分 ~ 07时37分]"
         },
         {
+          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
+          "url": "https://flash.jin10.com/detail/20260214165909253800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时33分]"
+        },
+        {
           "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
           "url": "https://wallstreetcn.com/livenews/3055316",
           "source": "华尔街见闻-快讯",
@@ -327,6 +328,31 @@
           "time_info": "[01时43分 ~ 03时48分]"
         },
         {
+          "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
+          "url": "https://wallstreetcn.com/livenews/3055491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时33分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
+          "url": "https://flash.jin10.com/detail/20260214165831489800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时33分]"
+        },
+        {
           "title": "特朗普证实美军将向中东地区派出第二艘航母",
           "url": "https://wallstreetcn.com/livenews/3055352",
           "source": "华尔街见闻-快讯",
@@ -337,29 +363,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时42分]"
-        },
-        {
-          "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
-          "url": "https://wallstreetcn.com/livenews/3055491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时37分]"
-        },
-        {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 17时37分]"
         },
         {
           "title": "特朗普称将访问委内瑞拉",
@@ -708,8 +711,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时37分 ~ 17时37分]"
+          "appearance_count": 11,
+          "time_info": "[07时37分 ~ 18时33分]"
         },
         {
           "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
@@ -799,6 +802,19 @@
           "time_info": "[06时39分 ~ 07时37分]"
         },
         {
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时33分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周五（2月13日），美国科技股七巨头（Magnificent 7）指数跌1.34%，报192.61点，本周累计下跌3.61%，整体持续走低。 亚马逊连续九个交易日下跌，创2006年以来最长连跌天数。 “超大”市值科技股指数跌0.75%，报364.30点，本周累跌2.65%。",
           "url": "https://wallstreetcn.com/livenews/3055367",
           "source": "华尔街见闻-快讯",
@@ -809,18 +825,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时39分]"
-        },
-        {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时37分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.10%，报7591.86点，本周累计下跌2.77%，周一至周三高位持稳，周四美股盘初显著下跌，后续低位震荡，整体形成Z形走势。 热门中概股里，新东方初步收跌2.3%，阿里巴巴跌2.1%，小马智行跌2%，理想、京东、比亚迪、百度至多跌1.8%，蔚来大致收平，腾讯涨0.9%，小鹏、文远知行、网易至多涨1.8%，小米涨2.1%，百胜中国涨3.3%。 ETF中，中概互联网指数ETF（KWEB）收平，本周累跌4.44%，延续此前两周先后跌1.44%和3.02%的表现； 中国科技指数ETF（CQQQ）收1.06%，本周累跌1.19%，此前两周先后跌3.39%和3.58%。",
@@ -933,8 +937,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时31分 ~ 17时37分]"
+          "appearance_count": 10,
+          "time_info": "[10时31分 ~ 18时33分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？最新披露",
@@ -942,11 +946,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时50分 ~ 17时37分]"
+          "appearance_count": 7,
+          "time_info": "[13时50分 ~ 18时33分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -972,8 +977,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 17时37分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 18时33分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -983,11 +988,12 @@
             20,
             17,
             15,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 17时37分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 18时33分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -1017,8 +1023,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时45分 ~ 17时37分]"
+          "appearance_count": 9,
+          "time_info": "[12时45分 ~ 18时33分]"
         },
         {
           "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
@@ -1034,6 +1040,19 @@
           "time_info": "[12时46分 ~ 14时55分]"
         },
         {
+          "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
+          "url": "https://flash.jin10.com/detail/20260214160547731800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 18时33分]"
+        },
+        {
           "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
           "url": "https://wallstreetcn.com/livenews/3055377",
           "source": "华尔街见闻-快讯",
@@ -1045,18 +1064,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时42分 ~ 07时37分]"
-        },
-        {
-          "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
-          "url": "https://flash.jin10.com/detail/20260214160547731800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 17时37分]"
         },
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
@@ -1094,11 +1101,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时31分 ~ 17时37分]"
+          "appearance_count": 10,
+          "time_info": "[10时31分 ~ 18时33分]"
         },
         {
           "title": "A股蛇年十大牛股盘点：上纬新材以超25倍涨幅夺魁 商业航天龙头赫然在列",
@@ -1106,11 +1114,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 17时37分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 18时33分]"
         },
         {
           "title": "资金期待A股春节后表现",
