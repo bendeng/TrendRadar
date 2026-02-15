@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T12:59:36.709874+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2026-02-15T14:03:46.614980+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 12时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 14时03分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -94,11 +94,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 14时03分]"
         },
         {
           "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
@@ -108,8 +109,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 14时03分]"
         }
       ]
     },
@@ -182,8 +183,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 12时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 14时03分]"
         }
       ]
     },
@@ -211,8 +212,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 12时59分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 14时03分]"
         }
       ]
     },
