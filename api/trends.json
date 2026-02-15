@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T21:02:50.553906+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-02-15T22:34:02.527916+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时37分 ~ 15时41分]"
+        },
+        {
+          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
+          "url": "https://news.ifeng.com/c/8qlaP330gp4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时37分 ~ 22时34分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -45,15 +56,19 @@
           "time_info": "[10时44分 ~ 19时28分]"
         },
         {
-          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
-          "url": "https://news.ifeng.com/c/8qlaP330gp4",
-          "source": "凤凰网",
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            11,
+            8,
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 21时02分]"
+          "appearance_count": 9,
+          "time_info": "[16时40分 ~ 22时34分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -92,20 +107,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 07时31分]"
-        },
-        {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时40分 ~ 21时02分]"
         },
         {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
@@ -173,11 +174,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时28分 ~ 22时34分]"
         },
         {
           "title": "奥巴马回应被特朗普恶搞成猴",
@@ -217,6 +219,17 @@
           "time_info": "[15时41分 ~ 18时33分]"
         },
         {
+          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        },
+        {
           "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
           "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
           "source": "澎湃新闻",
@@ -227,55 +240,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时28分 ~ 21时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 10时45分]"
         },
         {
-          "title": "DeepSeek“变冷淡”不是翻车",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
-          "source": "百度热搜",
+          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
+          "url": "https://flash.jin10.com/detail/20260215212555860800",
+          "source": "金十数据",
           "ranks": [
-            29,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时28分]"
-        },
-        {
-          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
-          "url": "https://wallstreetcn.com/articles/3765742",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
             6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时28分 ~ 21时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
+          "url": "https://flash.jin10.com/detail/20260215211009575800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -311,12 +303,67 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 10时45分]"
+        },
+        {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 22时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 10时45分]"
+        },
+        {
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 22时34分]"
+        },
+        {
+          "title": "DeepSeek“变冷淡”不是翻车",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时28分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
@@ -341,11 +388,23 @@
             7,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时37分 ~ 21时02分]"
+          "appearance_count": 28,
+          "time_info": "[00时37分 ~ 22时34分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
+          "url": "https://flash.jin10.com/detail/20260215215525567800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     },
