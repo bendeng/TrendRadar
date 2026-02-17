@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T15:54:00.893125+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-02-17T16:55:01.647571+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时36分 ~ 15时54分]"
+          "appearance_count": 8,
+          "time_info": "[10时36分 ~ 16时55分]"
         },
         {
           "title": "据纽约邮报：特朗普称“和平委员会”将商讨如何使用为加沙项目筹集的50亿美元资金。",
@@ -59,6 +59,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时53分 ~ 04时38分]"
+        },
+        {
+          "title": "特朗普与马里兰州州长就管道破裂和污水泄漏的应对措施发生冲突",
+          "url": "https://flash.jin10.com/detail/20260217164530562800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
@@ -238,6 +249,17 @@
           "time_info": "[00时53分 ~ 01时42分]"
         },
         {
+          "title": "特朗普反应低调 日本怕中美搞大动作",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
           "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
           "url": "https://flash.jin10.com/detail/20260216234427683800",
           "source": "金十数据",
@@ -286,7 +308,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -340,6 +362,17 @@
           "time_info": "[05时35分 ~ 06时35分]"
         },
         {
+          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
+          "url": "https://www.cls.cn/detail/2290903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 16时55分]"
+        },
+        {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
           "url": "https://flash.jin10.com/detail/20260216233255611800",
           "source": "金十数据",
@@ -374,11 +407,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时36分 ~ 15时54分]"
+          "appearance_count": 8,
+          "time_info": "[10时36分 ~ 16时55分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -440,8 +474,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 15时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 16时55分]"
         }
       ]
     }
