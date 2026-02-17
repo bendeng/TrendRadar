@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T14:03:13.713285+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-02-17T15:54:00.893125+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 14时03分]"
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 15时54分]"
         },
         {
           "title": "据纽约邮报：特朗普称“和平委员会”将商讨如何使用为加沙项目筹集的50亿美元资金。",
@@ -377,8 +377,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 14时03分]"
+          "appearance_count": 6,
+          "time_info": "[10时36分 ~ 15时54分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -436,11 +436,12 @@
             7,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 14时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 15时54分]"
         }
       ]
     }
