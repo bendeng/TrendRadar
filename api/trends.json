@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T07:35:59.431271+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-02-18T10:40:29.947554+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -23,11 +23,12 @@
           "url": "https://news.ifeng.com/c/8qpSyTc8q0c",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时05分 ~ 07时35分]"
+          "appearance_count": 8,
+          "time_info": "[03时05分 ~ 10时40分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -172,6 +173,17 @@
           "time_info": "[06时38分 ~ 07时35分]"
         },
         {
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "据英国《金融时报》：美国总统特朗普加剧对美国消费者保护机构的攻击。",
           "url": "https://flash.jin10.com/detail/20260218022730380800",
           "source": "金十数据",
@@ -189,7 +201,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -211,7 +223,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -329,8 +341,22 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时26分 ~ 10时40分]"
+        },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
           "url": "https://wallstreetcn.com/articles/3765796",
@@ -343,20 +369,18 @@
           "time_info": "[01时26分 ~ 05时41分]"
         },
         {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 07时35分]"
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
           "url": "https://wallstreetcn.com/articles/3765810",
           "source": "华尔街见闻",
           "ranks": [
@@ -364,7 +388,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "10时40分"
         },
         {
           "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
@@ -373,7 +397,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
@@ -471,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "美股三大股指收涨 贵金属、有色板块跌幅居前",
