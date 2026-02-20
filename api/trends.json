@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T15:09:27.904383+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-02-20T16:51:02.649517+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时51分 ~ 15时09分]"
+          "appearance_count": 8,
+          "time_info": "[10时51分 ~ 16时51分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -28,8 +28,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 15时09分]"
+          "appearance_count": 7,
+          "time_info": "[12时51分 ~ 16时51分]"
+        },
+        {
+          "title": "特朗普开了前所未有的一个会",
+          "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时51分 ~ 16时51分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -44,6 +55,28 @@
           "time_info": "[10时51分 ~ 12时52分]"
         },
         {
+          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
+          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时51分 ~ 16时51分]"
+        },
+        {
+          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
+          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时51分 ~ 16时51分]"
+        },
+        {
           "title": "特朗普赞叹中国仪仗队",
           "url": "https://www.toutiao.com/trending/7607775152985899059/",
           "source": "今日头条",
@@ -55,26 +88,17 @@
           "time_info": "[13时58分 ~ 15时09分]"
         },
         {
-          "title": "特朗普开了前所未有的一个会",
-          "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
-          "source": "凤凰网",
+          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
+          "url": "https://wallstreetcn.com/articles/3765884",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时51分 ~ 15时09分]"
-        },
-        {
-          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
-          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时51分 ~ 15时09分]"
+          "appearance_count": 7,
+          "time_info": "[12时51分 ~ 16时51分]"
         },
         {
           "title": "白宫披露美国与印度尼西亚的协议。 白宫称，2月19日与印尼签署了协议。 美国总统特朗普在华盛顿会见印尼领导人普拉博沃·苏比安托（Prabowo Subianto）。 双方同意围绕盟友关系“采取进一步行动”。",
@@ -88,27 +112,16 @@
           "time_info": "01时58分"
         },
         {
-          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
-          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时51分 ~ 15时09分]"
-        },
-        {
-          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
-          "url": "https://wallstreetcn.com/articles/3765884",
+          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
+          "url": "https://wallstreetcn.com/articles/3765874",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时51分 ~ 15时09分]"
+          "time_info": "[13时58分 ~ 16时51分]"
         },
         {
           "title": "特朗普称奥巴马涉外星人言论泄密",
@@ -266,18 +279,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时58分 ~ 04时39分]"
-        },
-        {
-          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
-          "url": "https://wallstreetcn.com/articles/3765874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 15时09分]"
         },
         {
           "title": "特朗普称美国将开始公布与外星人、不明飞行物相关的文件。",
@@ -994,7 +995,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -1005,8 +1006,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时38分 ~ 15时09分]"
+          "appearance_count": 11,
+          "time_info": "[06时38分 ~ 16时51分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -1033,6 +1034,20 @@
           "time_info": "[01时01分 ~ 05时39分]"
         },
         {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时51分 ~ 16时51分]"
+        },
+        {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
@@ -1042,8 +1057,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 15时09分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 16时51分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1054,8 +1069,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 15时09分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 16时51分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 16时51分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -1069,30 +1095,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 06时39分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 15时09分]"
-        },
-        {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时51分 ~ 15时09分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -1149,6 +1151,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时36分]"
+        },
+        {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
         },
         {
           "title": "AppLovin美股盘后涨6.6%。",
