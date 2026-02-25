@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T16:58:45.796060+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-02-25T18:03:49.006050+08:00",
+  "total_titles_processed": 1459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 88,
+      "match_count": 91,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时00分 ~ 16时58分]"
+          "appearance_count": 16,
+          "time_info": "[02时00分 ~ 18时03分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -130,6 +130,20 @@
           "time_info": "[15时56分 ~ 16时58分]"
         },
         {
+          "title": "特朗普：伊朗正研制能打到美国的导弹",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            20,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时58分 ~ 18时03分]"
+        },
+        {
           "title": "特朗普：伊朗正研制很快打到美国的导弹",
           "url": "https://www.toutiao.com/trending/7610645788871364115/",
           "source": "今日头条",
@@ -186,17 +200,15 @@
           "time_info": "10时38分"
         },
         {
-          "title": "特朗普：伊朗正研制能打到美国的导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%AD%A3%E7%A0%94%E5%88%B6%E8%83%BD%E6%89%93%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
           "ranks": [
-            21,
-            20,
-            16
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时58分 ~ 16时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
@@ -263,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普的政策只利于他本人及其圈子。",
@@ -368,6 +391,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时41分 ~ 07时38分]"
+        },
+        {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 18时03分]"
         },
         {
           "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
@@ -485,6 +520,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
           "url": "https://flash.jin10.com/detail/20260225033140480800",
           "source": "金十数据",
@@ -571,17 +617,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
-        },
-        {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时58分"
         },
         {
           "title": "美国民主党参议员沃伦：我会问任何特朗普提名的美联储人选，他们与特朗普在哪些方面存在分歧。",
@@ -700,7 +735,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -1005,7 +1040,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1065,6 +1100,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时38分 ~ 14时14分]"
+        },
+        {
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。消息面上，津巴布韦暂停了锂精矿和原矿的出口。",
+          "url": "https://flash.jin10.com/detail/20260225173456379800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -1127,6 +1173,18 @@
           "time_info": "[05时41分 ~ 06时39分]"
         },
         {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 18时03分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 AMD大涨超8%",
           "url": "https://flash.jin10.com/detail/20260225050111394800",
           "source": "金十数据",
@@ -1163,17 +1221,6 @@
           "time_info": "[05时41分 ~ 06时39分]"
         },
         {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 16时58分]"
-        },
-        {
           "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3058348",
           "source": "华尔街见闻-快讯",
@@ -1195,6 +1242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "美股锂矿概念股盘前走强，Sigma Lithium涨超8%，美国雅保涨超4%，智利矿业化工、Lithium Argentina AG涨约4%。此前消息称津巴布韦据悉暂停出口锂精矿和原矿。",
+          "url": "https://wallstreetcn.com/livenews/3058780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
@@ -1222,7 +1280,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
@@ -1300,6 +1358,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时56分 ~ 16时58分]"
+        },
+        {
+          "title": "溢价20%仍被抢，逻辑变了？谁在高溢价入局A股定增？哪类行业高溢价？",
+          "url": "https://www.cls.cn/detail/2294528",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "马年首个交易日，A股上市公司回购增持热潮延续",
@@ -1425,6 +1494,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
+          "url": "https://flash.jin10.com/detail/20260225040115362800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "韩女子用ChatGPT策划连环杀人案",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
+          "url": "https://wallstreetcn.com/livenews/3058374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -1460,34 +1568,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
-          "url": "https://flash.jin10.com/detail/20260225040115362800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
-          "url": "https://wallstreetcn.com/livenews/3058374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
         }
       ]
     },
