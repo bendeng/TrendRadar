@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T13:56:59.491329+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-02-27T15:03:54.040526+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -47,6 +47,32 @@
           "time_info": "[01时10分 ~ 07时36分]"
         },
         {
+          "title": "特朗普2026国会演讲全解析",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE2026%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            17,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 15时03分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
           "url": "https://wallstreetcn.com/livenews/3059695",
           "source": "华尔街见闻-快讯",
@@ -72,18 +98,16 @@
           "time_info": "[03时50分 ~ 05时38分]"
         },
         {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
+          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
+          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            16,
-            17,
-            19
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 15时03分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -97,17 +121,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时00分 ~ 04时44分]"
-        },
-        {
-          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
-          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时56分]"
         },
         {
           "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
@@ -156,6 +169,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时00分 ~ 03时50分]"
+        },
+        {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时03分"
         },
         {
           "title": "市场消息：特朗普要求美国最高法院终止对叙利亚移民的保护。",
@@ -361,8 +385,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 15时03分]"
         },
         {
           "title": "Block美股盘后涨22%，该公司计划砍掉将近一半的员工。",
@@ -507,19 +531,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时10分 ~ 13时56分]"
+          "appearance_count": 13,
+          "time_info": "[01时10分 ~ 15时03分]"
         },
         {
           "title": "A股黄金股持续走强，湖南黄金冲击涨停，晓程科技、西部黄金、中金黄金、湖南白银纷纷上扬。",
           "url": "https://wallstreetcn.com/livenews/3060023",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时56分 ~ 15时03分]"
         },
         {
           "title": "上证指数早盘收报4139.53点，跌0.17%。 深证成指早盘收报14405.75点，跌0.68%。 创业板指早盘收报3296.23点，跌1.46%。 沪深300早盘收报4693.19点，跌0.71%。 科创50早盘收报1476.05点，跌0.66%。 中证500早盘收报8573.46点，涨0.19%。 中证1000早盘收报8501.54点，涨0.13%。",
@@ -539,7 +564,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -583,7 +608,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -605,7 +630,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -666,7 +691,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
