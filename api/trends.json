@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T01:26:15.414090+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-03-01T02:41:07.186944+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -15,41 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时26分]"
-        },
-        {
-          "title": "白宫：特朗普彻夜关注伊朗局势 并与内塔尼亚胡通电话",
-          "url": "https://flash.jin10.com/detail/20260301005158714800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "白宫：特朗普彻夜关注伊朗局势，并与内塔尼亚胡通电话",
-          "url": "https://wallstreetcn.com/livenews/3060943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时41分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
           "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时41分]"
         },
         {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
@@ -59,8 +38,53 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时41分]"
+        },
+        {
+          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时41分]"
+        },
+        {
+          "title": "白宫：特朗普彻夜关注伊朗局势 并与内塔尼亚胡通电话",
+          "url": "https://flash.jin10.com/detail/20260301005158714800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "美国副总统万斯、能源部长Wright、财政部长贝森特陪同总统特朗普监督美军与以色列袭击伊朗的过程。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3060964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "白宫：特朗普彻夜关注伊朗局势，并与内塔尼亚胡通电话",
+          "url": "https://wallstreetcn.com/livenews/3060943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 02时41分]"
         },
         {
           "title": "特朗普说美国开始在伊朗实施重大作战行动，美以发动本次袭击的目的是什么？后续还会有哪些行动​？",
@@ -75,15 +99,16 @@
           "time_info": "[00时33分 ~ 01时26分]"
         },
         {
-          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
-          "source": "澎湃新闻",
+          "title": "特朗普和内塔尼亚胡通话",
+          "url": "https://wallstreetcn.com/livenews/3060940",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 02时41分]"
         },
         {
           "title": "特朗普请求美最高法院重审关税裁决",
@@ -97,15 +122,15 @@
           "time_info": "[01时25分 ~ 01时26分]"
         },
         {
-          "title": "特朗普和内塔尼亚胡通话",
-          "url": "https://wallstreetcn.com/livenews/3060940",
-          "source": "华尔街见闻-快讯",
+          "title": "据NBC新闻：美国副总统万斯、美国能源部长赖特、美国财长贝森特与美国总统特朗普一同关注伊朗袭击事件。",
+          "url": "https://flash.jin10.com/detail/20260301020732738800",
+          "source": "金十数据",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时26分"
+          "time_info": "02时41分"
         },
         {
           "title": "美广播机构称正向伊朗境内播放特朗普呼吁政权更迭的内容",
@@ -154,8 +179,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时41分]"
         },
         {
           "title": "金价",
@@ -163,22 +188,24 @@
           "source": "微博",
           "ranks": [
             17,
-            23
+            23,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时41分]"
         },
         {
           "title": "专家：金价极端情况下或到7000美元",
           "url": "https://www.toutiao.com/trending/7611434469627330601/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 00时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时41分]"
         }
       ]
     },
@@ -194,8 +221,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时41分]"
         },
         {
           "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
@@ -205,8 +232,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时41分]"
         },
         {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
@@ -216,8 +243,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时41分]"
         }
       ]
     },
@@ -231,11 +258,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时33分 ~ 02时41分]"
         }
       ]
     }
