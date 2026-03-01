@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T21:46:36.312331+08:00",
-  "total_titles_processed": 1678,
+  "generated_at": "2026-03-01T22:30:51.369810+08:00",
+  "total_titles_processed": 1758,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时59分 ~ 21时46分]"
+          "appearance_count": 14,
+          "time_info": "[12时59分 ~ 22时30分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时47分 ~ 21时46分]"
+          "appearance_count": 15,
+          "time_info": "[10时47分 ~ 22时30分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -72,20 +72,6 @@
           "time_info": "[00时33分 ~ 05时28分]"
         },
         {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时47分 ~ 21时46分]"
-        },
-        {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
           "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
           "source": "澎湃新闻",
@@ -98,6 +84,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时33分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[10时47分 ~ 22时30分]"
         },
         {
           "title": "实时更新丨特朗普认为哈梅内伊已死报道准确",
@@ -131,6 +132,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时26分 ~ 22时30分]"
         },
         {
           "title": "特朗普：伊朗最高领袖哈梅内伊已身亡",
@@ -308,18 +322,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时28分]"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 21时46分]"
         },
         {
           "title": "特朗普称伊朗最高领袖哈梅内伊“已死”",
@@ -926,8 +928,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时33分 ~ 21时46分]"
+          "appearance_count": 27,
+          "time_info": "[00时33分 ~ 22时30分]"
         },
         {
           "title": "ChatGPT周活用户超过9亿",
