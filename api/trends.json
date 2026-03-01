@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T16:38:37.908774+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-03-01T17:36:52.103619+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,20 @@
           "time_info": "[00时33分 ~ 14时59分]"
         },
         {
+          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
+          "url": "https://wallstreetcn.com/articles/3766446",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时47分 ~ 17时36分]"
+        },
+        {
           "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
           "url": "https://wallstreetcn.com/articles/3766399",
           "source": "华尔街见闻",
@@ -43,6 +57,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 05时28分]"
+        },
+        {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时59分 ~ 17时36分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -59,32 +86,6 @@
           "time_info": "[00时33分 ~ 07时28分]"
         },
         {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时47分 ~ 16时38分]"
-        },
-        {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时59分 ~ 16时38分]"
-        },
-        {
           "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
           "url": "https://www.cls.cn/detail/2298666",
           "source": "财联社热门",
@@ -94,8 +95,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时47分 ~ 16时38分]"
+          "appearance_count": 8,
+          "time_info": "[10时47分 ~ 17时36分]"
         },
         {
           "title": "实时更新丨特朗普认为哈梅内伊已死报道准确",
@@ -511,7 +512,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -899,8 +900,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 16时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 17时36分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
@@ -1144,6 +1145,40 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时33分 ~ 07时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金暗盘价格为何跌了",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E6%9A%97%E7%9B%98%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E8%B7%8C%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "地缘冲突对A股影响几何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%B0%E7%BC%98%E5%86%B2%E7%AA%81%E5%AF%B9A%E8%82%A1%E5%BD%B1%E5%93%8D%E5%87%A0%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         }
       ]
     }
