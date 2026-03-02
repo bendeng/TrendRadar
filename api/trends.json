@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-02T07:31:13.509945+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-03-02T10:35:54.890380+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
           "url": "https://wallstreetcn.com/articles/3766454",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 10时35分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -68,11 +69,34 @@
           "url": "https://news.ifeng.com/c/8r9Q9rcc6AT",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时30分 ~ 07时31分]"
+          "appearance_count": 5,
+          "time_info": "[06时30分 ~ 10时35分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜特朗普与内塔尼亚胡肖像被烧毁",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "特朗普：对伊朗的军事行动可能持续四周左右",
+          "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
           "title": "据《大西洋月刊》：美国总统特朗普（就伊朗想谈谈）表示，他们本应该早点这么做。他们本应该尽早提供那些非常实用且易于实施的方案。他们等得太久了。",
@@ -112,6 +136,17 @@
           "time_info": "[00时36分 ~ 03时27分]"
         },
         {
+          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
+          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时30分 ~ 10时35分]"
+        },
+        {
           "title": "据《大西洋月刊》：特朗普对是否长期介入以支持伊朗“抗议活动”态度模糊。",
           "url": "https://flash.jin10.com/detail/20260302001250596800",
           "source": "金十数据",
@@ -145,17 +180,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时27分 ~ 05时29分]"
-        },
-        {
-          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
-          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时30分 ~ 07时31分]"
         },
         {
           "title": "美国总统特朗普：美国已基本摧毁伊朗海军总部。",
@@ -350,6 +374,28 @@
           "time_info": "01时28分"
         },
         {
+          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
+          "url": "https://wallstreetcn.com/articles/3766474",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
+          "url": "https://wallstreetcn.com/articles/3766483",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
           "title": "据《大西洋月刊》：美国总统特朗普表示，伊朗希望对话，他也同意对话。",
           "url": "https://flash.jin10.com/detail/20260302000518361800",
           "source": "金十数据",
@@ -427,6 +473,17 @@
           "time_info": "06时31分"
         },
         {
+          "title": "特朗普称同意与伊朗新领导层对话，伊朗外长称对缓解紧张局势持开放态度，释放了什么信号？双方在盘算什么？",
+          "url": "https://www.zhihu.com/question/2011634675014202149",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
           "title": "特朗普：对伊朗的军事行动可能持续4周",
           "url": "https://flash.jin10.com/detail/20260302043144054800",
           "source": "金十数据",
@@ -495,8 +552,124 @@
       ]
     },
     {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "直击A股港股开盘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BBA%E8%82%A1%E6%B8%AF%E8%82%A1%E5%BC%80%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "机构策略师：A股基本面受扰动有限，顺周期主线有望强化",
+          "url": "https://wallstreetcn.com/livenews/3061271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 06时31分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2415839",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "A股油气股开盘大涨，通源石油、中海油服、中曼石油、准油股份、石化油服、贝肯能源等多股一字涨停，潜能恒信、新锦动力等高开超10%。",
+          "url": "https://wallstreetcn.com/livenews/3061402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "上证指数开盘报4151.80点，跌0.27%。 深证成指开盘报14327.65点，跌1.16%。 创业板指开盘报3257.05点，跌1.61%。 沪深300开盘报4681.01点，跌0.63%。 科创50开盘报1459.78点，跌1.90%。 中证500开盘报8585.85点，跌0.84%。 中证1000开盘报8464.27点，跌1.13%。",
+          "url": "https://wallstreetcn.com/livenews/3061398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美以袭击伊朗金价为何下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时31分]"
+        },
+        {
+          "title": "油价金价大涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股期货低开，纳指期货跌超1%，原油大幅走高，黄金、美债期货上涨",
@@ -505,9 +678,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
           "title": "美股股指期货低开1%",
@@ -516,7 +700,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -545,7 +729,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -563,31 +747,12 @@
             14,
             15,
             16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美以袭击伊朗金价为何下跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
             17,
-            16,
-            15,
-            14
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时31分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 10时35分]"
         }
       ]
     },
@@ -608,25 +773,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时34分 ~ 07时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "机构策略师：A股基本面受扰动有限，顺周期主线有望强化",
-          "url": "https://wallstreetcn.com/livenews/3061271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时31分]"
         }
       ]
     }
