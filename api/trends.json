@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T18:48:46.665156+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2026-03-03T19:38:42.801215+08:00",
+  "total_titles_processed": 1800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时38分 ~ 18时48分]"
+          "appearance_count": 12,
+          "time_info": "[10时38分 ~ 19时38分]"
         },
         {
           "title": "特朗普批民主党：如果不动手，他们又要叫唤",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时51分 ~ 18时48分]"
+          "appearance_count": 11,
+          "time_info": "[12时51分 ~ 19时38分]"
         },
         {
           "title": "外交部回应特朗普3月访华能否成行",
@@ -74,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时38分 ~ 18时48分]"
+          "appearance_count": 12,
+          "time_info": "[10时38分 ~ 19时38分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -125,8 +125,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时51分 ~ 18时48分]"
+          "appearance_count": 11,
+          "time_info": "[12时51分 ~ 19时38分]"
         },
         {
           "title": "特朗普，还有一仗？",
@@ -215,6 +215,17 @@
           "time_info": "[12时51分 ~ 13时55分]"
         },
         {
+          "title": "特朗普放话“不惜一切” ，全球市场遭遇“黑色星期二”，除了原油，一切都在跌！",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时38分]"
+        },
+        {
           "title": "美以伊战争最新动态｜特朗普回应是否怕美国本土遭袭",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -237,6 +248,20 @@
           "time_info": "[15时01分 ~ 15时02分]"
         },
         {
+          "title": "美使馆遭袭，特朗普：将很快采取报复行动",
+          "url": "https://www.cls.cn/detail/2300728",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时50分 ~ 19时38分]"
+        },
+        {
           "title": "特朗普“不惜一切”誓言加剧恐慌，全球股债遭抛售，油涨金银跌，汇市美元独秀！",
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
@@ -246,17 +271,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
-        },
-        {
-          "title": "特朗普放话“不惜一切” ，全球市场遭遇“黑色星期二”，除了原油，一切都在跌！",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "美以伊战争最新动态｜美驻沙特使馆遭袭，特朗普回应",
@@ -292,20 +306,6 @@
           "time_info": "00时57分"
         },
         {
-          "title": "美使馆遭袭，特朗普：将很快采取报复行动",
-          "url": "https://www.cls.cn/detail/2300728",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时50分 ~ 18时48分]"
-        },
-        {
           "title": "前美联储主席、前美国财政部长耶伦：总统特朗普的行动推高了美国国债的风险溢价。",
           "url": "https://wallstreetcn.com/livenews/3062086",
           "source": "华尔街见闻-快讯",
@@ -328,6 +328,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时43分]"
+        },
+        {
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时38分]"
+        },
+        {
+          "title": "特朗普：没有必要对伊朗采取地面军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32689484",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 19时38分]"
         },
         {
           "title": "周一（3月2日），降息赢家指数跌1.99%，报96.33点。 “特朗普关税输家”指数跌2.25%，报111.90点。 “特朗普金融指数”涨0.69%，报155.57点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.40%，报12.94点。",
@@ -390,18 +415,6 @@
           "time_info": "[02时57分 ~ 03时41分]"
         },
         {
-          "title": "特朗普：没有必要对伊朗采取地面军事行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32689484",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时48分]"
-        },
-        {
           "title": "特朗普称同意与伊朗新领导层对话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32681474",
           "source": "澎湃新闻",
@@ -445,17 +458,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时50分 ~ 15时51分]"
-        },
-        {
-          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
-          "url": "https://wallstreetcn.com/articles/3766606",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "美媒：特朗普颈部疑似出现皮疹 预计红肿会持续数周",
@@ -535,6 +537,17 @@
           "time_info": "03时41分"
         },
         {
+          "title": "外交部回应特朗普 3 月访华能否成行，「中美就元首互动保持着沟通」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2011830146605274886",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "美国总统特朗普：伊朗政权的弹道导弹计划发展迅速，已经具备打击欧洲的能力。",
           "url": "https://flash.jin10.com/detail/20260303005956438800",
           "source": "金十数据",
@@ -596,7 +609,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -806,6 +819,18 @@
           "time_info": "[02时57分 ~ 03时41分]"
         },
         {
+          "title": "建议A股延至下午4点闭市",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AEA%E8%82%A1%E5%BB%B6%E8%87%B3%E4%B8%8B%E5%8D%884%E7%82%B9%E9%97%AD%E5%B8%82%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时38分]"
+        },
+        {
           "title": "A股航运板块持续走强，中远海特、凤凰航运拉升封板，中远海发、南京港、招商轮船、锦江航运、中远海能、招商南油等十余只成分股涨停。",
           "url": "https://wallstreetcn.com/livenews/3062442",
           "source": "华尔街见闻-快讯",
@@ -916,17 +941,6 @@
           "time_info": "10时38分"
         },
         {
-          "title": "建议A股延至下午4点闭市",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AEA%E8%82%A1%E5%BB%B6%E8%87%B3%E4%B8%8B%E5%8D%884%E7%82%B9%E9%97%AD%E5%B8%82%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
           "title": "创业板指、深成指午后均跌超2%，全市场近4700只个股下跌。",
           "url": "https://wallstreetcn.com/livenews/3062473",
           "source": "华尔街见闻-快讯",
@@ -996,8 +1010,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时38分 ~ 18时48分]"
+          "appearance_count": 12,
+          "time_info": "[10时38分 ~ 19时38分]"
         },
         {
           "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
@@ -1209,72 +1223,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260303052851593800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时33分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时48分]"
-        },
-        {
-          "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
-          "url": "https://wallstreetcn.com/livenews/3062140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时33分]"
-        },
-        {
-          "title": "OpenAI CEO称与美国防部的协议“机会主义且草率”",
-          "url": "https://flash.jin10.com/detail/20260303100949586800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
-          "url": "https://wallstreetcn.com/livenews/3062468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普“不惜一切”誓言加剧股市抛售，油价三连涨，日韩股市狂泻，三星跌10%，金价回落至5300美元下方",
@@ -1330,6 +1280,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "避险情绪转向利空 金价随降息预期降温而回落",
+          "url": "https://flash.jin10.com/detail/20260303192047395800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260303052851593800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时33分]"
+        },
+        {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 19时38分]"
+        },
+        {
+          "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
+          "url": "https://wallstreetcn.com/livenews/3062140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时33分]"
+        },
+        {
+          "title": "OpenAI CEO称与美国防部的协议“机会主义且草率”",
+          "url": "https://flash.jin10.com/detail/20260303100949586800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
+          "url": "https://wallstreetcn.com/livenews/3062468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
@@ -1376,8 +1401,19 @@
     },
     {
       "keyword_group": "主力资金 开源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "开源项目 OpenClaw 仅用 3 个月登顶 GitHub Star 榜首，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2012114647591904496",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
         {
           "title": "荣耀智能体基础模型MagicAgent面向全球开源",
           "url": "https://wallstreetcn.com/livenews/3062616",
