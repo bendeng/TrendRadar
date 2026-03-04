@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T13:50:06.638676+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-03-04T14:57:22.630596+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 13时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 14时57分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -35,11 +35,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时56分 ~ 13时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 14时57分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -108,6 +109,19 @@
           "time_info": "06时35分"
         },
         {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 14时57分]"
+        },
+        {
           "title": "美国总统特朗普：西班牙是“糟糕的盟友”，不想与他们有任何关系。",
           "url": "https://flash.jin10.com/detail/20260304012333003800",
           "source": "金十数据",
@@ -119,17 +133,30 @@
           "time_info": "01时51分"
         },
         {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
+          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
+          "url": "https://www.cls.cn/detail/2301855",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            7,
-            6
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 14时57分]"
+        },
+        {
+          "title": "西班牙回应特朗普称将切断贸易往来",
+          "url": "https://www.toutiao.com/trending/7612678791206387775/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            23,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 14时57分]"
         },
         {
           "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
@@ -142,17 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时39分]"
-        },
-        {
-          "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
-          "url": "https://www.cls.cn/detail/2301855",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时50分]"
         },
         {
           "title": "美国总统特朗普告诉到访的德国总理默茨：我们将商谈贸易协议。",
@@ -177,19 +193,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时51分]"
-        },
-        {
-          "title": "西班牙回应特朗普称将切断贸易往来",
-          "url": "https://www.toutiao.com/trending/7612678791206387775/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            23,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时50分]"
         },
         {
           "title": "美国总统特朗普：《天才法案》正受到银行的威胁和破坏，这是不可接受的。",
@@ -226,6 +229,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时39分]"
+        },
+        {
+          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
+          "url": "https://www.cls.cn/detail/2301976",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 14时57分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
@@ -297,6 +312,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "美国总统特朗普：英国“非常、非常不合作”。",
           "url": "https://flash.jin10.com/detail/20260304012112730800",
           "source": "金十数据",
@@ -328,17 +354,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
-        },
-        {
-          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
-          "url": "https://www.cls.cn/detail/2301976",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
         },
         {
           "title": "美国总统特朗普：我们正在进行各种关税研究。",
@@ -460,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "特朗普“军舰为油轮护航”言论引发质疑",
+          "url": "https://wallstreetcn.com/livenews/3063396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "特朗普称伊朗军事能力遭重创 否认被以色列“拖入战争”",
@@ -633,7 +659,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -699,6 +725,18 @@
           "time_info": "[00时56分 ~ 06时35分]"
         },
         {
+          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
+          "url": "https://www.cls.cn/detail/2301893",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时33分 ~ 14时57分]"
+        },
+        {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2301690",
           "source": "财联社热门",
@@ -712,18 +750,6 @@
           "time_info": "[00时56分 ~ 10时31分]"
         },
         {
-          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
-          "url": "https://www.cls.cn/detail/2301893",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时33分 ~ 13时50分]"
-        },
-        {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
@@ -731,8 +757,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 14时57分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -865,7 +891,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
@@ -901,8 +927,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 14时57分]"
         },
         {
           "title": "上证50指数跌幅扩大至2%。",
@@ -911,7 +937,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -922,9 +948,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "A股油气股拉升回暖，通源石油涨超15%，潜能恒信、贝肯能源、科力股份、中曼石油、中海油服等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3063401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "中国石油A股盘中闪崩触及跌停，随后快速拉升转涨。 中国海洋、中国石化盘中也均触及跌停，随后快速拉升收窄跌幅。",
@@ -1002,6 +1039,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "A股福建本地股局部异动，海峡创新涨超14%，平潭发展、永福股份、红相股份涨超8%，路桥信息、漳州发展等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3063382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         }
       ]
     },
