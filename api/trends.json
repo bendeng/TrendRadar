@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T15:42:19.867623+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-03-04T16:48:40.717166+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -37,11 +37,12 @@
             2,
             15,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时56分 ~ 15时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时56分 ~ 16时48分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -61,11 +62,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 15时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 16时48分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -90,6 +92,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时31分 ~ 15时42分]"
+        },
+        {
+          "title": "特朗普“护航”未能平息局势！亚洲市场继续暴跌、韩股创有史以来最大跌幅，泰股停牌，油价再涨3%",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
@@ -197,6 +210,20 @@
           "time_info": "[00时57分 ~ 01时51分]"
         },
         {
+          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
+          "url": "https://www.cls.cn/detail/2301976",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 16时48分]"
+        },
+        {
           "title": "美国总统特朗普：《天才法案》正受到银行的威胁和破坏，这是不可接受的。",
           "url": "https://flash.jin10.com/detail/20260304060328619800",
           "source": "金十数据",
@@ -209,17 +236,15 @@
           "time_info": "[06时35分 ~ 07时33分]"
         },
         {
-          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
-          "url": "https://www.cls.cn/detail/2301976",
-          "source": "财联社热门",
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            11,
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时45分 ~ 15时42分]"
+          "time_info": "[14时57分 ~ 16时48分]"
         },
         {
           "title": "美国总统特朗普的商务部长卢特尼克自愿就自己与爱泼斯坦的关系出席听证会。（Axios）",
@@ -232,17 +257,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时39分]"
-        },
-        {
-          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
-          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 15时42分]"
         },
         {
           "title": "美国原油期货短线跳水超2美元，特朗普将为途经海湾地区的贸易提供保险",
@@ -332,7 +346,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -357,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "美伊战火引爆油市？特朗普：敌对行动结束后 油价将回落！",
+          "url": "https://www.cls.cn/detail/2301958",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         },
         {
           "title": "反弹3美元 特朗普打击油价的效果转瞬即逝",
@@ -748,8 +773,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时45分 ~ 15时42分]"
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 16时48分]"
         },
         {
           "title": "A股半导体公司集体发涨价函",
@@ -794,7 +819,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -827,7 +852,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -926,6 +951,17 @@
           "time_info": "[00时56分 ~ 06时35分]"
         },
         {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 16时48分]"
+        },
+        {
           "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
           "url": "https://www.cls.cn/detail/2301893",
           "source": "财联社热门",
@@ -936,17 +972,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时33分 ~ 15时42分]"
-        },
-        {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 15时42分]"
         },
         {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
@@ -1174,7 +1199,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -1213,7 +1238,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         }
