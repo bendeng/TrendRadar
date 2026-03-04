@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T06:38:32.374562+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-03-05T07:36:34.329640+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时36分]"
         },
         {
           "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
@@ -31,17 +32,6 @@
           "time_info": "[00时55分 ~ 06时38分]"
         },
         {
-          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
-          "url": "https://wallstreetcn.com/articles/3766656",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时38分]"
-        },
-        {
           "title": "特朗普夫人，“翻车”了",
           "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
           "source": "凤凰网",
@@ -49,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时36分]"
         },
         {
           "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
@@ -60,6 +50,17 @@
             17,
             18,
             16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时36分]"
+        },
+        {
+          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
+          "url": "https://wallstreetcn.com/articles/3766656",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -75,6 +76,21 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 04时38分]"
+        },
+        {
+          "title": "美称打死试图暗杀特朗普的伊朗高官",
+          "url": "https://www.toutiao.com/trending/7613391444652330559/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            21,
+            22,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时36分]"
         },
         {
           "title": "美国总统特朗普：谷歌是一家好公司。",
@@ -103,25 +119,24 @@
           "url": "https://flash.jin10.com/detail/20260305055643565800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "美称打死试图暗杀特朗普的伊朗高官",
-          "url": "https://www.toutiao.com/trending/7613391444652330559/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            21,
-            22,
-            28
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时40分]"
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时36分]"
+        },
+        {
+          "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
+          "url": "https://wallstreetcn.com/articles/3766690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时40分 ~ 07时36分]"
         },
         {
           "title": "特朗普正式提名凯文·沃什担任美联储主席，以接替杰罗姆·鲍威尔",
@@ -134,17 +149,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时59分]"
-        },
-        {
-          "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
-          "url": "https://wallstreetcn.com/articles/3766690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时38分]"
         },
         {
           "title": "据知情人士透露，美国白宫计划在3月底之前递交关于下一个财年的预算申请。 特朗普政府尤其希望在3月31日当天披露预算报告。（彭博）",
@@ -177,7 +181,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -364,7 +368,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         },
@@ -394,25 +398,25 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "美国“小非农”超预期回暖，美股指高开，纳指涨幅扩大至1%，美油转跌，断供影响伦铝创四年新高",
-          "url": "https://wallstreetcn.com/articles/3766668",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时38分]"
-        },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
           "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时36分]"
+        },
+        {
+          "title": "美国“小非农”超预期回暖，美股指高开，纳指涨幅扩大至1%，美油转跌，断供影响伦铝创四年新高",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -427,8 +431,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时36分]"
+        },
+        {
+          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
+          "url": "https://www.cls.cn/detail/2303150",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         },
         {
           "title": "周三（3月4日），存储芯片与硬件供应链指数涨3.90%，报105.81点，美股开盘后90分钟高开高走，随后平缓地逐步回吐涨幅。",
@@ -436,11 +462,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时40分 ~ 07时36分]"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收涨0.47%，报433.38点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌0.22%，报3046.92点。 在美股时段交易的原材料指数收跌0.06%，金属与矿业指数收涨0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3063879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时40分 ~ 06时38分]"
+          "time_info": "[06时38分 ~ 07时36分]"
         },
         {
           "title": "半导体ETF收涨2%，领跑美股行业ETF",
@@ -524,23 +563,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时40分 ~ 06时38分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收涨0.47%，报433.38点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌0.22%，报3046.92点。 在美股时段交易的原材料指数收跌0.06%，金属与矿业指数收涨0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3063879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
@@ -565,6 +593,17 @@
           "time_info": "[03时43分 ~ 04时38分]"
         },
         {
+          "title": "OpenAI与Trade Desk Inc.（TTD）围绕广告销售启动初步的磋商。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3063894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
           "title": "美媒：前OpenAI高管押注制造业自动化 为AI初创公司Arda融资7000万美元",
           "url": "https://flash.jin10.com/detail/20260305002035785800",
           "source": "金十数据",
@@ -587,6 +626,17 @@
           "time_info": "04时38分"
         },
         {
+          "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。 预计OpenAI将在2027年批量部署芯片。 Meta的定制芯片路线图“正在推进之中，进展不错”。",
+          "url": "https://wallstreetcn.com/livenews/3063886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
           "title": "据华尔街日报：知情人士称，前OpenAI首席研究官正为一家人工智能初创公司筹集7000万美元资金，该初创公司正开发一款软件，以帮助工厂实现自主运行。",
           "url": "https://flash.jin10.com/detail/20260305000849896800",
           "source": "金十数据",
@@ -596,6 +646,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "26位“首席”做客澎湃把脉2026：对中国经济有信心，战略看多A股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692329",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时36分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指缩量调整失守半年线，油气板块全天巨震分化，军工、农业股逆势大涨",
+          "url": "https://www.cls.cn/detail/2302727",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时36分]"
+        },
+        {
+          "title": "全国政协委员、香港上海汇丰银行主席王冬胜：建议推出大湾区“新股通” 深化金融市场互联互通。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3063905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "沪指跌1%失守4100点，中石油成A股流通市值冠军，电网设备逆势大涨，恒指跌超2%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3766678",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         }
       ]
     },
@@ -628,35 +730,6 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "26位“首席”做客澎湃把脉2026：对中国经济有信心，战略看多A股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692329",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时38分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指缩量调整失守半年线，油气板块全天巨震分化，军工、农业股逆势大涨",
-          "url": "https://www.cls.cn/detail/2302727",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时38分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -665,11 +738,12 @@
           "url": "https://www.zhihu.com/question/1922608207504867947",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时36分]"
         }
       ]
     },
@@ -686,8 +760,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时36分]"
         }
       ]
     }
