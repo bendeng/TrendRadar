@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T16:52:06.800985+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-03-11T17:51:25.059021+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普：有可能有条件同伊朗谈判",
@@ -84,8 +84,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 16时52分]"
+          "appearance_count": 5,
+          "time_info": "[13时54分 ~ 17时51分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -98,8 +98,33 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时29分 ~ 16时52分]"
+          "appearance_count": 7,
+          "time_info": "[10时29分 ~ 17时51分]"
+        },
+        {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时29分 ~ 17时51分]"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时29分 ~ 17时51分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
@@ -113,29 +138,15 @@
           "time_info": "[05时34分 ~ 06时34分]"
         },
         {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            7,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时29分 ~ 16时52分]"
-        },
-        {
-          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
-          "url": "https://wallstreetcn.com/articles/3767189",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时29分 ~ 16时52分]"
+          "time_info": "[07时33分 ~ 17时51分]"
         },
         {
           "title": "美以伊战争｜英媒：特朗普想要脱身，没那么容易",
@@ -191,17 +202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
-        },
-        {
-          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
-          "url": "https://wallstreetcn.com/articles/3767165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时33分 ~ 16时52分]"
         },
         {
           "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
@@ -521,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "巴克莱：油价似乎已达到了特朗普的“痛苦阈值”",
+          "url": "https://flash.jin10.com/detail/20260311171941842800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         }
       ]
     },
@@ -536,8 +547,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时33分 ~ 16时52分]"
+          "appearance_count": 8,
+          "time_info": "[07时33分 ~ 17时51分]"
         },
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -719,7 +730,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时52分"
         },
@@ -738,7 +749,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾4500股飘红，CPO等算力硬件股集体爆发",
@@ -756,11 +767,12 @@
           "url": "https://www.toutiao.com/trending/7614851798159015942/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时51分 ~ 16时52分]"
+          "appearance_count": 3,
+          "time_info": "[16时51分 ~ 17时51分]"
         },
         {
           "title": "A股电网设备板块持续活跃，众智科技触及20cm涨停，三友联众涨超10%，良信股份、国电南自、中电鑫龙、长高电新涨幅居前。",
@@ -772,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落涨1.31%，储能板块集体走强，化工股午后卷土重来",
+          "url": "https://www.cls.cn/detail/2309697",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "A股电力股持续拉升，立新能源触及涨停，节能风电、赣能股份、华电能源、绿发电力此前封板，华银电力、乐山电力等冲高。",
