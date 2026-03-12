@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T16:53:08.120011+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-03-12T17:52:37.993171+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时32分 ~ 16时53分]"
+          "appearance_count": 10,
+          "time_info": "[06时32分 ~ 17时52分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -68,6 +68,20 @@
           "time_info": "[00时59分 ~ 07时32分]"
         },
         {
+          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
+          "url": "https://wallstreetcn.com/articles/3767287",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时35分 ~ 17时52分]"
+        },
+        {
           "title": "【早报】特朗普：对伊朗军事行动“即将结束”；七国集团：原则上支持必要时动用战略储备稳定能源市场",
           "url": "https://www.cls.cn/detail/2310250",
           "source": "财联社热门",
@@ -94,20 +108,6 @@
           "time_info": "[00时59分 ~ 07时32分]"
         },
         {
-          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
-          "url": "https://wallstreetcn.com/articles/3767287",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时35分 ~ 16时53分]"
-        },
-        {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
           "url": "https://wallstreetcn.com/articles/3767174",
           "source": "华尔街见闻",
@@ -118,6 +118,29 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时59分 ~ 05时39分]"
+        },
+        {
+          "title": "中方回应特朗普将对华新贸易调查",
+          "url": "https://www.toutiao.com/trending/7615192157801152518/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 17时52分]"
+        },
+        {
+          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
+          "url": "https://www.cls.cn/detail/2310747",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 17时52分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示可能打击更多目标，伊方警告美或陷入长期耗损战",
@@ -141,28 +164,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时35分 ~ 10时36分]"
-        },
-        {
-          "title": "中方回应特朗普将对华新贸易调查",
-          "url": "https://www.toutiao.com/trending/7615192157801152518/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
-        },
-        {
-          "title": "特朗普称将对包括中国在内的贸易伙伴启动新的贸易调查，中方回应",
-          "url": "https://www.cls.cn/detail/2310747",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
         },
         {
           "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
@@ -900,6 +901,17 @@
           "time_info": "[00时59分 ~ 06时32分]"
         },
         {
+          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时32分 ~ 17时52分]"
+        },
+        {
           "title": "通胀降温难敌油市恐慌，美股开盘涨跌互现，甲骨文涨超11%，现货白银日内跌幅扩大至3%，原油涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3767236",
           "source": "华尔街见闻",
@@ -911,17 +923,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时59分 ~ 06时32分]"
-        },
-        {
-          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
-          "url": "https://wallstreetcn.com/articles/3767236",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时32分 ~ 16时53分]"
         },
         {
           "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
@@ -1028,7 +1029,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -1061,7 +1062,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -1151,17 +1152,6 @@
           "time_info": "[00时59分 ~ 07时32分]"
         },
         {
-          "title": "评论员：A股慢牛趋势个股将越来越多",
-          "url": "https://www.toutiao.com/trending/7615945719912792083/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
-        },
-        {
           "title": "【创业板指缩量跌近1%，煤炭、风电板块逆势走强】市场全天探底回升，创业板指跌近1%。煤炭板块逆势走强，陕西黑猫、兖矿能源、郑州煤电涨停。化工板块反复活跃，金牛化工、百川股份、诚志股份等涨停。风电板块午后拉升，振江股份、大金重工、中际联合等涨停。下跌方面，军工板块下挫，航亚科技、中国动力跌超5%。个股跌多涨少，沪深京三市超3800股飘绿，今日成交2.46万亿。截止收盘沪指跌0.1%，深成指跌0.63%，创业板指跌0.96%。",
           "url": "https://wallstreetcn.com/livenews/3068653",
           "source": "华尔街见闻-快讯",
@@ -1193,6 +1183,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        },
+        {
+          "title": "评论员：A股慢牛趋势个股将越来越多",
+          "url": "https://www.toutiao.com/trending/7615945719912792083/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 17时52分]"
         },
         {
           "title": "A股煤炭板块震荡拉升，兖矿能源冲击涨停，中煤能源、电投能源涨超6%，晋控煤业、陕西黑猫、淮北矿业跟涨。",
