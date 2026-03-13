@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T13:54:50.585458+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-03-13T15:02:47.466590+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -49,11 +49,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 07时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 15时02分]"
         },
         {
           "title": "特朗普称穆杰塔巴可能受伤但仍活着",
@@ -64,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 15时02分]"
         },
         {
           "title": "特朗普：伊朗的一切都在被摧毁",
@@ -88,6 +89,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 15时02分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -115,6 +129,18 @@
           "time_info": "[04时42分 ~ 05时39分]"
         },
         {
+          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
+          "url": "https://www.cls.cn/detail/2311436",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 15时02分]"
+        },
+        {
           "title": "美国总统特朗普：已全面听取关于密歇根犹太会堂袭击事件的简报。",
           "url": "https://flash.jin10.com/detail/20260313042248877800",
           "source": "金十数据",
@@ -125,30 +151,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时39分]"
-        },
-        {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
-          "url": "https://www.cls.cn/detail/2311436",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 13时54分]"
         },
         {
           "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
@@ -189,6 +191,17 @@
           "time_info": "[05时39分 ~ 06时32分]"
         },
         {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 15时02分]"
+        },
+        {
           "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
           "url": "https://wallstreetcn.com/livenews/3069156",
           "source": "华尔街见闻-快讯",
@@ -224,17 +237,6 @@
           "time_info": "10时33分"
         },
         {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
           "title": "特朗普：穆杰塔巴可能受伤但活着",
           "url": "https://www.toutiao.com/trending/7616538009198054950/",
           "source": "今日头条",
@@ -255,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "日本首相高市早苗：将巩固与特朗普的信任关系。 将在美峰会中阐述日本在中东问题上的立场。 强化基本面能增强日元的信心。",
+          "url": "https://wallstreetcn.com/livenews/3069422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "特朗普炮轰鲍威尔：现在立刻降息",
@@ -307,7 +320,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -326,7 +339,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -362,8 +375,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时32分 ~ 13时54分]"
+          "appearance_count": 6,
+          "time_info": "[06时32分 ~ 15时02分]"
+        },
+        {
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 15时02分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
@@ -377,15 +401,15 @@
           "time_info": "[07时34分 ~ 10时33分]"
         },
         {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
+          "title": "美股三大股指期货全线走低",
+          "url": "https://wallstreetcn.com/livenews/3069452",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "美股七巨头收盘播报｜周四（3月12日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报192.90点，美股盘初显著走低，北京时间22:00以来低位震荡。 “超大”市值科技股指数跌1.83%，报367.35点。",
@@ -488,7 +512,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "【焦点复盘】创业板指高开低走跌近1%，算电协同概念持续火热，风电设备股午后逆势爆发",
@@ -503,17 +527,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时04分 ~ 07时34分]"
-        },
-        {
-          "title": "A股PCB概念股震荡回升，亨通股份触及涨停，中英科技涨超10%，南亚新材、沪电股份、金安国纪涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3069405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
         },
         {
           "title": "A股风电板块探底回升，天顺风能直线涨停，大金重工逼近涨停，通裕重工涨超18%，天能重工、双一科技、金雷股份跟涨。",
@@ -533,9 +546,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "A股PCB概念股震荡回升，亨通股份触及涨停，中英科技涨超10%，南亚新材、沪电股份、金安国纪涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3069405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 15时02分]"
         },
         {
           "title": "A股卫星导航板块短线拉升，北斗星通触及涨停，合众思壮、航天发展、中海达、流金科技短线拉升。此前据新华社报道，我国将对北斗卫星导航系统实施在轨升级。",
@@ -566,7 +591,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -577,7 +602,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -588,7 +613,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -599,9 +624,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "A股电子气体概念快速拉升，华特气体涨超10%，中船特气、金宏气体、和远气体、凯美特气跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3069425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "创业板指翻红。",
@@ -676,6 +712,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "主力资金 开源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260313141031927800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
