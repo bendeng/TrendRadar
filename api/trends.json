@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T15:19:34.875027+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-03-23T17:04:52.379403+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 15时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 17时04分]"
         },
         {
           "title": "美媒：特朗普团队已密谋与伊朗“和谈” 细节曝光",
@@ -148,8 +148,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 17时04分]"
+        },
+        {
+          "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
+          "url": "https://news.ifeng.com/c/8rj85g0QAfQ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 17时04分]"
+        },
+        {
+          "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4100、白银逼近60",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "德国总理默茨与美国总统特朗普通话，讨论中东及乌克兰局势",
@@ -197,7 +219,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -211,17 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
-        },
-        {
-          "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
-          "url": "https://news.ifeng.com/c/8rj85g0QAfQ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         },
         {
           "title": "伊朗总统回应特朗普将伊朗抹去威胁",
@@ -247,6 +258,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时35分 ~ 06时32分]"
+        },
+        {
+          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
+          "url": "https://www.cls.cn/detail/2321109",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 17时04分]"
+        },
+        {
+          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
+          "url": "https://www.zhihu.com/question/2019150605713716559",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 17时04分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -293,17 +328,6 @@
           "time_info": "[00时38分 ~ 03时32分]"
         },
         {
-          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
-          "url": "https://www.zhihu.com/question/2019150605713716559",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 15时19分]"
-        },
-        {
           "title": "美议员要求特朗普政府官员国会作证",
           "url": "https://news.ifeng.com/c/8riyKTIjsUK",
           "source": "凤凰网",
@@ -312,8 +336,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 15时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 17时04分]"
         },
         {
           "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
@@ -321,11 +345,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 17时04分]"
+        },
+        {
+          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时08分 ~ 15时19分]"
+          "time_info": "[15时19分 ~ 17时04分]"
         },
         {
           "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
@@ -361,15 +398,15 @@
           "time_info": "06时32分"
         },
         {
-          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
-          "url": "https://www.cls.cn/detail/2321109",
-          "source": "财联社热门",
+          "title": "中方回应特朗普向伊朗发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7620351961246924809/",
+          "source": "今日头条",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "17时04分"
         },
         {
           "title": "48小时最后通牒：特朗普威胁“炸电厂”，伊朗回敬“完全封锁海峡”",
@@ -381,17 +418,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         },
         {
           "title": "特朗普借电视短剧嘲讽英国首相",
@@ -408,7 +434,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "A股当前良性调整何时结束？十大券商策略来了",
@@ -476,7 +502,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -512,11 +538,23 @@
           "source": "微博",
           "ranks": [
             15,
-            12
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 17时04分]"
+        },
+        {
+          "title": "A股三大指数尾盘均跌超4%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%BE%E7%9B%98%E5%9D%87%E8%B7%8C%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时08分 ~ 15时19分]"
+          "time_info": "[15时19分 ~ 17时04分]"
         },
         {
           "title": "A股",
@@ -529,17 +567,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时44分 ~ 15时19分]"
-        },
-        {
-          "title": "A股三大指数尾盘均跌超4%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%BE%E7%9B%98%E5%9D%87%E8%B7%8C%E8%B6%854%25",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
         },
         {
           "title": "地缘政治扰动的悲观预期或已充分计价，机构：A股市场调整风险可控",
@@ -559,7 +586,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -575,13 +602,24 @@
           "time_info": "10时44分"
         },
         {
+          "title": "券商晨会精华：A股已处于调整后半段",
+          "url": "https://www.cls.cn/detail/2320769",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "A股CPO、PCB概念持续走弱，汇绿生态、剑桥科技、广合科技、世嘉科技、超声电子等股跌停。",
           "url": "https://flash.jin10.com/detail/20260323143845197800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -625,7 +663,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -658,7 +696,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -669,7 +707,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -688,7 +726,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价高位回落跌破关口，专家分析：短期震荡难掩中长期上行逻辑",
@@ -712,8 +750,32 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 17时04分]"
+        },
+        {
+          "title": "金价下跌 30克金手镯能省约1万元",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+30%E5%85%8B%E9%87%91%E6%89%8B%E9%95%AF%E8%83%BD%E7%9C%81%E7%BA%A61%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时08分 ~ 15时19分]"
+          "time_info": "[15时19分 ~ 17时04分]"
+        },
+        {
+          "title": "金价八连跌抄底大军越买越跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%85%AB%E8%BF%9E%E8%B7%8C%E6%8A%84%E5%BA%95%E5%A4%A7%E5%86%9B%E8%B6%8A%E4%B9%B0%E8%B6%8A%E8%B7%8C%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 17时04分]"
         },
         {
           "title": "金十图示：2026年03月23日（周一）上海金早盘价为982.63元/克，较国际金价(980.17元/克)，高2.46元/克",
@@ -733,20 +795,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
         {
-          "title": "金价八连跌抄底大军越买越跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%85%AB%E8%BF%9E%E8%B7%8C%E6%8A%84%E5%BA%95%E5%A4%A7%E5%86%9B%E8%B6%8A%E4%B9%B0%E8%B6%8A%E8%B7%8C%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "金价九连跌 妈妈花10万给女儿买金饰",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B9%9D%E8%BF%9E%E8%B7%8C+%E5%A6%88%E5%A6%88%E8%8A%B110%E4%B8%87%E7%BB%99%E5%A5%B3%E5%84%BF%E4%B9%B0%E9%87%91%E9%A5%B0",
+          "source": "百度热搜",
           "ranks": [
-            21
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "17时04分"
         },
         {
           "title": "国内金价跌破1000元",
@@ -771,17 +833,6 @@
           "time_info": "13时08分"
         },
         {
-          "title": "金价下跌 30克金手镯能省约1万元",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C+30%E5%85%8B%E9%87%91%E6%89%8B%E9%95%AF%E8%83%BD%E7%9C%81%E7%BA%A61%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -796,7 +847,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股期货亚市盘初走低，油价上涨",
@@ -834,6 +885,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "高盛：AI或是美股最后的抛售来源",
+          "url": "https://www.toutiao.com/trending/7620340271837875763/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
           "title": "美股期货跌幅收窄，道指期货转为上涨0.1%，标普500指数期货现跌0.1%，纳指期货跌近0.3%。",
           "url": "https://wallstreetcn.com/livenews/3074755",
           "source": "华尔街见闻-快讯",
@@ -851,7 +913,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
@@ -868,11 +930,29 @@
           "ranks": [
             2,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 17时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据AXIOS：OpenAI正就从Sam Altman支持的核聚变初创公司Helion Energy购买电力进行深入谈判。",
+          "url": "https://flash.jin10.com/detail/20260323170206648800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     },
