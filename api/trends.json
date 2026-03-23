@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T07:34:45.467107+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-03-23T10:44:17.091590+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -27,8 +27,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 10时44分]"
+        },
+        {
+          "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
+          "url": "https://wallstreetcn.com/articles/3768099",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 10时44分]"
         },
         {
           "title": "美媒：特朗普团队已密谋与伊朗“和谈” 细节曝光",
@@ -39,20 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时34分]"
-        },
-        {
-          "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
-          "url": "https://wallstreetcn.com/articles/3768099",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 10时44分]"
         },
         {
           "title": "下周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
@@ -154,6 +155,17 @@
           "time_info": "[03时32分 ~ 07时34分]"
         },
         {
+          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
           "title": "伊朗提出4项措施回应特朗普威胁：若发电站遭袭将全面关闭霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3074595",
           "source": "华尔街见闻-快讯",
@@ -165,6 +177,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时38分 ~ 03时32分]"
+        },
+        {
+          "title": "特朗普最后通牒还剩24小时，贝森特表态“先升级再缓和”，亚洲股市重挫、黄金一度跌超3%",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         },
         {
           "title": "伊朗总统回应特朗普将伊朗抹去威胁",
@@ -247,6 +270,17 @@
           "time_info": "[00时38分 ~ 01时31分]"
         },
         {
+          "title": "美联储传声筒：特朗普的“降息钦差”遇上最坏剧本",
+          "url": "https://flash.jin10.com/detail/20260323103355268800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
           "title": "唐宁街10号（英国首相府）：英国首相斯塔默今晚与美国总统特朗普进行了通话。",
           "url": "https://flash.jin10.com/detail/20260323060003087800",
           "source": "金十数据",
@@ -258,21 +292,43 @@
           "time_info": "06时32分"
         },
         {
+          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
+          "url": "https://www.zhihu.com/question/2019150605713716559",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
           "title": "48小时最后通牒：特朗普威胁“炸电厂”，伊朗回敬“完全封锁海峡”",
           "url": "https://flash.jin10.com/detail/20260323063950259800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "特朗普借电视短剧嘲讽英国首相",
+          "url": "https://www.toutiao.com/trending/7619442004216283146/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 5,
+      "match_count": 13,
       "titles": [
         {
           "title": "A股当前良性调整何时结束？十大券商策略来了",
@@ -286,8 +342,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 10时44分]"
         },
         {
           "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
@@ -299,6 +355,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 07时34分]"
+        },
+        {
+          "title": "A股油气股逆势走高，博迈科封涨停，首华燃气涨超8%，中曼石油、蓝焰控股、水发燃气、惠博普、通源石油等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260323104004713800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         },
         {
           "title": "上证报：上海楼市“小阳春”行情愈发清晰",
@@ -333,15 +400,92 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "美伊冲突，全球受扰，A股彰显“以我为主”韧性，机构看好两大主线",
+          "url": "https://www.cls.cn/detail/2320547",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "A股三大指数均跌超2%，沪指失守3900点关口，有色金属、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股超5200只。",
+          "url": "https://wallstreetcn.com/livenews/3074740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "沪指跌破3900点关口，日内跌超1.6%，深成指、创业板指均跌逾2%，有色金属、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近5000只。",
+          "url": "https://wallstreetcn.com/livenews/3074737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "A股CPO等算力硬件股盘初调整，三安光电一字跌停，富信科技、汇绿生态、铭普光磁、金禄电子、长光华芯、炬光科技均跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3074732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "A股电网设备概念盘中拉升，三变科技触及涨停，百利电气、新特电气、保变电气、中国西电跟涨。",
+          "url": "https://flash.jin10.com/detail/20260323101023517800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        },
+        {
+          "title": "A股黄金概念股开盘领跌，赤峰黄金竞价跌停，山金国际、菜百股份、中金黄金、紫金矿业、恒邦股份等纷纷低开。",
+          "url": "https://wallstreetcn.com/livenews/3074728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股期货亚市盘初走低，油价上涨",
@@ -374,15 +518,26 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "美股期货跌幅收窄，道指期货转为上涨0.1%，标普500指数期货现跌0.1%，纳指期货跌近0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3074755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价高位回落跌破关口，专家分析：短期震荡难掩中长期上行逻辑",
@@ -397,6 +552,51 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时32分 ~ 06时32分]"
+        },
+        {
+          "title": "金十图示：2026年03月23日（周一）上海金早盘价为982.63元/克，较国际金价(980.17元/克)，高2.46元/克",
+          "url": "https://flash.jin10.com/detail/20260323102721379800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek郭达雅被曝离职",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "主力资金 开源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260323104029004800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     }
