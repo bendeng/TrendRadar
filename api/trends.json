@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T14:09:14.814876+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-03-25T15:57:18.310676+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "信口雌黄、反复无常？特朗普告诉“华尔街空头”：撒谎可耻但有用！",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时38分 ~ 14时09分]"
+          "appearance_count": 7,
+          "time_info": "[07时38分 ~ 15时57分]"
         },
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -41,8 +41,21 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时38分 ~ 15时57分]"
+        },
+        {
+          "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
+          "url": "https://www.cls.cn/detail/2323682",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时38分 ~ 14时09分]"
+          "time_info": "[10时40分 ~ 15时57分]"
         },
         {
           "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
@@ -74,16 +87,15 @@
           "time_info": "[01时05分 ~ 10时41分]"
         },
         {
-          "title": "美国向伊朗抛出“15点橄榄枝”，特朗普自信发言会再被“打脸”吗？",
-          "url": "https://www.cls.cn/detail/2323682",
-          "source": "财联社热门",
+          "title": "美CIA前局长：比起特朗普，更相信伊朗",
+          "url": "https://news.ifeng.com/c/8rm8Wgr5b4i",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 14时09分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 15时57分]"
         },
         {
           "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
@@ -110,17 +122,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时05分 ~ 07时38分]"
-        },
-        {
-          "title": "美CIA前局长：比起特朗普，更相信伊朗",
-          "url": "https://news.ifeng.com/c/8rm8Wgr5b4i",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 14时09分]"
         },
         {
           "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
@@ -157,6 +158,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时38分 ~ 14时09分]"
+        },
+        {
+          "title": "特朗普称已向伊朗提出和平方案，外交部回应",
+          "url": "https://flash.jin10.com/detail/20260325153344137800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "美国总统特朗普：他们（国会山驴象两党）接近就国土安全部（DHS）预算拨款问题达成共识了。",
@@ -230,11 +242,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 14时09分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 15时57分]"
         },
         {
           "title": "特朗普：伊朗方面想达成协议 且已同意永不拥核",
@@ -303,6 +316,17 @@
           "time_info": "07时38分"
         },
         {
+          "title": "特朗普称已向伊朗提出和平方案，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3076518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "美国总统特朗普：伊朗“送给我们一份非常大的礼物”，价值“一大笔钱”。伊朗的“礼物”是“油气相关”的，与霍尔木兹海峡有关。",
           "url": "https://flash.jin10.com/detail/20260325024105261800",
           "source": "金十数据",
@@ -312,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "美军3架F-15战机在科威特被美国导弹击落坠毁，特朗普回应",
+          "url": "https://www.cls.cn/detail/2323952",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我认为可以说，这是一次政权更迭。",
@@ -463,7 +498,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -488,6 +523,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "美国前官员：特朗普政府不理解伊朗的核提议 执意发动攻击",
+          "url": "https://flash.jin10.com/detail/20260325151833565800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "美总统顾问称特朗普“一边准备谈判一边握拳”",
+          "url": "https://wallstreetcn.com/livenews/3076504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "民调：特朗普支持率降至重返白宫以来最低",
@@ -525,6 +582,301 @@
       ]
     },
     {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "A股深V三大股指收涨：超5100股飘红，两市成交2万亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819962",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 14时09分]"
+        },
+        {
+          "title": "年内外资机构调研A股公司超900次，聚焦高端制造与科技创新两大核心赛道",
+          "url": "https://wallstreetcn.com/livenews/3076248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "A股体育概念股反复活跃，中体产业触及涨停，舒华体育此前封板，金陵体育涨超10%，共创草坪、粤传媒、力盛体育跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3076335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股电池产业链午后拉升，圣阳股份直线涨停，维科技术此前涨停，震裕科技、嘉元科技、万润新能、先惠技术、龙蟠科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3076423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股收盘：全市场超4800只个股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854800%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "A股港股涨幅扩大，创业板指日内涨2%",
+          "url": "https://wallstreetcn.com/livenews/3076329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "深成指涨超2%，沪指涨1.12%，创业板指涨1.79%，贵金属、算力硬件、绿电、算力租赁等方向领涨，沪深京三市上涨超5100只。",
+          "url": "https://wallstreetcn.com/livenews/3076328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股农业股午后拉升，冠农股份封涨停，丰林集团、农发种业、新赛股份、亚通股份、新农开发涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3076417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股固态电池板块午后异动拉升，圣阳股份直线涨停，维科技术此前涨停，震裕科技、嘉元科技、万润新能、先惠技术、龙蟠科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325132229564800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股市场反弹，抄底资金增持宽基ETF",
+          "url": "https://wallstreetcn.com/livenews/3076238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
+        },
+        {
+          "title": "A股三大指数均涨超1%，沪指重返3900点上方，贵金属、算力硬件、绿电、算力租赁等方向领涨，沪深京三市上涨超5000只。",
+          "url": "https://wallstreetcn.com/livenews/3076325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股人形机器人概念板块震荡上扬，立讯精密触及涨停，协创数据涨超10%，德马科技、斯菱智驱、国民技术跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325102107604800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股生态农业板块午后拉升，冠农股份封板涨停，丰林集团、农发种业、新赛股份、亚通股份、新农开发等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325131431264800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股算力租赁概念反复活跃，奥瑞德2连板，光环新网涨超15%，铜牛信息、奥飞数据、宏景科技、特发信息、美利云涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3076312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股贵金属板块集体走强，晓程科技涨近10%，湖南白银、盛达资源、山金国际、中金黄金、赤峰黄金、山东黄金等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3076310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "上证指数早盘收报3915.49点，涨0.88%。 深证成指早盘收报13721.49点，涨1.37%。 创业板指早盘收报3292.55点，涨1.26%。 沪深300早盘收报4518.19点，涨0.97%。 科创50早盘收报1304.67点，涨1.08%。 中证500早盘收报7727.29点，涨1.71%。 中证1000早盘收报7708.94点，涨1.42%。",
+          "url": "https://wallstreetcn.com/livenews/3076381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "A股教育板块震荡上行，科德教育涨超10%，中公教育、豆神教育、学大教育、昂立教育、凯文教育等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325101337066800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股人形机器人概念板块午后活跃，斯菱智驱涨超10%，德马科技、五洲新春、万向钱潮、睿能科技、奥比中光跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325130445732800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时09分"
+        },
+        {
+          "title": "A股锂矿股延续强势，融捷股份逼近涨停，西部矿业、华友钴业、西藏珠峰、中矿资源、国城矿业涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3076307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-03-25）",
+          "url": "https://flash.jin10.com/detail/20260325151442295800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "A股物流板块短线拉升，中国铁物封涨停，恒基达鑫、三羊马、密尔克卫、永泰运、厦门象屿跟涨。",
+          "url": "https://flash.jin10.com/detail/20260325101013106800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股CPO概念股开盘强势，铭普光磁一字涨停，联特科技、长芯博创、炬光科技、光库科技、智立方涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3076303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "A股收盘：沪指涨1.3%重返3900点，全市场上涨个股超4800只",
+          "url": "https://wallstreetcn.com/livenews/3076496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "A股收评：沪指震荡反弹收涨1.3% 重回3900关口",
+          "url": "https://flash.jin10.com/detail/20260325151042480800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
+          "title": "A股三大指数全线高开，创业板指涨逾1%",
+          "url": "https://wallstreetcn.com/livenews/3076301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "上证指数收报3931.84点，涨1.30%。 深证成指收报13801.00点，涨1.95%。 创业板指收报3316.97点，涨2.01%。 沪深300收报4537.47点，涨1.40%。 科创50收报1315.41点，涨1.91%。 中证500收报7767.67点，涨2.24%。 中证1000收报7751.18点，涨1.98%。",
+          "url": "https://wallstreetcn.com/livenews/3076495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 24,
       "titles": [
@@ -534,11 +886,39 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 14时09分]"
+          "appearance_count": 4,
+          "time_info": "[12时59分 ~ 15时57分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时57分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时57分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -550,31 +930,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 14时09分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时40分 ~ 14时09分]"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -801,246 +1156,6 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "A股深V三大股指收涨：超5100股飘红，两市成交2万亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819962",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 14时09分]"
-        },
-        {
-          "title": "年内外资机构调研A股公司超900次，聚焦高端制造与科技创新两大核心赛道",
-          "url": "https://wallstreetcn.com/livenews/3076248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "A股体育概念股反复活跃，中体产业触及涨停，舒华体育此前封板，金陵体育涨超10%，共创草坪、粤传媒、力盛体育跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3076335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "A股电池产业链午后拉升，圣阳股份直线涨停，维科技术此前涨停，震裕科技、嘉元科技、万润新能、先惠技术、龙蟠科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3076423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "A股港股涨幅扩大，创业板指日内涨2%",
-          "url": "https://wallstreetcn.com/livenews/3076329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "深成指涨超2%，沪指涨1.12%，创业板指涨1.79%，贵金属、算力硬件、绿电、算力租赁等方向领涨，沪深京三市上涨超5100只。",
-          "url": "https://wallstreetcn.com/livenews/3076328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "A股农业股午后拉升，冠农股份封涨停，丰林集团、农发种业、新赛股份、亚通股份、新农开发涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3076417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "A股固态电池板块午后异动拉升，圣阳股份直线涨停，维科技术此前涨停，震裕科技、嘉元科技、万润新能、先惠技术、龙蟠科技跟涨。",
-          "url": "https://flash.jin10.com/detail/20260325132229564800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "A股市场反弹，抄底资金增持宽基ETF",
-          "url": "https://wallstreetcn.com/livenews/3076238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "A股三大指数均涨超1%，沪指重返3900点上方，贵金属、算力硬件、绿电、算力租赁等方向领涨，沪深京三市上涨超5000只。",
-          "url": "https://wallstreetcn.com/livenews/3076325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "A股人形机器人概念板块震荡上扬，立讯精密触及涨停，协创数据涨超10%，德马科技、斯菱智驱、国民技术跟涨。",
-          "url": "https://flash.jin10.com/detail/20260325102107604800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "A股生态农业板块午后拉升，冠农股份封板涨停，丰林集团、农发种业、新赛股份、亚通股份、新农开发等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260325131431264800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "A股算力租赁概念反复活跃，奥瑞德2连板，光环新网涨超15%，铜牛信息、奥飞数据、宏景科技、特发信息、美利云涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3076312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "A股贵金属板块集体走强，晓程科技涨近10%，湖南白银、盛达资源、山金国际、中金黄金、赤峰黄金、山东黄金等涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3076310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "上证指数早盘收报3915.49点，涨0.88%。 深证成指早盘收报13721.49点，涨1.37%。 创业板指早盘收报3292.55点，涨1.26%。 沪深300早盘收报4518.19点，涨0.97%。 科创50早盘收报1304.67点，涨1.08%。 中证500早盘收报7727.29点，涨1.71%。 中证1000早盘收报7708.94点，涨1.42%。",
-          "url": "https://wallstreetcn.com/livenews/3076381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "A股教育板块震荡上行，科德教育涨超10%，中公教育、豆神教育、学大教育、昂立教育、凯文教育等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260325101337066800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "A股人形机器人概念板块午后活跃，斯菱智驱涨超10%，德马科技、五洲新春、万向钱潮、睿能科技、奥比中光跟涨。",
-          "url": "https://flash.jin10.com/detail/20260325130445732800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "A股锂矿股延续强势，融捷股份逼近涨停，西部矿业、华友钴业、西藏珠峰、中矿资源、国城矿业涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3076307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "A股物流板块短线拉升，中国铁物封涨停，恒基达鑫、三羊马、密尔克卫、永泰运、厦门象屿跟涨。",
-          "url": "https://flash.jin10.com/detail/20260325101013106800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "A股CPO概念股开盘强势，铭普光磁一字涨停，联特科技、长芯博创、炬光科技、光库科技、智立方涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3076303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "A股三大指数全线高开，创业板指涨逾1%",
-          "url": "https://wallstreetcn.com/livenews/3076301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
@@ -1056,6 +1171,17 @@
           "time_info": "[01时05分 ~ 06时38分]"
         },
         {
+          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时38分 ~ 15时57分]"
+        },
+        {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
@@ -1065,17 +1191,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时05分 ~ 06时38分]"
-        },
-        {
-          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时38分 ~ 14时09分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -1098,11 +1213,12 @@
             15,
             14,
             24,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 14时09分]"
+          "appearance_count": 14,
+          "time_info": "[01时05分 ~ 15时57分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -1245,8 +1361,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "金十图示：2026年03月25日（周三）上海金午盘价为1014.14元/克，较国际金价(1010.34元/克)，高3.8元/克",
+          "url": "https://flash.jin10.com/detail/20260325153307394800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
         {
           "title": "金价将冲击1万美元？黄金跌入熊市后 市场资深人士重申看涨预期",
           "url": "https://www.cls.cn/detail/2323307",
