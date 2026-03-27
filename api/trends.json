@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-03-27T10:50:19.058607+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-03-27T13:12:32.717068+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 13时12分]"
+        },
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
           "url": "https://news.ifeng.com/c/8roGSbDHfgm",
@@ -31,21 +46,6 @@
           "time_info": "[01时09分 ~ 06时36分]"
         },
         {
-          "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6,
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 10时50分]"
-        },
-        {
           "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
           "url": "https://wallstreetcn.com/articles/3768442",
           "source": "华尔街见闻",
@@ -53,11 +53,12 @@
             9,
             8,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 10时50分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 13时12分]"
         },
         {
           "title": "特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈",
@@ -70,8 +71,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时41分 ~ 10时50分]"
+          "appearance_count": 6,
+          "time_info": "[04时41分 ~ 13时12分]"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -100,6 +101,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时09分 ~ 10时50分]"
+        },
+        {
+          "title": "伊朗消息人士：特朗普“大礼”言论系政治作秀",
+          "url": "https://news.ifeng.com/c/8rpM8FxIQ14",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时12分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -159,17 +171,6 @@
           "time_info": "[01时09分 ~ 07时38分]"
         },
         {
-          "title": "伊朗消息人士：特朗普“大礼”言论系政治作秀",
-          "url": "https://news.ifeng.com/c/8rpM8FxIQ14",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
           "title": "Anthropic赢得法院支持，以阻止特朗普对其AI工具使用的禁令。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3077736",
           "source": "华尔街见闻-快讯",
@@ -187,7 +188,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -215,6 +216,17 @@
           "time_info": "[04时41分 ~ 05时37分]"
         },
         {
+          "title": "一直赢的特朗普，又给自己续了10天",
+          "url": "https://news.ifeng.com/c/8rpKy15FPLN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时12分]"
+        },
+        {
           "title": "特朗普称再推迟10天打击伊朗发电厂",
           "url": "https://wallstreetcn.com/livenews/3077680",
           "source": "华尔街见闻-快讯",
@@ -239,26 +251,49 @@
           "time_info": "[04时41分 ~ 05时37分]"
         },
         {
-          "title": "一直赢的特朗普，又给自己续了10天",
-          "url": "https://news.ifeng.com/c/8rpKy15FPLN",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
           "title": "特朗普签名将出现在美国纸币上 苹果据传拟开放Siri接入更多模型 | 环球市场",
           "url": "https://www.cls.cn/detail/2326334",
           "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时12分]"
+        },
+        {
+          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
+          "url": "https://wallstreetcn.com/articles/3768510",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时12分]"
+        },
+        {
+          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
+          "url": "https://www.cls.cn/detail/2326560",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "美元纸币将印上特朗普签名",
+          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
+          "source": "凤凰网",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "13时12分"
         },
         {
           "title": "美国总统特朗普：还不知道周五的“最后期限”会不会改变。",
@@ -270,17 +305,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
-        },
-        {
-          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
-          "url": "https://wallstreetcn.com/articles/3768510",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
         },
         {
           "title": "特朗普：如果美伊达成“正确的协议”，霍尔木兹海峡将会开放",
@@ -360,6 +384,17 @@
           "time_info": "07时38分"
         },
         {
+          "title": "美伊极致拉扯：特朗普称收到“大礼”，再推迟10天打击能源设施！",
+          "url": "https://www.cls.cn/detail/2326367",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
           "title": "据美国新闻机构DropSiteNews：特朗普称是伊朗请求他暂停打击伊能源设施，一名伊朗官员否认了这一说法称：“我们没有就美国潜在的袭击提出任何请求。”",
           "url": "https://flash.jin10.com/detail/20260327053457955800",
           "source": "金十数据",
@@ -391,6 +426,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "特朗普揭晓所谓伊朗“大礼”",
+          "url": "https://www.toutiao.com/trending/7621688276944093203/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         },
         {
           "title": "特朗普签名将出现在面额100美元的纸币上",
@@ -487,7 +533,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -545,6 +591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "特朗普将签行政令向机场安检人员发薪",
+          "url": "https://www.toutiao.com/trending/7621399961460424731/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         }
       ]
     },
@@ -564,6 +621,18 @@
           "time_info": "[01时09分 ~ 06时36分]"
         },
         {
+          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
+          "url": "https://www.cls.cn/detail/2326270",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时38分 ~ 13时12分]"
+        },
+        {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
           "url": "https://wallstreetcn.com/articles/3768391",
           "source": "华尔街见闻",
@@ -575,15 +644,27 @@
           "time_info": "[01时09分 ~ 04时41分]"
         },
         {
-          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
-          "url": "https://www.cls.cn/detail/2326270",
+          "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
+          "url": "https://www.cls.cn/detail/2326291",
           "source": "财联社热门",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时38分 ~ 10时50分]"
+          "time_info": "[10时50分 ~ 13时12分]"
+        },
+        {
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时12分]"
         },
         {
           "title": "美股标普纳指创开战后最大单日跌幅",
@@ -592,29 +673,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
-          "url": "https://www.cls.cn/detail/2326291",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -664,6 +723,18 @@
           "time_info": "04时41分"
         },
         {
+          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
+          "url": "https://wallstreetcn.com/articles/3768527",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 13时12分]"
+        },
+        {
           "title": "金十图示：2026年03月26日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260327040606823800",
           "source": "金十数据",
@@ -686,17 +757,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时37分]"
-        },
-        {
-          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
-          "url": "https://wallstreetcn.com/articles/3768527",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
         },
         {
           "title": "美股收盘：纳指跌超2% 英伟达跌4%",
@@ -738,7 +798,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -749,7 +809,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         }
@@ -757,7 +817,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "跌破2万亿大关！A股成交额创年内新低，两大板块热度速降，这些方向也缩量明显",
@@ -772,13 +832,35 @@
           "time_info": "[01时09分 ~ 07时38分]"
         },
         {
+          "title": "A股盐湖提锂板块午后再度拉升，川能动力冲击涨停，此前盛新锂能、金圆股份涨停，赣锋锂业涨超9%，西藏珠峰、中伟新材、华联控股、盐湖股份等多股涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/3077940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "深成指、创业板指午后均涨超1%，开盘一度跌超1%，沪指涨0.51%，锂电、医药医疗、化工、大消费等方向领涨，沪深京三市近3900股飘红。",
+          "url": "https://wallstreetcn.com/livenews/3077936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
           "title": "A股三大指数全线翻红，此前深成指、创业板指均跌超1%。沪深京三市上涨个股约3700家。",
           "url": "https://wallstreetcn.com/livenews/3077858",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -789,7 +871,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -800,7 +882,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -811,7 +893,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -822,7 +904,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -833,7 +915,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -844,7 +926,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
@@ -855,9 +937,74 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 07时38分]"
+        },
+        {
+          "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3077691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时36分]"
+        },
+        {
+          "title": "据The Information：OpenAI的广告客户已超过600家，预计将于四月推出自助广告客户接入服务。",
+          "url": "https://flash.jin10.com/detail/20260327045344271800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "据 The Information：OpenAI广告试点的年化收入突破1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260327045343835800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "ChatGPT的心脏长什么样",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E7%9A%84%E5%BF%83%E8%84%8F%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         }
       ]
     },
@@ -924,52 +1071,37 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "keyword_group": "金价",
+      "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
+          "title": "金价银价急跌",
+          "url": "https://www.douyin.com/hot/2445095",
+          "source": "抖音",
           "ranks": [
-            14,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 07时38分]"
-        },
-        {
-          "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3077691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时36分]"
-        },
-        {
-          "title": "据The Information：OpenAI的广告客户已超过600家，预计将于四月推出自助广告客户接入服务。",
-          "url": "https://flash.jin10.com/detail/20260327045344271800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "10时50分"
         },
         {
-          "title": "据 The Information：OpenAI广告试点的年化收入突破1亿美元。",
-          "url": "https://flash.jin10.com/detail/20260327045343835800",
+          "title": "金价为何反常下跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E5%8F%8D%E5%B8%B8%E4%B8%8B%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "特朗普再度宣布推迟打击伊朗能源设施，油价短线大跌，金价大涨。",
+          "url": "https://flash.jin10.com/detail/20260327041512908800",
           "source": "金十数据",
           "ranks": [
-            15
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1000,45 +1132,18 @@
           "ranks": [
             19,
             17,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时36分 ~ 10时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价银价急跌",
-          "url": "https://www.douyin.com/hot/2445095",
-          "source": "抖音",
-          "ranks": [
+            7,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "特朗普再度宣布推迟打击伊朗能源设施，油价短线大跌，金价大涨。",
-          "url": "https://flash.jin10.com/detail/20260327041512908800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "appearance_count": 4,
+          "time_info": "[06时36分 ~ 13时12分]"
         }
       ]
     },
     {
       "keyword_group": "主力资金 开源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "主力资金流向前十大个股",
@@ -1047,9 +1152,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
+        },
+        {
+          "title": "美团开源原生多模态大模型LongCat-Next",
+          "url": "https://wallstreetcn.com/livenews/3077909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         }
       ]
     },
