@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T19:34:02.075805+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-03-28T21:06:23.238424+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普发出威胁：下一个是古巴",
@@ -20,6 +20,34 @@
           "time_info": "[12时58分 ~ 19时34分]"
         },
         {
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://www.cls.cn/detail/2327781",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时58分 ~ 21时06分]"
+        },
+        {
+          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
+          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时39分 ~ 21时06分]"
+        },
+        {
           "title": "特朗普揭晓所谓伊朗大礼",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%AD%E6%99%93%E6%89%80%E8%B0%93%E4%BC%8A%E6%9C%97%E5%A4%A7%E7%A4%BC%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -29,21 +57,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时02分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://www.cls.cn/detail/2327781",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时58分 ~ 19时34分]"
         },
         {
           "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
@@ -57,17 +70,6 @@
           "time_info": "[04时46分 ~ 10时39分]"
         },
         {
-          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
-          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时39分 ~ 19时34分]"
-        },
-        {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
           "url": "https://www.cls.cn/detail/2327594",
           "source": "财联社热门",
@@ -79,8 +81,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时02分 ~ 19时34分]"
+          "appearance_count": 19,
+          "time_info": "[03时02分 ~ 21时06分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -96,15 +98,17 @@
           "time_info": "[03时02分 ~ 10时39分]"
         },
         {
-          "title": "想跑跑不了，特朗普失控",
-          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
-          "source": "凤凰网",
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时34分]"
+          "appearance_count": 8,
+          "time_info": "[15时47分 ~ 21时06分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -130,16 +134,16 @@
           "time_info": "[01时03分 ~ 04时46分]"
         },
         {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
-          "source": "华尔街见闻",
+          "title": "想跑跑不了，特朗普失控",
+          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时47分 ~ 19时34分]"
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 21时06分]"
         },
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -526,6 +530,18 @@
           "time_info": "[06时38分 ~ 07时39分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-28）",
+          "url": "https://flash.jin10.com/detail/20260328182648074800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 21时06分]"
+        },
+        {
           "title": "美国总统特朗普谈伊朗：他们正在（与我们）谈判。",
           "url": "https://flash.jin10.com/detail/20260328054245418800",
           "source": "金十数据",
@@ -571,17 +587,6 @@
           "time_info": "03时03分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-28）",
-          "url": "https://flash.jin10.com/detail/20260328182648074800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
           "title": "美国总统特朗普：将在迈阿密发表一场关于经济的盛大演讲。我们在伊朗的军事行动进展顺利！",
           "url": "https://flash.jin10.com/detail/20260328021918920800",
           "source": "金十数据",
@@ -624,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "特朗普谈中国：对中国的成就必须非常尊重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
@@ -691,11 +707,12 @@
           "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时38分 ~ 19时34分]"
+          "appearance_count": 13,
+          "time_info": "[07时38分 ~ 21时06分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -720,8 +737,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时38分 ~ 19时34分]"
+          "appearance_count": 14,
+          "time_info": "[06时38分 ~ 21时06分]"
         },
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -745,11 +762,27 @@
             5,
             4,
             3,
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时58分 ~ 21时06分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[12时58分 ~ 19时34分]"
+          "time_info": "[14时04分 ~ 21时06分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -776,20 +809,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时02分 ~ 10时39分]"
-        },
-        {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时04分 ~ 19时34分]"
         },
         {
           "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
@@ -877,6 +896,18 @@
           "time_info": "[04时46分 ~ 05时42分]"
         },
         {
+          "title": "关键趋势线相继告破，美股“七姐妹”的技术性崩坏正在提速",
+          "url": "https://wallstreetcn.com/articles/3768602",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 21时06分]"
+        },
+        {
           "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
           "url": "https://flash.jin10.com/detail/20260328040624554800",
           "source": "金十数据",
@@ -887,17 +918,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时42分]"
-        },
-        {
-          "title": "关键趋势线相继告破，美股“七姐妹”的技术性崩坏正在提速",
-          "url": "https://wallstreetcn.com/articles/3768602",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
         },
         {
           "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
@@ -960,22 +980,24 @@
           "source": "微博",
           "ranks": [
             10,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时38分 ~ 19时34分]"
+          "appearance_count": 4,
+          "time_info": "[18时38分 ~ 21时06分]"
         },
         {
           "title": "金价大跌后迎抄底资金，分析师：结构性利好仍存",
           "url": "https://flash.jin10.com/detail/20260328184122077800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 21时06分]"
         }
       ]
     },
@@ -990,11 +1012,12 @@
           "ranks": [
             12,
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时43分 ~ 19时34分]"
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 21时06分]"
         },
         {
           "title": "A股年报分红潮 百亿级派现频出",
