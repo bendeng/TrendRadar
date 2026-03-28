@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T07:39:05.343820+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-03-28T10:39:44.997880+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普揭晓所谓伊朗大礼",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时46分 ~ 07时39分]"
+          "appearance_count": 7,
+          "time_info": "[04时46分 ~ 10时39分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -40,19 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时02分 ~ 07时39分]"
-        },
-        {
-          "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 06时38分]"
+          "appearance_count": 9,
+          "time_info": "[03时02分 ~ 10时39分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -64,8 +53,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时02分 ~ 07时39分]"
+          "appearance_count": 9,
+          "time_info": "[03时02分 ~ 10时39分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 06时38分]"
         },
         {
           "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
@@ -85,11 +85,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时39分]"
+          "appearance_count": 3,
+          "time_info": "[06时38分 ~ 10时39分]"
         },
         {
           "title": "美国总统特朗普：我们将公布新的柴油指导方针。",
@@ -136,15 +137,37 @@
           "time_info": "03时03分"
         },
         {
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://wallstreetcn.com/livenews/3078530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "美国总统特朗普：我想我们不必出席北约会议了，不需要再支持北约。",
           "url": "https://flash.jin10.com/detail/20260328064652534800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
+          "url": "https://wallstreetcn.com/livenews/3078529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "美国总统特朗普：要求为农民提供额外农业援助。",
@@ -158,15 +181,37 @@
           "time_info": "01时04分"
         },
         {
+          "title": "特朗普又批北约 威胁缩减对北约的“保护”开支",
+          "url": "https://flash.jin10.com/detail/20260328101805686800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "美国总统特朗普：我们同意向沙特出售F-35战斗机；F-35性能卓越；我们出售的数量非常有限；我们不希望其他国家拥有它们。",
           "url": "https://flash.jin10.com/detail/20260328062812341800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "特朗普称霍尔木兹为特朗普海峡",
+          "url": "https://wallstreetcn.com/livenews/3078525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "美国总统特朗普：我们想要低利率，无通胀。",
@@ -174,11 +219,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时39分]"
+          "appearance_count": 3,
+          "time_info": "[06时38分 ~ 10时39分]"
         },
         {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
@@ -199,11 +245,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时39分]"
+          "appearance_count": 3,
+          "time_info": "[06时38分 ~ 10时39分]"
+        },
+        {
+          "title": "美国总统特朗普再次呼吁伊朗开放霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3078502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时38分 ~ 10时39分]"
         },
         {
           "title": "美国总统特朗普：古巴将是下一个目标。",
@@ -224,18 +284,6 @@
           "ranks": [
             4,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时39分]"
-        },
-        {
-          "title": "美国总统特朗普再次呼吁伊朗开放霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3078502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -352,6 +400,17 @@
           "time_info": "[06时38分 ~ 07时39分]"
         },
         {
+          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
+          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "美国总统特朗普：（在演讲中对农民表示）就你们所知，我们在伊朗问题上做得很好。",
           "url": "https://flash.jin10.com/detail/20260328005322422800",
           "source": "金十数据",
@@ -407,6 +466,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "特朗普自称在委内瑞拉支持率高到可以竞选总统，鲁比奥听了都憋笑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32843683",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "报道：特朗普预算提案将于4月3日提交国会，国家安全支出最受关注",
           "url": "https://wallstreetcn.com/livenews/3078390",
           "source": "华尔街见闻-快讯",
@@ -427,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美国总统特朗普谈伊朗冲突：差不多结束了，但还没结束。",
+          "url": "https://wallstreetcn.com/livenews/3078512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "特朗普与莫迪通话讨论中东局势 马斯克参与",
@@ -465,7 +546,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -510,11 +591,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32842497",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时02分 ~ 07时39分]"
+          "appearance_count": 9,
+          "time_info": "[03时02分 ~ 10时39分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -522,11 +604,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 07时39分]"
+          "appearance_count": 4,
+          "time_info": "[06时38分 ~ 10时39分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -536,8 +619,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
+          "appearance_count": 3,
+          "time_info": "[07时38分 ~ 10时39分]"
         },
         {
           "title": "“口头干预”失效，美油重返百元关口，美股道指、纳指跌入修正区间，VIX突破30",
@@ -549,6 +632,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "美股“七姐妹”技术性崩坏正在提速",
+          "url": "https://www.toutiao.com/trending/7621931362551971883/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，纳指100 ETF收跌超1.9%，布油基金涨超4.2%",
@@ -612,6 +706,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时42分]"
+        },
+        {
+          "title": "关键趋势线相继告破，美股“七姐妹”的技术性崩坏正在提速",
+          "url": "https://wallstreetcn.com/articles/3768602",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
@@ -688,6 +793,23 @@
       ]
     },
     {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股年报分红潮 百亿级派现频出",
+          "url": "https://flash.jin10.com/detail/20260328083924419800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "牛散 游资",
       "match_count": 1,
       "titles": [
@@ -698,11 +820,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时03分 ~ 07时39分]"
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 10时39分]"
         }
       ]
     }
