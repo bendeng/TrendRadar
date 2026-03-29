@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T01:37:49.522817+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2026-03-30T02:53:08.501258+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时53分]"
         },
         {
           "title": "反对特朗普的浪潮国际化了",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时53分]"
         },
         {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时53分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
@@ -48,19 +48,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时53分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
           "url": "https://wallstreetcn.com/livenews/3078747",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时37分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时53分]"
         }
       ]
     },
@@ -74,11 +75,12 @@
           "source": "微博",
           "ranks": [
             4,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时53分]"
         },
         {
           "title": "DeepSeek“崩了”",
@@ -89,8 +91,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时53分]"
         }
       ]
     },
@@ -106,8 +108,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时53分]"
         },
         {
           "title": "龙头15天8板 本周披露并购重组进展的A股名单一览",
@@ -117,8 +119,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时53分]"
         }
       ]
     },
@@ -134,8 +136,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时53分]"
         }
       ]
     }
