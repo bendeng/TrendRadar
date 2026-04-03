@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T22:51:26.231129+08:00",
-  "total_titles_processed": 1725,
+  "generated_at": "2026-04-03T23:43:53.583053+08:00",
+  "total_titles_processed": 1809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -41,6 +41,18 @@
           "time_info": "[01时01分 ~ 07时41分]"
         },
         {
+          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
+          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时48分 ~ 23时43分]"
+        },
+        {
           "title": "外交部谈特朗普涉伊朗言论",
           "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
           "source": "凤凰网",
@@ -51,18 +63,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时01分 ~ 10时48分]"
-        },
-        {
-          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
-          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时48分 ~ 22时51分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -89,8 +89,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时18分 ~ 22时51分]"
+          "appearance_count": 7,
+          "time_info": "[15时18分 ~ 23时43分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
@@ -150,6 +150,19 @@
           "time_info": "10时48分"
         },
         {
+          "title": "马克龙回怼特朗普",
+          "url": "https://www.douyin.com/hot/2453352",
+          "source": "抖音",
+          "ranks": [
+            12,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时02分 ~ 23时43分]"
+        },
+        {
           "title": "特朗普讲话后金银直线跳水",
           "url": "https://www.douyin.com/hot/2452230",
           "source": "抖音",
@@ -164,15 +177,15 @@
           "time_info": "[03时03分 ~ 07时41分]"
         },
         {
-          "title": "伊朗总统回应特朗普：“炸回石器时代”言论意味着大规模战争罪",
-          "url": "https://wallstreetcn.com/livenews/3082255",
+          "title": "北约：秘书长吕特将于4月8-12日前往美国。 吕特将在4月8日会见美国总统特朗普，国务卿卢比奥，以及国防部长海格塞斯。",
+          "url": "https://wallstreetcn.com/livenews/3082267",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "23时43分"
         },
         {
           "title": "美国总统特朗普相信，一旦伊朗战争结束，利率将会下降。（DC Examiner）",
@@ -203,7 +216,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -230,19 +243,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时48分 ~ 17时02分]"
-        },
-        {
-          "title": "马克龙回怼特朗普",
-          "url": "https://www.douyin.com/hot/2453352",
-          "source": "抖音",
-          "ranks": [
-            12,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时02分 ~ 22时51分]"
         },
         {
           "title": "特朗普发表讲话谈伊朗战事",
@@ -308,6 +308,18 @@
           "time_info": "[06时38分 ~ 07时41分]"
         },
         {
+          "title": "伊朗总统回应特朗普：“炸回石器时代”言论意味着大规模战争罪",
+          "url": "https://wallstreetcn.com/livenews/3082255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时43分]"
+        },
+        {
           "title": "据CBS报道，礼来制药减肥药Foundayo将上架美国总统特朗普的TrumpRX。 4月1日，美国食品药品管理局（FDA）批准了这款口服减肥药。",
           "url": "https://wallstreetcn.com/livenews/3081802",
           "source": "华尔街见闻-快讯",
@@ -365,6 +377,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时10分 ~ 15时18分]"
+        },
+        {
+          "title": "特朗普又又又临阵退缩了？",
+          "url": "https://news.ifeng.com/c/8s1rQuxF293",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时43分]"
         },
         {
           "title": "特朗普放炸桥视频施压，伊朗外长说不会投降",
@@ -432,9 +455,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
+        },
+        {
+          "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
+          "url": "https://flash.jin10.com/detail/20260403233021951800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "特朗普放狠话加剧冲突，美油暴涨超13%，即期布油飙破140美元，金银现“踩踏式撤退”。伊朗释放霍尔木兹协议信号，市场巨震不止.....后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -465,9 +499,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
+        },
+        {
+          "title": "北约方面表示，北约秘书长将于4月8日至12日访美，会见美国总统特朗普、国务卿鲁比奥和国防部长赫格塞思。",
+          "url": "https://flash.jin10.com/detail/20260403232929062800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "特朗普2027财年预算案拟为美国政府部门拨款将近2.2万亿美元",
@@ -476,7 +521,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -487,18 +532,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "特朗普又又又临阵退缩了？",
-          "url": "https://news.ifeng.com/c/8s1rQuxF293",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -520,7 +554,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -531,7 +565,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -547,13 +581,35 @@
           "time_info": "21时15分"
         },
         {
+          "title": "据CNN援引白宫新闻秘书莱维特表示，美国总统特朗普已获知伊朗击落一架无人机的事件。",
+          "url": "https://flash.jin10.com/detail/20260403231509128800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
+          "title": "美国2027财年预算：特朗普拟寻求将近2.2万亿美元，预计CPI将上升2.3%",
+          "url": "https://wallstreetcn.com/livenews/3082250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美国总统特朗普发布2.164万亿美元的自由裁量预算请求。",
           "url": "https://flash.jin10.com/detail/20260403220544691800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -624,6 +680,17 @@
           "time_info": "21时15分"
         },
         {
+          "title": "“再给点时间”！特朗普疯狂叫嚣，扬言要夺石油发大财",
+          "url": "https://flash.jin10.com/detail/20260403224906129800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "白宫：特朗普2027财年预算案寻求1.5万亿美元国防支出",
           "url": "https://wallstreetcn.com/livenews/3082183",
           "source": "华尔街见闻-快讯",
@@ -657,6 +724,17 @@
           "time_info": "15时18分"
         },
         {
+          "title": "特朗普预算案预计在2027年将获得4640亿美元的关税收入。（外媒更正：非2027财年）",
+          "url": "https://flash.jin10.com/detail/20260403224401371800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美国总统特朗普的预算案提议终止对国家民主基金会 3.15亿美元的资助。",
           "url": "https://flash.jin10.com/detail/20260403204913621800",
           "source": "金十数据",
@@ -666,6 +744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
+        },
+        {
+          "title": "特朗普的预算案预计2027财年CPI将上涨2.3%。",
+          "url": "https://flash.jin10.com/detail/20260403223912210800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "伦敦基础金属下跌，特朗普威胁要袭击伊朗电厂",
@@ -1096,7 +1185,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         }
@@ -1116,6 +1205,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "美元指数目前涨0.07%，在清淡行情中持稳于100.100点下方，北京时间20:30披露非农就业报告时从100整数位心理关口下方瞬间拉升至100.160刷新日高。 美国官员称，一架美军F-15战斗机在伊朗被击落，美方在搜寻被击落的F-15战斗机机组人员。",
+          "url": "https://wallstreetcn.com/livenews/3082252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时43分]"
         },
         {
           "title": "美元指数2日上涨",
@@ -1151,17 +1252,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
-        },
-        {
-          "title": "美元指数目前涨0.07%，在清淡行情中持稳于100.100点下方，北京时间20:30披露非农就业报告时从100整数位心理关口下方瞬间拉升至100.160刷新日高。 美国官员称，一架美军F-15战斗机在伊朗被击落，美方在搜寻被击落的F-15战斗机机组人员。",
-          "url": "https://wallstreetcn.com/livenews/3082252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
         },
         {
           "title": "美元指数短线波动不大，科威特一电力和海水淡化厂遇袭，部分设施受损",
