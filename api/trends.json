@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T07:42:09.434718+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-04-07T10:51:37.717924+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 111,
       "titles": [
         {
           "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
@@ -41,6 +41,33 @@
           "time_info": "[00时56分 ~ 07时42分]"
         },
         {
+          "title": "假期要闻汇总：特朗普称与伊朗协议有望在7日最后期限前达成；苹果首款折叠屏手机已在试产",
+          "url": "https://www.cls.cn/detail/2335705",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 10时51分]"
+        },
+        {
+          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
+          "url": "https://www.cls.cn/detail/2335649",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 10时51分]"
+        },
+        {
           "title": "特朗普“飙脏话”威胁打开霍尔木兹海峡，伊朗最高领袖回应“将继续利用这一战略杠杆”，伊朗革命卫队称正备战“波斯湾新秩序”",
           "url": "https://wallstreetcn.com/articles/3769302",
           "source": "华尔街见闻",
@@ -58,31 +85,6 @@
           "ranks": [
             6,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时42分]"
-        },
-        {
-          "title": "假期要闻汇总：特朗普称与伊朗协议有望在7日最后期限前达成；苹果首款折叠屏手机已在试产",
-          "url": "https://www.cls.cn/detail/2335705",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时42分]"
-        },
-        {
-          "title": "中东局势牵动市场 特朗普今夜新闻会！日韩股震荡上涨",
-          "url": "https://www.cls.cn/detail/2335649",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            8
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -124,6 +126,20 @@
           "time_info": "[07时41分 ~ 07时42分]"
         },
         {
+          "title": "特朗普：伊朗停战回应还不够好，要“拿走石油”，7日最终期限不可改，美国该收霍尔木兹通行费",
+          "url": "https://wallstreetcn.com/articles/3769328",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时42分 ~ 10时51分]"
+        },
+        {
           "title": "美以伊战争丨特朗普：被迫炸毁2架深陷沙地运输机",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -133,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        },
+        {
+          "title": "美以伊战争丨威胁轰炸民用设施，特朗普：不担心",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         },
         {
           "title": "特朗普称4小时内可摧毁伊朗桥梁和发电厂",
@@ -157,6 +184,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "特朗普与还在执行阿尔忒弥斯II号任务的宇航员通话，邀请宇航员作客白宫。",
+          "url": "https://wallstreetcn.com/livenews/3083112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
           "title": "美国总统特朗普赞许北约秘书长吕特。",
           "url": "https://wallstreetcn.com/livenews/3082935",
           "source": "华尔街见闻-快讯",
@@ -168,17 +206,27 @@
           "time_info": "03时09分"
         },
         {
-          "title": "特朗普：伊朗停战回应还不够好，要“拿走石油”，7日最终期限不可改，美国该收霍尔木兹通行费",
-          "url": "https://wallstreetcn.com/articles/3769328",
-          "source": "华尔街见闻",
+          "title": "特朗普：该由美国收霍尔木兹通行费",
+          "url": "https://news.ifeng.com/c/8s7WhbxpGX0",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "特朗普：伊朗可在一夜内被击溃 或许就是7日晚上",
+          "url": "https://www.cls.cn/detail/2335931",
+          "source": "财联社热门",
           "ranks": [
             10,
-            9,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时42分 ~ 07时42分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 10时51分]"
         },
         {
           "title": "特朗普再发威胁：若伊朗不在7日20时前“投降”，4小时摧毁伊朗桥梁发电厂",
@@ -337,17 +385,6 @@
           "time_info": "[01时53分 ~ 03时09分]"
         },
         {
-          "title": "特朗普：伊朗可在一夜内被击溃 或许就是7日晚上",
-          "url": "https://www.cls.cn/detail/2335931",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
-        },
-        {
           "title": "特朗普：等伊朗战争结束，就去委内瑞拉竞选总统",
           "url": "https://flash.jin10.com/detail/20260407044624292800",
           "source": "金十数据",
@@ -395,13 +432,24 @@
           "time_info": "[07时41分 ~ 07时42分]"
         },
         {
+          "title": "内塔尼亚胡警告特朗普",
+          "url": "https://news.ifeng.com/c/8s7IfSXTh6S",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
           "title": "特朗普：整个伊朗可“一夜被消灭”，宁愿美国收霍尔木兹过路费",
           "url": "https://flash.jin10.com/detail/20260407065351443800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -434,9 +482,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "以色列总理警告特朗普勿仓促停火",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E8%AD%A6%E5%91%8A%E7%89%B9%E6%9C%97%E6%99%AE%E5%8B%BF%E4%BB%93%E4%BF%83%E5%81%9C%E7%81%AB%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "特朗普：该由美国收霍尔木兹海峡“通行费”",
+          "url": "https://www.cls.cn/detail/2335995",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         },
         {
           "title": "美国总统特朗普谈及攫取伊朗石油，称：“胜利者”享有“战利品”。",
@@ -448,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "特朗普最后通牒将到期，全世界都在屏息等待",
+          "url": "https://news.ifeng.com/c/8s7eb3ChIcW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         },
         {
           "title": "WTI原油5分钟内下跌0.6美元/桶，报112.9美元/桶。 美国总统特朗普声称，明晚（美东时间）8点的最后期限一过，伊朗将失去桥梁。 如果没有协议，伊朗将失去桥梁和发电站。 与伊朗谈判的最大问题是，他们无法沟通。 美国已经有计划在明晚前摧毁伊朗的桥梁。 美国可以帮助伊朗重建。 美国最不想做的，局势重建发电厂。 “我不想摧毁”伊朗的基础设施。 伊朗重建的唯一途径就是通过美国。",
@@ -470,6 +551,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
+          "url": "https://wallstreetcn.com/articles/3769330",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "美媒：特朗普正酝酿内阁大调整",
+          "url": "https://news.ifeng.com/c/8s7fanWP0Rp",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         },
         {
           "title": "美国总统特朗普：我希望夺取伊朗的石油。",
@@ -500,7 +603,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -516,6 +619,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "特朗普再发威胁：7日20时是“最后期限”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32914898",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
           "title": "美国总统特朗普：我不担心那些针对民用基础设施的担忧。",
           "url": "https://flash.jin10.com/detail/20260407000413671800",
           "source": "金十数据",
@@ -527,6 +641,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "伊朗：特朗普言论可能煽动恐怖主义",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AE%BA%E5%8F%AF%E8%83%BD%E7%85%BD%E5%8A%A8%E6%81%90%E6%80%96%E4%B8%BB%E4%B9%89",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
           "title": "距离特朗普威胁要打击伊朗发电厂的最后通牒仅剩24小时多一点，伊朗东北部城市马什哈德的123号发电站遭到空袭。",
           "url": "https://flash.jin10.com/detail/20260407035707820800",
           "source": "金十数据",
@@ -536,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32915034",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们实现了政权更迭，他们变得更温和。",
@@ -569,6 +705,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "特朗普：我将于今晚10点与“阿耳忒弥斯”登月计划的宇航员进行通话。",
+          "url": "https://wallstreetcn.com/livenews/3083095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         },
         {
           "title": "美国总统特朗普：我们派了200人去营救那名空军人员。",
@@ -613,6 +760,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆：特朗普总统不会让伊朗重新落入激进领导层的手中。目标明确，我100%支持。",
+          "url": "https://flash.jin10.com/detail/20260407100525794800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         },
         {
           "title": "美国总统特朗普：北约应该感到羞愧。",
@@ -890,6 +1048,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "美国总统特朗普：今晚我将与伟大的阿尔忒弥斯二号宇航员进行现场直播，时间是晚上10:00。尽情享受吧！",
+          "url": "https://flash.jin10.com/detail/20260407100026048800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
           "title": "美国总统特朗普：伊朗想要停火，因为他们正被彻底摧毁。",
           "url": "https://flash.jin10.com/detail/20260406235502291800",
           "source": "金十数据",
@@ -1075,23 +1244,215 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "被特朗普言论震惊了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AE%BA%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
+          "url": "https://www.cls.cn/detail/2335507",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时42分]"
+        },
+        {
+          "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32911415",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 07时42分]"
+        },
+        {
+          "title": "A股短期见底了吗？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2335817",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            9,
+            8,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时53分 ~ 10时51分]"
+        },
+        {
+          "title": "A股猪肉股早盘持续走强，华统股份涨停，巨星农牧涨超5%，大禹生物、神农集团等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260407102638462800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
+          "url": "https://wallstreetcn.com/livenews/3083014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "A股4月下旬或迎关键拐点，市场进一步聚焦业绩确定性",
+          "url": "https://wallstreetcn.com/livenews/3082994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时42分]"
+        },
+        {
+          "title": "A股4月下旬或迎关键拐点",
+          "url": "https://www.toutiao.com/trending/7625612430141784070/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时41分 ~ 07时42分]"
+        },
+        {
+          "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
+          "url": "https://www.cls.cn/detail/2335367",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 06时42分]"
+        },
+        {
+          "title": "A股医疗耗材概念盘中震荡拉升，英科医疗涨超10%，创4年多新高，蓝帆医疗、奥美医疗触及涨停，中红医疗、冠昊生物、阳普医疗、奥精医疗、华兰股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260407101654827800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "A股航运概念震荡拉升，中远海发触及涨停，中集集团、中远海能、安通控股、华光源海、兴通股份、招商南油等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260407101617221800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "A股体育产业板块表现活跃，粤传媒、中体产业双双涨停，金陵体育、共创草坪、力盛体育涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260407101046418800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "A股锂电池板块震荡走强，诺德股份、蔚蓝锂芯涨停，博力威涨超10%，鹏辉能源、嘉元科技、德福科技、时代万恒涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3083084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.5%，深成指涨0.92%，有机硅、铜箔、电池、化工等方向领涨，沪深京三市上涨个股超4200只。",
+          "url": "https://wallstreetcn.com/livenews/3083082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "A股创新药概念股快速跳水，海王生物触及跌停，荣昌生物跌超10%，广生堂、润都股份、三生国健、双鹭药业、海特生物等多股跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3083078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "A股消费电子概念开盘活跃，折叠屏方向领涨，福蓉科技一字涨停，宜安科技涨超9%，智动力、精研科技、联得装备、安洁科技、大富科技等多股高开，记者4月6日从产业链人士处获悉，富士康已在试产苹果折叠屏iPhone手机。",
+          "url": "https://wallstreetcn.com/livenews/3083066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
           "url": "https://wallstreetcn.com/articles/3769300",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 10时51分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
@@ -1114,6 +1475,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
+          "url": "https://wallstreetcn.com/articles/3769329",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 10时51分]"
         },
         {
           "title": "联合健康美股盘后中行那个11%，CVS涨8.6%。 美国医疗保险局（Medicare）最终确定，2027年上调私人保险公司2.48%的费率。",
@@ -1153,17 +1526,6 @@
           "time_info": "[04时42分 ~ 06时42分]"
         },
         {
-          "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
-          "url": "https://wallstreetcn.com/articles/3769329",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
-        },
-        {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260407040534288800",
           "source": "金十数据",
@@ -1200,6 +1562,28 @@
           "time_info": "[05时42分 ~ 06时42分]"
         },
         {
+          "title": "美股收盘：标普纳指连涨四天 存储概念走强希捷收新高",
+          "url": "https://www.cls.cn/detail/2335967",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "原油拉升，黄金失守4610美元，美股期指集体下挫",
+          "url": "https://www.cls.cn/detail/2335643",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 特斯拉跌2%",
           "url": "https://flash.jin10.com/detail/20260407040042993800",
           "source": "金十数据",
@@ -1209,97 +1593,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "应声20CM涨停！A股一季报行情打响，12家上市公司净利最高同比预增超200%",
-          "url": "https://www.cls.cn/detail/2335507",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时42分]"
-        },
-        {
-          "title": "A股近期将有73.18亿股限售股解禁，总市值约1090.02亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32911415",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 07时42分]"
-        },
-        {
-          "title": "A股短期见底了吗？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2335817",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时53分 ~ 07时42分]"
-        },
-        {
-          "title": "真金白银提振信心，多家A股行业龙头发布回购方案",
-          "url": "https://wallstreetcn.com/livenews/3083014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "A股4月下旬或迎关键拐点，市场进一步聚焦业绩确定性",
-          "url": "https://wallstreetcn.com/livenews/3082994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时42分]"
-        },
-        {
-          "title": "A股4月下旬或迎关键拐点",
-          "url": "https://www.toutiao.com/trending/7625612430141784070/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
-        },
-        {
-          "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
-          "url": "https://www.cls.cn/detail/2335367",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 06时42分]"
         }
       ]
     },
