@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T19:04:45.219386+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-04-09T22:47:48.004851+08:00",
+  "total_titles_processed": 1646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 78,
       "titles": [
         {
           "title": "万斯威胁：特朗普没有多少耐心，希望尽快取得进展",
@@ -99,8 +99,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时47分 ~ 19时04分]"
+          "appearance_count": 6,
+          "time_info": "[10时47分 ~ 22时47分]"
         },
         {
           "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
@@ -113,6 +113,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时11分 ~ 10时47分]"
+        },
+        {
+          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
+          "url": "https://wallstreetcn.com/articles/3769534",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 22时47分]"
         },
         {
           "title": "尴尬！万斯演讲现场给特朗普打电话，手机那头传来：对不起…",
@@ -152,19 +165,6 @@
           "time_info": "[13时15分 ~ 19时04分]"
         },
         {
-          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
-          "url": "https://wallstreetcn.com/articles/3769534",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 19时04分]"
-        },
-        {
           "title": "“北约盟友没帮忙，特朗普打算这样惩罚”",
           "url": "https://news.ifeng.com/c/8sB098ZojvN",
           "source": "凤凰网",
@@ -175,6 +175,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时15分 ~ 15时45分]"
+        },
+        {
+          "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
+          "url": "https://wallstreetcn.com/articles/3769537",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 22时47分]"
         },
         {
           "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
@@ -244,6 +256,17 @@
           "time_info": "17时16分"
         },
         {
+          "title": "格陵兰岛自治政府总理回应特朗普：我们不是一块冰",
+          "url": "https://flash.jin10.com/detail/20260409223524794800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
           "url": "https://wallstreetcn.com/articles/3769486",
           "source": "华尔街见闻",
@@ -256,16 +279,15 @@
           "time_info": "[10时47分 ~ 19时04分]"
         },
         {
-          "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
-          "url": "https://wallstreetcn.com/articles/3769537",
+          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
+          "url": "https://wallstreetcn.com/articles/3769556",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 19时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "深度特写：特朗普是如何把美国\"拖入\"伊朗战争的？",
@@ -392,6 +414,18 @@
           "time_info": "[10时47分 ~ 17时16分]"
         },
         {
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 22时47分]"
+        },
+        {
           "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
           "url": "https://news.ifeng.com/c/8sALx5qaI3W",
           "source": "凤凰网",
@@ -416,17 +450,6 @@
           "time_info": "[15时45分 ~ 19时04分]"
         },
         {
-          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 19时04分]"
-        },
-        {
           "title": "在特朗普2.0任期内炒股竟有秘诀：标普十大涨幅日九个和TACO有关",
           "url": "https://www.cls.cn/detail/2338928",
           "source": "财联社热门",
@@ -437,6 +460,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时16分 ~ 19时04分]"
+        },
+        {
+          "title": "关税战没有赢家！外交部回应特朗普关税言论",
+          "url": "https://www.cls.cn/detail/2339082",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 22时47分]"
         },
         {
           "title": "从惊魂到TACO--特朗普震惊世界的12小时",
@@ -480,7 +515,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -518,17 +553,6 @@
           "time_info": "03时25分"
         },
         {
-          "title": "关税战没有赢家！外交部回应特朗普关税言论",
-          "url": "https://www.cls.cn/detail/2339082",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
           "title": "美国总统特朗普：我们将与伊朗通过闭门会议讨论停火协议的条款。",
           "url": "https://wallstreetcn.com/livenews/3084477",
           "source": "华尔街见闻-快讯",
@@ -538,6 +562,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "WTI原油日内涨幅达7.5%，报101.52美元/桶。 国家经济委员会主任凯文·哈塞特表示，根据美国1977年《国际紧急经济权力法》（IEEPA），总统特朗普有权颁布新的涉伊关税。 哈塞特宣称，由于美国正处于“冲突状态”，该法案可以被启用，且“这显然属于总统的关税职权范围”。 若特朗普利用该紧急法征收关税，政府将面临一场说服法院其合法性的艰巨挑战，因为最高法院此前曾裁定该法案“并未授权总统征收关税”。",
+          "url": "https://wallstreetcn.com/livenews/3085177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "美媒：明尼阿波利斯联储顾问菲兰有望成为特朗普的首席经济顾问",
@@ -582,6 +617,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32931462",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "关税战没有赢家 外交部回应特朗普关税言论",
@@ -821,7 +867,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -846,12 +892,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "德国总理默茨：我们正在德黑兰与伊朗领导层重新进行直接对话。 中东局势需要德国作出回应，尤其是在能源方面。 我在一次通话中鼓励特朗普紧急推进与伊朗的谈判。 我不希望北约解体，它也是欧洲的安全保障。",
+          "url": "https://wallstreetcn.com/livenews/3085154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -871,11 +928,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时43分 ~ 19时04分]"
+          "appearance_count": 7,
+          "time_info": "[07时43分 ~ 22时47分]"
         },
         {
           "title": "报复性反弹！美伊“停火两周”，美股开盘集体上涨，美光涨超8%，现货钯金涨超9%，油价创近六年最大跌幅",
@@ -987,6 +1045,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2339594",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（4月8日），美国科技股七巨头（Magnificent 7）指数涨2.52%，报191.61点，跳空高开至194.23点之后快速回吐涨幅，绝大部分时间交投于盘初出现的日低190.68点附近，整体呈现出W形走势。 “超大”市值科技股指数涨2.61%，报366.44点。",
           "url": "https://wallstreetcn.com/livenews/3084588",
           "source": "华尔街见闻-快讯",
@@ -1007,6 +1076,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "美股开盘：蔚来涨超3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E8%94%9A%E6%9D%A5%E6%B6%A8%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "美股股指期货周四开盘微跌，WTI原油微涨，现货黄金高开0.15%。",
@@ -1086,6 +1166,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "美股存储概念股盘初续涨，闪迪涨超5%再创历史新高，月内累涨约30%；美光科技、西部数据涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3085161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "美股收盘：三大股指集体收涨 金龙指数大涨3%",
           "url": "https://flash.jin10.com/detail/20260409040055281800",
           "source": "金十数据",
@@ -1100,7 +1191,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "“莫氏鸡煲”爆红出圈一鸡难求？ A股千亿巨头主动“送鸡”接流量",
@@ -1173,6 +1264,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时47分 ~ 19时04分]"
+        },
+        {
+          "title": "A股如何在油市动荡中保持韧性",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B2%B9%E5%B8%82%E5%8A%A8%E8%8D%A1%E4%B8%AD%E4%BF%9D%E6%8C%81%E9%9F%A7%E6%80%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-04-09）",
@@ -1288,7 +1390,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "曝ChatGPT6本月发布",
@@ -1357,6 +1459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI正在完成一款具备强大网络安全功能的产品，并计划将其仅向一小部分合作伙伴推出。",
+          "url": "https://flash.jin10.com/detail/20260409221331312800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         }
       ]
     },
@@ -1400,9 +1513,49 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美伊停火协议难止冲突，纳指涨0.06%，标普跌0.05%，油价强势反弹，金价4720美元震荡",
+          "url": "https://wallstreetcn.com/articles/3769555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
+          "title": "土耳其财政部长：外汇储备减少的四分之一归因于金价下跌。",
+          "url": "https://flash.jin10.com/detail/20260409162959948800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "牛散 游资",
       "match_count": 2,
       "titles": [
+        {
+          "title": "【数据看盘】光迅科技龙虎榜现10亿抢筹大战 “北向+游资+机构” 涌入东山精密",
+          "url": "https://www.cls.cn/detail/2339309",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时04分 ~ 22时47分]"
+        },
         {
           "title": "量化私募扎堆LOF，牛散大户“扫货”ETF",
           "url": "https://wallstreetcn.com/livenews/3084608",
@@ -1414,34 +1567,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时43分]"
-        },
-        {
-          "title": "【数据看盘】光迅科技龙虎榜现10亿抢筹大战 “北向+游资+机构” 涌入东山精密",
-          "url": "https://www.cls.cn/detail/2339309",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "土耳其财政部长：外汇储备减少的四分之一归因于金价下跌。",
-          "url": "https://flash.jin10.com/detail/20260409162959948800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时16分"
         }
       ]
     }
