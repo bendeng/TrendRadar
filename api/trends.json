@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T05:44:30.395785+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-04-11T06:43:11.357120+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 06时43分]"
         },
         {
           "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 06时43分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 06时43分]"
         },
         {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
@@ -160,6 +160,18 @@
           "time_info": "[01时02分 ~ 01时58分]"
         },
         {
+          "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
+          "url": "https://wallstreetcn.com/livenews/3086110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
           "title": "特朗普：伊朗手中已无筹码 存在的原因是为了谈判",
           "url": "https://flash.jin10.com/detail/20260411003033068800",
           "source": "金十数据",
@@ -172,17 +184,6 @@
           "time_info": "[01时02分 ~ 01时58分]"
         },
         {
-          "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
-          "url": "https://wallstreetcn.com/livenews/3086110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
           "title": "美国总统特朗普：伊朗人在应对假新闻媒体和“公关”方面比打仗更在行！",
           "url": "https://flash.jin10.com/detail/20260411002832276800",
           "source": "金十数据",
@@ -192,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "【特朗普：霍尔木兹海峡“很快就会重新开放”】4月10日，美国总统特朗普表示，霍尔木兹海峡“很快就会重新开放，无论如何都会开放”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3086118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "【特朗普：与伊朗的会谈结果将在24小时内明朗】美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。（新华社）",
@@ -233,7 +245,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -306,8 +318,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时43分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
@@ -317,8 +329,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时43分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
+          "url": "https://flash.jin10.com/detail/20260411040442253800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时43分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -357,17 +380,6 @@
           "time_info": "[04时46分 ~ 05时44分]"
         },
         {
-          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
-          "url": "https://flash.jin10.com/detail/20260411040442253800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时44分]"
-        },
-        {
           "title": "标普500指数收跌7.77点，跌幅0.11%，报6816.89点。 道琼斯工业平均指数收跌269.23点，跌幅0.56%，报47916.57点。 纳斯达克综合指数（纳指）收涨80.477点，涨幅0.35，报22902.894点。 纳斯达克100指数收涨34.251点，涨幅0.14%，报25116.338点。 费城半导体指数收涨2.31%，报8889.828点，连续三个交易日创收盘历史新高。 高盛、摩根大通、花旗集团等下周拉开美股财报季序幕之前，费城证交所KBW银行指数收跌0.69%，报165.34点。 道琼斯KBW地区银行指数收跌1.21%，报13.61点。",
           "url": "https://wallstreetcn.com/livenews/3086072",
           "source": "华尔街见闻-快讯",
@@ -392,8 +404,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 06时43分]"
         },
         {
           "title": "【每日收评】创业板涨近4%再创阶段新高，锂电板块全线爆发，算力硬件反复活跃",
@@ -404,8 +416,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 06时43分]"
         },
         {
           "title": "3天拉涨超9%！创业板指创4年新高，“扛旗”主力权重盘点，这些股获融资客青睐",
@@ -416,8 +428,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 06时43分]"
         },
         {
           "title": "A股交易规则为何要进行重大调整",
@@ -427,8 +439,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 05时44分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 06时43分]"
+        },
+        {
+          "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
+          "url": "https://wallstreetcn.com/articles/3769646",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 06时43分]"
         },
         {
           "title": "证监会：增设创业板第四套上市标准",
@@ -440,17 +463,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
-        },
-        {
-          "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
-          "url": "https://wallstreetcn.com/articles/3769646",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 05时44分]"
         },
         {
           "title": "A股一周20大熊股出炉",
