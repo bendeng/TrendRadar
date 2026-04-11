@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T10:43:33.925238+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2026-04-11T13:01:52.516724+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时00分 ~ 10时43分]"
+          "appearance_count": 14,
+          "time_info": "[00时00分 ~ 13时01分]"
         },
         {
           "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
@@ -53,6 +54,17 @@
           "time_info": "[00时00分 ~ 01时58分]"
         },
         {
+          "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
+          "url": "https://www.cls.cn/detail/2341151",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 13时01分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -64,15 +76,27 @@
           "time_info": "[01时57分 ~ 01时58分]"
         },
         {
-          "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
-          "url": "https://www.cls.cn/detail/2341151",
-          "source": "财联社热门",
+          "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
+          "url": "https://wallstreetcn.com/articles/3769722",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 13时01分]"
+        },
+        {
+          "title": "特朗普：谈判结果24小时内明朗",
+          "url": "https://news.ifeng.com/c/8sDlxLParYe",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 13时01分]"
         },
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -95,28 +119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
-        },
-        {
-          "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
-          "url": "https://wallstreetcn.com/articles/3769722",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "特朗普：谈判结果24小时内明朗",
-          "url": "https://news.ifeng.com/c/8sDlxLParYe",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
         },
         {
           "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -156,6 +158,19 @@
           "time_info": "[01时02分 ~ 01时58分]"
         },
         {
+          "title": "报道：特朗普和平委员会面临资金短缺，加沙计划陷入停滞",
+          "url": "https://wallstreetcn.com/livenews/3086135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 13时01分]"
+        },
+        {
           "title": "市场消息：美国民主党参议员沃伦致函美国商品期货交易委员会（CFTC），要求调查与美国总统特朗普伊朗论调相关的石油交易。",
           "url": "https://flash.jin10.com/detail/20260411004405756800",
           "source": "金十数据",
@@ -180,16 +195,29 @@
           "time_info": "[00时00分 ~ 01时02分]"
         },
         {
-          "title": "报道：特朗普和平委员会面临资金短缺，加沙计划陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3086135",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            18
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时43分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 13时01分]"
+        },
+        {
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 13时01分]"
         },
         {
           "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
@@ -205,15 +233,15 @@
           "time_info": "[05时44分 ~ 07时41分]"
         },
         {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
-          "source": "财联社热门",
+          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
+          "url": "https://www.zhihu.com/question/2026203195517477584",
+          "source": "知乎",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时43分]"
+          "time_info": "[10时43分 ~ 13时01分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击",
@@ -240,18 +268,6 @@
           "time_info": "[01时02分 ~ 01时58分]"
         },
         {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时43分]"
-        },
-        {
           "title": "特朗普：伊朗手中已无筹码 存在的原因是为了谈判",
           "url": "https://flash.jin10.com/detail/20260411003033068800",
           "source": "金十数据",
@@ -264,6 +280,18 @@
           "time_info": "[01时02分 ~ 01时58分]"
         },
         {
+          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反怼：他的电影和演技才构成战争罪",
+          "url": "https://wallstreetcn.com/livenews/3086139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 13时01分]"
+        },
+        {
           "title": "特朗普：美国“很快”将开放霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3086118",
           "source": "华尔街见闻-快讯",
@@ -274,17 +302,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时41分 ~ 10时43分]"
-        },
-        {
-          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
-          "url": "https://www.zhihu.com/question/2026203195517477584",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
         },
         {
           "title": "美国总统特朗普：伊朗人在应对假新闻媒体和“公关”方面比打仗更在行！",
@@ -309,17 +326,6 @@
           "time_info": "06时43分"
         },
         {
-          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反怼：他的电影和演技才构成战争罪",
-          "url": "https://wallstreetcn.com/livenews/3086139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
           "title": "【特朗普：与伊朗的会谈结果将在24小时内明朗】美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3086016",
           "source": "华尔街见闻-快讯",
@@ -337,7 +343,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -433,7 +439,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "创业板改革重大定调！事关优质创新企业上市17项举措出台",
@@ -472,6 +478,19 @@
           "time_info": "[00时00分 ~ 07时41分]"
         },
         {
+          "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
+          "url": "https://wallstreetcn.com/articles/3769646",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 13时01分]"
+        },
+        {
           "title": "A股交易规则为何要进行重大调整",
           "url": "https://www.toutiao.com/trending/7627093467767770670/",
           "source": "今日头条",
@@ -483,17 +502,15 @@
           "time_info": "[00时00分 ~ 07时41分]"
         },
         {
-          "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
-          "url": "https://wallstreetcn.com/articles/3769646",
-          "source": "华尔街见闻",
+          "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
+          "url": "https://www.cls.cn/detail/2341141",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8,
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 10时43分]"
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 13时01分]"
         },
         {
           "title": "证监会：增设创业板第四套上市标准",
@@ -507,15 +524,27 @@
           "time_info": "00时00分"
         },
         {
-          "title": "【早报】证监会：增设创业板第四套上市标准；主板ST股涨跌幅拟调整为10%",
-          "url": "https://www.cls.cn/detail/2341141",
+          "title": "创业板第四套上市标准落地，哪些企业有望率先上市闯关？",
+          "url": "https://www.cls.cn/detail/2341159",
           "source": "财联社热门",
           "ranks": [
-            4
+            9,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 13时01分]"
+        },
+        {
+          "title": "证监会发布创业板改革意见，增设第四套上市标准",
+          "url": "https://wallstreetcn.com/articles/3769674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 13时01分]"
         },
         {
           "title": "A股一周20大熊股出炉",
@@ -530,26 +559,15 @@
           "time_info": "[00时00分 ~ 01时02分]"
         },
         {
-          "title": "证监会发布创业板改革意见，增设第四套上市标准",
-          "url": "https://wallstreetcn.com/articles/3769674",
-          "source": "华尔街见闻",
+          "title": "创业板交易端三大改革落地！事关做市商、实时大宗、ETF盘后交易",
+          "url": "https://www.cls.cn/detail/2341166",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时43分]"
-        },
-        {
-          "title": "创业板第四套上市标准落地，哪些企业有望率先上市闯关？",
-          "url": "https://www.cls.cn/detail/2341159",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "13时01分"
         }
       ]
     },
@@ -569,71 +587,77 @@
           "time_info": "03时07分"
         },
         {
+          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 13时01分]"
+        },
+        {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
           "url": "https://flash.jin10.com/detail/20260411094848579800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 13时01分]"
         },
         {
           "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
           "url": "https://wallstreetcn.com/livenews/3086151",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3086136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
+            5,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时43分]"
+          "time_info": "[10时43分 ~ 13时01分]"
         },
         {
           "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
           "url": "https://flash.jin10.com/detail/20260411094831132800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 13时01分]"
         },
         {
           "title": "OpenAI：自5月8日起，较旧版本的macOS桌面应用程序将不再接收更新或支持，并且可能无法正常运行。",
           "url": "https://flash.jin10.com/detail/20260411094803513800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 13时01分]"
         },
         {
           "title": "OpenAI就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵",
           "url": "https://flash.jin10.com/detail/20260411094510379800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 13时01分]"
         },
         {
           "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
@@ -680,11 +704,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时43分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 13时01分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
