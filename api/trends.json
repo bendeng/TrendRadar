@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T10:57:26.145192+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-04-15T13:31:31.372869+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普赐两杯“毒酒”，万斯干了",
@@ -54,6 +54,18 @@
           "time_info": "[00时12分 ~ 07时49分]"
         },
         {
+          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
+          "url": "https://www.cls.cn/detail/2344222",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时49分 ~ 13时31分]"
+        },
+        {
           "title": "特朗普说伊朗没牌了遭北约盟友打脸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%89%8C%E4%BA%86%E9%81%AD%E5%8C%97%E7%BA%A6%E7%9B%9F%E5%8F%8B%E6%89%93%E8%84%B8%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -66,16 +78,38 @@
           "time_info": "[02时09分 ~ 07时49分]"
         },
         {
-          "title": "【早报】特朗普：与伊朗会谈可能未来两天内举行；国际油价重挫",
-          "url": "https://www.cls.cn/detail/2344222",
-          "source": "财联社热门",
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时49分 ~ 10时57分]"
+          "time_info": "[10时57分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
+          "url": "https://www.cls.cn/detail/2344264",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普：美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344245",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 13时31分]"
         },
         {
           "title": "伊朗战争丨万斯：特朗普想和伊朗达成大协议",
@@ -84,9 +118,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "伊朗战争丨特朗普称没有必要延长同伊朗的停火",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "WTI原油日内大跌4.00%，现报88.37美元/桶。市场开始发酵早前特朗普称“美国对伊朗的战争已经结束”的言论。",
@@ -111,6 +156,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "特朗普称没有必要延长同伊朗的停火",
+          "url": "https://news.ifeng.com/c/8sLFvoAhX14",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "特朗普对福克斯新闻表示，他认为战争非常接近结束。",
           "url": "https://wallstreetcn.com/livenews/3088036",
           "source": "华尔街见闻-快讯",
@@ -128,40 +184,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
-          "url": "https://www.cls.cn/detail/2344264",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "特朗普：美国对伊朗的战争已经结束",
-          "url": "https://www.cls.cn/detail/2344245",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -214,6 +237,18 @@
           "time_info": "[06时52分 ~ 07时49分]"
         },
         {
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 13时31分]"
+        },
+        {
           "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
           "url": "https://www.cls.cn/detail/2343501",
           "source": "财联社热门",
@@ -224,6 +259,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 02时09分]"
+        },
+        {
+          "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344265",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 13时31分]"
         },
         {
           "title": "特朗普称伊朗战争已经结束",
@@ -248,26 +295,15 @@
           "time_info": "02时09分"
         },
         {
-          "title": "特朗普称美国对伊朗的战争已经结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
-          "source": "澎湃新闻",
+          "title": "英媒：特朗普次子将以个人身份陪同访华",
+          "url": "https://news.ifeng.com/c/8sL7wyoFoMW",
+          "source": "凤凰网",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
-          "url": "https://www.cls.cn/detail/2344265",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "13时31分"
         },
         {
           "title": "特朗普暗示美伊会谈或在2天内恢复",
@@ -290,6 +326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "特朗普：没有必要延长同伊朗的停火",
+          "url": "https://www.cls.cn/detail/2344586",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "【特朗普称与伊朗会谈“可能未来两天内”在巴基斯坦举行】美国总统特朗普14日告诉《纽约邮报》，与伊朗会谈“可能未来两天内”在巴基斯坦举行。 (新华社)",
@@ -339,7 +386,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "【焦点复盘】创业板指、深成指双双创4年多新高，锂电池、算力硬件股持续站上风口",
@@ -366,13 +413,24 @@
           "time_info": "[00时12分 ~ 07时49分]"
         },
         {
+          "title": "A股创新药、化学制药板块午后持续走强，北大医药、双鹭药业、哈药股份、海正药业等股涨停，回盛生物涨超10%，悦康药业、舒泰神纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/3088209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "A股房地产板块震荡调整，财信发展触及跌停，信达地产、光大嘉宝、荣安地产、京能置业、大悦城、金融街、栖霞建设纷纷下挫。",
           "url": "https://flash.jin10.com/detail/20260415102651314800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -394,7 +452,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -405,7 +463,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -427,9 +485,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "A股算力租赁板块午后短线拉升，杰创智能、宏景科技涨超10%，恒润股份、中贝通信、顺网科技短线拉升。",
+          "url": "https://flash.jin10.com/detail/20260415130224383800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "A股量子科技概念股大面积高开，神州信息涨停，纬德信息涨超10%，格尔软件、科大国创、国盾量子、富士达、吉大正元跟涨，消息面上，英伟达推出全球首个开源量子人工智能模型“ISING”。",
@@ -438,7 +507,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -449,7 +518,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         }
@@ -457,7 +526,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -489,9 +558,31 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 13时31分]"
+        },
+        {
+          "title": "阿斯麦美股夜盘一度跌超2%，美光科技夜盘跌1.7%，台积电夜盘涨幅收窄至0.4%，阿斯麦上调全年销售指引，但Q2展望略逊于预期。",
+          "url": "https://wallstreetcn.com/livenews/3088207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "13时31分"
+        },
+        {
+          "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
+          "url": "https://wallstreetcn.com/articles/3769987",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "美股收盘：纳指10连阳 光通信、燃料电池、半导体牛股齐创新高",
@@ -562,7 +653,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -637,7 +728,7 @@
     },
     {
       "keyword_group": "主力资金 开源",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -659,8 +750,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时49分 ~ 10时57分]"
+          "appearance_count": 3,
+          "time_info": "[07时49分 ~ 13时31分]"
+        },
+        {
+          "title": "小红书开源大模型强化学习训练引擎Relax",
+          "url": "https://wallstreetcn.com/livenews/3088171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
@@ -679,8 +781,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 10时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 13时31分]"
         }
       ]
     },
