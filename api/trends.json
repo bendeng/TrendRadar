@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T05:42:19.631919+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-04-19T06:41:48.882746+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "特朗普：伊朗不会拥有核武器",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "特朗普：美国已禁止以色列这样做，适可而止",
@@ -70,8 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "特朗普：以色列，适可而止",
@@ -81,8 +81,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -92,8 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "特朗普称伊朗无法“要挟”美国",
@@ -103,8 +103,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "特朗普：美伊正对话 “今天结束前会有消息”",
@@ -116,8 +116,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "特朗普签署行政令以促进迷幻药物研究。（彭博）",
@@ -129,8 +129,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "特朗普谈伊朗：我们之间的对话进展顺利。 将在今天结束前获得一些信息。 政权更迭是“强制性的”，我们正在与伊朗对话。 （谈与伊朗的谈判）我们采取强硬立场。 伊朗想再次封锁霍尔木兹海峡，不能让他们以此勒索美国。",
@@ -142,8 +142,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 7,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "伊朗革命卫队海军发表声明表示，船只及其所有者应遵循伊朗革命卫队海军发布的消息，并称美国总统特朗普关于霍尔木兹海峡的声明“没有有效性”。",
@@ -165,11 +165,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时42分]"
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时41分]"
         },
         {
           "title": "美媒：特朗普召开白宫战情室会议，商讨霍尔木兹海峡危机及美伊谈判",
@@ -242,8 +243,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "A股迎来“长钱长投”新信号",
@@ -254,11 +255,12 @@
             16,
             19,
             20,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "A股新股王诞生了",
@@ -269,11 +271,12 @@
             16,
             25,
             19,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         }
       ]
     },
@@ -289,8 +292,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -318,8 +321,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         }
       ]
     },
@@ -335,8 +338,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 06时41分]"
         }
       ]
     },
@@ -352,11 +355,12 @@
             18,
             10,
             5,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时41分 ~ 05时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 06时41分]"
         }
       ]
     }
