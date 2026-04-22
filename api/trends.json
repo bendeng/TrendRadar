@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T07:43:26.086626+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-04-22T11:38:36.670250+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
@@ -19,17 +19,6 @@
           "time_info": "[00时14分 ~ 07时43分]"
         },
         {
-          "title": "伊朗战争丨特朗普宣布延长对伊朗停火，多方回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 07时43分]"
-        },
-        {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
           "url": "https://wallstreetcn.com/articles/3770525",
           "source": "华尔街见闻",
@@ -39,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 07时43分]"
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 11时38分]"
         },
         {
           "title": "5月1日——特朗普“任性打仗”的关键时限",
@@ -51,8 +40,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 07时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 11时38分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普宣布延长对伊朗停火，多方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时42分 ~ 07时43分]"
         },
         {
           "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
@@ -78,6 +78,31 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 07时43分]"
+        },
+        {
+          "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
+          "url": "https://www.cls.cn/detail/2351404",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时42分 ~ 11时38分]"
+        },
+        {
+          "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
+          "url": "https://www.cls.cn/detail/2351434",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 11时38分]"
         },
         {
           "title": "特朗普称美伊停火到期将继续轰炸",
@@ -112,20 +137,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
         {
-          "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
-          "url": "https://www.cls.cn/detail/2351434",
-          "source": "财联社热门",
+          "title": "伊朗：特朗普延长停火毫无意义",
+          "url": "https://news.ifeng.com/c/8sWi9cCO6x5",
+          "source": "凤凰网",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时43分"
+          "time_info": "11时38分"
         },
         {
           "title": "特朗普延长停火期限",
@@ -134,7 +159,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -161,16 +186,16 @@
           "time_info": "[04时06分 ~ 07时43分]"
         },
         {
-          "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
-          "url": "https://www.cls.cn/detail/2351404",
-          "source": "财联社热门",
+          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
+          "url": "https://wallstreetcn.com/articles/3770539",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            5
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 07时43分]"
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 11时38分]"
         },
         {
           "title": "非美货币普跌，投资者紧盯特朗普对伊朗的停火截止日期",
@@ -268,6 +293,18 @@
           "time_info": "[05时51分 ~ 06时43分]"
         },
         {
+          "title": "特朗普宣布延长同伊朗的停火",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33023082",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 11时38分]"
+        },
+        {
           "title": "伊朗：特朗普的停火延期毫无意义，失败的一方无权发号施令",
           "url": "https://wallstreetcn.com/livenews/3092101",
           "source": "华尔街见闻-快讯",
@@ -292,17 +329,6 @@
           "time_info": "[05时51分 ~ 06时43分]"
         },
         {
-          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
-          "url": "https://wallstreetcn.com/articles/3770539",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
           "title": "美媒：万斯赴巴之行不明 特朗普私下讨论完全取消行程",
           "url": "https://flash.jin10.com/detail/20260422033033824800",
           "source": "金十数据",
@@ -314,13 +340,35 @@
           "time_info": "04时06分"
         },
         {
+          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
+          "url": "https://wallstreetcn.com/articles/3770527",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "“聪明就别退”：特朗普公开暗示企业放弃1600亿美元关税退税",
+          "url": "https://flash.jin10.com/detail/20260422105921456800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
           "title": "美国总统特朗普：（那些）维持运营的煤炭工厂是宾夕法尼亚州的大赢家。 （宾州）州长Shapiro同意让两家煤炭厂继续运作。",
           "url": "https://wallstreetcn.com/livenews/3092146",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -347,6 +395,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "特朗普虽宣布延长停火，但美伊局势仍蓄势待发，阴霾前景下金银从高位回落，油价再度回升；美联储主席提名人结束听证，呼吁需要制定一套新的框架来应对通胀问题。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260422105639801800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
           "title": "美国总统特朗普考虑取消副总统万斯前往巴基斯坦的行程。 万斯仍然可能最早在当地时间周二夜间启程前往巴基斯坦。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3092052",
           "source": "华尔街见闻-快讯",
@@ -358,15 +417,15 @@
           "time_info": "04时06分"
         },
         {
-          "title": "特朗普宣布延长同伊朗的停火",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33023082",
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时43分"
+          "time_info": "11时38分"
         },
         {
           "title": "巴西总统开玩笑称应授予特朗普诺贝尔和平奖以结束战争",
@@ -499,6 +558,19 @@
           "time_info": "[00时14分 ~ 07时43分]"
         },
         {
+          "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
+          "url": "https://www.cls.cn/detail/2351396",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时51分 ~ 11时38分]"
+        },
+        {
           "title": "伊朗停火谈判生变，美股收跌，油价飙升，金银下挫",
           "url": "https://wallstreetcn.com/articles/3770463",
           "source": "华尔街见闻",
@@ -510,28 +582,29 @@
           "time_info": "[05时51分 ~ 06时43分]"
         },
         {
-          "title": "美股收盘：三大指数尾盘跳水集体收跌 中东战火阴影盖过财报利好",
-          "url": "https://www.cls.cn/detail/2351396",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时51分 ~ 07时43分]"
-        },
-        {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3770463",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 11时38分]"
+        },
+        {
+          "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
+          "url": "https://www.cls.cn/detail/2351256",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 11时38分]"
         },
         {
           "title": "现货黄金日内大跌3.00%，现报4675.97美元/盎司；美股短线跳水。",
@@ -543,19 +616,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
-        },
-        {
-          "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
-          "url": "https://www.cls.cn/detail/2351256",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 07时43分]"
         },
         {
           "title": "美股三大股指期货周三高开，纳指期货涨0.4%；现货金银同样走高，黄金上涨0.1%，白银上涨0.5%。",
@@ -596,6 +656,102 @@
       ]
     },
     {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "【焦点复盘】创业板指深V反转迎四连阳，算力硬件股现极致分化，商业航天概念强者恒强",
+          "url": "https://www.cls.cn/detail/2350801",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时43分]"
+        },
+        {
+          "title": "上证指数早盘收报4095.07点，涨0.24%。 深证成指早盘收报15076.15点，涨0.63%。 创业板指早盘收报3712.28点，涨0.63%。 沪深300早盘收报4782.18点，涨0.30%。 科创50早盘收报1435.23点，涨0.60%。 中证500早盘收报8332.29点，涨0.75%。 中证1000早盘收报8432.23点，涨0.97%。",
+          "url": "https://wallstreetcn.com/livenews/3092275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "4月22日午间收评：创业板指低开高走涨0.63%，光纤概念股持续爆发",
+          "url": "https://wallstreetcn.com/livenews/3092274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "A股小金属板块震荡走高，云南锗业逼近涨停，翔鹭钨业、锡业股份、章源钨业、厦门钨业、金钼股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260422110046874800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "年内A股市场新增超千起并购重组交易",
+          "url": "https://wallstreetcn.com/livenews/3092147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "A股券商股异动拉升，哈投股份触及涨停，第一创业、广发证券、华泰证券、天风证券、国海证券等纷纷走高。",
+          "url": "https://wallstreetcn.com/livenews/3092264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "A股OLED概念震荡反弹，诚志股份、沃格光电、天通股份涨停，路维光电涨超11%，东山精密、彩虹股份、精测电子、清溢光电、有研新材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260422105756837800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
+          "title": "A股公司可转债再融资升温，监管“扶优限劣”严防盲目跨界投资",
+          "url": "https://wallstreetcn.com/livenews/3092137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
@@ -606,7 +762,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -707,47 +863,6 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【焦点复盘】创业板指深V反转迎四连阳，算力硬件股现极致分化，商业航天概念强者恒强",
-          "url": "https://www.cls.cn/detail/2350801",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 07时43分]"
-        },
-        {
-          "title": "年内A股市场新增超千起并购重组交易",
-          "url": "https://wallstreetcn.com/livenews/3092147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "A股公司可转债再融资升温，监管“扶优限劣”严防盲目跨界投资",
-          "url": "https://wallstreetcn.com/livenews/3092137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -764,6 +879,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时02分 ~ 06时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "主力资金 开源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "主力资金流向前十大个股",
+          "url": "https://flash.jin10.com/detail/20260422104053215800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
         }
       ]
     }
