@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T18:02:28.432475+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-04-25T18:58:07.660706+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -19,6 +19,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时04分 ~ 15时26分]"
+        },
+        {
+          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时45分 ~ 18时58分]"
         },
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -54,20 +68,6 @@
           "time_info": "[01时04分 ~ 07时45分]"
         },
         {
-          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
-          "url": "https://wallstreetcn.com/articles/3770826",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时45分 ~ 18时02分]"
-        },
-        {
           "title": "伊称谈判重心已转为彻底停战，特朗普称已“彻底封锁”霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_33040657",
           "source": "澎湃新闻",
@@ -78,6 +78,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 05时57分]"
+        },
+        {
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 18时58分]"
         },
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -106,17 +117,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时50分 ~ 17时02分]"
-        },
-        {
-          "title": "特朗普，已经压不住油价了",
-          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 18时02分]"
         },
         {
           "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
@@ -272,6 +272,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 06时50分]"
+        },
+        {
+          "title": "特朗普最新不满意率公布",
+          "url": "https://www.toutiao.com/trending/7632256719716122665/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
+        },
+        {
+          "title": "泽连斯基“公开质疑”特朗普",
+          "url": "https://www.toutiao.com/trending/7632107216792420398/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 18时58分]"
         },
         {
           "title": "美伊谈判有望？伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
@@ -523,6 +545,18 @@
           "time_info": "[01时04分 ~ 07时45分]"
         },
         {
+          "title": "DeepSeekV4更新了啥",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 18时58分]"
+        },
+        {
           "title": "实测DeepSeek V4",
           "url": "https://www.douyin.com/hot/2477701",
           "source": "抖音",
@@ -613,16 +647,18 @@
           "time_info": "[13时18分 ~ 18时02分]"
         },
         {
-          "title": "DeepSeekV4更新了啥",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
+          "title": "DeepSeek如何适配国产芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            3
+            1,
+            8,
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 18时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 18时58分]"
         },
         {
           "title": "DeepSeek V4强在哪里",
@@ -685,18 +721,18 @@
           "time_info": "[01时04分 ~ 07时45分]"
         },
         {
-          "title": "DeepSeek如何适配国产芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            8,
-            12,
-            7
+            18,
+            16,
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 18时58分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
@@ -711,20 +747,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 06时50分]"
-        },
-        {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 18时02分]"
         },
         {
           "title": "月之暗面与DeepSeek的“听牌”时刻",
@@ -779,11 +801,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 18时58分]"
         },
         {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
@@ -859,8 +882,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时49分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[06时49分 ~ 18时58分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -1029,11 +1052,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 18时58分]"
         },
         {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
@@ -1130,8 +1154,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时53分 ~ 18时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时53分 ~ 18时58分]"
+        },
+        {
+          "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2355530",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 18时58分]"
         },
         {
           "title": "CPU重回AI核心 A股布局公司梳理",
@@ -1154,17 +1190,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
-        },
-        {
-          "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2355530",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         }
       ]
     },
