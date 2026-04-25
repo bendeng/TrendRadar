@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T21:16:39.245243+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-04-25T22:50:25.494452+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时45分 ~ 21时16分]"
+          "appearance_count": 14,
+          "time_info": "[07时45分 ~ 22时50分]"
         },
         {
           "title": "核专家都感到惊奇，特朗普所说的“核尘埃”是什么？",
@@ -87,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时53分 ~ 21时16分]"
+          "appearance_count": 13,
+          "time_info": "[10时53分 ~ 22时50分]"
         },
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -364,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "“淡化”特朗普 美共和党调整中期选举策略",
+          "url": "https://wallstreetcn.com/livenews/3094397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "特朗普政府持有的英特尔股份价值飙升300%",
@@ -688,8 +699,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时18分 ~ 21时16分]"
+          "appearance_count": 12,
+          "time_info": "[13时18分 ~ 22时50分]"
         },
         {
           "title": "DeepSeek V4强在哪里",
@@ -783,7 +794,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
@@ -848,6 +859,18 @@
           "time_info": "[17时02分 ~ 18时58分]"
         },
         {
+          "title": "DeepSeek V4换芯片的背后",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时16分 ~ 22时50分]"
+        },
+        {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
           "url": "https://wallstreetcn.com/articles/3770791",
           "source": "华尔街见闻",
@@ -870,17 +893,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时04分 ~ 10时53分]"
-        },
-        {
-          "title": "DeepSeek V4换芯片的背后",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
         },
         {
           "title": "DeepSeek-V4“解锁”国产芯片",
@@ -932,8 +944,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时49分 ~ 21时16分]"
+          "appearance_count": 16,
+          "time_info": "[06时49分 ~ 22时50分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -1082,6 +1094,73 @@
       ]
     },
     {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "创业板第四套上市标准启用，IPO预先审阅机制等新规一并生效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33046288",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[10时53分 ~ 21时16分]"
+        },
+        {
+          "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2355530",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时02分 ~ 22时50分]"
+        },
+        {
+          "title": "多只A股拉响警报",
+          "url": "https://www.toutiao.com/trending/7632594368024756250/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "CPU重回AI核心 A股布局公司梳理",
+          "url": "https://www.toutiao.com/trending/7632302512330047530/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "超聚变完成A股IPO辅导",
+          "url": "https://flash.jin10.com/detail/20260425095247617800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -1187,62 +1266,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时18分 ~ 15时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "创业板第四套上市标准启用，IPO预先审阅机制等新规一并生效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33046288",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时53分 ~ 21时16分]"
-        },
-        {
-          "title": "龙头2连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2355530",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时02分 ~ 21时16分]"
-        },
-        {
-          "title": "CPU重回AI核心 A股布局公司梳理",
-          "url": "https://www.toutiao.com/trending/7632302512330047530/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "超聚变完成A股IPO辅导",
-          "url": "https://flash.jin10.com/detail/20260425095247617800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时53分"
         }
       ]
     },
