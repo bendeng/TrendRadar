@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T14:33:20.758101+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2026-04-27T17:24:16.726209+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -110,11 +110,43 @@
             6,
             4,
             19,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 14时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 17时24分]"
+        },
+        {
+          "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            15,
+            11,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 17时24分]"
+        },
+        {
+          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            14,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 17时24分]"
         },
         {
           "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
@@ -131,35 +163,6 @@
           "time_info": "[00时52分 ~ 14时33分]"
         },
         {
-          "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            15,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 14时33分]"
-        },
-        {
-          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 14时33分]"
-        },
-        {
           "title": "特朗普从枪击现场撤离后声称：早知道这么危险就不当总统了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057902",
           "source": "澎湃新闻",
@@ -167,11 +170,12 @@
             17,
             18,
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 14时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 17时24分]"
         },
         {
           "title": "白宫遭枪击,特朗普紧急撤离",
@@ -180,11 +184,12 @@
           "ranks": [
             13,
             19,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 14时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 17时24分]"
         },
         {
           "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
@@ -228,6 +233,29 @@
           "time_info": "[00时52分 ~ 07时46分]"
         },
         {
+          "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
+          "url": "https://v.ifeng.com/c/8sendYSbNWy",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 17时24分]"
+        },
+        {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 17时24分]"
+        },
+        {
           "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
           "url": "https://wallstreetcn.com/livenews/3094542",
           "source": "华尔街见闻-快讯",
@@ -242,15 +270,15 @@
           "time_info": "[00时53分 ~ 07时46分]"
         },
         {
-          "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
-          "url": "https://v.ifeng.com/c/8sendYSbNWy",
+          "title": "特朗普回应撤离晚宴时“跌倒”“晚走”等细节，称枪手“有病”",
+          "url": "https://news.ifeng.com/c/8sf5G3nMN3a",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 14时33分]"
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时24分]"
         },
         {
           "title": "特朗普：枪击案嫌疑人留下字条",
@@ -265,16 +293,15 @@
           "time_info": "[07时46分 ~ 11时35分]"
         },
         {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "title": "普京和泽连斯基彼此憎恶？特朗普否认",
+          "url": "https://news.ifeng.com/c/8sfNd3Sk5GD",
           "source": "凤凰网",
           "ranks": [
-            5,
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时35分 ~ 14时33分]"
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "特朗普夫人反应迅速",
@@ -339,17 +366,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
-        },
-        {
-          "title": "特朗普回应撤离晚宴时“跌倒”“晚走”等细节，称枪手“有病”",
-          "url": "https://news.ifeng.com/c/8sf5G3nMN3a",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
         },
         {
           "title": "特朗普叫停特使赴巴：“想谈，打个电话就行”，伊朗递三阶段方案",
@@ -526,6 +542,41 @@
           "time_info": "[00时53分 ~ 03时04分]"
         },
         {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时24分]"
+        },
+        {
+          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时24分]"
+        },
+        {
+          "title": "特朗普回应撤离晚宴时“跌倒”“晚走”等细节",
+          "url": "https://www.cls.cn/detail/2356452",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
           "title": "美国总统特朗普：我们将把夺取伊朗的核材料作为谈判的一部分。",
           "url": "https://flash.jin10.com/detail/20260426235351108800",
           "source": "金十数据",
@@ -654,17 +705,6 @@
           "time_info": "11时35分"
         },
         {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
           "title": "枪击现场安保行动缓慢？特朗普：是我想看看发生了什么",
           "url": "https://flash.jin10.com/detail/20260427063049726800",
           "source": "金十数据",
@@ -674,17 +714,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
-        },
-        {
-          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
         },
         {
           "title": "特朗普回应为何先救万斯",
@@ -698,6 +727,17 @@
           "time_info": "11时35分"
         },
         {
+          "title": "特朗普：与普京和泽连斯基均保持联系",
+          "url": "https://wallstreetcn.com/livenews/3094852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "曝白宫考虑让特朗普公开场合穿防弹衣",
           "url": "https://www.toutiao.com/trending/7632604581942411300/",
           "source": "今日头条",
@@ -707,6 +747,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "能源风暴+特朗普推文搅乱，全球央行陷入政策“真空期”",
+          "url": "https://flash.jin10.com/detail/20260427164900401800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "美国总统特朗普：就乌克兰问题与俄罗斯总统普京和乌克兰总统泽连斯基进行过交谈。",
@@ -789,7 +840,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "7只A股周末集中宣布：将被实施退市风险警示",
@@ -896,6 +947,17 @@
           "time_info": "[07时46分 ~ 11时35分]"
         },
         {
+          "title": "A股今日85股涨停",
+          "url": "https://www.toutiao.com/trending/7633250754186854409/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
           "title": "A股前董事长疑涉美国性侵丑闻",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%89%8D%E8%91%A3%E4%BA%8B%E9%95%BF%E7%96%91%E6%B6%89%E7%BE%8E%E5%9B%BD%E6%80%A7%E4%BE%B5%E4%B8%91%E9%97%BB",
           "source": "百度热搜",
@@ -936,7 +998,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -969,7 +1031,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -980,7 +1042,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -991,7 +1053,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -1002,7 +1064,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -1043,7 +1105,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -1064,11 +1126,12 @@
           "ranks": [
             2,
             4,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时52分 ~ 14时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时52分 ~ 17时24分]"
         },
         {
           "title": "龙虾官宣接入DeepSeekV4",
@@ -1123,6 +1186,17 @@
           "time_info": "[00时53分 ~ 07时46分]"
         },
         {
+          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
+          "url": "https://www.zhihu.com/question/2031494133160861736",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 17时24分]"
+        },
+        {
           "title": "DeepSeek输入缓存降价",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%BE%93%E5%85%A5%E7%BC%93%E5%AD%98%E9%99%8D%E4%BB%B7",
           "source": "百度热搜",
@@ -1134,6 +1208,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 07时46分]"
+        },
+        {
+          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
+          "url": "https://wallstreetcn.com/articles/3770923",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 17时24分]"
         },
         {
           "title": "DeepSeek V4全面评测",
@@ -1152,27 +1238,15 @@
           "time_info": "[00时52分 ~ 06时46分]"
         },
         {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时35分 ~ 14时33分]"
-        },
-        {
-          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
-          "url": "https://wallstreetcn.com/articles/3770923",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 14时33分]"
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "网传公司给DeepSeek提供算力服务？浙数文化：与DeepSeek未开展业务合作",
@@ -1181,7 +1255,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -1198,6 +1272,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时46分 ~ 07时46分]"
+        },
+        {
+          "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057893",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时24分]"
+        },
+        {
+          "title": "DeepSeek 多位骨干离职去大厂，他们的去向透露出哪些信息？会对 DeepSeek 自身带来多大影响？",
+          "url": "https://www.zhihu.com/question/2031824748590494923",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -1250,7 +1347,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -1261,18 +1358,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057893",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         }
@@ -1280,7 +1366,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股期货亚市盘初小幅走低，标普500指数期货、纳斯达克100指数期货均跌0.3%。",
@@ -1295,6 +1381,18 @@
           "time_info": "[06时46分 ~ 07时46分]"
         },
         {
+          "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
+          "url": "https://www.cls.cn/detail/2356401",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 17时24分]"
+        },
+        {
           "title": "美股三大股指期货周一小幅低开0.2%。",
           "url": "https://flash.jin10.com/detail/20260427060114579800",
           "source": "金十数据",
@@ -1307,22 +1405,55 @@
           "time_info": "[06时46分 ~ 07时46分]"
         },
         {
-          "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
-          "url": "https://www.cls.cn/detail/2356401",
+          "title": "美伊冲突都没带崩美股？“巴菲特指标”冲破200%关键门槛，似有大跌之兆！",
+          "url": "https://www.cls.cn/detail/2356367",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
+          "title": "高通美股盘前涨超10%",
+          "url": "https://wallstreetcn.com/livenews/3094880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "17时24分"
         }
       ]
     },
     {
       "keyword_group": "主力资金 开源",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "国产开源大模型密集迭代升级 国产开源大模型下载量破100亿次",
+          "url": "https://wallstreetcn.com/livenews/3094869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "国产开源大模型密集迭代升级 国产开源大模型下载量破100亿次",
+          "url": "https://flash.jin10.com/detail/20260427165229015800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
         {
           "title": "主力资金流向前十大个股",
           "url": "https://flash.jin10.com/detail/20260427104036036800",
@@ -1333,6 +1464,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "牛散 游资",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中信证券十大股东中罕见一位个人投资者，超级牛散付小铜加杠杆豪赌？",
+          "url": "https://www.cls.cn/detail/2356535",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         }
       ]
     }
