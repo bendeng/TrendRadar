@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T19:49:28.633381+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-04-27T22:07:19.499649+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -150,6 +150,18 @@
           "time_info": "[00时52分 ~ 17时24分]"
         },
         {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 22时07分]"
+        },
+        {
           "title": "晚宴现场枪击细节曝光：特朗普撤离时跌倒，万斯被一把带走",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057646",
           "source": "澎湃新闻",
@@ -187,11 +199,12 @@
             19,
             24,
             27,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 19时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 22时07分]"
         },
         {
           "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
@@ -235,18 +248,6 @@
           "time_info": "[00时52分 ~ 07时46分]"
         },
         {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 19时49分]"
-        },
-        {
           "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
           "url": "https://v.ifeng.com/c/8sendYSbNWy",
           "source": "凤凰网",
@@ -281,6 +282,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时33分 ~ 17时24分]"
+        },
+        {
+          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
+          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 22时07分]"
         },
         {
           "title": "特朗普：枪击案嫌疑人留下字条",
@@ -318,17 +330,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时46分 ~ 07时46分]"
-        },
-        {
-          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
-          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
         },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
@@ -442,6 +443,20 @@
           "time_info": "[01时45分 ~ 05时44分]"
         },
         {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 22时07分]"
+        },
+        {
           "title": "英国首相斯塔默与美国总统特朗普通电话，讨论霍尔木兹海峡通航的紧迫性。",
           "url": "https://wallstreetcn.com/livenews/3094520",
           "source": "华尔街见闻-快讯",
@@ -527,19 +542,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时45分 ~ 05时44分]"
-        },
-        {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 19时49分]"
         },
         {
           "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
@@ -704,7 +706,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
@@ -740,6 +742,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "美国官员表示，特朗普支持特勤局领导层。",
+          "url": "https://wallstreetcn.com/livenews/3095056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "特朗普回应为何先救万斯",
@@ -866,7 +879,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -984,6 +997,18 @@
           "time_info": "[00时52分 ~ 07时46分]"
         },
         {
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 22时07分]"
+        },
+        {
           "title": "DeepSeek V4全面评测",
           "url": "https://www.douyin.com/hot/2479058",
           "source": "抖音",
@@ -998,17 +1023,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 06时46分]"
-        },
-        {
-          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
-          "url": "https://www.cls.cn/detail/2356575",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时49分]"
         },
         {
           "title": "网传公司给DeepSeek提供算力服务？浙数文化：与DeepSeek未开展业务合作",
@@ -1059,6 +1073,29 @@
           "time_info": "[14时33分 ~ 17时24分]"
         },
         {
+          "title": "媒体：梁文锋这一次要掀桌",
+          "url": "https://www.toutiao.com/trending/7633338675333434907/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 22时07分]"
+        },
+        {
+          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
+          "url": "https://wallstreetcn.com/articles/3770936",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 22时07分]"
+        },
+        {
           "title": "DeepSeek V4成OpenClaw默认模型",
           "url": "https://www.toutiao.com/trending/7632564309457141806/",
           "source": "今日头条",
@@ -1079,28 +1116,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
-        },
-        {
-          "title": "媒体：梁文锋这一次要掀桌",
-          "url": "https://www.toutiao.com/trending/7633338675333434907/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
-          "url": "https://wallstreetcn.com/articles/3770936",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
         },
         {
           "title": "港股MINIMAX-W(00100.HK)盘中跌超15%，智谱(02513.HK)跌超5%；消息面上，DeepSeek上周五发布新模型，并宣布输入缓存降价。",
@@ -1134,6 +1149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "DeepSeek V4哪些点被低估了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%93%AA%E4%BA%9B%E7%82%B9%E8%A2%AB%E4%BD%8E%E4%BC%B0%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
@@ -1223,6 +1249,18 @@
           "time_info": "[00时52分 ~ 06时46分]"
         },
         {
+          "title": "一季度业绩大爆发！7家A股上市公司净利同比增超10倍",
+          "url": "https://www.cls.cn/detail/2356906",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 22时07分]"
+        },
+        {
           "title": "上证报：高评级不“安全” 信用标尺亟待校准",
           "url": "https://wallstreetcn.com/livenews/3094577",
           "source": "华尔街见闻-快讯",
@@ -1232,17 +1270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
-        },
-        {
-          "title": "一季度业绩大爆发！7家A股上市公司净利同比增超10倍",
-          "url": "https://www.cls.cn/detail/2356906",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
         },
         {
           "title": "A股零售板块短线拉升，东百集团涨停，锦和商管、三江购物、百大集团、国光连锁、美凯龙跟涨。消息面上，离境退税新政一年来退税销售额同比增长超9倍。",
@@ -1427,7 +1454,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股期货亚市盘初小幅走低，标普500指数期货、纳斯达克100指数期货均跌0.3%。",
@@ -1467,6 +1494,17 @@
           "time_info": "[06时46分 ~ 07时46分]"
         },
         {
+          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
+          "url": "https://wallstreetcn.com/articles/3770942",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 22时07分]"
+        },
+        {
           "title": "美伊冲突都没带崩美股？“巴菲特指标”冲破200%关键门槛，似有大跌之兆！",
           "url": "https://www.cls.cn/detail/2356367",
           "source": "财联社热门",
@@ -1476,6 +1514,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
+          "title": "美伊谈判僵局难解，美股盘前小幅下跌，高通大涨10%，布油日内涨3%，镍价刷两年新高",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "高通美股盘前涨超10%",
@@ -1489,15 +1538,37 @@
           "time_info": "17时24分"
         },
         {
-          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
-          "url": "https://wallstreetcn.com/articles/3770942",
-          "source": "华尔街见闻",
+          "title": "美股盘初，主要行业ETF多数上涨，区域银行ETF、能源业ETF涨超1%，银行业ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3095065",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时49分"
+          "time_info": "22时07分"
+        },
+        {
+          "title": "美股盘初：三大股指小幅下跌，高通涨约7%，微软跌约1%",
+          "url": "https://wallstreetcn.com/livenews/3095061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "美股三大指数集体低开 高通涨逾6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E9%AB%98%E9%80%9A%E6%B6%A8%E9%80%BE6%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         },
         {
           "title": "高通美股盘前涨超14%。",
@@ -1506,16 +1577,60 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
+        },
+        {
+          "title": "POET Technologies美股盘前跌超40%，公司失去Celestial AI的采购订单。",
+          "url": "https://wallstreetcn.com/livenews/3095052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260427214412955800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3095068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         }
       ]
     },
     {
       "keyword_group": "主力资金 开源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "国产开源大模型下载量破100亿次",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B4100%E4%BA%BF%E6%AC%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
         {
           "title": "国产开源大模型密集迭代升级 国产开源大模型下载量破100亿次",
           "url": "https://wallstreetcn.com/livenews/3094869",
@@ -1548,6 +1663,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        },
+        {
+          "title": "微软：将不再向OpenAI支付收入分成，微软的OpenAI许可现将转为非独家许可",
+          "url": "https://wallstreetcn.com/livenews/3095041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价震荡 多家金店一口价金饰打折",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%9C%87%E8%8D%A1+%E5%A4%9A%E5%AE%B6%E9%87%91%E5%BA%97%E4%B8%80%E5%8F%A3%E4%BB%B7%E9%87%91%E9%A5%B0%E6%89%93%E6%8A%98",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时07分"
         }
       ]
     },
