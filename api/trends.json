@@ -1,30 +1,31 @@
 {
-  "generated_at": "2026-05-01T07:59:00.712670+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-05-01T12:09:00.702397+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 66,
       "titles": [
-        {
-          "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
-          "url": "https://news.ifeng.com/c/8skYq26ZNlk",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 07时59分]"
-        },
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
           "url": "https://wallstreetcn.com/articles/3771344",
           "source": "华尔街见闻",
           "ranks": [
             7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时26分 ~ 12时09分]"
+        },
+        {
+          "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
+          "url": "https://news.ifeng.com/c/8skYq26ZNlk",
+          "source": "凤凰网",
+          "ranks": [
             5,
             3
           ],
@@ -43,6 +44,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时26分 ~ 05时07分]"
+        },
+        {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时26分 ~ 12时09分]"
+        },
+        {
+          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771420",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时06分 ~ 12时09分]"
         },
         {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
@@ -70,18 +97,6 @@
           "time_info": "[01时26分 ~ 07时59分]"
         },
         {
-          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
-          "url": "https://www.zhihu.com/question/2032044326121730326",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 07时59分]"
-        },
-        {
           "title": "还是不解气，特朗普又炮轰默茨",
           "url": "https://news.ifeng.com/c/8skrGhZKZnd",
           "source": "凤凰网",
@@ -91,6 +106,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时40分 ~ 07时59分]"
+        },
+        {
+          "title": "特朗普政府为何要说对伊战争已结束？原因揭晓",
+          "url": "https://news.ifeng.com/c/8slb2E7L4ao",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 12时09分]"
+        },
+        {
+          "title": "特朗普还是没抵住诱惑",
+          "url": "https://news.ifeng.com/c/8slQvquk7wK",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 12时09分]"
         },
         {
           "title": "美国总统特朗普：试图以某种方式拯救伊朗。",
@@ -124,17 +161,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
-        },
-        {
-          "title": "特朗普称已“摧毁”伊朗核能力，仅少数人知晓谈判实际进展",
-          "url": "https://wallstreetcn.com/livenews/3097761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
         },
         {
           "title": "美国总统特朗普：我们要看看伊朗能撑多久。",
@@ -225,19 +251,6 @@
           "time_info": "03时41分"
         },
         {
-          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3771420",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时06分 ~ 07时59分]"
-        },
-        {
           "title": "美国总统特朗普：田纳西州重新划分选区将使共和党多出一个席位。",
           "url": "https://flash.jin10.com/detail/20260501005752668800",
           "source": "金十数据",
@@ -258,6 +271,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "特朗普称已“摧毁”伊朗核能力，仅少数人知晓谈判实际进展",
+          "url": "https://wallstreetcn.com/livenews/3097761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 12时09分]"
         },
         {
           "title": "特朗普政府对鲍威尔的调查结束了，美国司法部正准备对美联储传票裁决提起上诉",
@@ -283,6 +308,28 @@
           "time_info": "[05时06分 ~ 06时57分]"
         },
         {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 12时09分]"
+        },
+        {
+          "title": "“美国不惜一切代价想得到钨矿”，特朗普的儿子有新动作",
+          "url": "https://news.ifeng.com/c/8sleYIiCFoz",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 12时09分]"
+        },
+        {
           "title": "特朗普称只有少数人知晓美伊谈判实际进展",
           "url": "https://flash.jin10.com/detail/20260501054138317800",
           "source": "金十数据",
@@ -293,6 +340,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时59分]"
+        },
+        {
+          "title": "特朗普：大多数人说我更适合从政，但其实我最擅长搞建设",
+          "url": "https://v.ifeng.com/c/8slZgmeHYf5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 12时09分]"
         },
         {
           "title": "特朗普：只有少数人知晓美伊谈判实际进展",
@@ -435,7 +493,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -548,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "据AXIOS网站记者：两名美国官员表示，美国中央司令部指挥官布拉德·库珀海军上将和联合参谋长主席丹·凯恩将军今天向特朗普总统简报了45分钟，讨论了针对伊朗可能采取的军事行动新计划。",
+          "url": "https://flash.jin10.com/detail/20260501103800548800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "特朗普：可能减少驻西班牙和意大利的美军规模",
@@ -685,7 +754,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
@@ -712,6 +781,19 @@
           "time_info": "[01时26分 ~ 05时07分]"
         },
         {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时57分 ~ 12时09分]"
+        },
+        {
           "title": "苹果公司第二财季营收1111.8亿美元，分析师预期1096.6亿美元。 第二财季产品营收802.1亿美元，分析师预期81.3亿美元。 第二财季iPhone营收569.9亿美元，创历史新高，分析师预期569.8亿美元。 第二财季iPad营收69.1亿美元，分析师预期66.5亿美元。 第二财季Mac营收84亿美元，分析师预期81.3亿美元。 第二财季可穿戴设备、居家、周边营收79亿美元，分析师预期77.2亿美元。 第二财季服务营收309.8亿美元，分析师预期303.7亿美元。 第二财季美国营收450.9亿美元，分析师预期458.2亿美元。 第二财季大中华区营收205亿美元，分析师预期189.1亿美元。 第二财季每股收益（EPS）为2.01美元，分析师预期1.96美元。 苹果美股盘后涨0.6%，瞬间转而跌超1.2%，随后又迅速转而涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3097708",
           "source": "华尔街见闻-快讯",
@@ -721,18 +803,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时57分 ~ 07时59分]"
         },
         {
           "title": "提醒：苹果公司电话会结束。 苹果公司美股盘后维持3.9%的涨幅。",
@@ -745,6 +815,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时59分]"
+        },
+        {
+          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
+          "url": "https://www.zhihu.com/question/2033115543276930640",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 12时09分]"
         },
         {
           "title": "分析师分析师电话会：苹果公司预计第三财季营收将同比增长14%-17%，分析师预期增长9.1%。 预计第三财季服务营收增幅将与第二财季（至3月的三个月）类似。 预计第三财季毛利润率为47.5%-48.5%。 本公司不再追求净现金中性立场。 苹果公司美股盘后上涨3.45%。",
@@ -765,7 +846,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -787,7 +868,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -809,7 +890,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -861,18 +942,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[01时26分 ~ 12时09分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -884,8 +966,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[01时26分 ~ 12时09分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -912,6 +994,17 @@
           "time_info": "[01时26分 ~ 05时07分]"
         },
         {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 12时09分]"
+        },
+        {
           "title": "DeepSeek思考过程好萌",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -921,6 +1014,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "摩尔线程完成DeepSeek-V4全链路工程化适配",
+          "url": "https://flash.jin10.com/detail/20260501103248247800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         }
       ]
     },
