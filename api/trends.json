@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T05:55:46.724133+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-05-17T06:54:12.502645+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         },
         {
           "title": "特朗普警告台独",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -50,8 +50,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         },
         {
           "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
@@ -61,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -72,19 +72,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -94,8 +95,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         },
         {
           "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
@@ -105,8 +106,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         },
         {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
@@ -114,11 +115,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时55分]"
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 06时54分]"
         },
         {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
@@ -139,11 +141,12 @@
           "ranks": [
             6,
             19,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时12分 ~ 05时55分]"
+          "appearance_count": 4,
+          "time_info": "[03时12分 ~ 06时54分]"
         },
         {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
@@ -192,8 +195,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -203,8 +206,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -214,11 +217,12 @@
             14,
             11,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -229,8 +233,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         }
       ]
     },
@@ -247,8 +251,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         },
         {
           "title": "A股正在告别“讲故事时代”",
@@ -274,8 +278,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时54分]"
         }
       ]
     },
@@ -293,8 +297,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 06时54分]"
         }
       ]
     },
@@ -312,8 +316,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时54分]"
         }
       ]
     },
@@ -326,11 +330,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%A4%9A%E4%B9%B0%E5%B0%8F%E8%B7%8C%E5%B0%91%E4%B9%B0%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 06时54分]"
         }
       ]
     }
