@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T13:09:31.213545+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-05-20T17:44:32.603514+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -59,7 +59,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -73,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        },
+        {
+          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
+          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "美媒：特朗普或在生日期间出席法国G7峰会",
@@ -239,7 +250,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -250,7 +261,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -316,7 +327,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
@@ -330,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "据以色列媒体：特朗普与内塔尼亚胡昨晚通电话，讨论了即将对伊朗做出的决定。",
+          "url": "https://flash.jin10.com/detail/20260520165123555800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "为何特朗普抛涉台“四不”说法",
@@ -346,7 +368,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -467,6 +489,17 @@
           "time_info": "[06时20分 ~ 08时12分]"
         },
         {
+          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
+          "url": "https://wallstreetcn.com/articles/3772667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 17时44分]"
+        },
+        {
           "title": "华尔街警告：美股“黄金时代”结束",
           "url": "https://www.toutiao.com/trending/7640862320297639979/",
           "source": "今日头条",
@@ -489,6 +522,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "周二（5月19日），美股存储芯片与硬件供应链指数涨0.62%，报173.64点，美股早盘呈现出V形反转行情。 成分股闪迪收涨3.77%，美光科技涨2.52%，泰瑞达涨0.15%，西部数据则收跌0.63%，希捷科技、Rambus、应用材料、拉姆研究跌1.01%-1.65%。",
           "url": "https://wallstreetcn.com/livenews/3106270",
           "source": "华尔街见闻-快讯",
@@ -498,17 +542,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
-          "url": "https://wallstreetcn.com/articles/3772667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（5月19日），美国科技股七巨头（Magnificent 7）指数跌1.16%，报223.24点。 “超大”市值科技股指数跌1.50%，报440.54点。",
@@ -588,6 +621,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "美股盘前，半导体股普涨，英特尔涨超4%，美光科技涨近4%，高通涨近3%，阿斯麦、AMD涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3106616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "AMC院线美股盘后涨6%，该公司CEO买入股票。",
           "url": "https://wallstreetcn.com/livenews/3106254",
           "source": "华尔街见闻-快讯",
@@ -651,6 +695,84 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
+          "url": "https://wallstreetcn.com/livenews/3106231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "知情人士：软银CEO孙正义曾表示相信OpenAI创始人Sam Altman正引领着本世纪最重要的技术变革。",
+          "url": "https://flash.jin10.com/detail/20260520165930678800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "OpenAI投2.34亿美元在新加坡设立新AI实验室",
+          "url": "https://flash.jin10.com/detail/20260520115552905800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上证指数早盘收报4150.98点，跌0.45%。 深证成指早盘收报15512.08点，跌0.37%。 创业板指早盘收报3910.52点，涨0.05%。 沪深300早盘收报4839.16点，跌0.28%。 科创50早盘收报1811.43点，涨2.04%。 中证500早盘收报8612.51点，跌0.18%。 中证1000早盘收报8757.78点，跌0.58%。",
+          "url": "https://wallstreetcn.com/livenews/3106432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "A股收盘：半导体产业链爆发",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -682,62 +804,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
-          "url": "https://wallstreetcn.com/livenews/3106231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时50分"
-        },
-        {
-          "title": "OpenAI投2.34亿美元在新加坡设立新AI实验室",
-          "url": "https://flash.jin10.com/detail/20260520115552905800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上证指数早盘收报4150.98点，跌0.45%。 深证成指早盘收报15512.08点，跌0.37%。 创业板指早盘收报3910.52点，涨0.05%。 沪深300早盘收报4839.16点，跌0.28%。 科创50早盘收报1811.43点，涨2.04%。 中证500早盘收报8612.51点，跌0.18%。 中证1000早盘收报8757.78点，跌0.58%。",
-          "url": "https://wallstreetcn.com/livenews/3106432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -765,7 +831,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         }
