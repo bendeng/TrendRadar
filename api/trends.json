@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T16:53:32.687733+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-06-10T20:27:09.896607+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普证实美军打击伊朗",
@@ -69,6 +69,40 @@
           "time_info": "[02时12分 ~ 12时10分]"
         },
         {
+          "title": "据福克斯新闻：美国总统特朗普将继续施以最大压力以达成协议。",
+          "url": "https://flash.jin10.com/detail/20260610201638518800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "美伊谈判仍在继续，特朗普将继续施加最大压力以达成协议。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3117493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 20时27分]"
+        },
+        {
           "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
           "url": "https://wallstreetcn.com/articles/3774230",
           "source": "华尔街见闻",
@@ -80,16 +114,37 @@
           "time_info": "[05时02分 ~ 07时21分]"
         },
         {
-          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
-          "url": "https://wallstreetcn.com/articles/3774257",
-          "source": "华尔街见闻",
+          "title": "美贸易法院：特朗普，快退钱！",
+          "url": "https://news.ifeng.com/c/8tqRZQUDFAS",
+          "source": "凤凰网",
           "ranks": [
-            7,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
+          "title": "大水冲了龙王庙？摩门教共和党人电话轰炸特朗普",
+          "url": "https://news.ifeng.com/c/8tqTXvDvrTe",
+          "source": "凤凰网",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时10分 ~ 16时53分]"
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
+          "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33347392",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "美以伊冲突迷局：特朗普和内塔尼亚胡，究竟谁说了算？",
@@ -101,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "分析师：特朗普重新挑起打击伊朗可能性的时机“特别” 或是在为后续的数据铺路？",
+          "url": "https://flash.jin10.com/detail/20260610201418665800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "特朗普称对伊朗进行打击“非常重要” | 环球市场",
@@ -158,6 +224,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "特朗普警告伊朗将为拖延“付出代价”，以色列或再次发动打击！",
+          "url": "https://flash.jin10.com/detail/20260610200142273800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "特朗普称伊朗击落一架美军阿帕奇直升机",
           "url": "https://wallstreetcn.com/livenews/3116959",
           "source": "华尔街见闻-快讯",
@@ -202,6 +279,17 @@
           "time_info": "12时10分"
         },
         {
+          "title": "美媒：特朗普称正接近下令对伊朗基础设施发动新的打击",
+          "url": "https://flash.jin10.com/detail/20260610200011332800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "特朗普称对伊朗进行打击“非常重要”",
           "url": "https://flash.jin10.com/detail/20260610055938102800",
           "source": "金十数据",
@@ -213,6 +301,28 @@
           "time_info": "07时21分"
         },
         {
+          "title": "美媒：特朗普将下令打击伊朗发电厂和桥梁",
+          "url": "https://wallstreetcn.com/livenews/3117466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "美国总统特朗普表示，他接近下令对伊朗电厂和桥梁进行新的打击。将继续对伊朗采取行动。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3117463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
           "url": "https://flash.jin10.com/detail/20260610055143921800",
           "source": "金十数据",
@@ -222,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普：伊朗用了太长时间谈判 现在必须付出代价",
+          "url": "https://wallstreetcn.com/livenews/3117460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "国际油价收跌约3%，特朗普的能源部长称霍尔木兹海峡通航船舶增加",
@@ -321,6 +442,30 @@
           "time_info": "05时03分"
         },
         {
+          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
+          "url": "https://www.cls.cn/detail/2395711",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 20时27分]"
+        },
+        {
+          "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
+          "url": "https://www.cls.cn/detail/2395632",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 20时26分]"
+        },
+        {
           "title": "机构：美股70%熊市信号被触发",
           "url": "https://www.toutiao.com/trending/7649392765633056299/",
           "source": "今日头条",
@@ -330,17 +475,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 05时03分]"
-        },
-        {
-          "title": "“黑色星期五”只是前奏？高盛、巴克莱齐警告：美股急跌风险仍存！",
-          "url": "https://www.cls.cn/detail/2395711",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "周二（6月9日），美股行业ETF多数收涨，全球航空业ETF涨3.10%，生物科技指数ETF、银行业ETF、医疗业ETF、区域银行ETF、日常消费品ETF、公用事业ETF至多涨1.46%，网络股指数ETF、半导体ETF至多收跌1.20%，全球科技股指数ETF、能源业ETF、科技行业ETF至多跌1.85%。",
@@ -360,18 +494,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "当半导体成“震中”！一文读懂：美股投资者当前在哪里避险？",
-          "url": "https://www.cls.cn/detail/2395632",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -456,7 +579,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "跨境荐股！\"白毛股神\"连续三天\"搅动A股风云\"",
@@ -509,6 +632,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
+          "url": "https://www.cls.cn/detail/2396047",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
           "title": "上证指数早盘收报3986.66点，跌0.58%。 深证成指早盘收报14972.75点，跌1.94%。 创业板指早盘收报3870.83点，跌2.29%。 沪深300早盘收报4754.80点，跌0.98%。 科创50早盘收报1662.81点，跌0.02%。 中证500早盘收报8052.83点，跌1.51%。 中证1000早盘收报8176.14点，跌1.71%。",
           "url": "https://wallstreetcn.com/livenews/3117200",
           "source": "华尔街见闻-快讯",
@@ -526,7 +660,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -559,7 +693,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -570,7 +704,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -592,7 +726,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -644,7 +778,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国际油价金价大跌",
@@ -668,6 +802,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时10分 ~ 16时53分]"
+        },
+        {
+          "title": "花旗：金价可能跌到3500美元",
+          "url": "https://www.toutiao.com/trending/7649366995154944043/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "强非农后又迎热通胀？金价“至暗时刻”恐未完",
@@ -713,6 +858,23 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "早已提前看穿黄金暴跌剧本，3940目标价格不是梦！如何把握黄金送钱行情？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260610200601935800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -740,7 +902,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
