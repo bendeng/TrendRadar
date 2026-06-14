@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T05:19:09.658245+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-06-15T07:14:10.821516+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -15,20 +15,64 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时14分]"
         },
         {
-          "title": "不满以色列空袭贝鲁特，特朗普指责内塔尼亚胡“缺乏理智”",
-          "url": "https://wallstreetcn.com/livenews/3119268",
-          "source": "华尔街见闻-快讯",
+          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            5
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
+          "url": "https://www.cls.cn/detail/2399150",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普宣布美伊达成和平协议",
+          "url": "https://www.toutiao.com/trending/7651023832815255590/",
+          "source": "今日头条",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时44分 ~ 05时19分]"
+          "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "美伊谈判丨特朗普：和平协议达成，开放霍尔木兹海峡",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
+          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时14分]"
         },
         {
           "title": "据以色列媒体N12：特朗普告知内塔尼亚胡与伊朗签署协议的最新进展，协议最早可能于当地时间周日晚上就会达成。",
@@ -37,9 +81,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "不满以色列空袭贝鲁特，特朗普指责内塔尼亚胡“缺乏理智”",
+          "url": "https://wallstreetcn.com/livenews/3119268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 07时14分]"
         },
         {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器，霍尔木兹海峡很快将重新开放商业活动！",
@@ -48,7 +105,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -64,38 +121,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33375825",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时19分]"
-        },
-        {
           "title": "市场消息：以色列总理内塔尼亚胡与美国总统特朗普进行电话会谈。",
           "url": "https://flash.jin10.com/detail/20260615043539835800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        },
-        {
-          "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
-          "url": "https://www.cls.cn/detail/2399150",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时19分]"
         },
         {
           "title": "据CNN：在伊朗谈判和黎巴嫩停火紧张局势加剧之际，内塔尼亚胡正寻求在下周末七国集团峰会后与特朗普举行紧急会谈。卡塔尔谈判代表仍留在德黑兰，与美国协调，以保持谈判顺利进行。",
@@ -104,20 +138,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        },
-        {
-          "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
-          "url": "https://v.ifeng.com/c/8twfTkgsM7l",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时19分]"
         },
         {
           "title": "俄总统助理：特朗普与普京通话，美伊谈判结果将公布",
@@ -170,6 +193,17 @@
           "time_info": "[03时44分 ~ 05时19分]"
         },
         {
+          "title": "特朗普称美伊协议完成",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%AE%8C%E6%88%90&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
           "title": "美国总统特朗普对福克斯新闻表示：与伊朗的协议将先以远程方式签署，随后可能在一周后于欧洲举行面对面签字仪式。",
           "url": "https://flash.jin10.com/detail/20260615002828559800",
           "source": "金十数据",
@@ -179,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "特朗普：霍尔木兹海峡将随美伊协议19日签署而开放",
+          "url": "https://wallstreetcn.com/livenews/3119298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：特朗普向普京表示伊朗协议即将达成，普京对冲突行将结束表示满意。",
@@ -231,9 +276,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "美国副总统万斯：特朗普可能出席伊朗协议签署仪式。 我当然计划出席伊朗协议签署仪式。",
+          "url": "https://wallstreetcn.com/livenews/3119292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "美国总统特朗普：如果《外国情报监视法》法案不附带《拯救美国法案》，我就反对。",
@@ -253,7 +309,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -297,7 +353,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
         },
@@ -313,6 +369,28 @@
           "time_info": "03时44分"
         },
         {
+          "title": "特朗普：霍尔木兹海峡将于周五签署协议后开放",
+          "url": "https://flash.jin10.com/detail/20260615063410144800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普：霍尔木兹海峡完全开放，美国海军立即解除相关封锁",
+          "url": "https://wallstreetcn.com/livenews/3119283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "克里姆林宫：普京与特朗普达成一致，史蒂夫·威特科夫和贾里德·库什纳将在近期再次访问俄罗斯。",
           "url": "https://flash.jin10.com/detail/20260614235720172800",
           "source": "金十数据",
@@ -322,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "特朗普称即将确认与伊朗达成协议",
+          "url": "https://wallstreetcn.com/livenews/3119280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "美伊协议文本浮现多个版本 特朗普坚称周日签署",
@@ -349,7 +438,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "7家A股公司，下周“摘帽”",
@@ -357,11 +446,23 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时14分]"
+        },
+        {
+          "title": "龙头20CM涨停！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2399350",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
         },
         {
           "title": "10家A股公司退市",
@@ -399,8 +500,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[01时24分 ~ 07时14分]"
         }
       ]
     }
