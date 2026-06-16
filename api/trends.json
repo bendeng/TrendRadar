@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T12:53:12.400125+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-06-16T18:13:51.901669+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 47,
       "titles": [
         {
           "title": "打脸马克龙？特朗普就数字服务税发难",
@@ -55,6 +55,17 @@
           "time_info": "[00时21分 ~ 04时28分]"
         },
         {
+          "title": "特朗普：感谢中俄帮忙",
+          "url": "https://news.ifeng.com/c/8tzsMW2n662",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "美加州州长称特朗普指示司法部对其展开调查",
           "url": "https://flash.jin10.com/detail/20260616042216487800",
           "source": "金十数据",
@@ -64,6 +75,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "美国总统特朗普：我的伊朗协议与奥巴马时期的《联合全面行动计划》（JCPOA）不同。",
+          "url": "https://flash.jin10.com/detail/20260616180045576800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗协议进入第二阶段。 我们认为这是一份公平的协议。 我们不会在伊朗投入任何资金。 伊朗永远无法拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3120218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "报道：特朗普、万斯、伊朗议长签署美伊谅解备忘录",
@@ -97,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "特朗普称伊朗协议明确禁止伊朗拥有核武器",
+          "url": "https://flash.jin10.com/detail/20260616175911500800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "美加州州长称特朗普指示司法部对其展开调查",
@@ -177,6 +221,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美国总统特朗普：没有我就没有以色列。",
+          "url": "https://flash.jin10.com/detail/20260616175852810800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "美国总统特朗普的官员们周一会见了来自Anthropic的人员。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3119898",
           "source": "华尔街见闻-快讯",
@@ -188,6 +243,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
+          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "美国总统特朗普：我可能会参与，也可能不参与伊朗协议的签署。美国副总统万斯将前往签署协议。",
           "url": "https://flash.jin10.com/detail/20260616001302528800",
           "source": "金十数据",
@@ -197,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美国总统特朗普：内塔尼亚胡在对待黎巴嫩问题上需要更负责任。",
+          "url": "https://flash.jin10.com/detail/20260616175836921800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "美国总统特朗普：（关于俄乌战争）看看我们能否采取行动，双方领导人似乎持开放态度。",
@@ -221,6 +298,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美国总统特朗普：我对内塔尼亚胡并不感到沮丧。",
+          "url": "https://flash.jin10.com/detail/20260616175813258800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）希望能建立良好的关系。",
           "url": "https://flash.jin10.com/detail/20260616000959611800",
           "source": "金十数据",
@@ -241,6 +329,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "美国总统特朗普：我不喜欢在签署伊朗协议前以色列对贝鲁特的攻击。",
+          "url": "https://flash.jin10.com/detail/20260616175759268800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "美国总统特朗普：（谈及伊朗）将实施强有力的监管。",
@@ -265,6 +375,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美国总统特朗普：如果以色列无法在不伤及其他所有人的情况下完成任务，那就应该由叙利亚来完成。",
+          "url": "https://flash.jin10.com/detail/20260616175737605800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "美国总统特朗普：重要的是油价大幅下跌而股市正在上涨。",
           "url": "https://flash.jin10.com/detail/20260616000853799800",
           "source": "金十数据",
@@ -276,6 +397,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美国总统特朗普：以色列与真主党的战斗持续时间太长了。",
+          "url": "https://flash.jin10.com/detail/20260616175722716800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "美国总统特朗普：霍尔木兹海峡已于周五完全开放。协议已全部签署。",
           "url": "https://flash.jin10.com/detail/20260616000829426800",
           "source": "金十数据",
@@ -285,6 +417,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美国总统特朗普：已告知以色列，对该国针对贝鲁特的袭击感到不满。",
+          "url": "https://flash.jin10.com/detail/20260616175710148800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "美国总统特朗普表示，他曾向以色列建议由叙利亚来对付黎巴嫩真主党。",
+          "url": "https://flash.jin10.com/detail/20260616175654731800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "美国总统特朗普：即便以色列袭击黎巴嫩，该协议仍能维持。",
+          "url": "https://flash.jin10.com/detail/20260616175547859800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "美国总统特朗普：从心理层面讲，我们想要获取伊朗的浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260616175425352800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "Anthropic将于周一围绕Mythos问题会见美国总统特朗普。（CNBC）",
@@ -320,6 +496,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "美国总统特朗普：我们要获取伊朗的核材料。",
+          "url": "https://flash.jin10.com/detail/20260616175345506800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "一名要求匿名的七国集团（G7）官员表示，成员国在如何应对伊朗局势问题上存在严重分歧。几乎没有人预期此次峰会会发表联合公报，在特朗普时代，这几乎是不可能完成的任务。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3119846",
           "source": "华尔街见闻-快讯",
@@ -329,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗现在已成往事。",
+          "url": "https://flash.jin10.com/detail/20260616175151946800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         }
       ]
     },
@@ -342,11 +540,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 12时53分]"
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 18时13分]"
         },
         {
           "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
@@ -521,7 +720,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "A股锁价定增市场化提速，多家公司将定价基准日“后移”",
@@ -533,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "A股又一只“30倍股”诞生",
+          "url": "https://www.toutiao.com/trending/7650841793659633700/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
@@ -547,13 +757,35 @@
           "time_info": "[00时21分 ~ 07时06分]"
         },
         {
+          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
+          "url": "https://www.cls.cn/detail/2401228",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "【午报】创业板指震荡走高涨超2%，AI硬件持续爆发，MLCC、玻纤等细分领涨",
+          "url": "https://www.cls.cn/detail/2400951",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "上证指数早盘收报4098.85点，涨0.06%。 深证成指早盘收报15712.64点，涨1.17%。 创业板指早盘收报4116.36点，涨2.05%。 沪深300早盘收报4898.14点，涨0.13%。 科创50早盘收报1756.90点，涨0.49%。 中证500早盘收报8518.28点，涨1.33%。 中证1000早盘收报8658.72点，涨1.61%。",
           "url": "https://wallstreetcn.com/livenews/3120043",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         },
@@ -564,9 +796,59 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "A股诺德股份涨停",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%AF%BA%E5%BE%B7%E8%82%A1%E4%BB%BD%E6%B6%A8%E5%81%9C%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "腾讯云 DeepSeek-V3.2 模型下线及切换升级",
+          "url": "https://wallstreetcn.com/livenews/3120209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "DeepSeek完成500亿融资",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%8C%E6%88%90500%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "DeepSeek完成超500亿元融资",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%8C%E6%88%90%E8%B6%85500%E4%BA%BF%E5%85%83%E8%9E%8D%E8%B5%84&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         }
       ]
     },
@@ -634,6 +916,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价年内有望冲5000美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%B9%B4%E5%86%85%E6%9C%89%E6%9C%9B%E5%86%B25000%E7%BE%8E%E5%85%83%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         }
       ]
     },
