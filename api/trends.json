@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T19:54:25.371345+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-06-17T23:46:21.742385+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普：感谢中俄帮忙",
@@ -44,6 +44,18 @@
           "time_info": "[00时01分 ~ 08时22分]"
         },
         {
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 23时46分]"
+        },
+        {
           "title": "特朗普和马克龙为何为一瓶红酒较劲",
           "url": "https://www.toutiao.com/trending/7651982793936735807/",
           "source": "今日头条",
@@ -67,29 +79,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
-          "url": "https://wallstreetcn.com/articles/3774815",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 19时54分]"
-        },
-        {
-          "title": "“马克龙想借中国，来跟特朗普讨价还价”",
-          "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "美国联邦登记处公布总统特朗普6月11日的备忘录。",
           "url": "https://wallstreetcn.com/livenews/3120410",
           "source": "华尔街见闻-快讯",
@@ -99,6 +88,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "“马克龙想借中国，来跟特朗普讨价还价”",
+          "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 23时46分]"
         },
         {
           "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
@@ -127,22 +128,46 @@
           "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 23时46分]"
         },
         {
           "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
           "url": "https://news.ifeng.com/c/8u1wV2q6hDQ",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 23时46分]"
+        },
+        {
+          "title": "特朗普称美印贸易协议即将达成，盛赞莫迪“像杀手一样强硬”",
+          "url": "https://wallstreetcn.com/livenews/3121112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时54分"
+          "time_info": "23时46分"
+        },
+        {
+          "title": "特朗普称所有欧洲盟友都提出帮忙扫雷 但不一定依赖他们",
+          "url": "https://flash.jin10.com/detail/20260617230843938800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "现场：马克龙夫人险摔倒，不抓身旁老公，反而抓住特朗普",
@@ -151,9 +176,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "“特朗普这么干，又给中国打广告”",
+          "url": "https://news.ifeng.com/c/8u2Dv7mxUaG",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "共和党警告特朗普政府或面临“停摆”，因民主党反对五角大楼大幅增支",
@@ -167,15 +203,37 @@
           "time_info": "06时17分"
         },
         {
+          "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
+          "url": "https://www.cls.cn/detail/2402714",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "德国总理默茨：在七国集团峰会上与特朗普的对话富有建设性。",
           "url": "https://wallstreetcn.com/livenews/3120969",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "特朗普：有关设立3000亿美元伊朗重建基金的报道不实。 美国没有基金投资伊朗。 美国不会在伊朗投资“10美分”（即一分钱也不投）。 油价保持低位是因为我们正在将船只运出（海峡）。 伊朗谅解备忘录尚未最终定稿。 如果我对看到的不满意，我们会再次袭击。",
@@ -184,7 +242,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -206,7 +264,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -239,7 +297,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -250,7 +308,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -261,7 +319,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -275,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
+        },
+        {
+          "title": "法国总统马克龙：美国总统特朗普注意到俄罗斯不想要和平的事实。特朗普和其他领导人均承认，俄罗斯并无意愿实现和平。",
+          "url": "https://flash.jin10.com/detail/20260617225944082800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "特朗普政府再次推动转移教育部职能",
@@ -294,9 +363,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "特朗普：是否恢复对俄石油制裁取决于全球能源价格",
+          "url": "https://flash.jin10.com/detail/20260617225917559800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "意大利总理梅洛尼：我们在七国集团（G7）峰会上已就乌克兰问题与特朗普达成协议。 与美国总统特朗普就乌克兰问题达成的协议，并不总是可以理所当然地认为会一直存在（不能视为理所当然）。 在峰会期间，所有G7成员国之间的氛围都非常融洽。 我与特朗普的个人关系并没有发生改变。 在即将举行的欧盟峰会上，我将提议为乌克兰事务指定一名统一的欧盟谈判代表。 如果由大国出面提议设立针对乌克兰问题的欧盟单一谈判代表，将会非常困难。 这名谈判代表应该来自一个中等规模的国家。 我们目前正专注于接下来需要落实的工作。",
+          "url": "https://wallstreetcn.com/livenews/3121096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "特朗普：美国不会向伊朗投资",
@@ -305,9 +396,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "特朗普：与俄乌首脑会谈良好，考虑用美国导弹援乌！",
+          "url": "https://flash.jin10.com/detail/20260617225454989800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "据福克斯新闻：美国总统特朗普指责奥巴马在达成2015年伊核协议期间“贿赂”伊朗，称其用飞机向德黑兰运送了17亿美元的“美元现金”。",
@@ -316,7 +418,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -346,7 +448,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -354,11 +456,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时17分 ~ 19时54分]"
+          "appearance_count": 6,
+          "time_info": "[06时17分 ~ 23时46分]"
         },
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -433,6 +536,28 @@
           "time_info": "[00时01分 ~ 08时22分]"
         },
         {
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "美股融资已达历史极限！大摩警告：一场去杠杆风暴正在酝酿",
           "url": "https://wallstreetcn.com/articles/3774752",
           "source": "华尔街见闻",
@@ -491,7 +616,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "吴清：新“国九条”以来 社保、保险等净买入A股1.3万亿元",
@@ -518,6 +643,17 @@
           "time_info": "[00时01分 ~ 08时22分]"
         },
         {
+          "title": "博主：A股正在发生三大结构性逆转",
+          "url": "https://www.toutiao.com/trending/7652346288553332230/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "A股创新药概念震荡下挫，常山药业跌超12%，珍宝岛、亚泰集团、济民健康、博瑞医药、振东制药跌幅居前。",
           "url": "https://wallstreetcn.com/livenews/3120758",
           "source": "华尔街见闻-快讯",
@@ -535,9 +671,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "多家A股公司提示风险",
+          "url": "https://www.toutiao.com/trending/7652205334456025130/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "A股存储芯片板块震荡拉升，香农芯创涨超15%，协创数据涨超10%，通富微电、东芯股份、中微公司跟涨。",
@@ -568,7 +715,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -579,7 +726,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -590,7 +737,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -774,7 +921,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         }
