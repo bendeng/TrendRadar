@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T20:27:00.163881+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-06-25T23:43:24.426738+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 20时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 23时43分]"
         },
         {
           "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 20时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 23时43分]"
         },
         {
           "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
@@ -76,6 +77,20 @@
           "time_info": "02时54分"
         },
         {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时09分 ~ 23时43分]"
+        },
+        {
           "title": "白宫：特朗普补充预算请求包括671.5亿美元用于国防部军事项目。",
           "url": "https://flash.jin10.com/detail/20260625044203755800",
           "source": "金十数据",
@@ -96,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "美国法官叫停特朗普关于邮寄投票的行政令",
+          "url": "https://wallstreetcn.com/livenews/3124758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美国总统特朗普：（关于英国首相潜在继任者伯纳姆）我听说他非常自由派，非常。因此，这意味着他可能不会开放北海。",
@@ -131,19 +157,6 @@
           "time_info": "06时23分"
         },
         {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时09分 ~ 20时27分]"
-        },
-        {
           "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
           "source": "澎湃新闻",
@@ -172,7 +185,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -304,7 +317,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -452,6 +465,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "美国法官叫停特朗普关于邮寄投票的行政令",
+          "url": "https://flash.jin10.com/detail/20260625230803866800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美国总统特朗普要求国会山拨款超14亿美元来应对埃博拉。（路透）",
           "url": "https://wallstreetcn.com/livenews/3124209",
           "source": "华尔街见闻-快讯",
@@ -496,6 +520,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "美国最高法院表示，下周一将是下一个意见征询日。 据彭博报道，最高法院完成审议后，下周可能会对特朗普政府起诉美联储理事库克一案作出裁决。",
+          "url": "https://wallstreetcn.com/livenews/3124740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "欧盟在特朗普设定的最后期限前最终批准与美国的贸易协议",
           "url": "https://wallstreetcn.com/livenews/3124531",
           "source": "华尔街见闻-快讯",
@@ -513,7 +548,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -535,7 +570,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -598,7 +633,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -729,6 +764,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美光科技盘后大涨近14%，带飞美股芯片股",
           "url": "https://flash.jin10.com/detail/20260625042822342800",
           "source": "金十数据",
@@ -757,7 +803,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -776,7 +822,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
@@ -800,8 +846,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 23时43分]"
         },
         {
           "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
@@ -811,8 +857,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 23时43分]"
+        },
+        {
+          "title": "台积电预计，全球半导体市场将在今年突破1万亿美元，并在2030年达到1.5万亿美元。业内人士认为，台积电本次闭门会再度坚定了业界的AI信仰，其晶圆制造和先进封装扩产，具有产业发展趋势风向标意义。随着晶圆厂和封装厂次第加入到扩产序列，半导体设备和材料商，将率先受益于AI带来的本轮扩产大潮。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3124752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "A股",
@@ -857,6 +914,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "A股这轮牛市你赚钱了吗",
+          "url": "https://www.toutiao.com/trending/7655278728469024299/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "创业板指下行翻绿，此前一度涨超2%，医药医疗、贵金属、油气、文化传媒等方向跌幅居前，沪深京三市下跌个股近4200只。",
@@ -948,6 +1016,45 @@
       ]
     },
     {
+      "keyword_group": "主力资金 开源",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美团LongCat开源 VitaBench2.0：长期动态智能体基准新标杆",
+          "url": "https://flash.jin10.com/detail/20260625200326628800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
+          "title": "我国将加快推进开源体系建设",
+          "url": "https://wallstreetcn.com/livenews/3124733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -1000,34 +1107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "主力资金 开源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美团LongCat开源 VitaBench2.0：长期动态智能体基准新标杆",
-          "url": "https://flash.jin10.com/detail/20260625200326628800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "谷歌前CEO批中国AI开源",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 17时32分]"
         }
       ]
     },
