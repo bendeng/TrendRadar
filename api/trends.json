@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T21:45:15.108292+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-07-04T23:10:44.511066+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时10分]"
+        },
+        {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时10分]"
         },
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时38分 ~ 11时36分]"
-        },
-        {
-          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
-          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
         },
         {
           "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺贝尔奖",
@@ -58,11 +58,12 @@
           "ranks": [
             2,
             11,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时27分 ~ 21时45分]"
+          "appearance_count": 4,
+          "time_info": "[17时27分 ~ 23时10分]"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
@@ -74,6 +75,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时38分 ~ 07时10分]"
+        },
+        {
+          "title": "美国250周年庆典变特朗普私人派对？",
+          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时10分]"
+        },
+        {
+          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
+          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时10分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -88,17 +111,6 @@
           "time_info": "[03时37分 ~ 07时10分]"
         },
         {
-          "title": "美国250周年庆典变特朗普私人派对？",
-          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-04）",
           "url": "https://flash.jin10.com/detail/20260704182308917800",
           "source": "金十数据",
@@ -109,17 +121,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时37分 ~ 21时45分]"
-        },
-        {
-          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
-          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
         },
         {
           "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
@@ -315,8 +316,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时35分 ~ 21时45分]"
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 23时10分]"
         },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -332,6 +333,18 @@
           "time_info": "[01时38分 ~ 11时36分]"
         },
         {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时10分]"
+        },
+        {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
           "url": "https://wallstreetcn.com/articles/3776091",
           "source": "华尔街见闻",
@@ -342,17 +355,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时38分 ~ 05时13分]"
-        },
-        {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
         },
         {
           "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
@@ -369,7 +371,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
@@ -380,8 +382,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时35分 ~ 21时45分]"
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 23时10分]"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
@@ -390,22 +392,24 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时51分 ~ 21时45分]"
+          "appearance_count": 6,
+          "time_info": "[14时51分 ~ 23时10分]"
         },
         {
           "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2417129",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时10分]"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
@@ -418,6 +422,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时37分 ~ 05时13分]"
+        },
+        {
+          "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
+          "url": "https://www.cls.cn/detail/2417150",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         }
       ]
     },
@@ -487,11 +502,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 23时10分]"
         }
       ]
     }
