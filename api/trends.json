@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T06:56:21.566161+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-07-12T08:02:07.620962+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "美国总统特朗普：即便所有媒体都对我极尽抹黑、充斥虚假新闻，我依旧以压倒性大胜拿下总统大选。由此可见，主流媒体毫无公信力可言！",
@@ -39,8 +39,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 08时02分]"
+        },
+        {
+          "title": "两党住房法案未经特朗普签署自动生效",
+          "url": "https://flash.jin10.com/detail/20260712054924358800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时56分]"
+          "time_info": "[06时56分 ~ 08时02分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -54,17 +65,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时57分 ~ 06时56分]"
-        },
-        {
-          "title": "两党住房法案未经特朗普签署自动生效",
-          "url": "https://flash.jin10.com/detail/20260712054924358800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -85,11 +85,12 @@
           "url": "https://wallstreetcn.com/articles/3776705",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时56分]"
+          "appearance_count": 4,
+          "time_info": "[05时55分 ~ 08时02分]"
         },
         {
           "title": "六成美国民众认为特朗普以权谋私",
@@ -117,8 +118,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -140,8 +141,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -152,8 +153,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
@@ -165,8 +166,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 06时56分]"
+          "appearance_count": 4,
+          "time_info": "[04时56分 ~ 08时02分]"
         }
       ]
     },
@@ -184,8 +185,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "下周A股超40股限售解禁，7股解禁比例超10%",
@@ -196,8 +197,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 08时02分]"
         },
         {
           "title": "A股下周怎么走",
@@ -234,11 +235,12 @@
           "ranks": [
             13,
             8,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[03时18分 ~ 08时02分]"
         }
       ]
     },
@@ -256,8 +258,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 06时56分]"
+          "appearance_count": 4,
+          "time_info": "[04时56分 ~ 08时02分]"
         }
       ]
     }
