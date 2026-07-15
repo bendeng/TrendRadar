@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T18:08:41.936382+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-07-15T20:19:48.834699+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时26分 ~ 18时08分]"
+          "appearance_count": 10,
+          "time_info": "[03时26分 ~ 20时19分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -44,6 +44,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时19分 ~ 05时04分]"
+        },
+        {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时01分 ~ 20时19分]"
         },
         {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
@@ -88,18 +102,31 @@
           "time_info": "[03时26分 ~ 12时09分]"
         },
         {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            7,
-            6,
+            16,
+            18,
+            10,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时01分 ~ 20时19分]"
+        },
+        {
+          "title": "特朗普为何频频感谢中俄？",
+          "url": "https://news.ifeng.com/c/8umXJBl3ies",
+          "source": "凤凰网",
+          "ranks": [
+            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时01分 ~ 18时08分]"
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 20时19分]"
         },
         {
           "title": "如何看特朗普在霍尔木兹收费",
@@ -128,18 +155,15 @@
           "time_info": "08时02分"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
-          "source": "澎湃新闻",
+          "title": "特朗普的“炸电厂”威胁将如何冲击伊朗能源命脉？",
+          "url": "https://flash.jin10.com/detail/20260715200731931800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            18,
-            10,
-            12
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时01分 ~ 18时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "不到24小时，特朗普态度大转弯",
@@ -154,15 +178,15 @@
           "time_info": "[12时08分 ~ 15时19分]"
         },
         {
-          "title": "特朗普为何频频感谢中俄？",
-          "url": "https://news.ifeng.com/c/8umXJBl3ies",
+          "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
+          "url": "https://news.ifeng.com/c/8umgsdbwja6",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "20时19分"
         },
         {
           "title": "特朗普召集会议讨论对伊朗大规模进攻计划",
@@ -204,11 +228,12 @@
           "ranks": [
             17,
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 18时08分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 20时19分]"
         },
         {
           "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
@@ -259,6 +284,18 @@
           "time_info": "[07时01分 ~ 08时02分]"
         },
         {
+          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
+          "url": "https://www.cls.cn/detail/2427184",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 20时19分]"
+        },
+        {
           "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然出一重拳",
           "url": "https://v.ifeng.com/c/8uitzwbrrp3",
           "source": "凤凰网",
@@ -306,6 +343,17 @@
           "time_info": "[07时01分 ~ 08时02分]"
         },
         {
+          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 20时19分]"
+        },
+        {
           "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
           "url": "https://wallstreetcn.com/articles/3776932",
           "source": "华尔街见闻",
@@ -326,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "美国总统特朗普：以色列从黎巴嫩部分地区撤军将是一件好事。",
+          "url": "https://flash.jin10.com/detail/20260715200127012800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "特朗普证实美伊举行对话 暗示仍可能存在谈判路径",
@@ -389,18 +448,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
-          "url": "https://www.cls.cn/detail/2427184",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -493,6 +541,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "据福克斯新闻：美国总统特朗普表示，对伊朗的打击将持续，直到我说够了为止。伊朗还有一些斗志，但他们的余力不多。",
           "url": "https://flash.jin10.com/detail/20260715061106742800",
           "source": "金十数据",
@@ -513,17 +572,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
-        },
-        {
-          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
         },
         {
           "title": "美国总统特朗普称代理司法部长托德·布兰奇“表现卓越”，敦促参议院尽快批准其正式任职。",
@@ -595,8 +643,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 20时19分]"
+        },
         {
           "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
           "url": "https://wallstreetcn.com/articles/3776859",
@@ -608,18 +668,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时19分 ~ 05时04分]"
-        },
-        {
-          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 18时08分]"
         },
         {
           "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
@@ -685,9 +733,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        },
+        {
+          "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
+          "url": "https://wallstreetcn.com/articles/3776944",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 20时19分]"
         },
         {
           "title": "SK海力士美股单日暴涨27%",
@@ -734,17 +793,6 @@
           "time_info": "05时04分"
         },
         {
-          "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
-          "url": "https://wallstreetcn.com/articles/3776944",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
           "title": "科技巨头掀起融资狂潮！华尔街开始担忧：美股牛市会否就此结束？",
           "url": "https://flash.jin10.com/detail/20260715114338187800",
           "source": "金十数据",
@@ -765,6 +813,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "摩根士丹利美股盘前转跌，此前一度涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3134341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "周二（7月14日），美股行业ETF涨跌各异，半导体ETF收涨2.51%，全球科技股指数ETF、科技行业ETF至多涨1.65%，银行业ETF跌0.06%，全球航空业ETF、日常消费品ETF至多跌1.38%，医疗业ETF跌1.93%。",
@@ -789,6 +848,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "摩根士丹利第二季度净营收213.5亿美元，预估195.8亿美元。 第二季度每股收益3.46美元。 第二季度净利息收入27.8亿美元，预估27.2亿美元。 第二季度股票销售和交易业务营收63.0亿美元，预估44.7亿美元。 第二季度固定收益、外汇和大宗商品业务销售和交易营收24.6亿美元，预估25.6亿美元 第二财季财富管理净营收88.6亿美元，预估86.8亿美元。 摩根士丹利第二季管理资产2.00万亿美元，预估1.94万亿美元。 摩根士丹利美股盘前涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3134338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "金十图示：2026年07月14日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260715003418187800",
           "source": "金十数据",
@@ -806,7 +876,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -869,8 +939,20 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "【每日收评】创业板指冲高回落跌超1%，创新药板块集体爆发，芯片产业链再遭重挫",
+          "url": "https://www.cls.cn/detail/2427247",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 20时19分]"
+        },
         {
           "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
           "url": "https://www.cls.cn/detail/2425963",
@@ -881,17 +963,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落跌超1%，创新药板块集体爆发，芯片产业链再遭重挫",
-          "url": "https://www.cls.cn/detail/2427247",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
         },
         {
           "title": "A股",
@@ -945,9 +1016,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        },
+        {
+          "title": "A股超3300股上涨 存储芯片再遭抛售",
+          "url": "https://www.toutiao.com/trending/7661863662369521673/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "中国上证综指7月15日（周三）收盘下跌11.55点，跌幅：0.29%，报3955.58点；<br/>中国深证成指7月15日（周三）收盘下跌145.47点，跌幅：0.97%，报14779.4点；<br/>中国沪深300指数7月15日（周三）收盘下跌9.72点，跌幅：0.2%，报4786.78点；<br/>中国创业板指数7月15日（周三）收盘下跌46.43点，跌幅：1.21%，报3804.7点；<br/>中国科创50指数7月15日（周三）收盘下跌85.46点，跌幅：4.25%，报1924.27点。",
@@ -1022,26 +1104,39 @@
           "time_info": "[01时19分 ~ 08时02分]"
         },
         {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
           "title": "梁文锋登顶全球大模型首富",
           "url": "https://wallstreetcn.com/livenews/3134277",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
+        },
+        {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 20时19分]"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 20时19分]"
         },
         {
           "title": "曝DeepSeek计划明年上市",
@@ -1056,26 +1151,16 @@
           "time_info": "[12时08分 ~ 15时19分]"
         },
         {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 18时08分]"
-        },
-        {
           "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
           "url": "https://www.cls.cn/detail/2427193",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 20时19分]"
         },
         {
           "title": "DeepSeek启动新融资，首轮落空的投资人再度开抢",
@@ -1084,7 +1169,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         }
@@ -1175,6 +1260,67 @@
       ]
     },
     {
+      "keyword_group": "主力资金 开源",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "马斯克：我们将邀请第三方审查人员检查正在运行的系统，以确认运行的确实是开源代码。",
+          "url": "https://flash.jin10.com/detail/20260715195805253800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "马斯克：一旦我们完成对安全漏洞的审查，我们将把X的整个代码库开源。",
+          "url": "https://flash.jin10.com/detail/20260715195744570800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出497.94亿元，占比1.94%；大单资金净流出125.78亿元，占比0.49%；小单资金净流入404.75亿元，占比1.57%。",
+          "url": "https://flash.jin10.com/detail/20260715150703268800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "美媒：白宫不排除针对开源AI模型采取行动",
+          "url": "https://flash.jin10.com/detail/20260715172410309800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：白宫不排除对开源AI模型采取行动。",
+          "url": "https://flash.jin10.com/detail/20260715171932532800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -1213,45 +1359,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "主力资金 开源",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "股市资金流向图：今日沪深两市主力资金净流出497.94亿元，占比1.94%；大单资金净流出125.78亿元，占比0.49%；小单资金净流入404.75亿元，占比1.57%。",
-          "url": "https://flash.jin10.com/detail/20260715150703268800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "美媒：白宫不排除针对开源AI模型采取行动",
-          "url": "https://flash.jin10.com/detail/20260715172410309800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "据美国财经媒体Semafor：白宫不排除对开源AI模型采取行动。",
-          "url": "https://flash.jin10.com/detail/20260715171932532800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
         }
       ]
     },
