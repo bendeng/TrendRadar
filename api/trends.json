@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T12:09:12.394829+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-07-15T15:19:32.025274+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时26分 ~ 12时09分]"
+          "appearance_count": 8,
+          "time_info": "[03时26分 ~ 15时19分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -58,6 +58,20 @@
           "time_info": "[01时19分 ~ 12时09分]"
         },
         {
+          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时26分 ~ 15时19分]"
+        },
+        {
           "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
           "url": "https://www.cls.cn/detail/2426473",
           "source": "财联社热门",
@@ -67,19 +81,6 @@
             9,
             8,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时26分 ~ 12时09分]"
-        },
-        {
-          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            17
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -112,13 +113,38 @@
           "time_info": "08时02分"
         },
         {
+          "title": "不到24小时，特朗普态度大转弯",
+          "url": "https://news.ifeng.com/c/8uly6273mL2",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 15时19分]"
+        },
+        {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时01分 ~ 15时19分]"
+        },
+        {
           "title": "特朗普召集会议讨论对伊朗大规模进攻计划",
           "url": "https://wallstreetcn.com/livenews/3134087",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -145,29 +171,29 @@
           "time_info": "08时02分"
         },
         {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 12时09分]"
-        },
-        {
           "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
           "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
           "source": "澎湃新闻",
           "ranks": [
             16,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 12时09分]"
+          "appearance_count": 5,
+          "time_info": "[07时01分 ~ 15时19分]"
+        },
+        {
+          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
+          "url": "https://www.cls.cn/detail/2426616",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 15时19分]"
         },
         {
           "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
@@ -182,6 +208,18 @@
           "time_info": "[08时02分 ~ 12时09分]"
         },
         {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 15时19分]"
+        },
+        {
           "title": "特朗普转变态度力挺乌克兰有何意图",
           "url": "https://www.toutiao.com/trending/7662341237323599366/",
           "source": "今日头条",
@@ -192,28 +230,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时26分 ~ 05时04分]"
-        },
-        {
-          "title": "不到24小时，特朗普态度大转弯",
-          "url": "https://news.ifeng.com/c/8uly6273mL2",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
-        },
-        {
-          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
-          "url": "https://www.cls.cn/detail/2426616",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
         },
         {
           "title": "特朗普：将继续打击伊朗",
@@ -261,17 +277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时02分]"
-        },
-        {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
         },
         {
           "title": "美国总统特朗普在预先录制的采访中宣称：我们“痛打”伊朗。 我们必须维持霍尔木兹海峡的开放。 重申海峡仍然是开放的。 他们已经完成了伊朗目标。 “袭击伊朗”将持续至我喊“够了”。 他们还剩下一些战斗，但已经不多了。（福克斯新闻）",
@@ -339,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然来一重拳",
+          "url": "https://v.ifeng.com/c/8uitzwbrrp3",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "美国总统特朗普：我现在不想谈判。我说了，我们不谈判了。",
@@ -512,7 +528,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -531,7 +547,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
@@ -569,6 +585,17 @@
           "time_info": "[01时19分 ~ 05时04分]"
         },
         {
+          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 15时19分]"
+        },
+        {
           "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
           "url": "https://www.cls.cn/detail/2426576",
           "source": "财联社热门",
@@ -579,17 +606,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时02分 ~ 12时09分]"
-        },
-        {
-          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
         },
         {
           "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
@@ -664,7 +680,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -746,6 +762,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "阿斯麦美股夜盘一度涨超6%，公司Q2业绩全面超预期，并上调全年业绩指引。",
+          "url": "https://wallstreetcn.com/livenews/3134134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "Lionsgate Studio Corp.（LION，狮门影业）美股盘后涨11%，据路透报道，该公司探索出售，获得来自Bollore SE（BOL.FP）的兴趣。",
           "url": "https://wallstreetcn.com/livenews/3133888",
           "source": "华尔街见闻-快讯",
@@ -755,6 +782,122 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
+          "url": "https://www.cls.cn/detail/2425963",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "上证指数早盘收报3963.90点，跌0.08%。 深证成指早盘收报14868.23点，跌0.38%。 创业板指早盘收报3837.23点，跌0.36%。 沪深300早盘收报4798.61点，涨0.04%。 科创50早盘收报1936.06点，跌3.67%。 中证500早盘收报8205.12点，跌0.86%。 中证1000早盘收报7870.00点，跌0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3134079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "A股收盘：科创50指数跌4.25%，医药、消费股逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3134167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
+          "url": "https://wallstreetcn.com/articles/3776834",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "中国上证综指7月15日（周三）收盘下跌11.55点，跌幅：0.29%，报3955.58点；<br/>中国深证成指7月15日（周三）收盘下跌145.47点，跌幅：0.97%，报14779.4点；<br/>中国沪深300指数7月15日（周三）收盘下跌9.72点，跌幅：0.2%，报4786.78点；<br/>中国创业板指数7月15日（周三）收盘下跌46.43点，跌幅：1.21%，报3804.7点；<br/>中国科创50指数7月15日（周三）收盘下跌85.46点，跌幅：4.25%，报1924.27点。",
+          "url": "https://flash.jin10.com/detail/20260715150510299800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "A股午评：三大股指早盘震荡 存储芯片、半导体概念股高开低走",
+          "url": "https://flash.jin10.com/detail/20260715113430020800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "A股收评：三大股指全日冲高回落 PCB、半导体等算力硬件板块集体回调",
+          "url": "https://flash.jin10.com/detail/20260715150414810800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "A股商业航天概念持续调整，中国卫星午后跌停，星图测控、中环海陆跌超10%，航天电子、星网宇达、电科蓝天、理工导航、中国卫通等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3134140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "A股创新药概念涨势扩大，众生药业拉升封板，迪哲医药、博瑞医药、药康生物、睿智医药、海南海药、哈三联、海思科、昭衍新药等十余股涨停，舒泰神、华纳药厂、石药创新、常山药业等多股涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3134047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         }
       ]
     },
@@ -843,69 +986,8 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
-          "url": "https://www.cls.cn/detail/2425963",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "上证指数早盘收报3963.90点，跌0.08%。 深证成指早盘收报14868.23点，跌0.38%。 创业板指早盘收报3837.23点，跌0.36%。 沪深300早盘收报4798.61点，涨0.04%。 科创50早盘收报1936.06点，跌3.67%。 中证500早盘收报8205.12点，跌0.86%。 中证1000早盘收报7870.00点，跌0.70%。",
-          "url": "https://wallstreetcn.com/livenews/3134079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
-          "url": "https://wallstreetcn.com/articles/3776834",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "A股午评：三大股指早盘震荡 存储芯片、半导体概念股高开低走",
-          "url": "https://flash.jin10.com/detail/20260715113430020800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "A股创新药概念涨势扩大，众生药业拉升封板，迪哲医药、博瑞医药、药康生物、睿智医药、海南海药、哈三联、海思科、昭衍新药等十余股涨停，舒泰神、华纳药厂、石药创新、常山药业等多股涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3134047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -923,17 +1005,29 @@
           "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 15时19分]"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价又绷不住了网友直言想抄底",
@@ -959,6 +1053,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "金十图示：2026年07月15日（周三）上海金午盘价为878.82元/克，较国际金价（约为877.14元/克），高1.68元/克。",
+          "url": "https://flash.jin10.com/detail/20260715150231678800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
@@ -976,6 +1081,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "主力资金 开源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "股市资金流向图：今日沪深两市主力资金净流出497.94亿元，占比1.94%；大单资金净流出125.78亿元，占比0.49%；小单资金净流入404.75亿元，占比1.57%。",
+          "url": "https://flash.jin10.com/detail/20260715150703268800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     }
