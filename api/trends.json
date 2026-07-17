@@ -1,8 +1,248 @@
 {
-  "generated_at": "2026-07-17T10:59:06.980342+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-07-17T13:48:49.428020+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "A股 上证 深证 创业板",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "A股突然放量释放何信号",
+          "url": "https://www.toutiao.com/trending/7663326159165197865/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "A股贵金属板块重挫，赤峰黄金跌超9%，兴业银锡、招金黄金、中金黄金、西部黄金等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260717103455837800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "创业板指跌幅扩大至8%，上证指数跌3.35%，深证成指跌6.03%。新易盛盘中跌15.02%，现报461.10元。",
+          "url": "https://wallstreetcn.com/livenews/3135504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "上证综指日内大跌3%，深证成指跌5.65%，创业板指跌7.48%。",
+          "url": "https://flash.jin10.com/detail/20260717133944145800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "创业板指跌超5%，沪指跌1.52%，深成指跌3.7%，医药医疗、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近4500只，其中近170股跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3135424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "创业板指跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3135497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时06分]"
+        },
+        {
+          "title": "A股哪些板块在逆势吸筹",
+          "url": "https://www.toutiao.com/trending/7663116917388873259/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 03时19分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2574308",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 13时48分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 13时48分]"
+        },
+        {
+          "title": "A股长期来看还要创新高",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%95%BF%E6%9C%9F%E6%9D%A5%E7%9C%8B%E8%BF%98%E8%A6%81%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 10时59分]"
+        },
+        {
+          "title": "创业板指跌幅扩大至7%",
+          "url": "https://flash.jin10.com/detail/20260717133618841800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "A股券商股异动拉升，湘财股份直线涨停，国盛证券涨超5%，天风证券、第一创业、东方财富、华创云信跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3135420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "A股半日放量1219亿调整",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E6%97%A5%E6%94%BE%E9%87%8F1219%E4%BA%BF%E8%B0%83%E6%95%B4%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "A股创新药概念跌势扩大，百奥赛图、百诚医药20cm跌停，药康生物、泓博医药、前沿生物、华纳药厂等多股跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3135490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "交银国际给予兆易创新A股买进的初始评级，目标价798元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3135414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "创业板指、科创50指数午后跌超6%，兆易创新触及跌停，成交额237.98亿元，沪深京三市下跌个股超4600只。",
+          "url": "https://wallstreetcn.com/livenews/3135489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "A股氟化工概念板块短线拉升，中巨芯涨超10%，联创股份、闰土股份、中欣氟材、雅克科技、金宏气体等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260717103053427800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "科创50、创业板指跌逾6%",
+          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%88%9B50%E3%80%81%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E9%80%BE6%25",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "创业板指日内重挫6%，深证成指跌4.6%，上证综指跌4.6%。",
+          "url": "https://flash.jin10.com/detail/20260717131601600800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "创业板指、科创50均跌超4%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2700只。",
+          "url": "https://wallstreetcn.com/livenews/3135376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 19,
@@ -37,8 +277,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 13时48分]"
+        },
+        {
+          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
+          "url": "https://www.cls.cn/detail/2428956",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 13时48分]"
         },
         {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
@@ -53,24 +305,13 @@
           "time_info": "[01时23分 ~ 10时59分]"
         },
         {
-          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
-          "url": "https://www.cls.cn/detail/2428956",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
-        },
-        {
           "title": "美联储两大官员放鹰：关注通胀风险，支持适度加息；美军连续第六晚对伊朗采取打击行动，伊朗部分机场、桥梁和铁路枢纽遭袭……当前现货金银、美油维持卖出信号，美股信号分化，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
           "url": "https://flash.jin10.com/detail/20260717103419821800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -93,8 +334,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 13时48分]"
         },
         {
           "title": "美股芯片股深夜大跌",
@@ -220,137 +461,8 @@
       ]
     },
     {
-      "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "A股贵金属板块重挫，赤峰黄金跌超9%，兴业银锡、招金黄金、中金黄金、西部黄金等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260717103455837800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "创业板指跌超5%，沪指跌1.52%，深成指跌3.7%，医药医疗、算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近4500只，其中近170股跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/3135424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时06分]"
-        },
-        {
-          "title": "A股哪些板块在逆势吸筹",
-          "url": "https://www.toutiao.com/trending/7663116917388873259/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时23分 ~ 03时19分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2574308",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
-        },
-        {
-          "title": "A股长期来看还要创新高",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%95%BF%E6%9C%9F%E6%9D%A5%E7%9C%8B%E8%BF%98%E8%A6%81%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
-        },
-        {
-          "title": "A股券商股异动拉升，湘财股份直线涨停，国盛证券涨超5%，天风证券、第一创业、东方财富、华创云信跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3135420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "交银国际给予兆易创新A股买进的初始评级，目标价798元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3135414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "A股氟化工概念板块短线拉升，中巨芯涨超10%，联创股份、闰土股份、中欣氟材、雅克科技、金宏气体等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260717103053427800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "创业板指、科创50均跌超4%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2700只。",
-          "url": "https://wallstreetcn.com/livenews/3135376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -368,11 +480,12 @@
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 13时48分]"
         },
         {
           "title": "白宫提词员利用特朗普演讲内幕获利逾10万美元，CFTC对其展开调查",
@@ -415,8 +528,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 13时48分]"
         },
         {
           "title": "特朗普将赴世界杯现场观看决赛",
@@ -428,6 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "白宫官宣特朗普将出席世界杯决赛",
+          "url": "https://www.toutiao.com/trending/7663253128728657971/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "白宫新闻秘书Leavitt：白宫提词器操作员被停职。 美国总统特朗普认为，被控参与下注的提词器操作员“行为可耻”。",
@@ -461,6 +585,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "主力资金 开源",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "全球最大规模开源模型Kimi K3发布",
+          "url": "https://www.toutiao.com/trending/7663270788073524782/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时58分 ~ 10时59分]"
+        },
+        {
+          "title": "Kimi发布2.8万亿参数模型K3，系全球首个3万亿级开源模型",
+          "url": "https://wallstreetcn.com/livenews/3135204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "如何评价 7 月 16 日 Kimi 发布的 2.8 万亿级开源模型 K3？",
+          "url": "https://www.zhihu.com/question/2061204677446964906",
+          "source": "知乎",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 13时48分]"
+        },
+        {
+          "title": "全球第三强，“Fable级体感”！2.8万亿参数Kimi K3刷新开源记录",
+          "url": "https://wallstreetcn.com/articles/3777138",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "月之暗面Kimi K3上线！系全球最大规模开源模型 支持视觉理解、100万token上下文",
+          "url": "https://www.cls.cn/detail/2429127",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         }
       ]
     },
@@ -534,11 +720,12 @@
           "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 13时48分]"
         },
         {
           "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
@@ -554,45 +741,6 @@
       ]
     },
     {
-      "keyword_group": "主力资金 开源",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "全球最大规模开源模型Kimi K3发布",
-          "url": "https://www.toutiao.com/trending/7663270788073524782/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
-        },
-        {
-          "title": "Kimi发布2.8万亿参数模型K3，系全球首个3万亿级开源模型",
-          "url": "https://wallstreetcn.com/livenews/3135204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "如何评价 7 月 16 日 Kimi 发布的 2.8 万亿级开源模型 K3？",
-          "url": "https://www.zhihu.com/question/2061204677446964906",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -602,11 +750,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 10时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 13时48分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -635,8 +784,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 10时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 13时48分]"
         },
         {
           "title": "金十图示：2026年07月17日（周五）上海金早盘价为868.89元/克，较国际金价（约为867.68元/克），高1.21元/克。",
@@ -645,7 +794,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
