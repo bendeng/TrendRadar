@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T16:51:55.510091+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-07-18T18:22:24.918136+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -41,6 +41,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 04时10分]"
+        },
+        {
+          "title": "白宫声称特朗普并非针对中国",
+          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 18时22分]"
         },
         {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
@@ -87,17 +99,6 @@
           "time_info": "04时10分"
         },
         {
-          "title": "白宫声称特朗普并非针对中国",
-          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
           "title": "加拿大山火肆虐，特朗普要求对方通过关税承担污染成本",
           "url": "https://wallstreetcn.com/livenews/3135887",
           "source": "华尔街见闻-快讯",
@@ -133,6 +134,18 @@
           "time_info": "[11时20分 ~ 16时51分]"
         },
         {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时09分 ~ 18时22分]"
+        },
+        {
           "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
           "url": "https://flash.jin10.com/detail/20260718045100973800",
           "source": "金十数据",
@@ -159,15 +172,17 @@
           "time_info": "[05时58分 ~ 07时58分]"
         },
         {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            17,
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 16时51分]"
+          "appearance_count": 3,
+          "time_info": "[14时09分 ~ 18时22分]"
         },
         {
           "title": "特朗普：因凡蒂诺建议中美合办世界杯",
@@ -175,18 +190,6 @@
           "source": "抖音",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 16时51分]"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -340,19 +343,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时58分 ~ 16时51分]"
+          "appearance_count": 6,
+          "time_info": "[06时58分 ~ 18时22分]"
         },
         {
           "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
           "url": "https://wallstreetcn.com/livenews/3135984",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时51分 ~ 18时22分]"
         },
         {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
@@ -551,11 +555,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 16时51分]"
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 18时22分]"
         },
         {
           "title": "A股重磅信号！多只宽基ETF，显著放量！大资金再度出手？",
@@ -665,7 +670,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -684,7 +689,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
@@ -696,8 +701,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 16时51分]"
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 18时22分]"
+        },
+        {
+          "title": "DeepSeek最新估值意外曝光",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
@@ -734,8 +750,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 16时51分]"
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 18时22分]"
         }
       ]
     },
