@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-22T17:31:41.182827+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2026-07-22T19:51:20.408142+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 19时51分]"
+        },
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
           "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 07时59分]"
-        },
-        {
-          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
-          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
         },
         {
           "title": "胡塞武装封锁红海？特朗普回应",
@@ -135,6 +136,18 @@
           "time_info": "[06时07分 ~ 11时35分]"
         },
         {
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 19时51分]"
+        },
+        {
           "title": "加拿大取消与美国的跨境大桥庆祝活动，此前特朗普政府宣布对加拿大加征关税。 加拿大说，Gordie Howe Bridge仍然将在7月27日开放。",
           "url": "https://wallstreetcn.com/livenews/3137772",
           "source": "华尔街见闻-快讯",
@@ -195,16 +208,16 @@
           "time_info": "[00时26分 ~ 04时21分]"
         },
         {
-          "title": "这条40余年的禁令，被特朗普解除了",
-          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
-          "source": "凤凰网",
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            7
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时34分 ~ 17时31分]"
+          "time_info": "[17时30分 ~ 19时51分]"
         },
         {
           "title": "特朗普宣布两年后对仿制药征收100%关税",
@@ -216,17 +229,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时34分 ~ 11时35分]"
-        },
-        {
-          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-          "url": "https://wallstreetcn.com/articles/3777603",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
         },
         {
           "title": "特朗普称将打击伊朗核设施",
@@ -293,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "特朗普给孩子发1000美元“投资红包”，但不少父母发现：钱还没到账",
+          "url": "https://flash.jin10.com/detail/20260722193533351800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "美国总统特朗普：允许美国所有的航空公司直飞黎巴嫩。",
@@ -488,7 +501,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -507,18 +520,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时58分 ~ 17时31分]"
+          "appearance_count": 8,
+          "time_info": "[07时58分 ~ 19时51分]"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -569,6 +583,18 @@
           "time_info": "[07时58分 ~ 14时34分]"
         },
         {
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 19时51分]"
+        },
+        {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -592,15 +618,16 @@
           "time_info": "[00时26分 ~ 00时27分]"
         },
         {
-          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 19时51分]"
         },
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨5%，美光市值重回万亿，黄金拉升",
@@ -614,6 +641,17 @@
           "time_info": "06时07分"
         },
         {
+          "title": "美股三大股指期货下挫，纳斯达克100指数期货跌超1%，标普500指数期货跌0.38%，道琼斯指数期货跌0.22%。",
+          "url": "https://flash.jin10.com/detail/20260722194602712800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "美股存储芯片指数初步收涨11.2%，半导体指数涨5.2%。 标普500指数初步收涨0.9%，科技板块涨2.4%，能源板块涨1.1%，电信板块跌0.7%，日用消费品板块跌0.9%。 纳斯达克100指数初步收涨1.9%，成分股中，Nebius集团初步收涨19%，闪迪涨14%，西部数据涨12.5%，希捷科技涨11.2%，英特尔涨8.8%，Adobe跌3.1%，CrowdStrike跌3.7%，Workday跌3.9%，汤森路透跌5%。",
           "url": "https://wallstreetcn.com/livenews/3137738",
           "source": "华尔街见闻-快讯",
@@ -623,18 +661,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 17时31分]"
         },
         {
           "title": "金十图示：2026年07月21日（周二）热门中概股行情一览（美股盘中）",
@@ -669,6 +695,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "GE Vernova美股盘前跌幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3138187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
+          "title": "GE Vernova美股盘前下挫，现跌超6%，此前一度涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3138176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。",
@@ -721,7 +769,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -735,6 +783,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "GE Vernova第二季度营收111亿美元，预期108.2亿美元。 第二季度每股收益2.47美元，去年同期为1.86美元。 第二季度调整后EBITDA为12.5亿美元，预期为12.9亿美元。 积压订单达1760亿美元。 GE Vernova预计全年调整后自由现金流为115亿至125亿美元，此前预期为65亿至75亿美元。 GE Vernova预计2026年风电业务有机营收将出现低两位数百分比下降。 GE Vernova预计第三季度风电业务营收将出现低两位数百分比下降。 GE Vernova美股盘前涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3138160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "超微电脑（SMCI）预计第四财季营收接近指引区间110亿-125亿美元的底部。 预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。 超微电脑美股盘后涨超20%。",
@@ -754,7 +813,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -784,7 +843,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "A股又一波增持回购来了！近20家公司今日公布最新计划",
@@ -807,6 +866,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 06时07分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走低跌超3%，有色、电力板块逆势走强，算力硬件股再陷调整",
+          "url": "https://www.cls.cn/detail/2433946",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 19时51分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
@@ -856,17 +927,6 @@
           "time_info": "[07时58分 ~ 07时59分]"
         },
         {
-          "title": "【每日收评】创业板指震荡走低跌超3%，有色、电力板块逆势走强，算力硬件股再陷调整",
-          "url": "https://www.cls.cn/detail/2433946",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
-        },
-        {
           "title": "创业板指跌超3% 电力、有色板块走强",
           "url": "https://www.toutiao.com/trending/7665245504204181001/",
           "source": "今日头条",
@@ -898,6 +958,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "又一批A股公司业绩亮相！A股股王上半年净利最高增超9倍",
+          "url": "https://www.cls.cn/detail/2433968",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "A股电力板块震荡走高，九洲集团涨超13%，珈伟新能涨超12%，新能股份、华电辽能、世茂能源等多股涨停，华电能源涨超9%，乐山电力、华银电力、海南发展、迪森股份等个股跟涨。",
@@ -966,6 +1037,17 @@
           "time_info": "14时34分"
         },
         {
+          "title": "A股市场是反弹还是反转",
+          "url": "https://www.toutiao.com/trending/7665289617976856114/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "A股房地产板块局部异动，珠江股份直线拉升涨超6%，新城控股、滨江集团涨超4%，保利发展、金地集团、万科A、大悦城等个股跟涨。消息面上，“十五五”时期，广州拟稳步有序推进现房销售制，推进房地产开发融资方式改革。",
           "url": "https://flash.jin10.com/detail/20260722105151589800",
           "source": "金十数据",
@@ -975,6 +1057,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "A股主线变了吗",
+          "url": "https://www.toutiao.com/trending/7665278573988548139/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         },
         {
           "title": "A股白酒股低开高走，舍得酒业涨超6%，金种子酒、迎驾贡酒、金徽酒、皇台酒业、山西汾酒、酒鬼酒等个股跟涨。",
@@ -1005,6 +1098,18 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时34分 ~ 19时51分]"
+        },
+        {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
@@ -1016,18 +1121,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 14时34分]"
-        },
-        {
-          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
-          "url": "https://www.zhihu.com/question/2062943431668789795",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 17时31分]"
         },
         {
           "title": "OpenAI安全测试越界：智能体突破隔离并入侵开源AI平台",
@@ -1078,11 +1171,12 @@
           "url": "https://wallstreetcn.com/articles/3777627",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时30分 ~ 19时51分]"
         },
         {
           "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
@@ -1215,6 +1309,36 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 07时59分]"
+        },
+        {
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "主力资金 开源",
       "match_count": 2,
       "titles": [
@@ -1239,25 +1363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
-          "url": "https://wallstreetcn.com/articles/3777510",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 07时59分]"
         }
       ]
     },
