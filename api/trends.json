@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-06T13:54:48.595569+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-08-06T16:44:58.696233+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
-        {
-          "title": "特朗普污蔑：中国背后捣鬼",
-          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时54分]"
-        },
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
           "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
@@ -27,19 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普称不想让孩子像拜登那样摔下台",
-          "url": "https://www.toutiao.com/trending/7670741330352734262/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 16时44分]"
         },
         {
           "title": "涉台问题，特朗普的教训还没吃够",
@@ -48,9 +26,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时44分]"
+        },
+        {
+          "title": "特朗普称不想让孩子像拜登那样摔下台",
+          "url": "https://www.toutiao.com/trending/7670741330352734262/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "特朗普污蔑：中国背后捣鬼",
+          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 16时44分]"
         },
         {
           "title": "特朗普所乘直升机遭遇飞行安全事件",
@@ -96,11 +97,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 16时44分]"
         },
         {
           "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
@@ -169,13 +171,24 @@
           "time_info": "07时05分"
         },
         {
+          "title": "美监管部门调查涉特朗普所乘直升机的飞行安全事件",
+          "url": "https://wallstreetcn.com/livenews/3145909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "特朗普：美国拥有大量“弹药”",
           "url": "https://flash.jin10.com/detail/20260806123756235800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -208,7 +221,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -219,9 +232,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "特朗普否认美国弹药短缺 扬言严惩“爆料者”",
+          "url": "https://wallstreetcn.com/livenews/3145900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "专家：涉台问题特朗普教训还没吃够",
@@ -230,7 +254,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -296,7 +320,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -318,6 +342,19 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
+          "url": "https://wallstreetcn.com/articles/3778711",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 16时44分]"
+        },
+        {
           "title": "一图看懂｜多家A股公司，跨界算力签大单",
           "url": "https://www.cls.cn/detail/2446404",
           "source": "财联社热门",
@@ -328,19 +365,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时45分 ~ 07时05分]"
-        },
-        {
-          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
-          "url": "https://wallstreetcn.com/articles/3778711",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时45分 ~ 13时54分]"
         },
         {
           "title": "A股低开高走，创业板指涨超1%，深成指涨0.62%，沪指涨0.35%。",
@@ -360,7 +384,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -371,7 +395,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -393,7 +417,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -426,7 +450,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -470,7 +494,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -492,7 +516,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -511,7 +535,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -562,6 +586,18 @@
           "time_info": "05时17分"
         },
         {
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时44分]"
+        },
+        {
           "title": "闪迪(SNDK.O)美股盘后跌超3%。",
           "url": "https://flash.jin10.com/detail/20260806041105813800",
           "source": "金十数据",
@@ -584,17 +620,6 @@
           "time_info": "05时17分"
         },
         {
-          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
-          "url": "https://www.cls.cn/detail/2446947",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
           "title": "周三（8月5日），美股行业ETF多数下跌，能源业ETF收跌2.07%，半导体ETF跌1.04%，科技行业ETF跌0.53%，生物科技指数ETF涨0.87%，医疗业ETF涨1.27%。",
           "url": "https://wallstreetcn.com/livenews/3145595",
           "source": "华尔街见闻-快讯",
@@ -604,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "美股盘前，存储芯片股延续跌势，SK海力士跌超5%，美光科技跌近3%，闪迪跌超8%，上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色；西部数据跌近12%，第四财季营收、利润超预期，业绩指引令市场失望。",
+          "url": "https://wallstreetcn.com/livenews/3145913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "闪迪第四财季调整后每股收益（EPS）为39.25美元，分析师预期34.37美元。 第四财季营收89.7亿美元，增幅51%。 2026财年营收202.5亿美元，较上年增长175%。 （公司董事会）批准140亿美元股票回购计划。 预计第一财季营收103亿-108亿美元，分析师预期111.6亿美元。 预计第一财季调整后EPS为44-46美元，分析师预期45.58美元。 闪迪美股盘后跌8%。",
@@ -639,6 +675,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "美股存储板块盘前集体走低，闪迪(SNDK.O)跌超8%，公司业绩指引不佳。西部数据(WDC.O)跌12%，SK海力士(SKHY.O)跌6%。",
+          "url": "https://flash.jin10.com/detail/20260806160328237800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
           "title": "金十图示：2026年08月05日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260806040522076800",
           "source": "金十数据",
@@ -664,40 +711,54 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
-          "title": "DeepSeek拟调高API价格",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
           "ranks": [
-            1
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时44分]"
+        },
+        {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "16时44分"
         },
         {
           "title": "DeepSeek拟上调API服务定价",
           "url": "https://www.douyin.com/hot/2599312",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时44分]"
         },
         {
-          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-          "url": "https://www.zhihu.com/question/2068628771687625392",
-          "source": "知乎",
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时44分]"
         },
         {
           "title": "梁文锋会不会成为中国AI里程碑人物？",
@@ -728,11 +789,34 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时44分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "16时44分"
+        },
+        {
+          "title": "DeepSeek推理到一半说自己饿了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8E%A8%E7%90%86%E5%88%B0%E4%B8%80%E5%8D%8A%E8%AF%B4%E8%87%AA%E5%B7%B1%E9%A5%BF%E4%BA%86&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "DeepSeek拟上调API服务定价，预计涨幅较大",
@@ -763,7 +847,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         }
@@ -834,7 +918,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
@@ -847,6 +931,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时55分 ~ 13时54分]"
+        },
+        {
+          "title": "金价一度触及4300，到底是谁买上来的？",
+          "url": "https://flash.jin10.com/detail/20260806161459430800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         },
         {
           "title": "金十图示：2026年08月06日（周四）上海金早盘价为933.71元/克，较国际金价(932.49元/克)，高1.22元/克",
@@ -866,7 +961,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         }
@@ -902,7 +997,7 @@
     },
     {
       "keyword_group": "主力资金 开源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "主力资金流向前十大个股",
@@ -914,6 +1009,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "字节跳动内部严禁蒸馏开源模型",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%86%85%E9%83%A8%E4%B8%A5%E7%A6%81%E8%92%B8%E9%A6%8F%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
         }
       ]
     }
