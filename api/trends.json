@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T11:38:19.974379+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-08-08T13:02:54.877463+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 11时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 13时02分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -26,11 +26,12 @@
           "ranks": [
             20,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时47分 ~ 11时38分]"
+          "appearance_count": 8,
+          "time_info": "[04时47分 ~ 13时02分]"
         },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
@@ -99,17 +100,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
           "title": "美国总统特朗普：法院有关舞厅项目的裁决必须由最高法院全面推翻。",
           "url": "https://flash.jin10.com/detail/20260808005043099800",
           "source": "金十数据",
@@ -130,6 +120,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 13时02分]"
+        },
+        {
+          "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
+          "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 13时02分]"
         },
         {
           "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
@@ -155,18 +169,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时47分 ~ 07时38分]"
-        },
-        {
-          "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
-          "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 11时38分]"
         },
         {
           "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
@@ -201,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "黎巴嫩总统：我与特朗普会面期间，在媒体之外进行的交流是积极的。特朗普对黎巴嫩的处境表示理解，并打开了许多大门。与特朗普会晤的成果已体现为解除对美国航空公司运营飞往黎巴嫩航线的限制。",
@@ -289,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "特朗普关税“换壳”术还能撑多久",
+          "url": "https://www.toutiao.com/trending/7671486834458758698/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
@@ -303,11 +327,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 13时02分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -343,6 +368,30 @@
           "time_info": "[00时02分 ~ 03时03分]"
         },
         {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 13时02分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时41分 ~ 13时02分]"
+        },
+        {
           "title": "美股存储板块集体大跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
           "source": "百度热搜",
@@ -370,18 +419,6 @@
           "time_info": "[00时02分 ~ 07时38分]"
         },
         {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 11时38分]"
-        },
-        {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260808040607361800",
           "source": "金十数据",
@@ -404,18 +441,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时47分 ~ 09时56分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时41分 ~ 11时38分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -510,11 +535,12 @@
           "ranks": [
             1,
             11,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时38分 ~ 11时38分]"
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 13时02分]"
         },
         {
           "title": "OpenAI：已在Astra的所有智能体应用中实施针对高风险行为和失配问题的全面监控。根据目前针对Astra模型的准备框架评估结果，无法排除其具备关键网络能力的可能性。将与相关政府机构及选定的人工智能安全组织合作，对Astra的能力进行测试。",
@@ -597,7 +623,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "梁文锋 只想用座机",
@@ -617,6 +643,20 @@
           "time_info": "[00时02分 ~ 07时38分]"
         },
         {
+          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时47分 ~ 13时02分]"
+        },
+        {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
           "url": "https://www.zhihu.com/question/2069015264461579129",
           "source": "知乎",
@@ -628,28 +668,27 @@
           "time_info": "[00时02分 ~ 07时38分]"
         },
         {
-          "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时47分 ~ 11时38分]"
-        },
-        {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
           "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 11时38分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 13时02分]"
+        },
+        {
+          "title": "梁文锋为何重仓宇树科技",
+          "url": "https://www.toutiao.com/trending/7671445304096345619/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
@@ -662,11 +701,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44400%E7%BE%8E%E5%85%83&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 13时02分]"
         },
         {
           "title": "国际金价在非农日涨约2.4%，本周累涨约7.3%",
@@ -699,11 +739,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时38分 ~ 13时02分]"
         }
       ]
     },
@@ -719,11 +760,12 @@
             7,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 11时38分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 13时02分]"
         },
         {
           "title": "A股一周牛股出炉 最牛股近乎翻倍",
