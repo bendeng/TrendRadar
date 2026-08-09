@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T19:34:29.216606+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-08-09T21:00:21.045708+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时39分 ~ 19时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 21时00分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -85,8 +85,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 19时34分]"
+          "appearance_count": 10,
+          "time_info": "[12时21分 ~ 21时00分]"
         },
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -107,20 +107,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-09）",
-          "url": "https://flash.jin10.com/detail/20260809185901644800",
-          "source": "金十数据",
+          "title": "特朗普：“很多人称我是最伟大总统之一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 21时00分]"
         },
         {
           "title": "白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性",
@@ -128,11 +129,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 19时34分]"
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 21时00分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -160,15 +162,16 @@
           "time_info": "[00时39分 ~ 03时34分]"
         },
         {
-          "title": "特朗普：“很多人称我是最伟大总统之一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
-          "source": "澎湃新闻",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-09）",
+          "url": "https://flash.jin10.com/detail/20260809185901644800",
+          "source": "金十数据",
           "ranks": [
-            11
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时34分]"
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 21时00分]"
         },
         {
           "title": "泰勒·斯威夫特下架特朗普团队音频",
@@ -232,7 +235,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -242,8 +245,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时39分 ~ 19时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 21时00分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -274,6 +277,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时40分 ~ 19时34分]"
+        },
+        {
+          "title": "A股人形机器人第一股正式登场",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC%E4%B8%80%E8%82%A1%E6%AD%A3%E5%BC%8F%E7%99%BB%E5%9C%BA%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
         },
         {
           "title": "周一A股真正要看什么",
@@ -312,21 +326,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时39分 ~ 19时34分]"
-        },
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
           "url": "https://wallstreetcn.com/articles/3778998",
@@ -337,8 +338,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 19时34分]"
+          "appearance_count": 10,
+          "time_info": "[12时21分 ~ 21时00分]"
+        },
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 21时00分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -356,6 +371,19 @@
           "time_info": "[00时39分 ~ 19时34分]"
         },
         {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时21分 ~ 21时00分]"
+        },
+        {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
           "url": "https://www.cls.cn/detail/2448784",
           "source": "财联社热门",
@@ -368,17 +396,15 @@
           "time_info": "[00时39分 ~ 07时34分]"
         },
         {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
-          "source": "财联社热门",
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            11,
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 19时34分]"
+          "appearance_count": 2,
+          "time_info": "[20时59分 ~ 21时00分]"
         }
       ]
     },
@@ -438,11 +464,12 @@
           "ranks": [
             18,
             9,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时03分 ~ 19时34分]"
+          "appearance_count": 8,
+          "time_info": "[15时03分 ~ 21时00分]"
         }
       ]
     },
