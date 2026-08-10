@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T12:43:01.522845+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-08-10T14:13:47.922703+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 12时43分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 14时13分]"
         },
         {
           "title": "A股",
@@ -93,11 +93,36 @@
           "url": "https://www.toutiao.com/trending/7672233159576014346/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 14时13分]"
+        },
+        {
+          "title": "上证指数早盘收报3947.91点，涨0.20%。 深证成指早盘收报14148.86点，跌1.13%。 创业板指早盘收报3485.44点，跌2.18%。 沪深300早盘收报4670.05点，跌0.52%。 科创50早盘收报1716.69点，跌1.57%。 中证500早盘收报7942.84点，跌0.47%。 中证1000早盘收报7647.01点，跌0.42%。",
+          "url": "https://wallstreetcn.com/livenews/3147268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
+          "time_info": "[12时43分 ~ 14时13分]"
+        },
+        {
+          "title": "8月10日午间收评：创业板指半日跌超2%，医药、消费股逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3147267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 14时13分]"
         },
         {
           "title": "A股",
@@ -133,6 +158,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "A股午后MLCC概念震荡反弹，昀冢科技、龙鑫智能涨超10%，风华高科逼近涨停，国瓷材料、博迁新材、洁美科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "A股存储芯片板块震荡走低，朗科科技跌超13%，普冉股份、托伦斯、圣邦股份、北京君正、佰维存储跟跌。",
           "url": "https://wallstreetcn.com/livenews/3147211",
           "source": "华尔街见闻-快讯",
@@ -153,17 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
-        },
-        {
-          "title": "上证指数早盘收报3947.91点，涨0.20%。 深证成指早盘收报14148.86点，跌1.13%。 创业板指早盘收报3485.44点，跌2.18%。 沪深300早盘收报4670.05点，跌0.52%。 科创50早盘收报1716.69点，跌1.57%。 中证500早盘收报7942.84点，跌0.47%。 中证1000早盘收报7647.01点，跌0.42%。",
-          "url": "https://wallstreetcn.com/livenews/3147268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
         },
         {
           "title": "A股医药商业板块短线拉升，开开实业涨停，瑞康医药、建发致新、药易购、合富中国、达嘉维康等纷纷走高。",
@@ -188,17 +213,6 @@
           "time_info": "10时08分"
         },
         {
-          "title": "8月10日午间收评：创业板指半日跌超2%，医药、消费股逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3147267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
           "title": "A股房地产板块早盘活跃，京投发展涨停，城建发展、我爱我家、金融街、三湘印象、大悦城跟涨。",
           "url": "https://wallstreetcn.com/livenews/3147198",
           "source": "华尔街见闻-快讯",
@@ -219,6 +233,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "A股影视股午后再度拉升，儒意电影快速涨停，北京文化此前封板，华智数媒涨超15%，幸福蓝海、中国电影、金逸影视涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
+          "title": "A股存储芯片概念午后持续下挫，普冉股份跌超10%，北京君正、兆易创新、长信科技、恒烁股份、大普微等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3147290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "A股三大指数集体高开",
@@ -287,6 +323,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "A股寒武纪成交额超200亿元，现跌逾6%。",
+          "url": "https://flash.jin10.com/detail/20260810134908516800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "中国上证综指8月10日（周一）开盘上涨3.78点，涨幅：0.1%，报3943.82点；<br/>中国深证成指8月10日（周一）开盘上涨37.94点，涨幅：0.27%，报14348.95点；<br/>中国沪深300指数8月10日（周一）开盘上涨4.38点，涨幅：0.09%，报4698.82点；<br/>中国创业板指数8月10日（周一）开盘上涨3.93点，涨幅：0.11%，报3567.05点；<br/>中国科创50指数8月10日（周一）开盘下跌3.88点，跌幅：0.22%，报1740.14点。",
           "url": "https://flash.jin10.com/detail/20260810092716482800",
           "source": "金十数据",
@@ -296,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "A股黄金珠宝概念股午后持续走强，招金黄金涨超9%，曼卡龙、西部黄金、湖南黄金等上涨。",
+          "url": "https://flash.jin10.com/detail/20260810134701533800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         },
         {
           "title": "A股开盘，上证指数涨0.10%，深证成指涨0.27%，创业板指涨0.11%。",
@@ -309,13 +367,24 @@
           "time_info": "10时08分"
         },
         {
+          "title": "A股午后MLCC概念震荡反弹，昀冢科技、龙鑫智能涨超10%，风华高科逼近涨停，国瓷材料、博迁新材、洁美科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810134351393800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        },
+        {
           "title": "创业板指跌超2%，沪指涨0.29%，深成指跌0.93%，CPO、玻璃基板、PCB、6G等方向跌幅居前，沪深京三市下跌个股超1900只。",
           "url": "https://wallstreetcn.com/livenews/3147245",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -326,7 +395,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         }
@@ -346,8 +415,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时35分 ~ 12时43分]"
+          "appearance_count": 12,
+          "time_info": "[01时35分 ~ 14时13分]"
         },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -381,6 +450,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 14时13分]"
         },
         {
           "title": "特朗普公布新任总统助理人选",
@@ -442,20 +524,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 14时13分]"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
           "source": "凤凰网",
           "ranks": [
-            10,
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时08分 ~ 12时43分]"
+          "time_info": "[12时42分 ~ 14时13分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -468,17 +549,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时37分]"
-        },
-        {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -523,7 +593,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
@@ -556,6 +626,20 @@
           "time_info": "[00时41分 ~ 10时08分]"
         },
         {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时38分 ~ 14时13分]"
+        },
+        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
@@ -566,19 +650,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时41分 ~ 10时08分]"
-        },
-        {
-          "title": "一边买黄金，一边买美股",
-          "url": "https://wallstreetcn.com/articles/3779012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时38分 ~ 12时43分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
@@ -595,6 +666,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -603,11 +691,12 @@
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 12时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 14时13分]"
         }
       ]
     },
@@ -622,7 +711,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         }
@@ -643,6 +732,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "主力资金 开源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
+          "url": "https://wallstreetcn.com/articles/3779037",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     }
