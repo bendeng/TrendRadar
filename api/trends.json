@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T10:21:59.393786+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-08-13T12:55:58.694050+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
@@ -26,7 +26,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -48,7 +48,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -70,7 +70,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -81,7 +81,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -92,7 +92,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -114,7 +114,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -125,7 +125,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -136,7 +136,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -147,7 +147,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -158,9 +158,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
+        },
+        {
+          "title": "上证指数早盘收报3963.15点，涨0.42%。 深证成指早盘收报14519.97点，涨0.73%。 创业板指早盘收报3660.25点，涨1.61%。 沪深300早盘收报4714.06点，涨0.49%。 科创50早盘收报1770.03点，涨1.90%。 中证500早盘收报8113.14点，涨0.84%。 中证1000早盘收报7852.15点，涨0.75%。",
+          "url": "https://wallstreetcn.com/livenews/3148892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "上证指数开盘报3957.16点，涨0.27%。 深证成指开盘报14536.48点，涨0.85%。 创业板指开盘报3656.88点，涨1.52%。 沪深300开盘报4716.97点，涨0.56%。 科创50开盘报1763.46点，涨1.52%。 中证500开盘报8096.85点，涨0.64%。 中证1000开盘报7847.24点，涨0.69%。",
@@ -169,9 +180,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
+        },
+        {
+          "title": "8月13日午间收评：创业板指半日涨1.61%，医药、算力概念股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3148891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "A股乳品板块短线拉升，一鸣食品涨停，皇氏集团此前封板，熊猫乳品、品渥食品、天润乳业、阳光乳业、西部牧业等跟涨。",
@@ -180,7 +202,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -191,7 +213,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -202,7 +224,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -213,7 +235,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -224,7 +246,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         }
@@ -232,7 +254,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -379,15 +401,37 @@
           "time_info": "[05时52分 ~ 06时47分]"
         },
         {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "每月最高10万美元卖“时间差”，特朗普被诉违宪！",
           "url": "https://flash.jin10.com/detail/20260813100116657800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
+        },
+        {
+          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
+          "url": "https://www.cls.cn/detail/2452937",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "白宫新闻秘书辞职，特朗普中期选举前痛失“最锋利的话筒”",
@@ -407,7 +451,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -459,7 +503,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
@@ -492,8 +536,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时48分 ~ 12时55分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时48分 ~ 10时21分]"
+          "time_info": "[10时21分 ~ 12时55分]"
         },
         {
           "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
@@ -505,17 +561,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时04分 ~ 10时21分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
-          "url": "https://www.cls.cn/detail/2452920",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时21分"
         },
         {
           "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
@@ -552,6 +597,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时52分 ~ 07时48分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时21分 ~ 12时55分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -603,26 +660,16 @@
           "time_info": "[07时48分 ~ 10时21分]"
         },
         {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时21分"
-        },
-        {
           "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
           "url": "https://www.zhihu.com/question/2071019389479023642",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时21分 ~ 12时55分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版API上线",
@@ -642,7 +689,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时21分"
         },
@@ -656,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "DeepSeek发布V4Pro正式版",
+          "url": "https://www.douyin.com/hot/2607669",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         }
       ]
     },
@@ -673,8 +731,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时46分 ~ 10时21分]"
+          "appearance_count": 5,
+          "time_info": "[06时46分 ~ 12时55分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -682,11 +740,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时46分 ~ 10时21分]"
+          "appearance_count": 5,
+          "time_info": "[06时46分 ~ 12时55分]"
         },
         {
           "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
@@ -697,8 +756,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时46分 ~ 10时21分]"
+          "appearance_count": 5,
+          "time_info": "[06时46分 ~ 12时55分]"
         },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
@@ -818,7 +877,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
@@ -836,11 +895,23 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B2%B9%E4%BB%B7%E5%85%A8%E6%B6%A8%E4%BA%86&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时21分 ~ 12时55分]"
+        },
+        {
+          "title": "CPI没有给新弹药，金价离下一关还差这个条件！",
+          "url": "https://flash.jin10.com/detail/20260813120555201800",
+          "source": "金十数据",
+          "ranks": [
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时21分"
+          "time_info": "12时55分"
         }
       ]
     },
@@ -874,29 +945,8 @@
       ]
     },
     {
-      "keyword_group": "主力资金 开源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达最新开源大模型上线",
-          "url": "https://www.douyin.com/hot/2607298",
-          "source": "抖音",
-          "ranks": [
-            8,
-            19,
-            18,
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时04分 ~ 10时21分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "牛散 游资",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【数据看盘】机构活跃度明显下降，一线游资扎堆宏桥控股",
@@ -909,6 +959,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时04分 ~ 05时52分]"
+        },
+        {
+          "title": "牛散“鑫多多”成为美诺华第四大股东",
+          "url": "https://www.toutiao.com/trending/7672998277910200356/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "主力资金 开源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达最新开源大模型上线",
+          "url": "https://www.douyin.com/hot/2607298",
+          "source": "抖音",
+          "ranks": [
+            8,
+            19,
+            18,
+            7,
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时04分 ~ 12时55分]"
         }
       ]
     }
