@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T12:52:32.613061+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-08-14T14:19:33.004123+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -63,9 +63,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 14时19分]"
+        },
+        {
+          "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
+          "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时19分 ~ 14时19分]"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -79,18 +91,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时01分 ~ 06时49分]"
-        },
-        {
-          "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
-          "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时19分 ~ 12时52分]"
         },
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -129,6 +129,17 @@
           "time_info": "[05时52分 ~ 06时49分]"
         },
         {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时19分 ~ 14时19分]"
+        },
+        {
           "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
           "url": "https://wallstreetcn.com/livenews/3149316",
           "source": "华尔街见闻-快讯",
@@ -140,17 +151,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时54分 ~ 06时49分]"
-        },
-        {
-          "title": "最年轻新闻秘书，“弃特朗普而去”",
-          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时19分 ~ 12时52分]"
         },
         {
           "title": "据Axios：特朗普女婿库什纳预计下周前往开罗，与埃及调解人进行会谈。",
@@ -224,6 +224,17 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
+          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "据华尔街日报：美国总统特朗普下令海军移除航母电磁弹射系统，恢复蒸汽弹射方案，预计相关改装将推高成本数十亿美元。",
           "url": "https://flash.jin10.com/detail/20260814043950826800",
           "source": "金十数据",
@@ -290,6 +301,28 @@
           "time_info": "05时52分"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "特朗普专机上全是一箱又一箱麦当劳",
+          "url": "https://www.toutiao.com/trending/7673136089955352622/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "澳大利亚总理阿尔巴尼斯：美国总统特朗普同意考虑关于关税的请求。",
           "url": "https://flash.jin10.com/detail/20260814054802462800",
           "source": "金十数据",
@@ -340,7 +373,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -351,7 +384,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -384,7 +417,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         }
@@ -392,7 +425,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
@@ -403,8 +436,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 12时52分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 14时19分]"
+        },
+        {
+          "title": "A股游戏板块持续走高，迅游科技、世纪华通涨超6%，恺英网络、中青宝、三七互娱跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "A股电池板块短线拉升，博力威涨超10%，华盛锂电、尚太科技、芳源股份、海科新源、万里股份等跟涨。",
@@ -418,6 +462,17 @@
           "time_info": "10时20分"
         },
         {
+          "title": "A股算力租赁板块短线走高，数据港涨停，网宿科技逼近涨停，彩讯股份、行云科技、奥飞数据、利通电子。",
+          "url": "https://flash.jin10.com/detail/20260814134615076800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "A股稀土永磁板块异动拉升，金田股份触及涨停，中国稀土涨超8%，华宏科技、中稀有色、九菱科技、北方稀土跟涨。",
           "url": "https://wallstreetcn.com/livenews/3149423",
           "source": "华尔街见闻-快讯",
@@ -427,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时20分"
+        },
+        {
+          "title": "A股算力租赁概念探底回升，网宿科技涨超17%，行云科技涨超10%，数据港、奥飞数据、利通电子跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "A股稀土永磁概念早盘震荡走强，中国稀土逼近涨停，中稀有色、九菱科技、中科磁业、北方稀土跟涨。",
@@ -528,6 +594,17 @@
           "time_info": "10时20分"
         },
         {
+          "title": "创业板指午后翻绿，此前一度涨超1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3149498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "上证指数开盘报3930.02点，涨0.08%。 深证成指开盘报14335.41点，涨0.32%。 创业板指开盘报3610.19点，涨0.67%。 沪深300开盘报4672.98点，涨0.19%。 科创50开盘报1738.82点，涨1.23%。 中证500开盘报7989.65点，涨0.27%。 中证1000开盘报7750.99点，涨0.45%。",
           "url": "https://wallstreetcn.com/livenews/3149407",
           "source": "华尔街见闻-快讯",
@@ -594,13 +671,24 @@
           "time_info": "10时20分"
         },
         {
+          "title": "A股银行板块午后震荡回暖，沪农商行涨超3%，上海银行、苏州银行、渝农商行等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260814132857845800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "上证指数早盘收报3918.65点，跌0.21%。 深证成指早盘收报14300.46点，涨0.08%。 创业板指早盘收报3609.50点，涨0.65%。 沪深300早盘收报4658.48点，跌0.12%。 科创50早盘收报1707.94点，跌0.57%。 中证500早盘收报7949.45点，跌0.24%。 中证1000早盘收报7730.05点，涨0.18%。",
           "url": "https://wallstreetcn.com/livenews/3149461",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -611,7 +699,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -647,12 +735,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时20分"
+        },
+        {
+          "title": "A股京投发展盘中跌停，上演天地板，成交额近10亿元。",
+          "url": "https://flash.jin10.com/detail/20260814131945322800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "创业板指午后转跌，早盘一度涨逾1%。",
+          "url": "https://flash.jin10.com/detail/20260814131717877800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -663,8 +773,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 12时52分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 14时19分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -676,8 +786,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 12时52分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 14时19分]"
         },
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -707,6 +817,22 @@
           "time_info": "[01时01分 ~ 12时52分]"
         },
         {
+          "title": "DeepSeek官方Agent发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            14,
+            5,
+            2,
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 14时19分]"
+        },
+        {
           "title": "DeepSeek Harness发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -722,21 +848,6 @@
           "time_info": "[01时01分 ~ 07时47分]"
         },
         {
-          "title": "DeepSeek官方Agent发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            14,
-            5,
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 10时20分]"
-        },
-        {
           "title": "DeepSeek API确认涨价",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20API%E7%A1%AE%E8%AE%A4%E6%B6%A8%E4%BB%B7",
           "source": "bilibili 热搜",
@@ -750,6 +861,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 06时49分]"
+        },
+        {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 14时19分]"
         },
         {
           "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
@@ -780,20 +905,6 @@
           "time_info": "[01时01分 ~ 07时47分]"
         },
         {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 12时52分]"
-        },
-        {
           "title": "一次看懂DeepSeek新模型",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
@@ -822,9 +933,43 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "深度解读DeepSeek Harness",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek%20Harness",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时47分 ~ 14时19分]"
+        },
+        {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -841,16 +986,16 @@
           "time_info": "[01时01分 ~ 05时52分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时47分 ~ 12时52分]"
+          "time_info": "[10时19分 ~ 14时19分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
@@ -865,18 +1010,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时03分 ~ 06时49分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时19分 ~ 12时52分]"
         },
         {
           "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
@@ -901,13 +1034,24 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
+          "title": "一个视频看懂DeepSeek Harness",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
           "title": "金山办公“灵犀”接入DeepSeek-V4-Pro正式版，已向用户开放",
           "url": "https://wallstreetcn.com/livenews/3149467",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -929,7 +1073,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         }
@@ -1114,8 +1258,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时49分 ~ 12时52分]"
+          "appearance_count": 6,
+          "time_info": "[06时49分 ~ 14时19分]"
         },
         {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股盘中）",
