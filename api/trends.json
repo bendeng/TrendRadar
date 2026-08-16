@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T15:35:53.574258+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-08-16T17:32:21.620697+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 15时35分]"
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 17时32分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -26,11 +26,24 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 17时32分]"
+        },
+        {
+          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
+          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "source": "凤凰网",
+          "ranks": [
+            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 15时35分]"
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 17时32分]"
         },
         {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
@@ -44,16 +57,15 @@
           "time_info": "[01时24分 ~ 01时25分]"
         },
         {
-          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
-          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
-          "source": "凤凰网",
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            5
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 15时35分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 17时32分]"
         },
         {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
@@ -76,17 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 15时35分]"
         },
         {
           "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
@@ -132,11 +133,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 15时35分]"
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 17时32分]"
         },
         {
           "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
@@ -200,8 +202,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 15时35分]"
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 17时32分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -210,11 +212,12 @@
           "ranks": [
             11,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 15时35分]"
+          "appearance_count": 6,
+          "time_info": "[09时39分 ~ 17时32分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -224,11 +227,12 @@
             1,
             12,
             17,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时39分 ~ 15时35分]"
+          "appearance_count": 5,
+          "time_info": "[09时39分 ~ 17时32分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -239,8 +243,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 15时35分]"
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 17时32分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -289,11 +293,12 @@
           "ranks": [
             5,
             10,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时37分 ~ 15时35分]"
+          "appearance_count": 4,
+          "time_info": "[13时37分 ~ 17时32分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -335,8 +340,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 15时35分]"
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 17时32分]"
         },
         {
           "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
