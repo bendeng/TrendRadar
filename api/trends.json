@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T15:04:50.476888+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-08-17T17:48:48.277775+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时37分 ~ 15时04分]"
+          "appearance_count": 5,
+          "time_info": "[09时37分 ~ 17时48分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时37分 ~ 15时04分]"
+          "appearance_count": 5,
+          "time_info": "[09时37分 ~ 17时48分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -64,17 +64,6 @@
           "time_info": "[09时37分 ~ 13时39分]"
         },
         {
-          "title": "美国总统特朗普周一日程一览",
-          "url": "https://flash.jin10.com/detail/20260817092600312800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时37分"
-        },
-        {
           "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
           "url": "https://wallstreetcn.com/articles/3779545",
           "source": "华尔街见闻",
@@ -84,8 +73,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时37分 ~ 15时04分]"
+          "appearance_count": 5,
+          "time_info": "[09时37分 ~ 17时48分]"
+        },
+        {
+          "title": "美国总统特朗普周一日程一览",
+          "url": "https://flash.jin10.com/detail/20260817092600312800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时37分"
         },
         {
           "title": "特朗普发声后，韩国防部称韩美军演正按计划进行",
@@ -222,6 +222,18 @@
           "time_info": "[06时27分 ~ 07时25分]"
         },
         {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 17时48分]"
+        },
+        {
           "title": "埃及、约旦、阿联酋、卡塔尔、印度尼西亚、沙特阿拉伯、土耳其和巴基斯坦的联合声明称，以色列的拒绝态度威胁到特朗普为结束加沙战争所作的加大力度的努力。",
           "url": "https://flash.jin10.com/detail/20260816235052320800",
           "source": "金十数据",
@@ -272,18 +284,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时27分]"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 15时04分]"
         },
         {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳和加沙和平事务高级特使姆拉迪诺夫坚持要求哈马斯交出武器并拆除其基础设施。",
@@ -397,7 +397,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -449,7 +449,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "A股将逐步迎来“金秋行情”？投资主线有哪些？十大券商策略来了",
@@ -561,13 +561,35 @@
           "time_info": "[12时49分 ~ 13时39分]"
         },
         {
+          "title": "A股牛终于来了吗",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%89%9B%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%E5%90%97%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
+        },
+        {
+          "title": "创业板涨超3%，芯片半导体爆发、长鑫爆拉超12%，贵州茅台逆势跌超3%，恒指、恒科指均涨超1%",
+          "url": "https://wallstreetcn.com/articles/3779568",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
+        },
+        {
           "title": "创业板指尾盘涨超3%，深证成指涨2.3%，沪指涨1.3%，全市场超4200只个股上涨，芯片股走强，先进封装、CPO概念、光纤概念涨幅居前。",
           "url": "https://flash.jin10.com/detail/20260817144756457800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -581,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨超3%，全市场逾百股涨停，半导体、算力硬件等科技赛道爆发",
+          "url": "https://www.cls.cn/detail/2456053",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         },
         {
           "title": "A股年内最贵新股要来了",
@@ -611,7 +644,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         },
@@ -658,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "A股放量反弹 做多情绪全面回暖",
+          "url": "https://www.toutiao.com/trending/7674606352588816390/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         },
         {
           "title": "深成指、创业板指均涨超1%，科创50涨超3%，沪指涨0.61%，农业、半导体芯片、算力硬件等方向涨幅居前，沪深京三市上涨个股近3100只。",
@@ -718,11 +762,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 15时04分]"
+          "appearance_count": 3,
+          "time_info": "[13时39分 ~ 17时48分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -866,7 +911,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         }
@@ -908,7 +953,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
         }
